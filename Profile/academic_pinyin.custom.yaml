@@ -1,0 +1,11 @@
+# Personal mixed terms join the normal menu only on a complete listed spelling.
+patch:
+  "engine/translators/+":
+    - table_translator@personal_mixed
+  personal_mixed:
+    dictionary: ""
+    user_dict: en_dicts/personal_mixed
+    db_class: stabledb
+    enable_completion: false
+    enable_sentence: false
+    initial_quality: 90

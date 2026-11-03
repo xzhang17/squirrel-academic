@@ -1,0 +1,12 @@
+schema:
+  schema_id: extended_mixed
+  name: 扩展词库中英混输
+  version: "1.0"
+
+speller:
+  __include: extended_lookup.schema:/speller
+
+translator:
+  dictionary: extended_mixed
+  prism: extended_mixed
+  enable_user_dict: false

@@ -1,0 +1,520 @@
+# Generated from Rime Ice en_dicts/cn_en.txt for the separate lookup.
+---
+name: lookup_mixed
+version: "1.0"
+sort: by_weight
+...
+X光	x guang	100
+X光片	x guang pian	100
+X射线	x she xian	100
+X刀	x dao	100
+T恤	t xu	100
+T恤衫	t xu shan	100
+AD钙奶	ad gai nai	100
+UU加速器	uu jia su qi	100
+Cinity厅	cinity ting	100
+Eul的神圣法杖	eul de shen sheng fa zhang	100
+A杖	a zhang	100
+红Buff	hong buff	100
+蓝Buff	lan buff	100
+老Baby	lao baby	100
+小Baby	xiao baby	100
+艾AA	ai aa	100
+U盘	u pan	100
+U盾	u dun	100
+B站	b zhan	100
+V站	v zhan	100
+P站	p zhan	100
+大V	da v	100
+Q币	q bi	100
+QQ号	qq hao	100
+QQ号码	qq hao ma	100
+QQ空间	qq kong jian	100
+QQ群	qq qun	100
+QQ邮箱	qq you xiang	100
+QQ音乐	qq yin yue	100
+QQ拼音	qq pin yin	100
+QQ会员	qq hui yuan	100
+QQ好友	qq hao you	100
+QQ输入法	qq shu ru fa	100
+QQ游戏	qq you xi	100
+QQ游戏大厅	qq you xi da ting	100
+QQ飞车	qq fei che	100
+QQ三国	qq san guo	100
+QQ音速	qq yin su	100
+QQ秀	qq xiu	100
+QQ堂	qq tang	100
+Dock栏	dock lan	100
+阿Q精神	a q jing shen	100
+Win版	win ban	100
+Win版本	win ban ben	100
+Windows版	windows ban	100
+Windows版本	windows ban ben	100
+Mac版	mac ban	100
+Mac版本	mac ban ben	100
+macOS版	macos ban	100
+macOS版本	macos ban ben	100
+iOS版	ios ban	100
+iOS版本	ios ban ben	100
+Android版	android ban	100
+Android版本	android ban ben	100
+Web版	web ban	100
+Web版本	web ban ben	100
+PC端	pc duan	100
+Win端	win duan	100
+Windows端	windows duan	100
+Mac端	mac duan	100
+macOS端	macos duan	100
+Web端	web duan	100
+iOS端	ios duan	100
+Android端	android duan	100
+e招贷	e zhao dai	100
+G胖	g pang	100
+Up主	up zhu	100
+BOSS直聘	boss zhi pin	100
+P社	p she	100
+V社	v she	100
+Go语言	go yu yan	100
+Go圣经	go sheng jing	100
+Go程	go cheng	100
+维生素A	wei sheng su a	100
+维生素B	wei sheng su b	100
+维生素C	wei sheng su c	100
+维生素D	wei sheng su d	100
+维生素E	wei sheng su e	100
+维生素K	wei sheng su k	100
+维A	wei a	100
+维B	wei b	100
+维C	wei c	100
+维D	wei d	100
+维E	wei e	100
+维K	wei k	100
+维A酸	wei a suan	100
+异维A酸	yi wei a suan	100
+维E乳	wei e ru	100
+维生素E乳	wei sheng su e ru	100
+阿Q	a q	100
+阿Q正传	a q zheng zhuan	100
+逗B	dou b	100
+哆啦A梦	duo la a meng	100
+二B	er b	100
+卡拉OK	ka la ok	100
+牛B	niu b	100
+三K党	san k dang	100
+傻B	sha b	100
+傻X	sha x	100
+智能ABC	zhi neng abc	100
+智能ABC双拼	zhi neng abc shuang pin	100
+智能ABC双拼方案	zhi neng abc shuang pin fang an	100
+智能ABC输入法	zhi neng abc shu ru fa	100
+装B	zhuang b	100
+A股	a gu	100
+B股	b gu	100
+H股	h gu	100
+N股	n gu	100
+S股	s gu	100
+A盘	a pan	100
+A片	a pian	100
+AA制	aa zhi	100
+ATM机	atm ji	100
+B超	b chao	100
+B型超声波	b xing chao sheng bo	100
+B淋巴细胞	b lin ba xi bao	100
+B级片	b ji pian	100
+B盘	b pan	100
+B细胞	b xi bao	100
+C盘	c pan	100
+C语言	c yu yan	100
+R语言	r yu yan	100
+D盘	d pan	100
+E盘	e pan	100
+F盘	f pan	100
+G点	g dian	100
+G盘	g pan	100
+IP地址	ip di zhi	100
+IP电话	ip dian hua	100
+IP卡	ip ka	100
+J盘	j pan	100
+K宝	k bao	100
+K粉	k fen	100
+K歌	k ge	100
+K歌王	k ge wang	100
+K歌之王	k ge zhi wang	100
+K金	k jin	100
+POS机	pos ji	100
+SIM卡	sim ka	100
+T淋巴细胞	t lin ba xi bao	100
+T细胞	t xi bao	100
+T型台	t xing tai	100
+S形	s xing	100
+U形	u xing	100
+U形管	u xing guan	100
+U型锁	u xing suo	100
+UIM卡	uim ka	100
+USIM卡	usim ka	100
+X染色体	x ran se ti	100
+Y染色体	y ran se ti	100
+Beta版	beta ban	100
+Beta版本	beta ban ben	100
+AV女优	av nv you	100
+X档案	x dang an	100
+X战警	x zhan jing	100
+X教授	x jiao shou	100
+YY语音	yy yu yin	100
+A4纸	a si zhi	100
+A4腰	a si yao	100
+N多	n duo	100
+N多个	n duo ge	100
+N多人	n duo ren	100
+N次	n ci	100
+N遍	n bian	100
+蒙奇·D·路飞	meng qi d lu fei	100
+蒙奇·D·龙	meng qi d long	100
+哥尔·D·罗杰	ge er d luo jie	100
+马歇尔·D·蒂奇	ma xie er d di qi	100
+蒙奇·D·卡普	meng qi d ka pu	100
+波特卡斯·D·艾斯	bo te ka si d ai si	100
+特拉法尔加·D·瓦铁尔·罗	te la fa er jia d wa tie er luo	100
+X·德雷克	x de lei ke	100
+D之国	d zhi guo	100
+D之一族	d zhi yi zu	100
+周刊少年Jump	zhou kan shao nian jump	100
+藤子·F·不二雄	teng zi f bu er xiong	100
+藤子不二雄A	teng zi bu er xiong a	100
+我叫MT	wo jiao mt	100
+谜拟Q	mi ni q	100
+多边兽Z	duo bian shou z	100
+PC版	pc ban	100
+PC版本	pc ban ben	100
+A塔	a ta	100
+平A	ping a	100
+C罗	c luo	100
+IE浏览器	ie liu lan qi	100
+A壳	a ke	100
+B壳	b ke	100
+C壳	c ke	100
+D壳	d ke	100
+A面	a mian	100
+B面	b mian	100
+C面	c mian	100
+D面	d mian	100
+Server酱	server jiang	100
+P图	p tu	100
+P个图	p ge tu	100
+P一下	p yi xia	100
+芭比Q	ba bi q	100
+芭比Q了	ba bi q le	100
+PIN码	pin ma	100
+PUK码	puk ma	100
+关底BOSS	guan di boss	100
+ASCII码	ascii ma	100
+江南Style	jiang nan style	100
+头文字D	tou wen zi d	100
+三无Marblue	san wu marblue	100
+A罩杯	a zhao bei	100
+B罩杯	b zhao bei	100
+C罩杯	c zhao bei	100
+D罩杯	d zhao bei	100
+E罩杯	e zhao bei	100
+F罩杯	f zhao bei	100
+G罩杯	g zhao bei	100
+H罩杯	h zhao bei	100
+A罩	a zhao	100
+B罩	b zhao	100
+C罩	c zhao	100
+D罩	d zhao	100
+E罩	e zhao	100
+F罩	f zhao	100
+G罩	g zhao	100
+H罩	h zhao	100
+A杯	a bei	100
+B杯	b bei	100
+C杯	c bei	100
+D杯	d bei	100
+E杯	e bei	100
+F杯	f bei	100
+G杯	g bei	100
+H杯	h bei	100
+TV版	tv ban	100
+TV版本	tv ban ben	100
+芒果TV	mang guo tv	100
+V字仇杀队	v zi chou sha dui	100
+V怪客	v guai ke	100
+V煞	v sha	100
+Q弹	q tan	100
+Steam云	steam yun	100
+M系列	m xi lie	100
+阿Sir	a sir	100
+Pro版	pro ban	100
+Pro版本	pro ban ben	100
+Lite版	lite ban	100
+Lite版本	lite ban ben	100
+Papi酱	papi jiang	100
+MAC地址	mac di zhi	100
+DNS劫持	dns jie chi	100
+DNS污染	dns wu ran	100
+腾讯QQ	teng xun qq	100
+公网IP	gong wang ip	100
+Web开发	web kai fa	100
+Switch版	switch ban	100
+Switch版本	switch ban ben	100
+A型血	a xing xue	100
+A血型	a xue xing	100
+B型血	b xing xue	100
+B血型	b xue xing	100
+AB型	ab xing	100
+AB型血	ab xing xue	100
+AB血型	ab xue xing	100
+O型	o xing	100
+O型血	o xing xue	100
+O血型	o xue xing	100
+ABO血型系统	abo xue xing xi tong	100
+Rh阳性血	rh yang xing xue	100
+Rh阳性血型	rh yang xing xue xing	100
+Rh阴性血	rh yin xing xue	100
+Rh阴性血型	rh yin xing xue xing	100
+Rh血型系统	rh xue xing xi tong	100
+IT界	it jie	100
+Fn键	fn jian	100
+Cmd键	cmd jian	100
+Command键	command jian	100
+Ctrl键	ctrl jian	100
+Control键	control jian	100
+Opt键	opt jian	100
+Option键	option jian	100
+Shift键	shift jian	100
+Tab键	tab jian	100
+Caps键	caps jian	100
+CapsLock键	capslock jian	100
+Return键	return jian	100
+Enter键	enter jian	100
+Space键	space jian	100
+Backspace键	backspace jian	100
+Del键	del jian	100
+Delete键	delete jian	100
+Esc键	esc jian	100
+Eject键	eject jian	100
+ICP备案	icp bei an	100
+啥bug	sha bug	100
+有bug	you bug	100
+没bug	mei bug	100
+没有bug	mei you bug	100
+卡bug	ka bug	100
+提bug	ti bug	100
+写bug	xie bug	100
+改bug	gai bug	100
+查bug	cha bug	100
+找bug	zhao bug	100
+J.K.罗琳	j k luo lin	100
+J.R.R.托尔金	j r r tuo er jin	100
+乔治·R.R.马丁	qiao zhi r r ma ding	100
+T.S.艾略特	t s ai lve te	100
+互fo	hu fo	100
+减CD	jian cd	100
+随身Wi-Fi	sui shen wi fi	100
+TG群	tg qun	100
+Telegram群	telegram qun	100
+Wi-Fi密码	wi fi mi ma	100
+pH值	ph zhi	100
+PN结	pn jie	100
+P型半导体	p xing ban dao ti	100
+N型半导体	n xing ban dao ti	100
+G谱号	g pu hao	100
+F谱号	f pu hao	100
+C谱号	c pu hao	100
+A级	a ji	100
+B级	b ji	100
+C级	c ji	100
+D级	d ji	100
+S级	s ji	100
+拍CT	pai ct	100
+CT检查	ct jian cha	100
+CNC加工	cnc jia gong	100
+DNA检测	dna jian ce	100
+DoS攻击	dos gong ji	100
+DDoS攻击	ddos gong ji	100
+PVC管	pvc guan	100
+N卡	n ka	100
+A卡	a ka	100
+M码	m ma	100
+S码	s ma	100
+L码	l ma	100
+Q我	q wo	100
+R级	r ji	100
+A区	a qu	100
+B区	b qu	100
+C区	c qu	100
+D区	d qu	100
+E区	e qu	100
+F区	f qu	100
+A组	a zu	100
+B组	b zu	100
+C组	c zu	100
+D组	d zu	100
+E组	e zu	100
+F组	f zu	100
+B哥	b ge	100
+Q版	q ban	100
+A班	a ban	100
+B班	b ban	100
+C班	c ban	100
+D班	d ban	100
+老K	lao k	100
+加Q	jia q	100
+加QQ	jia qq	100
+A座	a zuo	100
+B座	b zuo	100
+C座	c zuo	100
+D座	d zuo	100
+E座	e zuo	100
+F座	f zuo	100
+H版	h ban	100
+A口	a kou	100
+B口	b kou	100
+C口	c kou	100
+D口	d kou	100
+E口	e kou	100
+F口	f kou	100
+A出口	a chu kou	100
+B出口	b chu kou	100
+C出口	c chu kou	100
+D出口	d chu kou	100
+E出口	e chu kou	100
+F出口	f chu kou	100
+A楼	a lou	100
+B楼	b lou	100
+C楼	c lou	100
+D楼	d lou	100
+E楼	e lou	100
+F楼	f lou	100
+A型号	a xing hao	100
+B型号	b xing hao	100
+C型号	c xing hao	100
+D型号	d xing hao	100
+E型号	e xing hao	100
+F型号	f xing hao	100
+A型	a xing	100
+B型	b xing	100
+C型	c xing	100
+D型	d xing	100
+E型	e xing	100
+F型	f xing	100
+A款	a kuan	100
+B款	b kuan	100
+C款	c kuan	100
+D款	d kuan	100
+E款	e kuan	100
+F款	f kuan	100
+A栋	a dong	100
+B栋	b dong	100
+C栋	c dong	100
+D栋	d dong	100
+E栋	e dong	100
+F栋	f dong	100
+X轴	x zhou	100
+Y轴	y zhou	100
+Z轴	z zhou	100
+V领	v ling	100
+V字领	v zi ling	100
+V字形	v zi xing	100
+IT业	it ye	100
+IT行业	it hang ye	100
+K线	k xian	100
+K线图	k xian tu	100
+日K线	ri k xian	100
+周K线	zhou k xian	100
+月K线	yue k xian	100
+T台	t tai	100
+TF卡	tf ka	100
+SD卡	sd ka	100
+N年	n nian	100
+A点	a dian	100
+B点	b dian	100
+A屏	a ping	100
+BB机	bb ji	100
+BP机	bp ji	100
+做B超	zuo b chao	100
+DJ版	dj ban	100
+唱K	chang k	100
+PK赛	pk sai	100
+A和B	a he b	100
+X和Y	x he y	100
+查IP	cha ip	100
+封IP	feng ip	100
+换IP	huan ip	100
+VIP卡	vip ka	100
+VIP会员	vip hui yuan	100
+AAA级	aaa ji	100
+第N次	di n ci	100
+发EMS	fa ems	100
+DVD版	dvd ban	100
+USB线	usb xian	100
+USB口	usb kou	100
+USB接口	usb jie kou	100
+lambda演算	lambda yan suan	100
+nabla算子	nabla suan zi	100
+i次方	i ci fang	100
+i次幂	i ci mi	100
+n次方	n ci fang	100
+n次幂	n ci mi	100
+p进数	p jin shu	100
+p进数域	p jin shu yu	100
+Z变换	z bian huan	100
+逆Z变换	ni z bian huan	100
+Z逆变换	z ni bian huan	100
+单边Z变换	dan bian z bian huan	100
+双边Z变换	shuang bian z bian huan	100
+Ⅰ型错误	yi xing cuo wu	100
+Ⅱ型错误	er xing cuo wu	100
+P波	p bo	100
+S波	s bo	100
+S曲线	s qu xian	100
+DJ舞曲	dj wu qu	100
+充Q币	chong q bi	100
+Chromium系	chromium xi	100
+Chrome系	chrome xi	100
+4S店	si s dian	100
+TF版	tf ban	100
+TF版本	tf ban ben	100
+人均GDP	ren jun gdp	100
+V8引擎	v ba yin qing	100
+4A级	si a ji	100
+5A级	wu a ji	100
+2G网络	er g wang luo	100
+3G网络	san g wang luo	100
+4G网络	si g wang luo	100
+5G网络	wu g wang luo	100
+3G流量	san g liu liang	100
+4G流量	si g liu liang	100
+5G流量	wu g liu liang	100
+3D打印	san d da yin	100
+2D电影	er d dian ying	100
+3D电影	san d dian ying	100
+3C认证	san c ren zheng	100
+2B铅笔	er b qian bi	100
+HB铅笔	hb qian bi	100
+AA吧	aa ba	100
+Big胆	big dan	100
+O不OK	o bu ok	100
+OK啊	ok a	100
+OK啦	ok la	100
+OK了	ok le	100
+OK了吗	ok le ma	100
+OK吗	ok ma	100
+OK嘛	ok ma	100
+OK么	ok me	100
+OK呀	ok ya	100
+OK不	ok bu	100
+不OK	bu ok	100
+很OK	hen ok	100
+就OK	jiu ok	100
+我OK啊	wo ok a	100
+开party	kai party	100
+立Flag	li flag	100
+喊cut	han cut	100
+炒CP	chao cp	100
+嗑CP	ke cp	100
+VIP中P	vip zhong p	100
+city不city	city bu city	100
+打call	da call	100
+hold住	hold zhu	100

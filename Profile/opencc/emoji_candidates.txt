@@ -1,0 +1,6582 @@
+# Rime Ice; Unicode CLDR 46 Chinese annotations; Unicode Emoji 17.0 sequences, © 2025 Unicode, Inc.
+# Columns: full pinyin, Chinese word, ordered Unicode emoji separated by spaces.
+# UNICODE LICENSE V3
+# 
+# COPYRIGHT AND PERMISSION NOTICE
+# 
+# Copyright © 2004-2024 Unicode, Inc.
+# 
+# NOTICE TO USER: Carefully read the following legal agreement. BY
+# DOWNLOADING, INSTALLING, COPYING OR OTHERWISE USING DATA FILES, AND/OR
+# SOFTWARE, YOU UNEQUIVOCALLY ACCEPT, AND AGREE TO BE BOUND BY, ALL OF THE
+# TERMS AND CONDITIONS OF THIS AGREEMENT. IF YOU DO NOT AGREE, DO NOT
+# DOWNLOAD, INSTALL, COPY, DISTRIBUTE OR USE THE DATA FILES OR SOFTWARE.
+# 
+# Permission is hereby granted, free of charge, to any person obtaining a
+# copy of data files and any associated documentation (the "Data Files") or
+# software and any associated documentation (the "Software") to deal in the
+# Data Files or Software without restriction, including without limitation
+# the rights to use, copy, modify, merge, publish, distribute, and/or sell
+# copies of the Data Files or Software, and to permit persons to whom the
+# Data Files or Software are furnished to do so, provided that either (a)
+# this copyright and permission notice appear with all copies of the Data
+# Files or Software, or (b) this copyright and permission notice appear in
+# associated Documentation.
+# 
+# THE DATA FILES AND SOFTWARE ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
+# KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+# MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF
+# THIRD PARTY RIGHTS.
+# 
+# IN NO EVENT SHALL THE COPYRIGHT HOLDER OR HOLDERS INCLUDED IN THIS NOTICE
+# BE LIABLE FOR ANY CLAIM, OR ANY SPECIAL INDIRECT OR CONSEQUENTIAL DAMAGES,
+# OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS,
+# WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION,
+# ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THE DATA
+# FILES OR SOFTWARE.
+# 
+# Except as contained in this notice, the name of a copyright holder shall
+# not be used in advertising or otherwise to promote the sale, use or other
+# dealings in these Data Files or Software without prior written
+# authorization of the copyright holder.
+# 
+# SPDX-License-Identifier: Unicode-3.0
+a	啊	😦 😲 😧
+a er ba ni ya	阿尔巴尼亚	🇦🇱
+a er ba ni ya gong he guo	阿尔巴尼亚共和国	🇦🇱
+a er ji li ya	阿尔及利亚	🇩🇿
+a er ji li ya min zhu ren min gong he guo	阿尔及利亚民主人民共和国	🇩🇿
+a fu han	阿富汗	🇦🇫
+a gen ting	阿根廷	🇦🇷
+a gen ting gong he guo	阿根廷共和国	🇦🇷
+a he wei nan ma	阿赫韦南马	🇦🇽
+a la bo	阿拉伯	🇦🇪
+a la bo lian he qiu zhang guo	阿拉伯联合酋长国	🇦🇪
+a la bo xu li ya gong he guo	阿拉伯叙利亚共和国	🇸🇾
+a la ding	阿拉丁	🧞‍♂️ 🧞‍♀️
+a la ding shen deng	阿拉丁神灯	🧞‍♂️ 🧞‍♀️
+a lu ba	阿鲁巴	🇦🇼
+a man	阿曼	🇴🇲
+a man su dan guo	阿曼苏丹国	🇴🇲
+a mi ba	阿米巴	🦠
+a sai bai jiang	阿塞拜疆	🇦🇿
+a sai bai jiang gong he guo	阿塞拜疆共和国	🇦🇿
+a sen song	阿森松	🇦🇨
+a sen song dao	阿森松岛	🇦🇨
+a si ke le bi e si	阿斯克勒庇俄斯	⚕️
+ai	唉	😮‍💨
+ai	爱	❤️
+ai de li wu	爱的礼物	💝
+ai er lan	爱尔兰	🇮🇪
+ai er lan gong he guo	爱尔兰共和国	🇮🇪
+ai huo	爱火	❤️‍🔥
+ai ji	埃及	🇪🇬
+ai kai wan xiao	爱开玩笑	🦦
+ai mu	爱慕	🥰
+ai ni	爱你	🤟 🫶
+ai ni de shou shi	爱你的手势	🤟
+ai ni shou shi	爱你手势	🤟
+ai qing	爱情	💓 💕 👩‍❤️‍👨 💘
+ai qing bin guan	爱情宾馆	🏩
+ai qing jiu dian	爱情酒店	🏩
+ai qing lv dian	爱情旅店	🏩
+ai qing lv guan	爱情旅馆	🏩
+ai sai e bi ya	埃塞俄比亚	🇪🇹
+ai sai e bi ya lian bang min zhu gong he guo	埃塞俄比亚联邦民主共和国	🇪🇹
+ai sha ni ya	爱沙尼亚	🇪🇪
+ai sha ni ya gong he guo	爱沙尼亚共和国	🇪🇪
+ai shang	哀伤	😢
+ai xin	爱心	❤️ 💖
+ai xin huan rao	爱心环绕	🥰
+ai ya	哎呀	🤭 😵‍💫
+ai yo	哎哟	🪼
+ai you	哎哟	🪼
+an ba	安巴	🇦🇬
+an dao er	安道尔	🇦🇩
+an dao er gong guo	安道尔公国	🇦🇩
+an ding	按钉	📌
+an ge la	安哥拉	🇦🇴
+an ge la gong he guo	安哥拉共和国	🇦🇴
+an gui la	安圭拉	🇦🇮
+an hui	暗灰	🩶
+an jian	安检	🛂
+an jing	安静	🤫 😶 🔇 🔕
+an jing de lian	安静的脸	🤫
+an mo	按摩	💆 💆‍♂️ 💆‍♀️
+an niu	按钮	☑️ 🔘
+an quan	安全	🫆 🛟 🦺 🔐 🪪 🚸
+an quan bei xin	安全背心	🦺
+an quan bie zhen	安全别针	🧷
+an quan mao	安全帽	⛑️ 👷
+an shi	暗示	🎗️
+an ti gua he ba bu da	安提瓜和巴布达	🇦🇬
+an wei	安慰	🫂
+an xi	安息	🪦
+ang gui	昂贵	🫰
+ang shou kuo bu	昂首阔步	🚶 🚶‍➡️
+ao da li ya	澳大利亚	🇦🇺
+ao da li ya lian bang	澳大利亚联邦	🇦🇺
+ao di li	奥地利	🇦🇹
+ao di li gong he guo	奥地利共和国	🇦🇹
+ao hui	懊悔	🙇
+ao lan	奥兰	🇦🇽
+ao lan qun dao	奥兰群岛	🇦🇽
+ao man	傲慢	😤
+ao men	澳门	🇲🇴
+ao men te bie xing zheng qu	澳门特别行政区	🇲🇴
+ao mu	奥姆	🕉️
+ao mu fu hao	奥姆符号	🕉️
+ao xiang	翱翔	🪽 🪁
+ao ya di qiu yi	澳亚地球仪	🌏
+ao ye	熬夜	🫩
+ao zhou	澳洲	🌏 🇦🇺 🦘
+ao zhou di qiu yi	澳洲地球仪	🌏
+ao zhou ya zhou	澳洲亚洲	🌏
+ba	八	8️⃣
+ba ba	㞎㞎	💩
+ba ba	爸爸	👨
+ba ba	粑粑	💩
+ba ba duo si	巴巴多斯	🇧🇧
+ba bian xing	八边形	🛑
+ba bu ya xin ji nei ya	巴布亚新几内亚	🇵🇬
+ba bu ya xin ji nei ya du li guo	巴布亚新几内亚独立国	🇵🇬
+ba dian	八点	🕗
+ba dian ban	八点半	🕣
+ba dian zhong	八点钟	🕗
+ba fen yin fu	八分音符	🎵 🎶
+ba gua	八卦	💁
+ba ha ma	巴哈马	🇧🇸
+ba ha ma guo	巴哈马国	🇧🇸
+ba ji si tan	巴基斯坦	🇵🇰
+ba ji si tan yi si lan gong he guo	巴基斯坦伊斯兰共和国	🇵🇰
+ba jiao xing	八角形	🛑
+ba jiao xing	八角星	✴️
+ba jie	八戒	🐷
+ba la gui	巴拉圭	🇵🇾
+ba la gui gong he guo	巴拉圭共和国	🇵🇾
+ba le si tan ling tu	巴勒斯坦领土	🇵🇸
+ba lei	芭蕾	🧑‍🩰
+ba lei wu	芭蕾舞	🧑‍🩰
+ba lei wu xie	芭蕾舞鞋	🩰
+ba lin	巴林	🇧🇭
+ba lin wang guo	巴林王国	🇧🇭
+ba lun fu xing hao	八轮辐星号	✳️
+ba na ma	巴拿马	🇵🇦
+ba na ma gong he guo	巴拿马共和国	🇵🇦
+ba shi	巴士	🚌 🚍
+ba wang long	霸王龙	🦖
+ba xi	巴西	🇧🇷
+ba xi lian bang	巴西联邦	🇧🇷
+ba xi lian bang gong he guo	巴西联邦共和国	🇧🇷
+ba xin	靶心	🎯
+ba zhao yu	八爪鱼	🐙
+ba zhua yu	八爪鱼	🐙
+bai bai	拜拜	👋
+bai bian xian fang xing an niu	白边线方形按钮	🔳
+bai bian xian zheng fang xing an niu	白边线正方形按钮	🔳
+bai cai	白菜	🥬
+bai chi deng	白炽灯	💡
+bai da gua	白大褂	🥼
+bai da gua er	白大褂儿	🥼
+bai dian	白点	⚪
+bai e	白俄	🇧🇾
+bai e luo si	白俄罗斯	🇧🇾
+bai fa	白发	🦳 👨‍🦳 👩‍🦳
+bai fa nan	白发男	👨‍🦳
+bai fa nan ren	白发男人	👨‍🦳
+bai fa nan zi	白发男子	👨‍🦳
+bai fa nv	白发女	👩‍🦳
+bai fa nv ren	白发女人	👩‍🦳
+bai fa nv zi	白发女子	👩‍🦳
+bai fen bai	百分百	💯
+bai gan tan hao	白感叹号	❕
+bai he hua	百合花	⚜️
+bai he hua shi	百合花饰	⚜️
+bai hua	白花	💮
+bai huo gong si	百货公司	🏬
+bai huo shang dian	百货商店	🏬
+bai ji bing	百吉饼	🥯
+bai ji quan	百吉圈	🥯
+bai jin	拜金	🤑
+bai jin han gong	白金汉宫	💂
+bai jing tan hao	白惊叹号	❕
+bai kuang	白框	⬜
+bai ling	白领	🧑‍💼 👨‍💼 👩‍💼
+bai mu da	百慕大	🇧🇲
+bai qi	白旗	🏳️
+bai qi	白棋	⚪
+bai ri meng	白日梦	💭
+bai ri xiao yun	白日小云	🌤️
+bai se	白色	⚪ ⬜
+bai se da fang kuai	白色大方块	◾
+bai se de hua	白色的花	💮
+bai se de xin	白色的心	🤍
+bai se fang xing an niu	白色方形按钮	🔳
+bai se gan tan hao	白色感叹号	❕
+bai se jing tan hao	白色惊叹号	❕
+bai se qi zhi	白色旗帜	🏳️
+bai se qi zi	白色旗子	🏳️
+bai se tan hao	白色叹号	❕
+bai se tou fa	白色头发	👨‍🦳 👩‍🦳
+bai se wen hao	白色问号	❔
+bai se xiao fang kuai	白色小方块	▫️ ▪️
+bai se xin	白色心	🤍
+bai se zheng fang xing an niu	白色正方形按钮	🔳
+bai se zhong deng fang kuai	白色中等方块	◼️
+bai se zhong fang kuai	白色中方块	◻️ ◼️
+bai sha	白鲨	🦈
+bai shi zi an quan mao	白十字安全帽	⛑️
+bai shi zi tou kui	白十字头盔	⛑️
+bai shou	摆手	👋
+bai shou zhang	白手杖	🦯
+bai shu	白鼠	🐁
+bai tan hao	白叹号	❕
+bai tian e	白天鹅	🦢
+bai tuo	拜托	🙏 🥹
+bai wan	百万	💰
+bai wen hao	白问号	❔
+bai xian fang xing an niu	白线方形按钮	🔳
+bai xian zheng fang xing an niu	白线正方形按钮	🔳
+bai xin	白心	🤍
+bai yan	白眼	🙄
+bai yan er	白眼儿	🙄
+bai yang zuo	白羊座	♈
+bai yi	白衣	🥼
+bai zi	白子	⚪
+bai zi shi	摆姿势	🙆
+ban dian	斑点	🦒
+ban er xie	板儿鞋	👟
+ban er zhuan	板儿砖	🧱
+ban gong	办公	📁 📂
+ban gong lou	办公楼	🏢
+ban gong shi	办公室	💼
+ban gong shi zhi yuan	办公室职员	👨‍💼 👩‍💼
+ban li	板栗	🌰
+ban ma	斑马	🦓
+ban qiu	板球	🏏
+ban qiu pai	板球拍	🏏
+ban quan	版权	©️
+ban quan fu hao	版权符号	©️
+ban shen	半身	👤 👥
+ban shen xiang	半身像	👤 👥
+ban shou	扳手	🔧
+ban si bu huo	半死不活	🧟
+ban xie	板鞋	👟
+ban ye	半夜	🌃
+ban yun	搬运	🚛
+ban zhuan	搬砖	👷
+ban zhuan	板砖	🧱
+ban zhuo qin	班卓琴	🪕
+bang	棒	👍
+bang a	棒啊	👍
+bang bang	棒棒	👍
+bang bang da	棒棒哒	👍
+bang bang de	棒棒的	👍
+bang bang tang	棒棒糖	🍭
+bang qiu	棒球	⚾
+bang qiu mao	棒球帽	🧢
+bang wan	傍晚	🌆
+bang zhu	帮助	💁
+bao	豹	🐆
+bao bao	包包	👜
+bao bao	宝宝	🚼 👶
+bao bao	抱抱	🤗 🫂
+bao bei	宝贝	💏 👩‍❤️‍💋‍👨 👨‍❤️‍💋‍👨 👩‍❤️‍💋‍👩
+bao bing	刨冰	🍧
+bao bing	薄饼	🥞
+bao dao	报到	🛫
+bao dao	报道	📰
+bao die	暴跌	📉
+bao fa	爆发	🌋
+bao feng yu	暴风雨	⛈️
+bao gong tou	包工头	👷
+bao guo	包裹	📦
+bao hu	保护	🪬
+bao jia li ya	保加利亚	🇧🇬
+bao jia li ya gong he guo	保加利亚共和国	🇧🇬
+bao jian bing	薄煎饼	🥞
+bao jin	包紧	🧣
+bao jing	报警	🚔
+bao jing deng	报警灯	🚨
+bao la	爆辣	🥵
+bao ling qiu	保龄球	🎳
+bao ling qiu ping	保龄球瓶	🎳
+bao liu	保留	🈯
+bao long	暴龙	🦖
+bao mi	保密	🤐 ㊙️
+bao mi	苞米	🌽
+bao mi hua	爆米花	🍿
+bao mu	保姆	👩‍🍼 👨‍🍼 🧑‍🍼
+bao shi	宝石	💎
+bao tang	煲汤	🫕
+bao tou	爆头	🤯
+bao xiang	宝箱	🪎
+bao zai yi qi	抱在一起	🫂
+bao zang	宝藏	🪎
+bao zha	爆炸	💥
+bao zha nao	爆炸脑	🤯
+bao zha tou	爆炸头	🤯
+bao zhang	暴涨	📈
+bao zhi	报纸	📰
+bao zhi juan	报纸卷	🗞️
+bao zhu	爆竹	🧨
+bao zhuang	包装	🎁 🧳
+bao zhuang he	包装盒	🎁
+bao zi	豹子	🐆
+bei bao	背包	🎒 🥾
+bei chao xian	北朝鲜	🇰🇵
+bei guo	贝果	🥯
+bei han	北韩	🇰🇵
+bei ji	北极	🐻‍❄️
+bei ji xiong	北极熊	🐻‍❄️
+bei ji xiong lian	北极熊脸	🐻‍❄️
+bei ji xiong tou	北极熊头	🐻‍❄️
+bei ke	贝壳	🐚
+bei ma li ya na qun dao	北马里亚纳群岛	🇲🇵
+bei ma qi dun	北马其顿	🇲🇰
+bei ma qi dun gong he guo	北马其顿共和国	🇲🇰
+bei nang	背囊	🎒
+bei ning	贝宁	🇧🇯
+bei ning gong he guo	贝宁共和国	🇧🇯
+bei shang	悲伤	🥹
+bei wang	备忘	📝
+bei wang lu	备忘录	📝
+bei xin	背心	🦺
+bei zi	杯子	🥛
+ben ke sheng	本科生	👨‍🎓 👩‍🎓
+ben pao	奔跑	🏃 🏃‍➡️
+ben zi	本子	📓
+beng dai	绷带	🤕 🩹
+beng di	蹦迪	🪩
+beng zhe lian	绷着脸	😑
+bi	比	🆚
+bi	秘	㊙️
+bi	笔	🖊️
+bi	鼻	👃
+bi dian	笔电	💻
+bi hu	壁虎	🦎
+bi ji	笔记	📓
+bi ji ben	笔记本	📓 📔 📒
+bi ji ben dian nao	笔记本电脑	💻
+bi ji ni	比基尼	👙
+bi jian	笔尖	✒️ 🔏
+bi li shi	比利时	🇧🇪
+bi li shi wang guo	比利时王国	🇧🇪
+bi lu	秘鲁	🇵🇪
+bi lu gong he guo	秘鲁共和国	🇵🇪
+bi lu zhong	壁炉钟	🕰️
+bi qiu ni	比丘尼	🧘‍♀️
+bi sa	比萨	🍕
+bi sa bing	比萨饼	🍕
+bi sai	比赛	🆚 🏃‍♀️ 🐎 🏓 🥌 🏃‍♀️‍➡️
+bi shang yan jing	闭上眼睛	🙈
+bi shi	鄙视	😒
+bi shou	匕首	🗡️
+bi shua	笔刷	🖌️
+bi ti	鼻涕	🤧
+bi xin	比心	🫶 🫰
+bi xin shou shi	比心手势	🫰 🫶
+bi yan	闭眼	🙈 😚
+bi yan	鼻炎	🤧
+bi ye	毕业	👨‍🎓 👩‍🎓 🧑‍🎓 🎓
+bi ye mao	毕业帽	🎓
+bi ye sheng	毕业生	🧑‍🎓
+bi zhong zhi	比中指	🖕
+bi zi	鼻子	👃
+bi zi mao qi	鼻子冒气	😤
+bi zui	闭嘴	🤐
+bian bian	便便	💩 🪠
+bian dang	便当	🍱
+bian dang he	便当盒	🍱
+bian fu	蝙蝠	🦇
+bian fu xia	蝙蝠侠	🦸
+bian jian	便笺	📝
+bian li dian	便利店	🏪
+bian li shang dian	便利商店	🏪
+bian pao	鞭炮	🧨
+bian tiao	便条	📝
+bian xian	变现	💰
+bian xie	便携	💾
+bian xie	便鞋	🥿
+bian xing	变形	🫪
+bian xing	变性	⚧️
+bian xing chong	变形虫	🦠
+bian zhi	编织	🧶
+biao	表	⌚
+biao di	标的	🎯
+biao dian	标点	❓
+biao ji	标记	🏷️
+biao pai	标牌	🪧
+biao qian	标签	🏷️
+biao qian ye	标签页	📑
+biao qing	表情	🙍‍♂️ 🙎 🙎‍♂️
+biao yan	表演	🤹 🎭
+biao yan yi shu	表演艺术	🎭
+biao yang	表扬	👍
+biao yu	标语	🪧
+biao yu pai	标语牌	🪧
+biao zhi	标志	🛑 🪧 ➰ ➿ ™️
+bie kan	别看	🙈
+bie shu	别墅	🏡
+bie shuo hua	别说话	🤫
+bie zhen	别针	🧷
+bin guan	宾馆	🏨 🛌 🛏️
+bing	兵	♟️
+bing	冰	🧊
+bing	饼	🫓
+bing dao	冰刀	⛸️
+bing dao	冰岛	🇮🇸
+bing du	病毒	🦠 🦟
+bing gan	饼干	🍪
+bing hu	冰壶	🥌
+bing ji ling	冰激凌	🍦 🍨
+bing jun	病菌	🦠 😷
+bing kuai	冰块	🧊
+bing leng	冰冷	🥶 🧊
+bing qi lin	冰淇淋	🍨 🍦
+bing qiu	冰球	🏒
+bing rong	病容	🤮
+bing sha	冰沙	🍧
+bing shan	冰山	🧊
+bing shang liu shi	冰上溜石	🥌
+bing yan yan	病恹恹	🤮
+bing zhu	冰柱	🥶
+bo ba nai cha	波霸奶茶	🧋
+bo bing	薄饼	🥞
+bo che	泊车	🅿️
+bo ci wa na	博茨瓦纳	🇧🇼
+bo ci wa na gong he guo	博茨瓦纳共和国	🇧🇼
+bo dong	搏动	💗
+bo dong de xin	搏动的心	💗
+bo dou	搏斗	🤼 🤼‍♂️ 🤼‍♀️
+bo duo li ge	波多黎各	🇵🇷
+bo er yi ge	啵儿一个	😘
+bo fang	播放	▶️ ⏯️
+bo fang zan ting	播放暂停	⏯️
+bo hei	波黑	🇧🇦
+bo jian bing	薄煎饼	🥞
+bo lan	波兰	🇵🇱
+bo lan gong he guo	波兰共和国	🇵🇱
+bo lang	波浪	🌊 🏄
+bo lang gu	拨浪鼓	🪇
+bo lang xian	波浪线	〰️
+bo lang xing po zhe hao	波浪型破折号	〰️
+bo li	玻璃	👨‍❤️‍👨
+bo li bei	玻璃杯	🥃 🍸 🫗
+bo li ping	玻璃瓶	🫙
+bo li wei ya	玻利维亚	🇧🇴
+bo li wei ya guo	玻利维亚国	🇧🇴
+bo li zi	伯利兹	🇧🇿
+bo luo	菠萝	🍍
+bo sai dong	波塞冬	🔱
+bo si ju	波斯菊	🌼
+bo si ni ya he hei sai ge wei na	波斯尼亚和黑塞哥维那	🇧🇦
+bo wu guan	博物馆	🏛️ 🖼️ 🎨
+bo xing	跛行	🦵
+bo yi ge	啵一个	😘
+bu	不	🙅‍♂️ 🙅‍♀️
+bu an	不安	😨
+bu bang	不棒	👎
+bu cuo	不错	👍
+bu dan	不丹	🇧🇹
+bu dan wang guo	不丹王国	🇧🇹
+bu ding	布丁	🍮
+bu dong	不懂	😕
+bu dui	部队	🪖
+bu fu	不服	😒
+bu gan gou tong	不敢苟同	🙄
+bu gan kan	不敢看	🫣
+bu gan xiang xin	不敢相信	🫢
+bu gao	布告	🪧
+bu gao pai	布告牌	🪧
+bu gao xing	不高兴	😒 🙁
+bu guan xin	不关心	🤷‍♂️ 🤷‍♀️ 🤷
+bu hao	不好	👎
+bu hao yi si	不好意思	🙇‍♂️ 🙇‍♀️ 🙇
+bu ji	簿记	🧾
+bu ji li	不吉利	🐈‍⬛
+bu ji na fa suo	布基纳法索	🇧🇫
+bu jian	部件	🧩
+bu kai xin	不开心	🙁
+bu kan	不看	🙈
+bu ke neng	不可能	🤯 🙅
+bu ke yi	不可以	🙅‍♂️ 🙅‍♀️ 😲
+bu li jie	不理解	🤔
+bu long di	布隆迪	🇧🇮
+bu long di gong he guo	布隆迪共和国	🇧🇮
+bu man	不满	☹️ 🙁
+bu ming bai	不明白	🤔
+bu ming fei xing wu	不明飞行物	🛸
+bu neng shuo	不能说	🤐
+bu qiang	不强	👎
+bu que ding	不确定	🫤 😕
+bu ru	哺乳	🤱 👩‍🍼 👨‍🍼 🧑‍🍼
+bu ru de nan ren	哺乳的男人	👨‍🍼
+bu ru de nv ren	哺乳的女人	👩‍🍼
+bu ru dong wu	哺乳动物	🫎 🫏
+bu ru shi	哺乳室	🚼
+bu shou fei	不收费	🆓
+bu shu fu	不舒服	😣 🤮 🫦
+bu shu qi	捕鼠器	🪤
+bu shuang	不爽	☹️ 😤 😠 🤬 🙍
+bu shuo	不说	🤭 🤐 🙊
+bu si niao	不死鸟	🐦‍🔥
+bu ting	不听	🙉
+bu tong guo	不通过	🙅
+bu tong yi	不同意	🙅‍♂️ 🙅‍♀️
+bu wei dao	布韦岛	🇧🇻
+bu xiang xin	不相信	🫤
+bu xie	不屑	😕 😒
+bu xin ren	不信任	🤨
+bu xing	不行	🙅‍♂️ 🙅‍♀️ 🙅
+bu xiu	不朽	🐦‍🔥
+bu xu	不许	🚫
+bu yao shuo	不要说	🤐
+bu yu	哺育	👨‍🍼 🧑‍🍼
+bu yu	捕鱼	🦦
+bu yue	不悦	🙁
+bu yun xu	不允许	🙅
+bu zan cheng	不赞成	👎
+bu zan tong	不赞同	🤨
+bu zhi dao	不知道	🤷‍♂️ 🤷‍♀️ 🫴 🤷
+bu zhun	不准	🚫
+cai	踩	🦶
+cai bao	财宝	🏴‍☠️
+cai dai	彩带	🎉
+cai dao	菜刀	🔪
+cai fu	财富	🔮 🪙
+cai gou	采购	🛒
+cai hong	彩虹	🌈
+cai hong qi	彩虹旗	🏳️‍🌈
+cai jian	裁剪	🪡
+cai jiao	彩椒	🫑
+cai jiao	菜椒	🫑
+cai kuang	采矿	⛏️
+cai lan	菜篮	🧺
+cai lan zi	菜篮子	🧺
+cai mi	财迷	🤑
+cai se sui zhi	彩色碎纸	🎊
+cai yuan	菜园	🫜
+can guan	餐馆	🍢 🍧 🍬 🏮
+can ji	残疾	🩼 ♿
+can ji ren	残疾人	🦽
+can ju	餐具	🍽️
+can kui	惭愧	🙇
+can ting	餐厅	🍞 🍝
+can yue	残月	🌘 🌒
+can zhang	残障	♿
+cang bao xiang	藏宝箱	🪎
+cang shu	仓鼠	🐹
+cang shu lian	仓鼠脸	🐹
+cang shu tou	仓鼠头	🐹
+cang ying	苍蝇	🪰
+cao ben zhi wu	草本植物	🌿
+cao hua	草花	♣️
+cao kong gan	操控杆	🕹️
+cao mei	草莓	🍓
+cao ni ma	操你妈	🤬
+cao ni ma	肏你妈	🤬
+cao ni ma	草泥马	🦙
+cao wu	草屋	🛖
+cao yao	草药	🌿 🫚
+cao zong	操纵	🤹 🤹‍♂️
+ce liang	测量	📏 📐
+ce shou fan	侧手翻	🤸 🤸‍♂️ 🤸‍♀️
+ce suo	厕所	🚾 🚻
+cha	叉	❌ ❎
+cha	茶	🍵
+cha bei	茶杯	🍵
+cha cha	叉叉	❌ ❎
+cha gu	叉骨	🦴
+cha hao	叉号	❌
+cha hu	茶壶	🫖
+cha jin	差劲	👎
+cha shu	叉梳	🪮
+cha shui	茶水	🍵
+cha tou	插头	🔌
+cha xun	查询	ℹ️
+cha yin	茶饮	🧋
+cha zhao	查找	🔍 🔎
+chai you	柴油	⛽
+chan	铲	🪏
+chan beng dai	缠绷带	🤕
+chan dou	颤抖	🫨
+chan dou de lian	颤抖的脸	🫨
+chan jie	缠结	🪢
+chan man beng dai	缠满绷带	🤕
+chan pin	产品	™️
+chan rao	缠绕	🥨
+chan zi	铲子	🪏
+chang bi	长鼻	🤥
+chang bi zi	长鼻子	🤥
+chang di	长笛	🪈
+chang du	长度	📏
+chang ge	唱歌	🎤
+chang gu	长鼓	🪘
+chang gun mian bao	长棍面包	🥖
+chang hao	长号	🪊
+chang hu zi de nv ren	长胡子的女人	🧔‍♀️
+chang ji	场记	🎬
+chang ji ban	场记板	🎬
+chang jing lu	长颈鹿	🦒
+chang mao rong	长毛绒	🧸
+chang mao xiang	长毛象	🦣
+chang mian bao	长面包	🥖
+chang qing shu	常青树	🌲
+chang qun	长裙	👗
+chang suo	场所	🎦
+chang wa	长袜	🧦
+chang xue	长靴	👢
+chao du	超度	🙏
+chao feng	嘲讽	💁‍♂️
+chao ji da fan pai	超级大反派	🦹‍♂️ 🦹‍♀️
+chao ji la	超级辣	🥵
+chao ji ying xiong	超级英雄	🦸 🦸‍♂️ 🦸‍♀️
+chao ku	超酷	🆒
+chao la	超辣	🥵
+chao neng li	超能力	🦸 🦸‍♂️ 🦸‍♀️ 🦹 🦹‍♂️ 🦹‍♀️
+chao piao	钞票	💵 🫰 💴 💶 💷
+chao ren	超人	🦸‍♂️ 🦸‍♀️ 🦸
+chao shang	朝上	🫴
+chao shi	超市	🏬
+chao xia	朝下	🫳
+chao xian	朝鲜	🇰🇵
+chao xiao	嘲笑	😝
+chao you	朝右	🫱 🤜
+chao you de quan tou	朝右的拳头	🤜
+chao zi ran	超自然	🧛
+chao zuo	朝左	🫲 🤛
+chao zuo de dui hua qi pao	朝左的对话气泡	🗨️
+chao zuo de quan tou	朝左的拳头	🤛
+che	车	🚗
+che gu lu	车轱辘	🛞
+che liang	车辆	🚑 🚙 🛞
+che lun	车轮	🛞
+che lun zi	车轮子	🛞
+che piao	车票	🎫
+che zhan	车站	🚉
+chen mo	沉默	😶
+chen shan	衬衫	👕
+chen shan ling dai	衬衫领带	👔
+chen si	沉思	😔
+chen tu fei yang	尘土飞扬	🫯
+cheng	乘	✖️
+cheng bao	城堡	🏯 🏰
+cheng gong	成功	✌️
+cheng hao	乘号	✖️ ❎
+cheng nian nan ren	成年男人	👨
+cheng nian nan xing	成年男性	👨
+cheng nian nv ren	成年女人	👩
+cheng nian nv xing	成年女性	👩
+cheng ren	成人	🧑 🔞
+cheng san	撑伞	☂️ ☔
+cheng se	橙色	🟠 🟧 📙
+cheng se da ling xing	橙色大菱形	🔶
+cheng se de shu	橙色的书	📙
+cheng se de xin	橙色的心	🧡
+cheng se ling xing	橙色菱形	🔶
+cheng se shu ben	橙色书本	📙
+cheng se xiao ling xing	橙色小菱形	🔸
+cheng se xin	橙色心	🧡
+cheng shi	城市	🏙️ 🌆
+cheng shi feng guang	城市风光	🏙️
+cheng shi jing guan	城市景观	🏙️
+cheng xin	橙心	🧡
+cheng xu yuan	程序员	🧑‍💻 👨‍💻 👩‍💻
+cheng xue qiao	乘雪橇	🛷
+cheng zhang	成长	📈
+chi	匙	🥄
+chi bang	翅膀	🪽
+chi bang qian	翅膀钱	💸
+chi bi sa	吃比萨	🍕
+chi bi sa bing	吃比萨饼	🍕
+chi cheng	吃撑	🫃 🫄
+chi dao ji nei ya	赤道几内亚	🇬🇶
+chi fa	赤发	🦰
+chi fan	吃饭	🍴
+chi gua	吃瓜	🍉
+chi huan	迟缓	🦥
+chi jiao	赤脚	👣
+chi jiao zi lao hu	吃角子老虎	🎰
+chi jing	吃惊	😮 😯 😲 😦 😧
+chi lun	齿轮	⚙️
+chi mian	吃面	🍜
+chi piao ren	持票人	🐍
+chi rou	吃肉	🍖
+chi tang	吃糖	🍬
+chi yao	吃药	💊
+chi zao can	吃早餐	🍴
+chi zi	匙子	🥄
+chi zi	尺子	📏
+chong bai	崇拜	🤩 🛐
+chong ci	冲刺	🏃‍♀️ 🏃‍♀️‍➡️
+chong lang	冲浪	🏄 🏄‍♂️ 🏄‍♀️
+chong lang zhe	冲浪者	🏄‍♂️ 🏄‍♀️ 🏄
+chong man	充满	🫃 🫄
+chong pai	重拍	🆖
+chong pao	冲泡	🫖
+chong sheng	重生	🐦‍🔥
+chong wu	宠物	🐶 🐕 🐱 🐈 🐹 🐰
+chong xin zai ru	重新载入	🔃
+chong zi	虫子	🐛 🪲 🪳 🪰
+chou xiao ya	丑小鸭	🦢
+chou yan	抽烟	🚬 🚭
+chou you	臭鼬	🦨
+chu	除	➗
+chu dao	厨刀	🔪
+chu guo	出国	💱
+chu han	出汗	😅 🥵
+chu hao	除号	➗
+chu jing	出境	🛫
+chu ju	雏菊	🌼
+chu kou cheng zang	出口成脏	🤬
+chu leng han	出冷汗	😥
+chu nv zuo	处女座	♍
+chu quan	出拳	👊
+chu qun	畜群	🦬
+chu ru kou	出入口	🚪
+chu sheng	出生	🐣
+chu shi	厨师	🧑‍🍳 👨‍🍳 👩‍🍳
+chu shou	触手	🪼
+chu tou	锄头	⛏️
+chu wu gui	储物柜	🛅
+chu zu che	出租车	🚕 🚖
+chuai zi	搋子	🪠
+chuan	船	🚢
+chuan bo	传播	📰
+chuan chuan	串串	🍢
+chuan dong	传动	⚙️
+chuan hu ji	传呼机	📟
+chuan huan	传唤	👮
+chuan mao	船锚	⚓
+chuan zhen	传真	📠
+chuan zhen ji	传真机	📠
+chuang	床	🛏️
+chuang dian	床垫	🛏️
+chuang hu	窗户	🪟
+chuang ke tie	创可贴	🩹
+chuang kou	窗口	🪟
+chuang kou tie	创口贴	🩹
+chuang kuang	窗框	🪟
+chuang pu	床铺	🛏️
+chuang shang xiu xi	床上休息	🛌
+chuang yi	创意	🎨
+chui feng	吹风	🌬️
+chui fu	吹拂	🌬️
+chui kou qi	吹口气	🌬️
+chui qi	吹气	🌬️ 😮‍💨
+chui xian	垂涎	🤤
+chui xian san chi	垂涎三尺	🤤
+chui zi	锤子	🔨
+chui zi ban shou	锤子扳手	🛠️
+chui zi he ban shou	锤子和扳手	🛠️
+chui zi he gao	锤子和镐	⚒️
+chui zi yu ban shou	锤子与扳手	🛠️
+chui zi yu gao	锤子与镐	⚒️
+chui zou	吹奏	🎷 🎺
+chun	唇	💋 👄
+chun gao	唇膏	💄
+chun jie	纯洁	🪷
+chun tian	春天	🪻
+chun yin	唇印	💋
+ci chu	此处	🈁
+ci dai	磁带	📼
+ci ke	刺客	🥷
+ci li	磁力	🧲
+ci mao	刺毛	🪼
+ci pan	磁盘	💾
+ci shi	磁石	🧲
+ci tie	磁铁	🧲
+ci wei	刺猬	🦔
+ci xing	磁性	🧭 🧲
+ci xing	雌性	♀️ 🐑
+cong mang	匆忙	🏃 🏃‍➡️
+cong ming	聪明	🤓 🧠
+cong tou	葱头	🧅
+cu cheng hao	粗乘号	✖️
+cu chu hao	粗除号	➗
+cu deng hao	粗等号	🟰
+cu jia hao	粗加号	➕
+cu jian hao	粗减号	➖
+cu jiang cao	酢浆草	☘️
+cu mei yuan fu hao	粗美元符号	💲
+cu ti cheng hao	粗体乘号	✖️
+cu ti chu hao	粗体除号	➗
+cu ti deng hao	粗体等号	🟰
+cu ti jia hao	粗体加号	➕
+cu ti jian hao	粗体减号	➖
+cun chu	存储	💾 💿
+cun dang	存档	🗃️ 🗄️
+cuo	错	❌ ❎
+cuo hao	错号	❌ ❎
+cuo wu	错误	❌ ❎
+cuo zong fu za	错综复杂	🥨
+da an	答案	🟰
+da ba	大巴	🚌 🚍
+da bai sha	大白鲨	🦈
+da bai tu	大白兔	🐇
+da ban	打板	🎬
+da ban ya	大板牙	🦫
+da bao	打包	📦
+da bian	大便	💩
+da bing	大饼	🫓 🥙
+da bu lie dian ji bei ai er lan lian he wang guo	大不列颠及北爱尔兰联合王国	🇬🇧
+da cheng xie yi	达成协议	🤝
+da chu	大厨	👨‍🍳 👩‍🍳 🧑‍🍳
+da cuo	答错	❌ ❎
+da cuo le	答错了	❌ ❎
+da dian hua	打电话	🤙
+da dian hua gei wo	打电话给我	🤙
+da dou	大豆	🫛
+da dou	打斗	🫯 🥷
+da du zi	大肚子	🤰 🫃
+da dui	答对	⭕ ✅
+da dui gou	打对钩	☑️
+da dui le	答对了	⭕ ✅
+da e	大鹅	🪿
+da fan pai	大反派	🦹‍♂️ 🦹‍♀️ 🦹
+da fang kuai	大方块	◾ ◽
+da feng	大风	🌬️
+da fu	大夫	👨‍⚕️ 👩‍⚕️
+da gao er fu	打高尔夫	🏌️‍♂️ 🏌️‍♀️
+da gao er fu de ren	打高尔夫的人	🏌️ 🏌️‍♂️ 🏌️‍♀️
+da ge	打嗝	🫧
+da gei wo	打给我	🤙
+da gong ji	大公鸡	🐓
+da gou	打钩	☑️
+da gu	打鼓	🥁
+da gun	打滚	🤣
+da gun er	打滚儿	🤣
+da ha qian	打哈欠	🥱
+da he qian	打呵欠	🥱
+da hong deng long	大红灯笼	🏮
+da hong deng long gao gao gua	大红灯笼高高挂	🏮
+da hu	打呼	😴 💤
+da hu zi	大胡子	🧔
+da ji	打击	👊
+da ji yue qi	打击乐器	🪇
+da jia	打架	🤼 🤼‍♂️ 🤼‍♀️
+da jiao guai	大脚怪	🫈
+da jie	打结	🪢
+da ka che	大卡车	🚛
+da kai	打开	📖 📬 📂 🔓
+da kai de shu	打开的书	📖
+da kai de shu ben	打开的书本	📖
+da kai de suo	打开的锁	🔓
+da ke shui	打瞌睡	😪
+da ku	大哭	😭
+da la ba	大喇叭	📣
+da lan qiu	打篮球	⛹️‍♂️ ⛹️‍♀️
+da lang	大浪	🌊
+da lei	打雷	🌩️
+da ling xing	大菱形	🔶 🔷
+da luan	打乱	🔀
+da luo	大罗	⚽
+da men	大门	🚪
+da mi	大米	🍚
+da mi fan	大米饭	🍚
+da mie	打咩	🙅‍♂️ 🙅‍♀️
+da mo	达摩	☸️
+da mu zhi	大拇指	👍 👎
+da mu zhi chao shang	大拇指朝上	👍
+da mu zhi chao xia	大拇指朝下	👎
+da mu zhi xiang shang	大拇指向上	👍
+da mu zhi xiang xia	大拇指向下	👎
+da nao	大脑	🧠
+da nao bao zha	大脑爆炸	🤯
+da ni	打你	👊
+da pen ti	打喷嚏	🤧
+da qiao	大桥	🌉
+da qiu	打球	⛹️ 🏀
+da rao	打扰	🦡
+da san	打伞	☂️ ☔
+da sao	打扫	🧹
+da sha xi yang	大厦夕阳	🌇
+da shan ri chu	大山日出	🌄
+da sheng	大声	🔊 📢 📣
+da shou qiu	打手球	🤾‍♂️ 🤾‍♀️
+da shu	大叔	🧔
+da shu	大树	🌳
+da shu	大鼠	🐀
+da suan	大蒜	🧄
+da suan pan	打算盘	🧮
+da ti zi	搭梯子	🪜
+da tong	大桶	🪣
+da tou zhen	大头针	📍
+da tui	大腿	🦵
+da wang	大王	🃏
+da wei zhi xing	大卫之星	✡️
+da xia	大虾	🦐
+da xiang	大象	🐘
+da xiang zhi	打响指	🫰
+da xiang zi	大箱子	🧰
+da xiao	大笑	🤣 😂 😄
+da xiao wang	大小王	🃏
+da xie	大写	🔠
+da xie zi mu	大写字母	🔠
+da xing	大型	🦣
+da xing xing	大猩猩	🦍
+da xiong mao	大熊猫	🐼
+da xue sheng	大学生	👨‍🎓 👩‍🎓
+da yan	大眼	🤪
+da yan jing	大眼睛	🥺
+da ye niu	大野牛	🦬
+da yin	打印	🖨️
+da yin ji	打印机	🖨️
+da yin liang	大音量	🔊
+da yu	大雨	⛈️
+da zhao hu	打招呼	👋
+da zhe	打折	🈹
+da zhen	打针	💉
+da zheng fang xing	大正方形	◾ ◽
+da zi	打字	⌨️ 🔠 🔡 🔢 🔣 🔤
+da zi ran	大自然	🌋 🗻 🌅
+da zuo	打坐	🧘‍♂️ 🧘‍♀️
+dai bu	逮捕	👮 👮‍♀️
+dai dan pian yan jing de lian	戴单片眼镜的脸	🧐
+dai fu	大夫	👨‍⚕️ 👩‍⚕️
+dai gu rou	带骨肉	🍖
+dai gun qiu	袋棍球	🥍
+dai hu die jie de mao zi	带蝴蝶结的帽子	👒
+dai hua kuang de tu pian	带画框的图片	🖼️
+dai hua yuan de lou fang	带花园的楼房	🏡
+dai ji ka	贷记卡	💳
+dai juan bian de zhi	带卷边的纸	📃
+dai kou zhao	戴口罩	😷
+dai kuang de hua	带框的画	🖼️
+dai mo shui bi de suo	带墨水笔的锁	🔏
+dai shu	袋鼠	🦘
+dai tou jin	戴头巾	👳‍♂️ 👳‍♀️
+dai tou jin de ren	戴头巾的人	👳 👳‍♂️ 👳‍♀️
+dai tou sha de ren	戴头纱的人	👰 👰‍♀️
+dai wang	大王	🃏
+dai wang guan de ren	戴王冠的人	🫅
+dai xi guan bei	带吸管杯	🥤
+dai zhu ting qi de er duo	戴助听器的耳朵	🦻
+dan	蛋	🥚
+dan ban	单板	🏂
+dan ban hua xue	单板滑雪	🏂
+dan bing	蛋饼	🥞
+dan chao	蛋巢	🪺
+dan che	单车	🚲
+dan dan	蛋蛋	🥚
+dan du	单独	🔘
+dan feng	单峰	🐪
+dan feng luo tuo	单峰骆驼	🐪
+dan feng tuo	单峰驼	🐪
+dan gao	蛋糕	🎂 🍰
+dan gui	单轨	🚝
+dan gui tie lu	单轨铁路	🚝
+dan huan	单环	➰
+dan lan se de xin	淡蓝色的心	🩵
+dan lan se xin	淡蓝色心	🩵
+dan lan xin	淡蓝心	🩵
+dan mai	丹麦	🇩🇰
+dan nai gao	蛋奶糕	🍮
+dan pian yan jing	单片眼镜	🧐
+dan qin	单亲	🧑‍🧒 🧑‍🧒‍🧒
+dan qu xun huan	单曲循环	🔂
+dan she zhang	单蛇杖	⚕️
+dan she zhi zhang	单蛇之杖	⚕️
+dan xin	担心	😟
+dan xuan	单选	🔘
+dan xuan an niu	单选按钮	🔘
+dan xuan kuang	单选框	🔘
+dan yan	单眼	👁️ 😜
+dan yan tou kan	单眼偷看	🫣
+dan yan tu she	单眼吐舌	😜
+dan you	担忧	😟
+dang an	档案	🗃️ 🗄️
+dang ran	当然	👌
+dang xin er tong	当心儿童	🚸
+dao	刀	🔪
+dao cha	刀叉	🍴
+dao chu	倒出	🫗
+dao da	到达	🛬
+dao dan	捣蛋	😜
+dao gao	祷告	🛐 🤲
+dao hang	导航	🧭
+dao hui	倒回	⏪
+dao jiao	道教	☯️
+dao la ji	倒垃圾	🚮
+dao lian	倒脸	🙃
+dao mang quan	导盲犬	🦮
+dao mei	倒霉	😓
+dao qian	道歉	🙇‍♂️ 🙇‍♀️ 🙇
+dao san jiao	倒三角	🔻
+dao shui	倒水	🫗
+dao sui	稻穗	🌾
+dao tui	倒退	◀️
+dao tui an niu	倒退按钮	◀️
+dao zhan	到站	🚆 🚈
+dao zhuan	倒转	🔄 ◀️
+dao zi	稻子	🌾
+de	得	🉐
+de fen	得分	🥍
+de gu la	德古拉	🧛‍♂️ 🧛‍♀️
+de guo	德国	🇩🇪
+de yi	得意	😏
+de yi de mao	得意的猫	😼
+de yi de xiao	得意地笑	😏
+de yi mao	得意猫	😼
+de yi mao lian	得意猫脸	😼
+de yi zhi	德意志	🇩🇪
+de yi zhi lian bang	德意志联邦	🇩🇪
+de yi zhi lian bang gong he guo	德意志联邦共和国	🇩🇪
+dei	得	🉐
+deng	灯	💡
+deng dai	等待	⏳
+deng deng	等等	👋 🫷 🫸
+deng hao	等号	🟰
+deng ji	登机	🛫
+deng long	灯笼	🏮 🎃
+deng long jiao	灯笼椒	🫑
+deng pao	灯泡	💡
+deng shan	登山	🧗‍♂️ 🧗‍♀️ 🧗 🥾
+deng shan xie	登山鞋	🥾
+deng shan zhe	登山者	🧗‍♂️ 🧗‍♀️ 🧗
+deng shen	灯神	🧞‍♂️ 🧞‍♀️ 🧞
+deng tai	灯台	🕎
+deng yi xia	等一下	👋
+deng yu	等于	🟰
+deng zi	凳子	🪑
+di ban	地板	🤣
+di di	弟弟	🧍‍♂️
+di dian	地点	🛐
+di dian liang	低电量	🪫
+di er	第二	✌️ 🥈
+di er juan	第二卷	📗
+di ge jia xi ya dao	迪戈加西亚岛	🇩🇬
+di gua	地瓜	🍠
+di hou	低吼	🐻
+di ku	底裤	🩲
+di liang du	低亮度	🔅
+di luo	低落	🙎
+di qiu	地球	🌐 🌍 🌎 🌏
+di qiu yi	地球仪	🌍 🌎 🌏
+di san	第三	🥉
+di san juan	第三卷	📘
+di shi	的士	🚕 🚖
+di si juan	第四卷	📙
+di si ke	迪斯科	🪩
+di tie	地铁	🚇 Ⓜ️
+di tou you shang	低头忧伤	😔
+di tu	地图	🗺️ 🗾
+di xia tie lu	地下铁路	🚇
+di xie	滴血	🩸
+di xue	滴血	🩸
+di ya	迪亚	🪔
+di yi	第一	☝️ 🥇
+di yi juan	第一卷	📕
+di zhen	地震	🫨
+di zhu	地主	👲
+di zi	笛子	🪈
+dian an	点按	🖱️
+dian cha tou	电插头	🔌
+dian che	电车	🚎 🚃 🚊
+dian chi	电池	🔋
+dian chi bu zu	电池不足	🪫
+dian dao	颠倒	🙃
+dian dao de lian	颠倒的脸	🙃
+dian deng	电灯	💡
+dian deng pao	电灯泡	💡
+dian dong	电动	👨‍🦼 👩‍🦼 👨‍🦼‍➡️ 👩‍🦼‍➡️
+dian dong che	电动车	🛵
+dian dong lun yi	电动轮椅	🦼 👨‍🦼 👩‍🦼
+dian fen	淀粉	🍞
+dian gong	电工	👨‍🔧 👩‍🔧 🧑‍🔧
+dian hua	电话	☎️
+dian hua ting tong	电话听筒	📞
+dian hua tong	电话筒	📞
+dian ji	点击	🖱️
+dian ji	电极	🔋
+dian ji ta	电吉他	🎸
+dian lan	靛蓝	🪻
+dian li fu she	电离辐射	☢️
+dian liang	电量	🔋 🪫
+dian liang bu zu	电量不足	🪫
+dian liang di	电量低	🪫
+dian nao	电脑	🖥️
+dian nao guang pan	电脑光盘	💽
+dian nao jian pan	电脑键盘	⌨️
+dian nao shu biao	电脑鼠标	🖱️
+dian ping	电平	🎚️
+dian ping che	电瓶车	🛵
+dian ping hua kuai	电平滑块	🎚️
+dian qiu	颠球	🤹‍♂️ 🤹‍♀️
+dian ran	点燃	🔥
+dian shi	电视	📺
+dian shi ji	电视机	📺
+dian tai	电台	📻
+dian ti	电梯	🛗
+dian tong	电筒	🔦
+dian tou	点头	🙂‍↕️
+dian xian	电线	🔌
+dian xin	点心	🥧 🧇
+dian yan	点烟	🚬
+dian ying	电影	🎞️ 🎥 📽️ 🎦
+dian ying fang ying ji	电影放映机	📽️
+dian ying jiao pian	电影胶片	🎞️
+dian ying piao	电影票	🎫
+dian ying she ying ji	电影摄影机	🎥
+dian ying yuan	电影院	🎦
+dian you	电邮	✉️ 📧 📨 📤 📥
+dian yuan	电源	🔋 🔌
+dian yuan cha tou	电源插头	🔌
+dian zan	点赞	👍
+dian zhong	点钟	🕛
+dian zi	点子	💡
+dian zi	电子	🪫
+dian zi you jian	电子邮件	📧
+dian zi you xi	电子游戏	🎮 🕹️
+dian zi you xi shou bing	电子游戏手柄	🎮
+diao gan	钓竿	🎣
+diao pai	吊牌	🏷️
+diao su	雕塑	🗽
+diao xie	凋谢	🥀
+diao yu	钓鱼	🎣 🚣
+diao yu gan	钓鱼竿	🎣
+ding	顶	🆙
+ding dang	叮当	🔔
+ding hun	订婚	💍 💎
+ding hun jie	订婚戒	💍
+ding shi qi	定时器	⏲️
+ding xiang	定向	🧭
+ding yi xia	顶一下	👍
+diu la ji	丢垃圾	🚮
+dong	洞	🕳️
+dong bei	东北	↗️
+dong che	动车	🚄 🚅
+dong di wen	东帝汶	🇹🇱
+dong di wen min zhu gong he guo	东帝汶民主共和国	🇹🇱
+dong ji	冬季	🪾
+dong jiang	冻僵	🥶
+dong jiang le	冻僵了	🥶
+dong jing	东京	🗼
+dong jing ta	东京塔	🗼
+dong nan	东南	↘️
+dong sa mo ya	东萨摩亚	🇦🇸
+dong shan zai qi	东山再起	🐦‍🔥
+dong si	冻死	🥶
+dong si le	冻死了	🥶
+dong tian	冬天	🪾
+dong wu jiao yin	动物脚印	🐾
+dong wu yuan	动物园	🐅
+dong zheng jiao	东正教	☦️
+dong zheng jiao shi zi jia	东正教十字架	☦️
+dou	豆	🫘
+dou hao	都好	😝
+dou jia	豆荚	🫛
+dou lei	豆类	🫘 🫛
+dou zi	豆子	🫘
+du bao	读报	📰
+du bo	赌博	🎰 🎲
+du chang	赌场	🎰
+du chuan	渡船	⛴️
+du du che	嘟嘟车	🛺
+du du niao	渡渡鸟	🦤
+du er	堵耳	🙉
+du er duo	堵耳朵	🙉
+du jia	度假	🏖️
+du jiao shou	独角兽	🦄
+du jiao shou lian	独角兽脸	🦄
+du jiao shou tou	独角兽头	🦄
+du lun	渡轮	⛴️
+du mu zhou	独木舟	🛶
+du qian	赌钱	💰
+du shang er duo	堵上耳朵	🙉
+du sheng zi nv	独生子女	🧑‍🧑‍🧒
+du shi	都市	🏙️ 🌆
+du shi feng guang	都市风光	🏙️
+du shi jing guan	都市景观	🏙️
+du shu	读书	📖 🔖
+du xun	毒蕈	🍄
+du ya	毒牙	🧛
+du ya	渡鸦	🐦‍⬛
+du zhe er duo	堵着耳朵	🙉
+du zhu er duo	堵住耳朵	🙉
+duan dai	缎带	🎀
+duan dao	短刀	🗡️
+duan di	短笛	🪈
+duan jian	短剑	🗡️
+duan kai	断开	⛓️‍💥
+duan ku	短裤	🩳
+duan lian	断链	⛓️‍💥
+duan lian	锻炼	🏋️‍♂️ 🙆
+duan wa	短袜	🧦
+duan xiu	短袖	👕
+dui	对	⭕ ✅ ✔️
+dui bu qi	对不起	🙇‍♂️ 🙇‍♀️ 🙇
+dui gou	对钩	✅ ✔️
+dui hao	对号	✅ ✔️
+dui hua kuang	对话框	💬 🗨️ 🗯️ 💭 👁️‍🗨️
+dui hua qi pao	对话气泡	💬 🗨️ 🗯️
+dui huan	兑换	💱
+dui jue	对决	🆚 🤼 🤼‍♂️ 🤼‍♀️
+dui kang	对抗	🆚
+dui xia	对虾	🦐 🍤
+dui xue ren	堆雪人	⛄
+dui zhan	对战	🆚
+dun cai	炖菜	🥘 🍲
+dun guo	炖锅	🥘
+dun pai	盾牌	🛡️
+duo ci	多刺	🦔
+duo ge	多哥	🇹🇬
+duo ge gong he guo	多哥共和国	🇹🇬
+duo kong	多孔	🧽
+duo mi ni jia gong he guo	多米尼加共和国	🇩🇴
+duo mi ni ke	多米尼克	🇩🇲
+duo mi ni ke guo	多米尼克国	🇩🇲
+duo min zu bo li wei ya guo	多民族玻利维亚国	🇧🇴
+duo se	多色	🏳️‍🌈
+duo xie	多谢	🙏
+duo yun	多云	🌥️ ⛅
+e	呃	🤔
+e	哦	😮
+e	鹅	🪿
+e e e	鹅鹅鹅	🪿
+e gua duo er	厄瓜多尔	🇪🇨
+e gua duo er gong he guo	厄瓜多尔共和国	🇪🇨
+e guo	俄国	🇷🇺
+e le	饿了	🍴
+e li	鳄梨	🥑
+e li te li ya	厄立特里亚	🇪🇷
+e li te li ya guo	厄立特里亚国	🇪🇷
+e luo si	俄罗斯	🇷🇺
+e luo si lian bang	俄罗斯联邦	🇷🇺
+e luo si tao wa	俄罗斯套娃	🪆
+e mei yue	蛾眉月	🌒 🌘
+e mi tuo fo	阿弥陀佛	🙏
+e mo	恶魔	😈 👿 🦹
+e mo de yan	恶魔的眼	🧿
+e mo sheng qi	恶魔生气	👿
+e mo wei xiao	恶魔微笑	😈
+e mo yan	恶魔眼	🧿
+e mo zhi yan	恶魔之眼	🧿
+e qun	鹅群	🪿
+e xin	恶心	🤢
+e yu	鳄鱼	🐊
+er	二	2️⃣
+er	耳	👂
+er duo	耳朵	👂
+er hai	二孩	🧑‍🧑‍🧒‍🧒 🧑‍🧒‍🧒
+er ji	耳机	🎧
+er long	耳聋	🧏‍♂️ 🧏‍♀️ 🦻 🧏
+er sai	耳塞	🎧
+er tong	儿童	🧒
+er tong bu yi	儿童不宜	🔞
+er tong guo jie	儿童过街	🚸
+er tou ji	二头肌	💪
+er zi	儿子	👦
+fa biao	发飙	😡
+fa cai	发财	🤑
+fa chu	发出	📩
+fa chuan zhen	发传真	📠
+fa di ma	法蒂玛	🪬
+fa di ma zhi shou	法蒂玛之手	🪬
+fa guan	法官	🧑‍⚖️ 👨‍⚖️ 👩‍⚖️
+fa guang	发光	🪼 🌟
+fa gun	法棍	🥖
+fa guo	法国	🇫🇷
+fa hong bao	发红包	🧧
+fa huo	发火	😡
+fa jia	发夹	🪮
+fa jian	发件	📤
+fa jian xiang	发件箱	📤
+fa jing	法警	👮 👮‍♀️
+fa la fei	法拉费	🧆
+fa lan xi	法兰西	🇫🇷
+fa lan xi gong he guo	法兰西共和国	🇫🇷
+fa leng	发冷	🥶
+fa lun	法轮	☸️
+fa luo qun dao	法罗群岛	🇫🇴
+fa lv	法律	🧑‍⚖️ 👨‍⚖️ 👩‍⚖️ ⚖️
+fa ming	发明	🧑‍💻
+fa ming jia	发明家	👨‍💻 👩‍💻
+fa piao	发票	🧾
+fa qiu	罚球	⛹️
+fa re	发热	🥵 🦟
+fa shao	发烧	🤒
+fa she	发射	🚀
+fa shi	发誓	🤬
+fa shi	法师	🧙 🧙‍♂️ 🧙‍♀️
+fa shi	法式	🥐 🥖
+fa shi chang gun mian bao	法式长棍面包	🥖
+fa shu	法术	🧙
+fa shu bo li ni xi ya	法属波利尼西亚	🇵🇫
+fa shu gui ya na	法属圭亚那	🇬🇫
+fa shu nan bu ling di	法属南部领地	🇹🇫
+fa shu sheng ma ding	法属圣马丁	🇲🇫
+fa song	发送	📨 📩 📤
+fa wen	发问	🙋‍♂️
+fa xin	发信	📤 📩
+fa xing	发型	💇
+fa ya	发芽	🌱
+fa yan	发言	💬
+fa you jian	发邮件	📤 📩
+fan bai yan	翻白眼	🙄
+fan bai yan er	翻白眼儿	🙄
+fan chuan	帆船	⛵
+fan di gang	梵蒂冈	🇻🇦
+fan di gang cheng guo	梵蒂冈城国	🇻🇦
+fan dui	反对	🙅‍♂️ 🙅‍♀️ 👎 🙅
+fan gen tou	翻跟头	🤸‍♂️ 🤸‍♀️
+fan hui	返回	🔙
+fan jin dou	翻筋斗	🤸‍♂️ 🤸‍♀️ 🤸
+fan pai	反派	🦹‍♂️ 🦹‍♀️
+fan qiang	翻墙	🪜
+fan qie	番茄	🍅
+fan she	反射	🪞
+fan she jing	反射镜	🪞
+fan shou	反手	👈 👉 👆 🖕 👇
+fan shou shi zhi xiang shang zhi	反手食指向上指	👆
+fan shou shi zhi xiang xia zhi	反手食指向下指	👇
+fan shou shi zhi xiang you zhi	反手食指向右指	👉
+fan shou shi zhi xiang zuo zhi	反手食指向左指	👈
+fan shu	番薯	🍠
+fan si	烦死	😡
+fan si la	烦死啦	😡
+fan si le	烦死了	😡
+fan si ren	烦死人	😡
+fan tan	反弹	🪃
+fan tuan	饭团	🍙
+fan wei	反胃	🤢
+fan zhou	泛舟	🚣‍♂️ 🚣‍♀️
+fan zui	犯罪	🫆
+fang ban	方板	♦️
+fang che	房车	🚙
+fang cheng shi sai che	方程式赛车	🏎️
+fang da	放大	🔍 🔎
+fang da jing	放大镜	🔍 🔎
+fang feng zheng	放风筝	🪁
+fang ge	方格	🏁
+fang jian	房间	🚪
+fang ju	防具	🛡️
+fang kuai	方块	♦️ ⬛ ⬜
+fang men	房门	🚪
+fang pi	放屁	💨
+fang pian	方片	♦️
+fang shai shuang	防晒霜	🧴
+fang she xing	放射性	☢️
+fang sheng da ku	放声大哭	😭
+fang shou	放手	🫳
+fang song	放松	☺️ 💆 🧖 🧘
+fang wei	方位	⬆️ ↗️ ↘️ ⬇️
+fang wu	房屋	🏠
+fang wu jian zhu	房屋建筑	🏘️
+fang wu qun	房屋群	🏘️
+fang xia	放下	📪
+fang xiang	方向	🧭
+fang xing	方形	⬛ ⬜
+fang xing an niu	方形按钮	🔳 🔲
+fang ying ji	放映机	📽️
+fang yu	防御	🛡️
+fang zhe shao de wan	放着勺的碗	🥣
+fang zi	房子	🏠
+fei	肺	🫁
+fei ben er qu	飞奔而去	💨
+fei biao	飞镖	🎯 🪃
+fei bu	肺部	🫁
+fei chang bang	非常棒	👍
+fei chi	飞驰	🚲
+fei die	飞碟	🛸
+fei ji	斐济	🇫🇯
+fei ji	飞机	✈️
+fei ji dong che	非机动车	🚳
+fei ji gong he guo	斐济共和国	🇫🇯
+fei ji qi fei	飞机起飞	🛫
+fei ji zhuo lu	飞机着陆	🛬
+fei li wu kan	非礼勿看	🙈
+fei li wu shi	非礼勿视	🙈
+fei li wu ting	非礼勿听	🙉
+fei li wu yan	非礼勿言	🙊
+fei lin	菲林	🎞️
+fei lv bin	菲律宾	🇵🇭
+fei lv bin gong he guo	菲律宾共和国	🇵🇭
+fei pan	飞盘	🥏
+fei qi de fang wu	废弃的房屋	🏚️
+fei qu lai qi	飞去来器	🪃
+fei wen	飞吻	😘
+fei xiang	飞翔	🕊️ 🪽 🪁
+fei xing	飞行	🪽 ✈️
+fei xing yuan	飞行员	🧑‍✈️ 👨‍✈️ 👩‍✈️
+fei xu	废墟	🏚️
+fei xuan biao	飞旋镖	🪃
+fei yin yong shui	非饮用水	🚱
+fei yong	费用	🈶
+fei zao	肥皂	🧼 🫧
+fei zao he	肥皂盒	🧼
+fei zao pao	肥皂泡	🫧 🧼
+fei zhi lou	废纸篓	🗑️
+fei zhou	非洲	🌍
+fei zhou di qiu yi	非洲地球仪	🌍
+fei zhou ou zhou	非洲欧洲	🌍
+fen dou	奋斗	💪
+fen ge	分隔	🗂️
+fen hong	粉红	🩷
+fen hong se	粉红色	🏳️‍⚧️
+fen hong xin	粉红心	🩷
+fen lan	芬兰	🇫🇮
+fen lan gong he guo	芬兰共和国	🇫🇮
+fen mu	坟墓	🪦
+fen nu	愤怒	😡 😠 💢 😤 🗯️
+fen nu dui hua kuang	愤怒对话框	🗯️
+fen nu dui hua qi pao	愤怒对话气泡	🗯️
+fen se de xin	粉色的心	💕 🩷
+fen se xin	粉色心	🩷
+fen xin	粉心	🩷
+feng chui	风吹	🌬️
+feng chui fu	风吹拂	🌬️
+feng chui fu de lian	风吹拂的脸	🌬️
+feng ci	讽刺	😼
+feng he	缝合	🪡
+feng huang	凤凰	🐦‍🔥
+feng jin weng	奉金瓮	⚱️
+feng jing	风景	🏞️
+feng kou	封口	🤐
+feng kuang	疯狂	🫨
+feng li	凤梨	🍍
+feng li	锋利	🪒
+feng ling	风铃	🎐
+feng mi	蜂蜜	🍯
+feng mian	封面	📔
+feng qin	风琴	🪗
+feng ren	缝纫	🧵 🪡
+feng ren zhen	缝纫针	🪡
+feng shou bing	丰收饼	🥮
+feng shu ye	枫树叶	🍁
+feng wei die	凤尾蝶	🦋
+feng xian	缝线	🪡
+feng xin zi	风信子	🪻
+feng ye	枫叶	🍁
+feng yi zhen	缝衣针	🪡
+feng yuan	风鸢	🪁
+feng zheng	风筝	🪁
+fo de jiao	佛得角	🇨🇻
+fo de jiao gong he guo	佛得角共和国	🇨🇻
+fo jiao	佛教	🪷 🛕
+fo si	佛寺	🛕
+fou ding	否定	🙂‍↔️
+fou jue	否决	👎
+fu ai	父爱	👨‍🍼
+fu bu	腹部	🫃 🫄
+fu e	扶额	🤦‍♂️ 🤦‍♀️ 🤦
+fu gu yao shi	复古钥匙	🗝️
+fu hao	符号	🔣
+fu hua xiao ji	孵化小鸡	🐣
+fu huo dao	复活岛	🗿
+fu huo jie dao	复活节岛	🗿
+fu huo jie dao shi xiang	复活节岛石像	🗿
+fu ji	负极	🔋
+fu ke lan qun dao	福克兰群岛	🇫🇰
+fu lan	腐烂	🪰
+fu le	服了	🤦‍♂️ 🤦‍♀️
+fu le ni le	服了你了	🤦‍♂️ 🤦‍♀️
+fu mu	父母	🧑‍🧑‍🧒 🧑‍🧑‍🧒‍🧒
+fu nv	父女	👨‍👧
+fu qian	付钱	💰
+fu qin	父亲	👨 👨‍🍼
+fu rong	芙蓉	🌺
+fu rong hua	芙蓉花	🌺
+fu se	肤色	🏻 🏼 🏽 🏾 🏿
+fu shang	负伤	🤕
+fu she	辐射	☢️
+fu shi	服饰	👓
+fu shi shan	富士山	🗻
+fu tou	斧头	🪓
+fu wu	服务	🐕‍🦺 🈂️
+fu wu fei	服务费	🈂️
+fu wu ling	服务铃	🛎️
+fu wu quan	服务犬	🐕‍🦺
+fu wu sheng	服务生	💁‍♂️ 💁‍♀️
+fu wu yuan	服务员	💁‍♂️ 💁‍♀️
+fu xuan	复选	☑️
+fu xuan an niu	复选按钮	☑️
+fu xuan kuang	复选框	☑️
+fu yin	复印	🖨️
+fu you	富有	🧐 💰 🪙
+fu you sheng wu	浮游生物	🪼
+fu zai di mian shang de xi zhuang nan	浮在地面上的西装男	🕴️
+fu zhou	符咒	🧿
+fu zhu	辅助	🐕‍🦺 🩼
+fu zi	斧子	🪓
+fu zi	父子	👨‍👦
+ga ga	嘎嘎	🦆
+ga li	咖喱	🍛
+ga li fan	咖喱饭	🍛
+gai zao	改造	👷
+gan bei	干杯	🍻 🥂
+gan cui mian	干脆面	🦝
+gan cui mian jun	干脆面君	🦝
+gan de hao	干得好	👍 👏
+gan dong	感动	🥲
+gan dong de	感动的	🥲
+gan en	感恩	🙏
+gan en jie	感恩节	🦃
+gan ga	尴尬	😅 😰 😓
+gan han	干旱	🪾 🌵
+gan ji	感激	🥲 🥹
+gan ju	柑橘	🍊 🍋
+gan lan	橄榄	🫒
+gan lan	甘蓝	🥬 🥦
+gan lan qiu	橄榄球	🏈 🏉
+gan mao	感冒	😷 🤧
+gan ni	干你	👊
+gan qing	感情	🩷 🩵 🩶
+gan shu	甘薯	🍠
+gan tan	感叹	❗
+gan tan hao	感叹号	❗ ❕
+gan tan hao wen hao	感叹号问号	⁉️
+gan xie	感谢	🙏
+gang beng	钢镚	🪙
+gang beng er	钢镚儿	🪙
+gang bi	钢笔	🖋️ ✒️
+gang bi jian	钢笔尖	✒️
+gang bi ya	冈比亚	🇬🇲
+gang bi ya gong he guo	冈比亚共和国	🇬🇲
+gang guo	刚果	🇨🇩 🇨🇬
+gang guo bu	刚果布	🇨🇬
+gang guo bu	刚果（布）	🇨🇬
+gang guo jin	刚果金	🇨🇩
+gang guo jin	刚果（金）	🇨🇩
+gang ling	杠铃	🏋️
+gang qin	钢琴	🎹
+gang qin an jian	钢琴按键	🎹
+gang qin jian	钢琴键	🎹
+gao bie	告别	🫂
+gao dian	糕点	🎂 🍰 🥧
+gao ding	搞定	🤝 ☑️
+gao er fu	高尔夫	🏌️‍♂️ 🏌️‍♀️ ⛳ 🏌️ 🚩
+gao er fu qiu dong	高尔夫球洞	⛳
+gao er fu qiu shou	高尔夫球手	🏌️‍♂️ 🏌️‍♀️
+gao gen	高跟	👠
+gao gen er	高跟儿	👠
+gao gen er liang xie	高跟儿凉鞋	👡
+gao gen er xie	高跟儿鞋	👠
+gao gen er xue	高跟儿靴	👢
+gao gen liang xie	高跟凉鞋	👡
+gao gen xie	高跟鞋	👠
+gao gen xue	高跟靴	👢
+gao jia tie lu	高架铁路	🚟
+gao liang du	高亮度	🔆
+gao lou da sha	高楼大厦	🏙️
+gao mao	高帽	🎩
+gao qiu	高球	🤾 🤾‍♀️ ⛳
+gao shan	高山	🏔️
+gao shan suo dao	高山索道	🚠
+gao shi	告示	🪧
+gao su	高速	🛣️ 🚅
+gao su gong lu	高速公路	🛣️
+gao su lie che	高速列车	🚄 🚅
+gao su wo	告诉我	🫴
+gao su zi dan tou lie che	高速子弹头列车	🚅
+gao tie	高铁	🚄 🚅
+gao xing	高兴	😄 😀 😃 😆
+gao ya	高压	⚡
+gao ya dian	高压电	⚡
+gao yin liang	高音量	🔊
+gao yin liang de yang sheng qi	高音量的扬声器	🔊
+ge	割	🈹
+ge	合	🈴
+ge	蛤	🐸
+ge	鸽	🕊️
+ge ban	隔板	🗂️
+ge dou	格斗	🤼‍♂️ 🤼‍♀️
+ge ge	哥哥	🧍‍♂️
+ge ji hao	歌记号	〽️
+ge lin na da	格林纳达	🇬🇩
+ge ling lan	格陵兰	🇬🇱
+ge lu ji ya	格鲁吉亚	🇬🇪
+ge lun bi ya	哥伦比亚	🇨🇴
+ge lun bi ya gong he guo	哥伦比亚共和国	🇨🇴
+ge ren dian nao	个人电脑	💻 🖥️
+ge shou	歌手	🧑‍🎤 👨‍🎤 👩‍🎤
+ge si da li jia	哥斯达黎加	🇨🇷
+ge si da li jia gong he guo	哥斯达黎加共和国	🇨🇷
+ge zi	鸽子	🕊️
+ge zi bing	格子饼	🧇
+ge zi qi	格子旗	🏁
+gei wo da dian hua	给我打电话	🤙
+gen jing	根茎	🫚
+gen xi dao	根西岛	🇬🇬
+gong an	公安	👮 👮‍♀️
+gong chang	工厂	🏭
+gong chang gong ren	工厂工人	👨‍🏭 👩‍🏭
+gong che	公车	🚌 🚍
+gong cheng shi	工程师	👨‍🔬 👩‍🔬 👨‍💻 👩‍💻 👷
+gong cheng xue jia	工程学家	🧑‍🔬 👨‍🔬 👩‍🔬
+gong er tou	肱二头	💪
+gong er tou ji	肱二头肌	💪
+gong gong guang bo	公共广播	📢
+gong gong qi che	公共汽车	🚌 🚍 🚎 🚐
+gong gong qi che zhan	公共汽车站	🚏
+gong he jian	弓和箭	🏹
+gong ji	公鸡	🐓
+gong jian	弓箭	🏹
+gong jian shou	弓箭手	♐
+gong jiao	公交	🚌 🚍
+gong jiao che	公交车	🚌 🚍
+gong jiao che zhan	公交车站	🚏
+gong jiao zhan	公交站	🚏
+gong ju	工具	🛠️
+gong ju xiang	工具箱	🧰
+gong lu	公路	🛣️
+gong mu	公墓	🪦
+gong niu	公牛	🐂
+gong ping	公平	⚖️
+gong ren	工人	🧑‍🏭 👷‍♂️ 👷‍♀️
+gong shi bao	公事包	💼
+gong wen bao	公文包	💼
+gong xi	恭喜	🎉 🥳
+gong yang	公羊	🐏
+gong ye	工业	🧑‍🏭 👨‍🏭 👩‍🏭
+gong yuan	公园	⛲ 🏞️
+gong zheng	公正	⚖️
+gong zhu	公主	👸
+gong zi	工资	💰
+gong zuo	工作	💼 👔
+gong zuo quan	工作犬	🐕‍🦺
+gou	狗	🐶 🐕
+gou gou	狗狗	🐕
+gou huan	狗獾	🦡
+gou lian	狗脸	🐶
+gou tou	狗头	🐶
+gou wu	购物	🛍️ 🛒
+gou wu che	购物车	🛒
+gou wu dai	购物袋	🛍️
+gou xuan	勾选	☑️ ✔️
+gou zai	狗仔	🐶
+gou zhuang wu	钩状物	🪝
+gou zi	狗子	🐕
+gou zi	钩子	🪝
+gu	鼓	🥁
+gu ba	古巴	🇨🇺
+gu ba gong he guo	古巴共和国	🇨🇺
+gu ban	古板	🧐
+gu chui	鼓槌	🥁
+gu dian	古典	🏛️
+gu dian jian zhu	古典建筑	🏛️
+gu ding	固定	📌 📍
+gu ding dian hua	固定电话	☎️ 📞
+gu ge	骨骼	🦴 🩻
+gu guai	古怪	😜
+gu hua	固话	☎️ 📞
+gu hui	骨灰	⚱️
+gu hui gang	骨灰缸	⚱️
+gu hui he	骨灰盒	⚱️
+gu jia	骨架	🩻
+gu jian zhu	古建筑	🏛️
+gu lao de yao shi	古老的钥匙	🗝️
+gu lei	谷类	🍞
+gu lu	轱辘	🛞
+gu sheng	鼓声	🥁
+gu tan	骨坛	⚱️
+gu ti	固体	🪨
+gu tou	骨头	🦴
+gu weng	骨瓮	⚱️
+gu wu	谷物	🌾 🥣
+gu zhang	鼓掌	👏
+gu zhi de	固执的	🫏
+gua dao	刮刀	🪒
+gua de luo pu	瓜德罗普	🇬🇵
+gua gou	挂钩	🪝
+gua gua jiao	呱呱叫	🎉
+gua hu dao	刮胡刀	🪒
+gua pi mao	瓜皮帽	👲
+guai bao	乖宝	👶
+guai bao bao	乖宝宝	👶
+guai ren	怪人	😜
+guai shou	怪兽	👾 💀 🧌
+guai wu	怪物	👹
+guai zhang	拐杖	🩼
+guan	罐	🫙
+guan bi	关闭	📴
+guan bi shou ji	关闭手机	📴
+guan cai	棺材	⚰️
+guan cha	观察	👀
+guan dao	关岛	🇬🇺
+guan dong zhu	关东煮	🍢
+guan ji	关机	📴
+guan jun	冠军	🏆
+guan mu	灌木	🪻
+guan tou	罐头	🥫
+guan tou shi pin	罐头食品	🥫
+guan xi shi	盥洗室	🚻 🚾
+guan xian yue dui	管弦乐队	🪉
+guan xian yue qi	管弦乐器	🎷
+guan xing	观星	🔭
+guan yue	观月	🎑
+guan yue qi	管乐器	🪈
+guan zi	罐子	🫙
+guang bo	广播	📢 📻
+guang bo dian tai	广播电台	📻
+guang die	光碟	💽 📀
+guang huan	光环	😇
+guang jie	逛街	🛍️
+guang liang	光亮	🧨
+guang ming jie	光明节	🕎
+guang pan	光盘	💿 💽
+guang tou	光头	👨‍🦲 👩‍🦲 🦲
+guang tou nan	光头男	👨‍🦲
+guang tou nan ren	光头男人	👨‍🦲
+guang tou nan zi	光头男子	👨‍🦲
+guang tou nv	光头女	👩‍🦲
+guang tou nv ren	光头女人	👩‍🦲
+guang tou nv zi	光头女子	👩‍🦲
+guang xian	光线	☀️
+gui	鬼	👻
+gui	龟	🐢
+gui bin quan	贵宾犬	🐩
+gui dang	归档	🗄️
+gui dao	轨道	🚋
+gui dao che	轨道车	🚃
+gui guai	鬼怪	👹
+gui hun	鬼魂	👻
+gui ji qiu	轨迹球	🖲️
+gui lian	鬼脸	😬 👻
+gui mi	闺蜜	👭 👯
+gui pai	鬼牌	🃏
+gui qiu	跪求	🙇‍♂️ 🙇‍♀️
+gui wu	鬼屋	🏚️
+gui xia	跪下	🧎 🧎‍➡️
+gui ya na	圭亚那	🇬🇾
+gui ya na he zuo gong he guo	圭亚那合作共和国	🇬🇾
+gui yuan ji	柜员机	🏧
+gui zhe	跪着	🧎‍♂️ 🧎‍♀️
+gui zu	贵族	🫅
+gui zuo	跪坐	🧎‍♂️ 🧎‍♀️ 🧎 🧎‍➡️ 🧎‍♀️‍➡️ 🧎‍♂️‍➡️
+guo bao	国宝	🐼
+guo dong	果冻	🪼
+guo guan	过关	🈴
+guo ji xiang qi	国际象棋	♟️
+guo ji xiang qi bing	国际象棋兵	♟️
+guo jia gong yuan	国家公园	🏞️
+guo lai	过来	🫴
+guo ling	果岭	⛳
+guo shan che	过山车	🎢
+guo wang	国王	🫅 👑
+guo yin	果饮	🍹
+guo zhi	果汁	🧃 🥤
+guo zhi he	果汁盒	🧃
+guo zi	果子	🍭
+ha	哈	😄
+ha	蛤	🐸
+ha ha	哈哈	😄 😂 😆 🤣 😃
+ha ha	蛤蛤	🐸
+ha ha da xiao	哈哈大笑	🤣 😂 😄
+ha ha ha	哈哈哈	😆 😂 🤣
+ha ha ha ha	哈哈哈哈	😆 🤣 😂
+ha la zi	哈喇子	😋
+ha lei	哈雷	☄️
+ha lei hui xing	哈雷彗星	☄️
+ha ma	蛤蟆	🐸
+ha mi gua	哈密瓜	🍈
+ha qian	哈欠	🥱
+ha sa ke si tan	哈萨克斯坦	🇰🇿
+ha sa ke si tan gong he guo	哈萨克斯坦共和国	🇰🇿
+hai bao	海报	🪧
+hai bao	海豹	🦭
+hai chong	害虫	🪳 🪰
+hai dao	海盗	🏴‍☠️ ☠️
+hai dao qi	海盗旗	🏴‍☠️
+hai di	海地	🇭🇹
+hai di	海底	🧜
+hai di gong he guo	海地共和国	🇭🇹
+hai guan	海关	🛃
+hai guan jian cha	海关检查	🛃
+hai gui	海龟	🐢
+hai lang	海浪	🌊
+hai li	海狸	🦫
+hai luo	海螺	🐚
+hai mian	海绵	🧽
+hai pa	害怕	😨 😱
+hai pa de mao	害怕的猫	🙀
+hai pa mao	害怕猫	🙀
+hai pa mao lian	害怕猫脸	🙀
+hai shang	海上	🏴‍☠️
+hai shi	海狮	🦭
+hai ta	海獭	🦦
+hai tan	海滩	🏄 🏄‍♀️ 🏖️
+hai tun	海豚	🐬
+hai wang	海王	🧜‍♂️
+hai xian	海鲜	🍢 🦞 🦪
+hai xiu	害羞	☺️ 😊 😳
+hai yang	海洋	🏄 🦭 🪸 🪼 🌊
+hai yang sheng wu	海洋生物	🧜 🪼
+hai yao	海妖	🧜
+hai yun	海运	🚢
+hai zei	海贼	🏴‍☠️
+hai zei qi	海贼旗	🏴‍☠️
+hai zhe	海蜇	🪼
+hai zi	孩子	🧒 👶 👦 👧 👼 🧑‍🧒
+han	汗	😓 😅 😰
+han bao	汉堡	🍔
+han bao bao	汉堡包	🍔
+han bing	旱冰	🛼
+han bing xie	旱冰鞋	🛼
+han di	汗滴	💦 💧
+han guo	韩国	🇰🇷
+han han	憨憨	😄
+han jie	焊接	🥽
+han lei	含泪	🥹
+han lei de xiao lian	含泪的笑脸	🥲
+han lei xiao lian	含泪笑脸	🥲
+han shan	汗衫	👕
+hang ban	航班	🛫 🛬
+hang ban jiang luo	航班降落	🛬
+hang ban qi fei	航班起飞	🛫
+hang tian	航天	👨‍🚀 👩‍🚀
+hao	好	👌 🙆‍♂️ 🙆‍♀️
+hao bang	好棒	👍
+hao chi	好吃	😋
+hao chong bai	好崇拜	🤩
+hao chong bai o	好崇拜哦	🤩
+hao chou	好臭	💩
+hao da	好哒	👌
+hao de	好的	👌 🙆‍♂️ 🙆‍♀️ 🫡 🙆
+hao hao chi	好好吃	😋
+hao ji you	好基友	👬
+hao jiao	号角	🥳 📯
+hao leng	好冷	🥶
+hao li	蚝蛎	🦪
+hao ma	好嘛	🥺
+hao nan guo	好难过	😢 😞
+hao peng you	好朋友	👭
+hao qi	好奇	😯 🦝
+hao qiang	好强	👍
+hao re	好热	🥵
+hao ren	好人	🦸 🦸‍♂️ 🦸‍♀️
+hao wan	好玩	🙃 🦦
+hao xiao	好笑	🤭 🙃
+hao xiong di	好兄弟	👬
+hao ye	好耶	😆
+hao yun	好运	🧧 🪬
+hao zi	耗子	🐀 🐭
+he	合	🈴
+he bao	荷包	👝
+he cai	喝彩	🥳
+he cha	喝茶	🍵
+he de dao he mai ke tang na qun dao	赫德岛和麦克唐纳群岛	🇭🇲
+he duo	喝多	🥴
+he duo le	喝多了	🥴
+he fan	盒饭	🍱
+he fen	河粉	🍜
+he fu	和服	👘
+he fu she	核辐射	☢️
+he ge	合格	🈴
+he he	呵呵	🙂 🙃
+he hua	荷花	🪷
+he ka fei	喝咖啡	☕
+he lan	荷兰	🇳🇱
+he li	河狸	🦫
+he ma	河马	🦛
+he nai	喝奶	🍼
+he ping	和平	☮️ ✌️ 🕊️
+he ping biao zhi	和平标志	☮️
+he ping de xiang zheng	和平的象征	🕊️
+he ping fu hao	和平符号	☮️
+he ping shou shi	和平手势	✌️
+he ping xiang zheng	和平象征	🕊️
+he qian	呵欠	🥱
+he se	褐色	🍄‍🟫
+he shang	合上	📕
+he shang	和尚	👨‍🦲 🧘‍♂️
+he shang de suo	合上的锁	🔒
+he shi	合十	🙏
+he shu jia le bi qu	荷属加勒比区	🇧🇶
+he shu sheng ma ding	荷属圣马丁	🇸🇽
+he shui	喝水	🚰
+he tun	河豚	🐡
+he zhang	合掌	🙏
+he zhuang	盒装	🧃
+he zi	盒子	📦 🎁 🗳️
+he zui	喝醉	🥴
+he zui chu	鹤嘴锄	⛏️
+he zui le	喝醉了	🥴
+he zuo	合作	🤝
+he zuo yu kuai	合作愉快	🤝
+hei ba	黑八	🎱
+hei bai qi	黑白棋	⚫ ⚪
+hei bian xian fang xing an niu	黑边线方形按钮	🔲
+hei bian xian zheng fang xing an niu	黑边线正方形按钮	🔲
+hei dian	黑点	⚫
+hei hei	嘿嘿	😀 😁
+hei kuang	黑框	⬛
+hei mao	黑猫	🐈‍⬛
+hei niao	黑鸟	🐦‍⬛
+hei qi	黑旗	🏴
+hei qi	黑棋	⚫
+hei se	黑色	⚫ ⬛
+hei se da fang kuai	黑色大方块	◽
+hei se de xin	黑色的心	🖤
+hei se fang xing an niu	黑色方形按钮	🔲
+hei se qi	黑色旗	🏴
+hei se qi zhi	黑色旗帜	🏴
+hei se qi zi	黑色旗子	🏴
+hei se xiao fang kuai	黑色小方块	▪️ ▫️
+hei se xiao niao	黑色小鸟	🐦‍⬛
+hei se xin	黑色心	🖤
+hei se zheng fang xing an niu	黑色正方形按钮	🔲
+hei se zhong deng fang kuai	黑色中等方块	◻️
+hei se zhong fang kuai	黑色中方块	◼️ ◻️
+hei shan	黑山	🇲🇪
+hei tao	黑桃	♠️
+hei xian fang xing an niu	黑线方形按钮	🔲
+hei xian zheng fang xing an niu	黑线正方形按钮	🔲
+hei xin	黑心	🖤
+hei yan quan	黑眼圈	🫩
+hei zi	黑子	⚫
+hen bang	很棒	👍
+hen cha	很差	👎
+hen hao	很好	👍
+hen ji	痕迹	🫆
+hen ku	很酷	🆒
+hen leng	很冷	🥶
+hen re	很热	🥵
+heng	哼	😤
+heng dang	横档	🪜
+heng di	横笛	🪈
+heng heng	哼哼	😤
+heng xian	横线	➖
+hong bao	红包	🧧
+hong bei	烘焙	🥯
+hong chun	红唇	💋 👄
+hong deng long	红灯笼	🏮
+hong du la si	洪都拉斯	🇭🇳
+hong du la si gong he guo	洪都拉斯共和国	🇭🇳
+hong fa	红发	🦰 👨‍🦰 👩‍🦰
+hong fa nan	红发男	👨‍🦰 👨‍🦱
+hong fa nan ren	红发男人	👨‍🦰 👨‍🦱
+hong fa nan zi	红发男子	👨‍🦰 👨‍🦱
+hong fa nv	红发女	👩‍🦰
+hong fa nv ren	红发女人	👩‍🦰
+hong fa nv zi	红发女子	👩‍🦰
+hong feng huang	红凤凰	🐦‍🔥
+hong guan	红鹳	🦩
+hong jiu bei	红酒杯	🍷
+hong la jiao	红辣椒	🌶️
+hong luo bo	红萝卜	🫜
+hong lv deng	红绿灯	🚥 🚦
+hong mao xing xing	红毛猩猩	🦧
+hong mei gui	红玫瑰	🌹
+hong ping guo	红苹果	🍎
+hong qi	红旗	🇨🇳
+hong quan	红圈	🔴
+hong rou	红肉	🥩
+hong se	红色	🔴 🟥 🔺 🔻
+hong se dao san jiao	红色倒三角	🔻
+hong se de shu	红色的书	📕
+hong se gan tan hao	红色感叹号	❗
+hong se qi zhi	红色旗帜	🚩
+hong se shu ben	红色书本	📕
+hong se tou fa	红色头发	👨‍🦰 👩‍🦰 🦰
+hong se zheng san jiao	红色正三角	🔺
+hong shu	红薯	🍠
+hong tao	红桃	♥️
+hong tou fa	红头发	👩‍🦰 🦰
+hong xin	红心	❤️
+hong zhong	红中	🀄
+hou	猴	🐵 🐒
+hou lian	猴脸	🐵
+hou men	后门	🚪
+hou tou	猴头	🐵
+hou tui	后退	◀️
+hou zi	猴子	🐒
+hu	虎	🐯
+hu die	蝴蝶	🦋
+hu die jie	蝴蝶结	🎀
+hu fu shuang	护肤霜	🧴
+hu han	呼喊	📣
+hu ji	呼机	📟
+hu jing	虎鲸	🫍
+hu li	狐狸	🦊
+hu li lian	狐狸脸	🦊
+hu li tou	狐狸头	🦊
+hu lian	虎脸	🐯
+hu lian wang	互联网	🛜
+hu lu	呼噜	😴 💤
+hu luo bo	胡萝卜	🥕
+hu mu	护目	🥽
+hu mu jing	护目镜	🥽
+hu qi	呼气	😮‍💨 🫁
+hu shen fu	护身符	🧿 🪬
+hu shi	护士	🧑‍⚕️ 👨‍⚕️ 👩‍⚕️
+hu shou	护手	💅
+hu shuo	胡说	🤥
+hu tou	虎头	🐯
+hu wai	户外	🥾
+hu xi	呼吸	👃 🫁
+hu xi zuo yong	呼吸作用	🫁
+hu xu	胡须	🧔
+hu yan	护眼	🥽
+hu zhao	护照	🛂
+hu zhao jian cha	护照检查	🛂
+hu zhao jian cha chu	护照检查处	🛂
+hu zi	胡子	🧔 🥸 🧔‍♂️ 🧔‍♀️ 🪒
+hu zi nv	胡子女	🧔‍♀️
+hua	花	🌸 🌼 🌷
+hua ban	滑板	🛹
+hua ban che	滑板车	🛴
+hua bao	花豹	🐆
+hua bi	画笔	🖌️
+hua bing	滑冰	⛸️
+hua cha	画叉	❌ ❎
+hua chi	花痴	😍
+hua chi de mao	花痴的猫	😻
+hua chi mao	花痴猫	😻
+hua chi mao lian	花痴猫脸	😻
+hua chuan	划船	🚣‍♂️ 🚣‍♀️
+hua chuan yun dong	划船运动	🚣
+hua duo	花朵	🌼 🪷 🪻
+hua fu bing	华夫饼	🧇
+hua han bing	滑旱冰	🛼
+hua hua	画画	🎨 ✏️
+hua hua ti	滑滑梯	🛝
+hua ji	滑稽	🤪
+hua jia	画家	👨‍🎨 👩‍🎨 🧑‍🎨 🎨
+hua jiang	划桨	🚣
+hua jie	花结	🏵️
+hua juan	画卷	📜
+hua kuai	滑块	🎚️
+hua kuang	画框	🖼️
+hua li	华丽	🦩
+hua li shu	花栗鼠	🐿️
+hua liao	化疗	🦲
+hua mian tai mei wo bu gan kan	画面太美我不敢看	🫣
+hua pai	花牌	🎴
+hua pen	花盆	🪴
+hua pu ke pai	花扑克牌	🎴
+hua qian	花钱	💸
+hua quan	花圈	🏵️
+hua sa	花洒	🚿
+hua sheng	花生	🥜
+hua shi	花饰	🏵️
+hua shu	花束	💐
+hua shu	花鼠	🐿️
+hua shua	画刷	🖌️
+hua ti	滑梯	🛝
+hua ting	划艇	🚣 🚣‍♂️ 🚣‍♀️
+hua tong	话筒	🎤
+hua xiang	滑翔	🪂
+hua xiang san	滑翔伞	🪂
+hua xu	花絮	🆖
+hua xue	化学	⚗️ 🧪
+hua xue	滑雪	🎿 ⛷️
+hua xue ban	滑雪板	🏂
+hua xue de ren	滑雪的人	⛷️
+hua xue jia	化学家	👨‍🔬 👩‍🔬 🧑‍🔬 🧪
+hua xue qiao	滑雪橇	🎿
+hua xue zhuang bei	滑雪装备	🎿
+hua ye cai	花椰菜	🥦
+hua yu	话语	🗨️
+hua yuan	花园	🪏 🏡
+hua zha	花札	🎴
+hua zhuang	化妆	💄 🪞
+hua zhuang bao	化妆包	👝
+hua zhuang pin	化妆品	💄
+huai dan	坏蛋	🦹‍♂️ 🦹‍♀️ 🦹
+huai le	怀了	🤰
+huai yi	怀疑	🫢 🤨 🫤 🤷 🤷‍♂️ 🤷‍♀️
+huai yun	怀孕	🤰 🫃 🫄
+huai yun de nan ren	怀孕的男人	🫃
+huan	獾	🦡
+huan bao	环保	♻️
+huan hu	欢呼	🙌 🎉
+huan hui	换汇	💱
+huan jie	缓解	💆
+huan shou	幻兽	🐦‍🔥
+huan xing	缓行	🚶‍♀️ 🚶‍♀️‍➡️
+huan xiong	浣熊	🦝
+huang bao che	黄包车	🛺
+huang dao	荒岛	🏝️
+huang dou	黄豆	🫛
+huang fei	荒废	🏚️
+huang gua	黄瓜	🥒
+huang guan	皇冠	👑
+huang hou	皇后	👸
+huang hun	黄昏	🌆
+huang jia	皇家	🤴 👑
+huang jin weng	黄金瓮	⚱️
+huang lan	黄榄	🫒
+huang mo	荒漠	🏜️
+huang nao	晃脑	🫨
+huang niu	黄牛	🐂
+huang ru you	黄乳油	🧈
+huang se	黄色	🟡 🟨
+huang se de xin	黄色的心	💛
+huang se xin	黄色心	💛
+huang shi	皇室	🫅
+huang si dai	黄丝带	🎗️
+huang wu	荒芜	🪾
+huang xin	黄心	💛
+huang you	黄油	🧈
+huang zhai	荒宅	🏚️
+huang zu	皇族	👑
+hui che	回车	↩️
+hui da	回答	🟰
+hui dian hua	回电话	🤙
+hui fei bang	回飞棒	🪃
+hui fu	恢复	❤️‍🩹
+hui hua	绘画	🎨 ✏️
+hui li bang	回力棒	🪃
+hui li biao	回力镖	🪃
+hui lv	汇率	💱
+hui mian	会面	🤝
+hui se	灰色	🩶 🦳
+hui se de xin	灰色的心	🩶
+hui se xin	灰色心	🩶
+hui shou	回收	♻️
+hui shou	挥手	👋
+hui tan	回弹	🪃
+hui tang	会堂	🕍
+hui tou jian	回头见	👋
+hui tui	回退	🔙
+hui wen zhen	回纹针	📎 🖇️
+hui xin	灰心	🩶
+hui xing	彗星	☄️
+hui xing zhen	回形针	📎 🖇️
+hui xiong	灰熊	🐻
+hui xuan biao	回旋镖	🪃
+hui zhang	徽章	📛
+hun an	昏暗	🔅
+hun hun chen chen	昏昏沉沉	🥴
+hun hun yu shui	昏昏欲睡	🥱
+hun li	婚礼	💒
+hun sha	婚纱	👰‍♀️
+hun zhan	混战	🫯
+huo	火	🔥
+huo bi	货币	💲 💴 💵 💶 💷 💹
+huo bi dui huan	货币兑换	💱
+huo che	火车	🚆
+huo che	货车	🚚
+huo che tou	火车头	🚂
+huo che zhan	火车站	🚉
+huo da	火大	💢 🧂
+huo feng huang	火凤凰	🐦‍🔥
+huo guo	火锅	🥘 🍲 🫕
+huo hua	火花	❇️
+huo ji	火鸡	🦃
+huo jian	火箭	🚀
+huo le	火了	🔥
+huo lie niao	火烈鸟	🦩
+huo niao	火鸟	🐦‍🔥
+huo po	活泼	🤸 🤸‍♂️ 🤸‍♀️
+huo sai	活塞	🪠
+huo shan	火山	🌋
+huo shan bao fa	火山爆发	🌋
+huo shan pen fa	火山喷发	🌋
+huo shang zhi xin	火上之心	❤️‍🔥
+huo sheng	获胜	🏆 🏅
+huo yan	火焰	🔥
+huo zai	火灾	👩‍🚒 🚒 🧯
+ji	鸡	🐔
+ji ba	鸡巴	🐔
+ji ben	基本	⬇️
+ji bing	疾病	🦟 🪰
+ji bu ti	吉布提	🇩🇯
+ji bu ti gong he guo	吉布提共和国	🇩🇯
+ji cheng che	计程车	🚕
+ji chi	疾驰	🏎️
+ji chi er qu	疾驰而去	💨
+ji cun	寄存	🛅
+ji cun xing li	寄存行李	🛅
+ji da	极大	♾️
+ji dan	鸡蛋	🥚
+ji dong	激动	💖 💗
+ji du	基督	✝️ ⛪ ☦️
+ji du jiao	基督教	✝️ ⛪
+ji du tong ku	极度痛苦	😧
+ji er ji si gong he guo	吉尔吉斯共和国	🇰🇬
+ji er ji si si tan	吉尔吉斯斯坦	🇰🇬
+ji ge	及格	🈴
+ji gong	技工	🧑‍🔧 👨‍🔧 👩‍🔧
+ji guang da yin	激光打印	🖨️
+ji he	几何	🔴 ◼️ ◽ ▪️ 🔲
+ji he tu xing	几何图形	▪️ 🔲
+ji jian	击剑	🤺
+ji jian xuan shou	击剑选手	🤺
+ji jian zhe	击剑者	🤺
+ji jiao	犄角	😈 👿
+ji jiu	急救	🚑
+ji jiu che	急救车	🚑
+ji jun	季军	🥉
+ji ke	极客	🤓
+ji li ba si	基里巴斯	🇰🇮
+ji li ba si gong he guo	基里巴斯共和国	🇰🇮
+ji lu	记录	📓
+ji mei nong yan	挤眉弄眼	😜
+ji nei ya	几内亚	🇬🇳
+ji nei ya bi shao	几内亚比绍	🇬🇼
+ji nei ya bi shao gong he guo	几内亚比绍共和国	🇬🇼
+ji nei ya gong he guo	几内亚共和国	🇬🇳
+ji nian	纪念	🪦
+ji qi ren	机器人	🤖
+ji rou	肌肉	💪
+ji rou	鸡肉	🍗
+ji sheng chong	寄生虫	🪱
+ji shi	计时	⌛ ⏱️ ⏲️
+ji shi ben	记事本	📔 📓 📒 🗒️ 🗓️
+ji shi qi	计时器	⏱️ ⌛ ⏳ ⏲️
+ji shu yuan	技术员	👨‍💻 👩‍💻
+ji suan	计算	🧮
+ji suan ji	计算机	🖥️ 🛜
+ji suan qi	计算器	🧮
+ji ta	吉他	🎸
+ji tou	鸡头	🐔
+ji tui	鸡腿	🍗
+ji tui er	鸡腿儿	🍗
+ji wei jiu	鸡尾酒	🍸
+ji xian	极限	🥏
+ji xian yun dong	极限运动	🥏
+ji xie	机械	⚙️ 🗜️
+ji xie bi	机械臂	🦾
+ji xie shou bi	机械手臂	🦾
+ji xie tui	机械腿	🦿
+ji xin	寄信	📮
+ji xiu	机修	🧰
+ji yin	基因	🧬
+ji you	基友	👬
+ji zhang	击掌	✋ 🖐️ 🫷 🫸 🙌
+ji zhang	机长	👨‍✈️ 👩‍✈️
+ji zhang	记账	📒 🧾
+jia	加	➕
+jia	家	🏠
+jia bing	加冰	🧊
+jia chong	甲虫	🪲
+jia hao	加号	➕
+jia jie	佳节	🎑
+jia ju	夹具	🗜️
+jia ke	夹克	🧥
+jia ke	甲壳	🦐
+jia ke shan	夹克衫	🧥
+jia na	加纳	🇬🇭
+jia na da	加拿大	🇨🇦
+jia na gong he guo	加纳共和国	🇬🇭
+jia na li qun dao	加那利群岛	🇮🇨
+jia peng	加蓬	🇬🇦
+jia qian	价钱	💲
+jia qian	夹钳	🗜️
+jia qiao	甲壳	🦐
+jia qin	家禽	🪿 🍗
+jia qin de tui	家禽的腿	🍗
+jia qin tui	家禽腿	🍗
+jia shi	驾驶	🚙
+jia ting	家庭	👪
+jia xiao	假笑	😏
+jia xin	夹心	🥙
+jia xin bing	夹心饼	🥙
+jia xue qiao	驾雪橇	🛷
+jia ying	家蝇	🪰
+jia you	加油	💪 🙌 ⛽
+jia you zhan	加油站	⛽
+jia zhao	驾照	🪪
+jia zhi liang xie	夹趾凉鞋	🩴
+jia zi	夹子	🪮 📋
+jian	减	➖
+jian	剑	⚔️
+jian bing	煎饼	🥞 🌯
+jian bing guo zi	煎饼馃子	🌯
+jian bu ke cui	坚不可摧	🪨
+jian cai	剪裁	✂️
+jian cha	检查	🛂
+jian cha hu zhao	检查护照	🛂
+jian dan	煎蛋	🍳
+jian dao	剪刀	✂️
+jian dao shou	剪刀手	✌️
+jian die	间谍	🥸 🕵️ 🕵️‍♂️ 🕵️‍♀️
+jian dou	剑斗	🤺
+jian fa	剪发	💇‍♂️ 💇‍♀️
+jian guo	坚果	🥜
+jian guo	煎锅	🥘
+jian hao	减号	➖
+jian jiao	尖叫	😱
+jian jiao	煎饺	🥟
+jian kang	健康	🍎 🫚
+jian luo	溅落	🫟
+jian mo	缄默	😯
+jian pan	键盘	⌨️
+jian pu zhai	柬埔寨	🇰🇭
+jian pu zhai wang guo	柬埔寨王国	🇰🇭
+jian qi	捡起	🫳
+jian qian yan kai	见钱眼开	🤑
+jian ren	剑刃	⚔️
+jian shen	健身	💪
+jian shen fang	健身房	💪
+jian tie ban	剪贴板	📋
+jian tie bu	剪贴簿	📋
+jian tou	剪头	💇‍♂️ 💇‍♀️ 💇
+jian tou fa	剪头发	💇‍♂️ 💇‍♀️
+jian wei	箭尾	🔰
+jian xiao	奸笑	😼
+jian ying	剪影	🗣️ 👤 👥 🫂
+jian zao	建造	👷
+jian zheng	鉴证	🫆
+jian zhu gong	建筑工	👷‍♂️ 👷‍♀️
+jian zhu gong ren	建筑工人	👷 👷‍♂️ 👷‍♀️
+jian zhu shi	建筑师	🧑‍💼 👨‍💼 👩‍💼
+jian zhu shi gong	建筑施工	🏗️
+jian zi	剪子	✂️
+jiang	姜	🫚
+jiang	强	👍
+jiang bei	奖杯	🏆
+jiang guo	浆果	🍓 🫐
+jiang hua	讲话	🗣️
+jiang hua zhe	讲话者	🗣️
+jiang hua zhe de tou bu jian ying	讲话者的头部剪影	🗣️
+jiang jin	奖金	💰
+jiang jun du	将军肚	🫃
+jiang li	奖励	🏆
+jiang luo	降落	🛬
+jiang luo san	降落伞	🪂
+jiang pai	奖牌	🏅
+jiang pin	奖品	🏆
+jiang shang	奖赏	🏆
+jiang shi	僵尸	🧟 🧟‍♂️ 🧟‍♀️
+jiang wen	降温	🪭
+jiang zhang	奖章	🎖️
+jiao	脚	🦶
+jiao ao	骄傲	🦚
+jiao ao de	骄傲的	🥲
+jiao bu	胶布	🩹
+jiao cha	交叉	🤞 ⚔️ 🔀 ❌
+jiao cha de shou zhi	交叉的手指	🤞
+jiao cha jian tou	交叉箭头	🔀
+jiao cha kou	交叉口	🚦
+jiao cha qi	交叉旗	🎌
+jiao che	叫车	🚖
+jiao che	轿车	🚗 🚘 🚙
+jiao du	角度	📐
+jiao hua	狡猾	🥷 🦝
+jiao hua de ren	狡猾的人	🐍
+jiao jing	交警	👮 👮‍♀️
+jiao juan	胶卷	🎞️
+jiao ke shu	教科书	📗
+jiao lv	焦虑	😰 😩 😟 🫦
+jiao nang	胶囊	💊
+jiao pian	胶片	🎞️
+jiao qian fu se	较浅肤色	🏼
+jiao qu	郊区	🏠 🏡
+jiao shen fu se	较深肤色	🏾
+jiao shi	教师	👨‍🏫 👩‍🏫 🧑‍🏫
+jiao shou	教授	🧑‍🏫 👨‍🏫 👩‍🏫
+jiao ta che	脚踏车	🚲 🚴
+jiao tang	教堂	⛪ 💒
+jiao tong	交通	🚸 ⛔ 🚳
+jiao tong deng	交通灯	🚥 🚦
+jiao tong gong ju	交通工具	🛻
+jiao tong xin hao deng	交通信号灯	🚥 🚦
+jiao tou lan e	焦头烂额	😖
+jiao xue lou	教学楼	🏫
+jiao ya	脚丫	🦶
+jiao ya zi	脚丫子	🦶
+jiao yan juan bing	椒盐卷饼	🥨
+jiao yin	脚印	👣
+jiao yu	教育	📔 📗 📘 📙 📚
+jiao zao	焦躁	😩
+jiao zi	饺子	🥟
+jie	结	🪢
+jie chu	接触	🔭 📡
+jie hun	结婚	👰 💒 💍
+jie ji ka	借记卡	💳
+jie jie	姐姐	🧍‍♀️
+jie ke	捷克	🇨🇿
+jie ke gong he guo	捷克共和国	🇨🇿
+jie mu	节目	📺
+jie pou	解剖	🫀
+jie qiu	接球	🤾 🤾‍♀️
+jie ri kuai le	节日快乐	🥳
+jie san	解散	🫳
+jie shao	介绍	💁
+jie shou	接收	📲 📨 📥
+jie shou tian xian	接收天线	📡
+jie shu	结束	🔚
+jie shui	接水	🚰
+jie suo	解锁	🔓 🔐 🔑
+jie ti	阶梯	🪜
+jie wen	接吻	💋 🫦 💏 👩‍❤️‍💋‍👨 👨‍❤️‍💋‍👨 👩‍❤️‍💋‍👩
+jie yue yong shui	节约用水	🚱
+jie yun	捷运	🚇 🚉 🚊
+jie zhi	戒指	💍
+jie zhong	接种	💉
+jie zhu	接住	🫴
+jie zou	节奏	🪘
+jin	禁	🈲
+jin ba bu wei	津巴布韦	🇿🇼
+jin ba bu wei gong he guo	津巴布韦共和国	🇿🇼
+jin bi	金币	🪙
+jin biao sai	锦标赛	⛹️
+jin diu la ji	禁丢垃圾	🚯
+jin fa	金发	👱 👱‍♀️ 👱‍♂️
+jin fa nan	金发男	👱‍♂️
+jin fa nan ren	金发男人	👱‍♂️
+jin fa nan zi	金发男子	👱‍♂️
+jin fa nv	金发女	👱‍♀️ 👱
+jin fa nv ren	金发女人	👱 👱‍♀️
+jin fa nv zi	金发女子	👱 👱‍♀️
+jin gu	紧固	🗜️
+jin guang shan shan	金光闪闪	✨
+jin hua	进化	🧬
+jin ji	紧急	🚨 🦺
+jin jin you wei	津津有味	😋
+jin mao	金毛	🦮
+jin mao quan	金毛犬	🦮
+jin mao xun hui quan	金毛寻回犬	🦮
+jin niu	金牛	♉
+jin niu zuo	金牛座	♉
+jin pai	金牌	🥇
+jin pao	浸泡	🧽
+jin qian	金钱	💰 💲 🫰
+jin qian bao	金钱豹	🐆
+jin qian zhi shang	金钱至上	🤑
+jin ru	禁入	🚫
+jin se tou fa	金色头发	👱 👱‍♀️ 👱‍♂️
+jin shan shan	金闪闪	✨
+jin shi	近视	👓
+jin shi yan	近视眼	👓
+jin shu	金属	🪙
+jin shu li	金属礼	🤘
+jin ta	金塔	⚱️
+jin weng	金瓮	⚱️
+jin xing	禁行	⛔ 🚫
+jin yan	禁烟	🚭
+jin yan	禁言	🤐
+jin yu cao	金鱼草	🪻
+jin zhang	紧张	😰 😅 😟 💗 🫦 💆
+jin zhi	禁止	🚫 🈲
+jin zhi da dian hua	禁止打电话	📵
+jin zhi diu la ji	禁止丢垃圾	🚯
+jin zhi luan diu la ji	禁止乱丢垃圾	🚯
+jin zhi luan reng la ji	禁止乱扔垃圾	🚯
+jin zhi qi che	禁止骑车	🚳
+jin zhi qi xing	禁止骑行	🚳
+jin zhi reng la ji	禁止扔垃圾	🚯
+jin zhi ru nei	禁止入内	⛔
+jin zhi shi ru	禁止驶入	⛔
+jin zhi shi yong shou ji	禁止使用手机	📵
+jin zhi shou shi	禁止手势	🙅 🙅‍♂️ 🙅‍♀️
+jin zhi tong xing	禁止通行	⛔
+jin zhi xi yan	禁止吸烟	🚭
+jin zhi xiang ling	禁止响铃	🔕
+jin zhi xing ren	禁止行人	🚷
+jin zhi xing ren tong xing	禁止行人通行	🚷
+jin zhi zi xing che	禁止自行车	🚳
+jing bao	警报	🚨
+jing cha	警察	👮 👮‍♂️ 👮‍♀️
+jing che	警车	🚓 🚔
+jing che deng	警车灯	🚨
+jing che xuan zhuan deng	警车旋转灯	🚨
+jing deng	警灯	🚨
+jing e	惊愕	🫢
+jing fang	警方	👮 👮‍♀️
+jing gai	井盖	🕳️
+jing gao	警告	⚠️
+jing guan	警官	👮‍♂️ 👮‍♀️ 👮
+jing hao	井号	#️⃣
+jing hua	净化	⚗️
+jing huang	惊慌	🫨
+jing ji chang	竞技场	🏟️
+jing jie shao	警戒哨	🪧
+jing li	敬礼	🫡 🖖
+jing li	经理	🧑‍💼 👨‍💼 👩‍💼
+jing ling	精灵	🧚 🧝‍♂️ 🧝‍♀️
+jing ling zu	精灵族	🧝‍♂️ 🧝‍♀️
+jing mian qiu	镜面球	🪩
+jing qi	惊奇	🫢
+jing sai	竞赛	🏁
+jing se	景色	🪟
+jing shen	敬神	🛐
+jing sheng jian jiao	惊声尖叫	😱
+jing shi	警示	🚨
+jing si	静思	🙇‍♀️
+jing tan hao	惊叹号	❗ ❕
+jing wei	敬畏	🫢
+jing wei	经纬	🌐
+jing wei xian	经纬线	🌐
+jing wen	惊问	⁉️
+jing xi	惊喜	🫨 🎁
+jing xia	惊吓	🤯
+jing xian	经线	🌐
+jing xie	经血	🩸
+jing xue	经血	🩸
+jing ya	惊讶	😮 😲 😯 😦 😧
+jing yin	静音	🔇 🔕
+jing yin ling dang	静音铃铛	🔕
+jing yu	鲸鱼	🐋 🐳
+jing zi	镜子	🪞
+jing zou	竞走	🚶 🚶‍➡️
+jiu	九	9️⃣
+jiu	酒	🍷
+jiu ba	酒吧	🍶 🍷 🍸 🍹 🍺 🍻
+jiu bei	酒杯	🍷 🍶
+jiu chan	纠缠	🦡
+jiu dian	九点	🕘
+jiu dian	酒店	🏨
+jiu dian ban	九点半	🕤
+jiu dian zhong	九点钟	🕘
+jiu guan	酒馆	🏮
+jiu hu che	救护车	🚑
+jiu huo	救火	👨‍🚒 👩‍🚒
+jiu huo che	救火车	🚒
+jiu jie	纠结	😖
+jiu jiu wo	救救我	🆘
+jiu ming	救命	🆘
+jiu sheng	救生	🛟
+jiu sheng quan	救生圈	🛟
+jiu sheng yi	救生衣	🦺
+jiu shi ni	就是你	🫵
+jiu wo	救我	🆘
+jiu yao shi	旧钥匙	🗝️
+jiu yuan	救援	🛟
+jiu zhuo you xi	酒桌游戏	🎲
+jiu zui	酒醉	🥴
+ju	车	🚗
+ju bai qi	举白旗	🏳️
+ju feng	飓风	🌀
+ju gong	鞠躬	🙇 🙇‍♂️ 🙇‍♀️
+ju guai	巨怪	🧌
+ju hei qi	举黑旗	🏴
+ju huang se	橘黄色	🟠 🟧 🔶 🔸
+ju huang se da ling xing	橘黄色大菱形	🔶
+ju huang se ling xing	橘黄色菱形	🔶
+ju huang se xiao ling xing	橘黄色小菱形	🔸
+ju hui	聚会	🥳 👯 👯‍♂️ 👯‍♀️ 🪅 🪩
+ju jiu wu	居酒屋	🏮
+ju jiu wu deng long	居酒屋灯笼	🏮
+ju jue	拒绝	🙅‍♂️ 🙅‍♀️ 🫷 🫸
+ju le bu	俱乐部	🍷 🍸 🍹
+ju long	巨龙	🐉
+ju mao	橘猫	🐈
+ju min qu	居民区	🏘️
+ju qi	举起	🤚
+ju qi de quan tou	举起的拳头	✊
+ju qi de shou	举起的手	✋
+ju qi quan tou	举起拳头	✊
+ju qi shou	举起手	✋
+ju sang	沮丧	🫥 🫤 🙍
+ju se	橘色	🟠 🟧 🧡 📙
+ju se da ling xing	橘色大菱形	🔶
+ju se de shu	橘色的书	📙
+ju se de xin	橘色的心	🧡
+ju se ling xing	橘色菱形	🔶
+ju se shu ben	橘色书本	📙
+ju se xiao ling xing	橘色小菱形	🔸
+ju se xin	橘色心	🧡
+ju shi	巨石	🪨
+ju shou	举手	🙋 🙋‍♂️ 🙋‍♀️
+ju shuang shou	举双手	🙌
+ju xie	巨蟹	♋
+ju xie zuo	巨蟹座	♋
+ju xin	橘心	🧡
+ju xing	矩形	⬛ ⬜
+ju yuan	剧院	🎭 🎦
+ju zhong	举重	🏋️ 🏋️‍♂️ 🏋️‍♀️
+ju zhong yun dong yuan	举重运动员	🏋️‍♂️ 🏋️‍♀️ 🏋️
+ju zhong zhi	举中指	🖕
+ju zi	桔子	🍊
+ju zi	橘子	🍊
+ju zi	锯子	🪚
+juan bian	卷边	📃
+juan bian de zhi	卷边的纸	📃
+juan bing	卷饼	🌮 🌯
+juan fa	卷发	🦱 👨‍🦱 👩‍🦱
+juan fa nv	卷发女	👩‍🦱
+juan fa nv ren	卷发女人	👩‍🦱
+juan fa nv zi	卷发女子	👩‍🦱
+juan mao gou	卷毛狗	🐩
+juan qi	卷起	🗞️
+juan qi de bao zhi	卷起的报纸	🗞️
+juan qu	卷曲	📃
+juan qu huan	卷曲环	➰
+juan rong	倦容	😫
+juan xin cai	卷心菜	🥬
+juan yan	卷烟	🚬
+juan zhi	卷纸	🧻
+juan zhou	卷轴	📜
+jue bu	绝不	😲
+jue dui	绝对	💯
+jue jiang	倔强	🫏
+jue le	绝了	👍
+jue zui	噘嘴	😗 🙎‍♂️ 🙎‍♀️ 🙎
+jue zui de mao	噘嘴的猫	😾
+jue zui de ren	噘嘴的人	🙎‍♂️ 🙎‍♀️
+jue zui mao	噘嘴猫	😾
+jue zui mao lian	噘嘴猫脸	😾
+jun	龟	🐢
+jun dui	军队	🫡 🎖️ 🪖
+jun gong xun zhang	军功勋章	🎖️
+jun gong zhang	军功章	🎖️
+jun jing	军警	🔰
+jun kui	军盔	🪖
+jun lei	菌类	🍄‍🟫
+jun ma	骏马	🐎
+jun ren	军人	🪖
+jun shi	军事	🪖
+jun wei	君威	🫅
+jun yong	军用	🪖
+jun yong tou kui	军用头盔	🪖
+jun zhu	君主	🫅
+jun zi xie ding	君子协定	🤝
+ka che	卡车	🚛 🛻 🚚
+ka fei	咖啡	☕
+ka fei bei	咖啡杯	☕
+ka mai long	喀麦隆	🇨🇲
+ka mai long gong he guo	喀麦隆共和国	🇨🇲
+ka pai	卡牌	🎴
+ka pai suo yin	卡牌索引	📇
+ka pian	卡片	📇 🗃️
+ka pian cun dang he	卡片存档盒	🗃️
+ka pian he	卡片盒	🗃️
+ka pian suo yin	卡片索引	📇
+ka pian suo yin fen ge ka	卡片索引分隔卡	🗂️
+ka pian xiang ji	卡片相机	📷
+ka ta er	卡塔尔	🇶🇦
+ka ta er guo	卡塔尔国	🇶🇦
+kai chuang	开窗	🪟
+kai fa ren yuan	开发人员	👨‍💻 👩‍💻 🧑‍💻
+kai hua	开花	🌼
+kai hua le	开花了	🌼
+kai juan	开卷	📖
+kai kou xiao	开口笑	😃
+kai man qun dao	开曼群岛	🇰🇾
+kai men	开门	🈺
+kai men ying ye	开门营业	🈺
+kai pa	开趴	🥳
+kai qi	开启	🔛
+kai shan guang deng de xiang ji	开闪光灯的相机	📸
+kai shi	开始	▶️ 🔛
+kai shi bo fang	开始播放	▶️
+kai shi lu xiang	开始录像	⏺️
+kai shi lu yin	开始录音	⏺️
+kai shi zhan dou	开始战斗	⚔️
+kai suo	开锁	🔓 🔑
+kai wan xiao	开玩笑	😝 😜
+kai xiang bin	开香槟	🍾
+kai xin	开心	😄 😊
+kai xin de mao	开心的猫	😺
+kai xin mao	开心猫	😺
+kai xin mao lian	开心猫脸	😺
+kai yin pa	开淫趴	🥳
+kai yin pa	开银趴	🥳
+kai zhan	开战	⚔️
+kan	看	👀
+kan bao	看报	📰
+kan bing	看病	🏥
+kan da	坎达	🪯
+kan da fu hao	坎达符号	🪯
+kan dian shi	看电视	📺
+kan dian ying	看电影	🍿
+kan kan	看看	👀
+kang jia gu	康加鼓	🪘
+kang ju	抗拒	🥹
+kao di gua	烤地瓜	🍠
+kao fan shu	烤番薯	🍠
+kao gan shu	烤甘薯	🍠
+kao hong shu	烤红薯	🍠
+kao la	考拉	🐨
+kao mian bao	烤面包	🍞
+kao rou chuan	烤肉串	🥙
+kao shi	考试	💯
+kao yan	烤烟	🚬
+ke	可	🉑
+ke ai	可爱	🩷 🩵
+ke chuan	客船	🛳️
+ke da xing	可达性	🛗
+ke er bai	克尔白	🕋
+ke jie shou	可接受	🉑
+ke ke si	科科斯	🇨🇨
+ke ke si ji lin qun dao	科科斯（基林）群岛	🇨🇨
+ke li po dun dao	克利珀顿岛	🇨🇵
+ke lian	可怜	🥺
+ke lian xi xi	可怜兮兮	🥺
+ke lun	客轮	🛳️
+ke luo di ya	克罗地亚	🇭🇷
+ke luo di ya gong he guo	克罗地亚共和国	🇭🇷
+ke mo luo	科摩罗	🇰🇲
+ke mo luo lian meng	科摩罗联盟	🇰🇲
+ke neng	可能	🤔
+ke pa	可怕	😨 😱 😝
+ke shui	瞌睡	😪
+ke suo wo	科索沃	🇽🇰
+ke suo wo gong he guo	科索沃共和国	🇽🇰
+ke te di wa	科特迪瓦	🇨🇮
+ke te di wa gong he guo	科特迪瓦共和国	🇨🇮
+ke wang	渴望	❤️‍🔥
+ke wei te	科威特	🇰🇼
+ke wei te guo	科威特国	🇰🇼
+ke xue	科学	🦠 🧪 🔬 🔭
+ke xue jia	科学家	🧑‍🔬 👨‍🔬 👩‍🔬
+ke xue shang wang	科学上网	🪜
+ke yi	可以	🙆‍♂️ 🙆‍♀️ 🉑 👌
+ken ni ya	肯尼亚	🇰🇪
+ken ni ya gong he guo	肯尼亚共和国	🇰🇪
+ken qiu	恳求	🥺
+keng	坑	🕳️
+keng dong	坑洞	🕳️
+kong	空	🈳
+kong bu	恐怖	😱 😨 🧛
+kong chao	空巢	🪹
+kong gui	空轨	🚟
+kong ju	恐惧	😨 😱
+kong ju de mao	恐惧的猫	🙀
+kong ju jian jiao	恐惧尖叫	😱
+kong ju mao	恐惧猫	🙀
+kong ju mao lian	恐惧猫脸	🙀
+kong long	恐龙	🦕 🦖
+kong niao chao	空鸟巢	🪹
+kong ping	空瓶	🫙
+kong que	孔雀	🦚
+kong shou dao	空手道	🥋
+kong shou dao fu	空手道服	🥋
+kong wei	空位	🈳
+kong xian	空闲	🈳
+kong xin	空心	❔ ❕
+kong zhi	控制	🎛️
+kong zhi xuan niu	控制旋钮	🎛️
+kong zhong	空中	🚠 🚡
+kong zhong gui dao lie che	空中轨道列车	🚟
+kong zhong lan che	空中缆车	🚡
+kou	口	👄
+kou hong	口红	💄 👄 🫦
+kou shui	口水	🤤 😋
+kou zhao	口罩	😷
+kou zhen	扣针	🧷
+ku	哭	😢 😭
+ku	酷	🆒
+ku ke qun dao	库克群岛	🇨🇰
+ku la suo	库拉索	🇨🇼
+ku le	哭了	😢 😭
+ku lian	哭脸	😢
+ku lou	骷髅	☠️ 💀
+ku lou tou	骷髅头	💀 ☠️
+ku mu	枯木	🪾
+ku qi	哭泣	😢 😭 🥹
+ku qi de mao	哭泣的猫	😿
+ku qi mao	哭泣猫	😿
+ku qi mao lian	哭泣猫脸	😿
+ku shu	枯树	🪾
+ku wei	枯萎	🥀
+ku wei de hua	枯萎的花	🥀
+ku wei de mei gui	枯萎的玫瑰	🥀
+ku xiang	苦相	🙎
+ku xiao	苦笑	😅
+ku zao	枯燥	🪴
+ku zhong zuo le	苦中作乐	🥲
+ku zi	裤子	👖 🩳
+kua bao	挎包	👜
+kua xing bie	跨性别	⚧️ 🏳️‍⚧️ 🌈 🏳️‍🌈
+kua xing bie fu hao	跨性别符号	⚧️
+kua xing bie qi	跨性别旗	🏳️‍⚧️
+kuai can	快餐	🍱 🍟
+kuai can he	快餐盒	🍱
+kuai di	快递	📦
+kuai ji	会计	🧾
+kuai jin	快进	⏩
+kuai jin fu hao	快进符号	⏩
+kuai le	快乐	😹 🤸 🤸‍♂️ 🤸‍♀️
+kuai pao	快跑	🏃 🏃‍➡️
+kuai shang	快上	⏫
+kuai su	快速	⏩
+kuai ting	快艇	🚤
+kuai tui	快退	⏪
+kuai tui fu hao	快退符号	⏪
+kuai xia	快下	⏬
+kuai zi	筷子	🥢
+kuan dai	宽带	🛜
+kuan yan mao	宽檐帽	👒
+kuang	筐	🧺
+kuang feng	狂风	🌬️
+kui fa	匮乏	🤌
+kui jing	窥镜	🪞
+kui shan	葵扇	♠️
+kui shi	窥视	👀
+kui tu yue	亏凸月	🌖
+kun	困	😪 🥱
+kun chong	昆虫	🪲
+kun fa	困乏	😪
+kun huo	困惑	😖
+kun juan	困倦	🫩 😪 🥱
+kun kun	困困	😪
+kun le	困了	🥱 😪 🫩
+kun rao	困扰	😕
+kuo yin qi	扩音器	📣
+la	辣	🥵
+la ba	喇叭	📢 📣
+la ba ba	拉㞎㞎	💩
+la ba tong	喇叭筒	📣
+la bi	蜡笔	🖍️
+la bian bian	拉便便	💩
+la da bian	拉大便	💩
+la ding wen	拉丁文	🔠 🔡 🔤
+la ding zi mu	拉丁字母	🔤
+la ji	垃圾	🗑️ 🚯
+la ji diu qi chu	垃圾丢弃处	🚮
+la ji lou	垃圾篓	🗑️
+la ji ru lou	垃圾入篓	🚮
+la ji ru lou biao zhi	垃圾入篓标志	🚮
+la ji tong	垃圾桶	🗑️
+la jiao	辣椒	🌶️ 🫑
+la la	拉拉	👩‍❤️‍👩
+la mian	拉面	🍜
+la shang la lian	拉上拉链	🤐
+la shi	拉屎	💩
+la shou	拉手	🧑‍🤝‍🧑
+la si	辣死	🥵
+la si le	辣死了	🥵
+la tuo wei ya	拉脱维亚	🇱🇻
+la tuo wei ya gong he guo	拉脱维亚共和国	🇱🇻
+la zhu	蜡烛	🕯️
+lai dian	来电	📲
+lai suo tuo	莱索托	🇱🇸
+lai suo tuo wang guo	莱索托王国	🇱🇸
+lai xin	来信	📨
+lai yi gen	来一根	🚬
+lai yi gen er	来一根儿	🚬
+lan che	缆车	🚠 🚡
+lan guang	蓝光	💿 📀
+lan hua zhi	兰花指	🤌
+lan kuang	篮筐	🏀
+lan lv	蓝绿	🩵
+lan lv se	蓝绿色	🩵
+lan mei	蓝莓	🫐
+lan pi shu	蓝皮书	📘
+lan qiu	篮球	🏀
+lan qiu yun dong yuan	篮球运动员	⛹️‍♂️ ⛹️‍♀️ ⛹️
+lan se	蓝色	🔵 🟦
+lan se da ling xing	蓝色大菱形	🔷
+lan se de shu	蓝色的书	📘
+lan se de xin	蓝色的心	💙 🩵
+lan se ling xing	蓝色菱形	🔷
+lan se shu ben	蓝色书本	📘
+lan se xiao ling xing	蓝色小菱形	🔹
+lan se xin	蓝色心	💙 🩵
+lan xin	蓝心	💙 🩵
+lan zhu	懒猪	🐷
+lan zi	篮子	🧺
+lang	浪	🌊
+lang	狼	🐺
+lang hua	浪花	🌊
+lang lian	狼脸	🐺
+lang tou	狼头	🐺
+lao bing	烙饼	🥞
+lao die	老爹	👨
+lao hu	老虎	🐅 🐯
+lao hu ji	老虎机	🎰
+lao hu lian	老虎脸	🐯
+lao hu tou	老虎头	🐯
+lao lao	姥姥	👵
+lao li	酪梨	🥑
+lao ling	老龄	🧓
+lao ma	老妈	👩
+lao nai nai	老奶奶	👵
+lao nan ren	老男人	🧓
+lao nian ren	老年人	🧓
+lao ren	老人	👴 👵 🧓
+lao shi	老师	🧑‍🏫 👨‍🏫 👩‍🏫
+lao shi yao shi	老式钥匙	🗝️
+lao shu	老鼠	🐁 🐭 🐀
+lao shu jia	老鼠夹	🪤
+lao shu lian	老鼠脸	🐭
+lao shu tou	老鼠头	🐭
+lao tai	老太	👵
+lao tai tai	老太太	👵
+lao tou	老头	👴
+lao tou er	老头儿	👴
+lao wo	老挝	🇱🇦
+lao wo ren min min zhu gong he guo	老挝人民民主共和国	🇱🇦
+lao ya	老鸦	🐦‍⬛
+lao yao shi	老钥匙	🗝️
+lao ye	姥爷	👴
+lao ye ye	老爷爷	👴
+lao ying	老鹰	🦅
+lei	累	😫
+lei bao	雷暴	⛈️
+lei le	累了	🫩 😴
+lei long	雷龙	🦕
+lei qiu	垒球	🥎
+lei ren	类人	🫈
+lei si le	累死了	😩
+lei yun	雷云	🌩️
+lei zhen yu	雷阵雨	⛈️
+leng	冷	🥶
+leng bing bing	冷冰冰	🥶
+leng han	冷汗	😰 😅 😓
+leng lian	冷脸	🥶
+leng mo	冷漠	😐
+leng que	冷却	🧊
+leng si	冷死	🥶
+leng si le	冷死了	🥶
+leng xiao	冷笑	🫠 😏
+leng yin	冷饮	🍹 🧊
+leng zhu	愣住	😳
+li	梨	🍐
+li ba nen	黎巴嫩	🇱🇧
+li ba nen gong he guo	黎巴嫩共和国	🇱🇧
+li bai	礼拜	🛐
+li bi li ya	利比里亚	🇱🇷
+li bi li ya gong he guo	利比里亚共和国	🇱🇷
+li bi ya	利比亚	🇱🇾
+li bi ya guo	利比亚国	🇱🇾
+li bin hua	礼宾花	🎉
+li fa	理发	💇 💇‍♂️ 💇‍♀️
+li fa dian	理发店	💈
+li fa dian zhao pai	理发店招牌	💈
+li fa shi	理发师	💇 💈
+li fu	礼服	🤵‍♂️ 🤵‍♀️
+li hai	厉害	👍
+li hua	礼花	🎆 🎇
+li jing	离境	🛫
+li mao	礼帽	🎩
+li pin	礼品	🎁
+li pin he	礼品盒	🎁
+li qi	立起	🤚
+li tao wan	立陶宛	🇱🇹
+li tao wan gong he guo	立陶宛共和国	🇱🇹
+li tou	理头	💇‍♂️ 💇‍♀️
+li tou fa	理头发	💇‍♂️ 💇‍♀️
+li wu	礼物	🎁
+li wu he	礼物盒	🎁
+li ya	利牙	🧛
+li yu qi	鲤鱼旗	🎏
+li zi	栗子	🌰
+li zi	梨子	🍐
+lia tan hao	俩叹号	‼️
+lian ai	恋爱	👩‍❤️‍👨 💑 👨‍❤️‍👨 👩‍❤️‍👩
+lian bin hu zi	连鬓胡子	🧔
+lian fa shao	脸发烧	🥵
+lian he guo	联合国	🇺🇳
+lian hong	脸红	😳 😊
+lian hua	莲花	🪷
+lian hua zuo	莲花坐	🧘‍♂️ 🧘‍♀️
+lian hua zuo de ren	莲花坐的人	🧘‍♂️ 🧘‍♀️ 🧘
+lian jie	连接	🖇️ 🛜
+lian jie	链接	🔗
+lian min	怜悯	🥺
+lian ti yong yi	连体泳衣	🩱
+lian tiao	链条	⛓️
+lian tui	练腿	🦵
+lian yi qun	连衣裙	👗
+lian zi	链子	⛓️
+liang dian	两点	🕑
+liang dian ban	两点半	🕝
+liang dian zhong	两点钟	🕑
+liang du	亮度	🔅 🔆
+liang du di	亮度低	🔅
+liang du gao	亮度高	🔆
+liang ge	两个	✌️ ‼️
+liang ge nan ren	两个男人	👬
+liang ge nv ren	两个女人	👭
+liang ge qian shou de nan ren	两个牵手的男人	👬
+liang ge qian shou de nv ren	两个牵手的女人	👭
+liang ke xin	两颗心	💕
+liang kuai	凉快	🪭
+liang long	梁龙	🦕
+liang shi	粮食	🌾
+liang ti wen	量体温	🤒
+liang xie	凉鞋	🩴 👡
+liao bo	撩拨	😉
+lie bao	猎豹	🐆
+lie che	列车	🚄 🚅
+lie jiu	烈酒	🥃
+lie zhi dun shi deng	列支敦士登	🇱🇮
+lie zhi dun shi deng gong guo	列支敦士登公国	🇱🇮
+lie zui xiao	咧嘴笑	😁 😆 🤩
+lin yu	淋浴	🚿
+ling	零	0️⃣
+ling dai	领带	👔
+ling dang	铃铛	🔔
+ling jian	零件	⚙️
+ling jiu	灵柩	⚰️
+ling mu	陵墓	⚰️
+ling qian bao	零钱包	👛
+ling qu xing li	领取行李	🛄
+ling sheng	铃声	🔔
+ling xia	零下	🥶
+ling xing	菱形	🔶 🔷 🔸 🔹 💠
+liu	六	6️⃣
+liu bing	溜冰	⛸️ 🛼
+liu bing xie	溜冰鞋	⛸️ 🛼
+liu chu	流出	🫗
+liu dian	六点	🕕
+liu dian ban	六点半	🕡
+liu dian zhong	六点钟	🕕
+liu jiao xing	六角星	🔯 ✡️
+liu kou shui	流口水	🤤
+liu lei	流泪	😢 😭
+liu liu liu	六六六	🤙
+liu liu qiu	溜溜球	🪀
+liu mang xing	六芒星	✡️ 🔯
+liu ni wang	留尼汪	🇷🇪
+liu shi	溜石	🥌
+liu tong	流通	💱
+liu xie	流血	🩸
+liu xing	流星	🌠
+liu xue	流血	🩸
+liu yan lei	流眼泪	😢 😭
+long	龙	🐉 🐲
+long juan feng	龙卷风	🌪️
+long tou	龙头	🐲
+long wang	龙王	🐲
+long xia	龙虾	🦞
+long zi	聋子	🧏‍♂️ 🧏‍♀️
+lou chi	露齿	😬
+lou chi er xiao	露齿而笑	😄 😁 😬
+lou chi xiao	露齿笑	😃 🤩
+lu	鹿	🦌
+lu chi er xiao	露齿而笑	😄 😁 😬
+lu chi xiao	露齿笑	😃 🤩
+lu gui	陆龟	🐢
+lu jiao	鹿角	🫎
+lu ren	路人	🚶‍♀️ 🚶‍♀️‍➡️
+lu sen bao	卢森堡	🇱🇺
+lu sen bao da gong guo	卢森堡大公国	🇱🇺
+lu wang da	卢旺达	🇷🇼
+lu wang da gong he guo	卢旺达共和国	🇷🇼
+lu xiang	录像	⏺️ 🎥 📹
+lu xiang an niu	录像按钮	⏺️
+lu xiang dai	录像带	📼
+lu xiang ji	录像机	📹
+lu yin	录音	⏺️
+lu yin an niu	录音按钮	⏺️
+lu yin mai ke feng	录音麦克风	🎙️
+lu yin shi	录音室	🎙️
+lu yin shi mai ke feng	录音室麦克风	🎙️
+lu ying	录影	📹
+lu ying	露营	🏕️
+lu ying dai	录影带	📼
+lu zhang	路障	🚧
+lu zhi	录制	⏺️
+luan jiang	乱讲	🤥
+luan sheng zi	孪生子	♊
+lun chuan	轮船	🚢 ⛴️
+lun du	轮渡	⛴️
+lun dun	伦敦	💂
+lun hua	轮滑	🛼
+lun hua xie	轮滑鞋	🛼
+lun pan	轮盘	☸️
+lun shi	轮式	🛼
+lun tai	轮胎	🛞
+lun yi	轮椅	🦽 ♿
+lun yi biao zhi	轮椅标志	♿
+lun zi	轮子	🛞
+luo bo	萝卜	🫜
+luo ding	螺钉	🔩
+luo hua sheng	落花生	🥜
+luo ma ni ya	罗马尼亚	🇷🇴
+luo man shi	罗曼史	💐
+luo mao	螺帽	🔩
+luo mu	螺母	🔩
+luo mu he luo shuan	螺母和螺栓	🔩
+luo mu ji luo shuan	螺母及螺栓	🔩
+luo mu luo shuan	螺母螺栓	🔩
+luo mu yu luo shuan	螺母与螺栓	🔩
+luo na er duo	罗纳尔多	⚽
+luo pan	罗盘	🧭
+luo ri	落日	🌇
+luo sai hu	络腮胡	🧔
+luo shuan	螺栓	🔩
+luo si	螺丝	🪛 🔩
+luo si ban shou	螺丝扳手	🔧
+luo si dao	螺丝刀	🪛
+luo tuo	骆驼	🐪 🐫
+luo xuan	螺旋	🐚
+luo ye	落叶	🍂
+luo ye shu	落叶树	🌳
+luo zi	骡子	🫏
+lv	驴	🫏
+lv cai hua	绿菜花	🥦
+lv dian	旅店	🏨
+lv er	驴儿	🫏
+lv guan	旅馆	🏨 🏩
+lv hua ye cai	绿花椰菜	🥦
+lv ke	旅客	🛳️ ⛴️ 🚢
+lv pi huo che	绿皮火车	🚆
+lv pi shu	绿皮书	📗
+lv ping guo	绿苹果	🍏
+lv se	绿色	🟢 🟩 🍋‍🟩 📗
+lv se de shu	绿色的书	📗
+lv se de xin	绿色的心	💚
+lv se sha la	绿色沙拉	🥗
+lv se shu ben	绿色书本	📗
+lv se shu cai	绿色蔬菜	🥗
+lv se xin	绿色心	💚
+lv xin	绿心	💚
+lv xing	旅行	✈️
+lv ye shu cai	绿叶蔬菜	🥬
+lv zi	驴子	🫏
+lve duo	掠夺	🏴‍☠️
+lve lve lve	略略略	😛 😜 😝
+ma	马	🐎 🐴
+ma biao	码表	⏱️
+ma chu	码畜	👨‍💻 👩‍💻
+ma da jia si jia	马达加斯加	🇲🇬
+ma da jia si jia gong he guo	马达加斯加共和国	🇲🇬
+ma dai cha	马黛茶	🧉
+ma en dao	马恩岛	🇮🇲
+ma er	马儿	🐴 🐎
+ma er dai fu	马尔代夫	🇲🇻
+ma er dai fu gong he guo	马尔代夫共和国	🇲🇻
+ma er ta	马耳他	🇲🇹
+ma er ta gong he guo	马耳他共和国	🇲🇹
+ma er wei na si qun dao	马尔维纳斯群岛	🇫🇰
+ma jiang	麻将	🀄
+ma la song	马拉松	🏃‍♂️ 🏃‍♀️ 🏃 🏃‍➡️ 🏃‍♀️‍➡️ 🏃‍♂️‍➡️
+ma la wei	马拉维	🇲🇼
+ma la wei gong he guo	马拉维共和国	🇲🇼
+ma la xiao long xia	麻辣小龙虾	🦞
+ma lai xi ya	马来西亚	🇲🇾
+ma li	玛丽	🪬
+ma li	马里	🇲🇱
+ma li gong he guo	马里共和国	🇲🇱
+ma lian	马脸	🐴
+ma ling shu	马铃薯	🥔
+ma liu	马骝	🐒
+ma lu	马鹿	🫎
+ma ma	妈妈	👩 👩‍🍼
+ma mi	妈咪	👩‍🍼
+ma nong	码农	👨‍💻 👩‍💻 🧑‍💻
+ma ren	骂人	🤬
+ma shang	马上	🔜
+ma shao er qun dao	马绍尔群岛	🇲🇭
+ma ti ni ke	马提尼克	🇲🇶
+ma ti tie	马蹄铁	🧲
+ma tong	马桶	🚽
+ma tong chou zi	马桶抽子	🪠
+ma tong chuai	马桶搋	🪠
+ma tong chuai zi	马桶搋子	🪠
+ma tong sai	马桶塞	🪠
+ma tong shu tong qi	马桶疏通器	🪠
+ma tong xi	马桶吸	🪠
+ma tong xi ba	马桶吸把	🪠
+ma tong xi pan	马桶吸盘	🪠
+ma tou	马头	🐴
+ma xi	马戏	🎪
+ma xi tuan	马戏团	🎪
+ma xi tuan zhang peng	马戏团帐篷	🎪
+ma xian	麻线	🪢
+ma yi	蚂蚁	🐜
+ma yue te	马约特	🇾🇹
+mai	霾	🌫️
+mai dian	卖点	🪝
+mai ke	麦克	🎙️ 🎤
+mai ke feng	麦克风	🎤 🎙️
+mai nong	卖弄	🦚
+mai zang	埋葬	⚰️
+man	满	🈵
+man bu	漫步	🚶‍♀️ 🚶‍♀️‍➡️
+man fen	满分	💯
+man hua	漫画	💬
+man hua jia	漫画家	👨‍🎨 👩‍🎨
+man jing	蔓菁	🫜
+man le	满了	🈵
+man mian han shuang	满面寒霜	🥶
+man tian xing	满天星	🤩
+man tun tun	慢吞吞	🦥
+man yi	满意	😊
+man yue	满月	🌕 🌝
+man zuo	满座	🈵
+mang guo	芒果	🥭
+mang ran	茫然	😑 😳
+mang ren	盲人	👨‍🦯 👩‍🦯 🦮 🦯 👨‍🦯‍➡️ 👩‍🦯‍➡️
+mang wan le	忙完了	💅
+mang zhang	盲杖	🦯
+mao	猫	🐱 🐈
+mao	锚	⚓
+mao bi	毛笔	🖌️
+mao chong	毛虫	🐛
+mao dou	毛豆	🫛
+mao han	冒汗	😅 😰 😓 🥵
+mao han jiao lv	冒汗焦虑	😰
+mao ke	猫科	🐈‍⬛
+mao leng han	冒冷汗	😓
+mao li qiu si	毛里求斯	🇲🇺
+mao li qiu si gong he guo	毛里求斯共和国	🇲🇺
+mao li ta ni ya	毛里塔尼亚	🇲🇷
+mao li ta ni ya yi si lan gong he guo	毛里塔尼亚伊斯兰共和国	🇲🇷
+mao lian	猫脸	🐱
+mao mao chong	毛毛虫	🐛
+mao mi	猫咪	🐱 🐈
+mao niu	牦牛	🦬
+mao re qi de wan	冒热气的碗	🍜
+mao rong rong	毛茸茸	🐩 🐑
+mao rong wan ju	毛绒玩具	🧸
+mao tou	猫头	🐱
+mao tou ying	猫头鹰	🦉
+mao wu	茅屋	🛖
+mao xian	毛线	🧶
+mao xian qiu	毛线球	🧶
+mao xiong	猫熊	🐼
+mao zi	帽子	🎩 🥳 👲 👒 🧢
+me me	么么	💋
+me me da	么么哒	💋
+mei chao	美钞	💵
+mei dao	美刀	💵 💲
+mei fa	美发	💇
+mei gui	玫瑰	🌹
+mei gui hua	玫瑰花	🌹
+mei gui hua jie	玫瑰花结	🏵️
+mei guo	美国	🇺🇸
+mei guo ben tu wai xiao dao yu	美国本土外小岛屿	🇺🇲
+mei hua	梅花	♣️
+mei hua xing	梅花形	💠
+mei jia	美甲	💅
+mei ke neng	没可能	😲
+mei li	美丽	🦋
+mei li jian	美利坚	🇺🇸
+mei li jian he zhong guo	美利坚合众国	🇺🇸
+mei li li ya	梅利利亚	🇪🇦
+mei mao	眉毛	🥸
+mei mao shang tiao	眉毛上挑	🤨
+mei mao shang tiao de lian	眉毛上挑的脸	🤨
+mei mei	妹妹	🧍‍♀️
+mei nan yu	美男鱼	🧜‍♂️
+mei ren yu	美人鱼	🧜‍♀️
+mei rong	美容	💆‍♂️ 💆‍♀️ 💆 💇
+mei rong mei fa	美容美发	💇‍♂️ 💇‍♀️
+mei rong yuan	美容院	💇
+mei shi gan lan qiu	美式橄榄球	🏈
+mei shi zu qiu	美式足球	🏈
+mei shu	美术	🎨
+mei shu sa mo ya	美属萨摩亚	🇦🇸
+mei shu wei er jing qun dao	美属维尔京群岛	🇻🇮
+mei wei	美味	😋
+mei wen ti	没问题	👌
+mei xi	梅西	⚽
+mei yan	媚眼	😉
+mei you	没有	🈚
+mei you fan ying	没有反应	😑
+mei you kong wei	没有空位	🈵
+mei you zui	没有嘴	😶
+mei you zui ba	没有嘴巴	😶
+mei yuan	美元	💵 💲
+mei yuan chao piao	美元钞票	💵
+mei yue	眉月	🌒 🌘
+mei zhou	美洲	🌎
+mei zhou di qiu yi	美洲地球仪	🌎
+mei zhou tuo	美洲鸵	🦙
+mei zui	没嘴	😶
+men	门	🚪
+men piao	门票	🎫 🎟️
+men song	门松	🎍
+men suo	门锁	🔒 🔓
+men zi	门子	🚪
+meng gu	蒙古	🇲🇳
+meng gu bao	蒙古包	🛖
+meng gu guo	蒙古国	🇲🇳
+meng huan	梦幻	🔮
+meng jia la	孟加拉	🇧🇩
+meng jia la guo	孟加拉国	🇧🇩
+meng ma	猛犸	🦣
+meng ma xiang	猛犸象	🦣
+meng te sai la te	蒙特塞拉特	🇲🇸
+meng yan	蒙眼	🙈
+meng yan jing	蒙眼睛	🙈
+meng yao tou	猛摇头	🫨
+meng zhu yan jing	蒙住眼睛	🙈
+mi	秘	㊙️
+mi bing	米饼	🍘
+mi fan	米饭	🍚
+mi feng	蜜蜂	🐝
+mi gua	蜜瓜	🍈
+mi guan	蜜罐	🍯
+mi guo	米果	🍘
+mi hou tao	猕猴桃	🥝
+mi hu	迷糊	😵‍💫
+mi huan	蜜獾	🦡
+mi ju	蜜橘	🍊
+mi ke luo ni xi ya	密克罗尼西亚	🇫🇲
+mi lian	迷恋	🥰
+mi lu	麋鹿	🦌 🫎
+mi ma	密码	🔑
+mi mang	迷茫	😶‍🌫️
+mi mi	秘密	🤐 ㊙️ 🤭 😶 🙊 🥷
+mi ni guang die	迷你光碟	💽
+mi ni guang pan	迷你光盘	💽
+mi wang	迷惘	🫤
+mi yan	眯眼	😝 😆
+mi yan tu she	眯眼吐舌	😝
+mi yan xiao	眯眼笑	😆
+mi yao	密钥	🔐 🔑
+mi yue	密钥	🔐 🔑
+mi zhu	迷住	🫣
+mian bao	面包	🍞
+mian bao che	面包车	🚐
+mian bao dian	面包店	🧁
+mian bao quan	面包圈	🥯
+mian bing	面饼	🫓
+mian bu	面部	💆
+mian dian	缅甸	🇲🇲
+mian dian lian bang	缅甸联邦	🇲🇲
+mian dian lian bang gong he guo	缅甸联邦共和国	🇲🇲
+mian fei	免费	🆓 🈚
+mian fei dian hua	免费电话	➿
+mian ju	面具	🎭 👹
+mian tian	腼腆	🪭
+mian tiao	面条	🍜
+mian wu biao qing	面无表情	😑 😐
+mian yang	绵羊	🐑
+miao	喵	🐱
+miao biao	秒表	⏱️
+miao miao	喵喵	🐱
+miao miao jiao	喵喵叫	🐱
+miao miao miao	喵喵喵	🐱
+miao xing ren	喵星人	🐈‍⬛
+miao yu	庙宇	🛕
+mie huo	灭火	🧯
+mie huo qi	灭火器	🧯
+mie jue	灭绝	🦣 🦤
+min jian chuan shuo	民间传说	🧜
+ming jiao	鸣叫	🪿
+ming liang	明亮	🔆
+ming pai	名牌	📛
+ming xiang	冥想	🧘‍♂️ 🧘‍♀️ 🙇 🧘
+ming xing	明星	🧑‍🎤 👨‍🎤 👩‍🎤
+ming yun	命运	🔮 🔯
+ming zhong	命中	🎯
+mo	无	🈚
+mo ai shi xiang	摩艾石像	🗿
+mo bang	魔棒	🪄
+mo er duo wa	摩尔多瓦	🇲🇩
+mo er duo wa gong he guo	摩尔多瓦共和国	🇲🇩
+mo fa	魔法	🧝 🔮 🪄
+mo fa bang	魔法棒	🪄
+mo fa shang wang	魔法上网	🪜
+mo fa shi	魔法师	🧙‍♂️ 🧙‍♀️
+mo fa zhen	魔法阵	🔯
+mo fang	模仿	🦜
+mo gu	蘑菇	🍄
+mo gui	魔鬼	😈 👿 👹
+mo huan	魔幻	🧝
+mo jie	摩羯	♑
+mo jie zuo	摩羯座	♑
+mo jing	墨镜	🕶️ 😎
+mo jing	魔镜	🪞
+mo jing xiao lian	墨镜笑脸	😎
+mo luo ge	摩洛哥	🇲🇦
+mo luo ge wang guo	摩洛哥王国	🇲🇦
+mo na ge	摩纳哥	🇲🇨
+mo na ge gong guo	摩纳哥公国	🇲🇨
+mo sang bi ke	莫桑比克	🇲🇿
+mo sang bi ke gong he guo	莫桑比克共和国	🇲🇿
+mo shu	魔术	🪄
+mo shu shi	魔术师	🧙‍♂️ 🧙‍♀️ 🧙 🪄
+mo tian lun	摩天轮	🎡
+mo tuo	摩托	🏍️
+mo tuo che	摩托车	🏍️
+mo tuo ting	摩托艇	🛥️
+mo xi ge	墨西哥	🇲🇽
+mo xi ge bao bing juan	墨西哥薄饼卷	🌮
+mo xi ge bo bing juan	墨西哥薄饼卷	🌮
+mo xi ge he zhong guo	墨西哥合众国	🇲🇽
+mo xi ge juan bing	墨西哥卷饼	🌮 🌯
+mo xi ge zong	墨西哥粽	🫔
+mo xi ge zong zi	墨西哥粽子	🫔
+mo yu	墨鱼	🦑
+mo zhang	魔杖	🪄
+mo zhou	魔咒	🧙
+mu bei	墓碑	🪦
+mu cai	木材	🪵 🪚
+mu chang zhu ren	牧场主人	👨‍🌾 👩‍🌾
+mu chu	母畜	🦫
+mu deng kou dai	目瞪口呆	😦
+mu di	墓地	🪦
+mu fa	木筏	🚣
+mu guan yue qi	木管乐器	🪈
+mu jiang	木匠	🪚
+mu jin	木槿	🌺
+mu jin hua	木槿花	🌺
+mu li	牡蛎	🦪
+mu lu	目录	📇
+mu ma	木马	🎠
+mu niu	母牛	🐮
+mu nv	母女	👩‍👧
+mu qin	母亲	👩 👩‍🍼
+mu ru	母乳	🤱
+mu ru wei yang	母乳喂养	🤱
+mu sai	木塞	🍾
+mu se	暮色	🌆
+mu se zhong de cheng shi	暮色中的城市	🌆
+mu si lin	穆斯林	🧕 🕌 🕋 ☪️
+mu tong	木桶	🪣
+mu tou	木头	🪵
+mu xu	苜蓿	☘️
+mu yang	母羊	🐑
+mu yang zuo	牡羊座	♈
+mu ying shi	母婴室	🚼
+mu yu	沐浴	🛁
+mu yu lu	沐浴露	🧴
+mu yuan	墓园	🪦
+mu zhi	拇指	👍 👎
+mu zhi chao shang	拇指朝上	👍
+mu zhi chao xia	拇指朝下	👎
+mu zhi xiang shang	拇指向上	👍 👎
+mu zhuang	木桩	🪵
+mu zi	母子	👩‍👦
+na hua mian tai mei wo bu gan kan	那画面太美我不敢看	🫣
+na mi bi ya	纳米比亚	🇳🇦
+na mi bi ya gong he guo	纳米比亚共和国	🇳🇦
+na qi	拿起	🫳
+na zhe	拿着	🫴
+na zhe bai shou zhang de ren	拿着白手杖的人	👨‍🦯 👩‍🦯
+nai ba	奶爸	👨‍🍼
+nai cha	奶茶	🧋
+nai huang	奶黄	🍮
+nai lao	奶酪	🧀 🫕 🪤
+nai lao huo guo	奶酪火锅	🫕
+nai ma	奶妈	👩‍🍼
+nai nai	奶奶	👵
+nai niu	奶牛	🐄
+nai ping	奶瓶	🍼
+nai you	奶油	🍨 🍰
+nan	男	♂️
+nan bai ling	男白领	👨‍💼
+nan ban gong shi zhi yuan	男办公室职员	👨‍💼
+nan ce	男厕	🚹
+nan ce suo	男厕所	🚹
+nan chao ji da fan pai	男超级大反派	🦹‍♂️
+nan chao ji ying xiong	男超级英雄	🦸‍♂️
+nan chao ren	男超人	🦸‍♂️
+nan chao xian	南朝鲜	🇰🇷
+nan chen shan	男衬衫	👕
+nan cheng xu yuan	男程序员	👨‍💻
+nan chu shi	男厨师	👨‍🍳
+nan da fan pai	男大反派	🦹‍♂️
+nan dai fu	男大夫	👨‍⚕️
+nan deng shen	男灯神	🧞‍♂️
+nan dian gong	男电工	👨‍🔧
+nan fa guan	男法官	👨‍⚖️
+nan fa shi	男法师	🧙‍♂️
+nan fan pai	男反派	🦹‍♂️
+nan fei	南非	🇿🇦
+nan fei gong he guo	南非共和国	🇿🇦
+nan fei xing yuan	男飞行员	👨‍✈️
+nan fu wu sheng	男服务生	💁‍♂️
+nan fu wu yuan	男服务员	💁‍♂️
+nan ge shou	男歌手	👨‍🎤
+nan gong chang gong ren	男工厂工人	👨‍🏭
+nan gong ren	男工人	👨‍🏭 👷‍♂️
+nan gua	南瓜	🎃
+nan gua deng	南瓜灯	🎃
+nan gua tou	南瓜头	🎃
+nan guo	难过	😞 😿
+nan guo dan shi ran	难过但释然	😥
+nan hai	男孩	👦
+nan han	南韩	🇰🇷
+nan hua jia	男画家	👨‍🎨
+nan hua xue jia	男化学家	👨‍🔬
+nan huai dan	男坏蛋	🦹‍♂️
+nan ji	南极	🐧
+nan ji gong	男技工	👨‍🔧
+nan ji shu yuan	男技术员	👨‍💻
+nan ji zhou	南极洲	🇦🇶
+nan jian zhu gong	男建筑工	👷‍♂️
+nan jian zhu gong ren	男建筑工人	👷‍♂️
+nan jiang shi	男僵尸	🧟‍♂️
+nan jiao shi	男教师	👨‍🏫
+nan jing cha	男警察	👮‍♂️
+nan jing guan	男警官	👮‍♂️
+nan jing ling	男精灵	🧝‍♂️ 🧚‍♂️
+nan ju zhong yun dong yuan	男举重运动员	🏋️‍♂️
+nan kai fa ren yuan	男开发人员	👨‍💻
+nan ke xue jia	男科学家	👨‍🔬
+nan lao shi	男老师	👨‍🏫
+nan ma chu	男码畜	👨‍💻
+nan ma nong	男码农	👨‍💻
+nan man hua jia	男漫画家	👨‍🎨
+nan mo fa shi	男魔法师	🧙‍♂️
+nan mo shu shi	男魔术师	🧙‍♂️ 🧙
+nan nong min gong	男农民工	👷‍♂️
+nan qiao zhi ya he nan sang wei qi qun dao	南乔治亚和南桑威奇群岛	🇬🇸
+nan ren	男人	👨
+nan ren huai yun	男人怀孕	🫃
+nan ren yu	男人鱼	🧜‍♂️
+nan sang shi	男丧尸	🧟‍♂️
+nan sheng chong lang	男生冲浪	🏄‍♂️
+nan sheng ju zhong	男生举重	🏋️‍♂️
+nan sheng wan shui qiu	男生玩水球	🤽‍♂️
+nan sheng you yong	男生游泳	🏊‍♂️
+nan shi	男士	🚹
+nan shi biao zhi	男士标志	🚹
+nan shi chen shan	男士衬衫	👕
+nan shi fu hao	男士符号	🚹
+nan shou	难受	😣 😧
+nan shui guan gong	男水管工	👨‍🔧
+nan su dan	南苏丹	🇸🇸
+nan su dan gong he guo	南苏丹共和国	🇸🇸
+nan tong	男同	👨‍❤️‍👨
+nan tong xing lian	男同性恋	👨‍❤️‍👨
+nan wei bing	男卫兵	💂‍♂️
+nan wei shi	男卫士	💂‍♂️
+nan wu	男巫	🧙‍♂️ 🧙
+nan xi shou jian	男洗手间	🚹
+nan xi xie gui	男吸血鬼	🧛‍♂️
+nan xi xue gui	男吸血鬼	🧛‍♂️
+nan xiao fang yuan	男消防员	👨‍🚒
+nan xie	男鞋	👞
+nan xin niang	男新娘	👰‍♂️
+nan xing	男性	♂️
+nan xing shi zou rou	男行尸走肉	🧟‍♂️
+nan xiu li gong	男修理工	👨‍🔧
+nan xue sheng	男学生	👨‍🎓
+nan yan yuan	男演员	👨‍🎤
+nan yao gun ge shou	男摇滚歌手	👨‍🎤
+nan yi hu ren yuan	男医护人员	👨‍⚕️
+nan yi sheng	男医生	👨‍⚕️
+nan yi shu jia	男艺术家	👨‍🎨
+nan yi zhi xin	难以置信	😳 🤦 🤦‍♂️ 🤦‍♀️
+nan yu hang yuan	男宇航员	👨‍🚀
+nan zai	男仔	🧍‍♂️
+nan zhen tan	男侦探	🕵️‍♂️
+nan zhi yuan	男职员	👨‍💼
+nao	脑	🧠
+nao bao zha	脑爆炸	🤯
+nao biao	闹表	⏰
+nao dai bao zha	脑袋爆炸	🤯
+nao hua	脑花	🧠
+nao huo	恼火	🙍
+nao lu	瑙鲁	🇳🇷
+nao lu gong he guo	瑙鲁共和国	🇳🇷
+nao nu	恼怒	🤦 🤦‍♂️ 🤦‍♀️
+nao zhong	闹钟	⏰
+nao zi	脑子	🧠
+nao zi bao zha	脑子爆炸	🤯
+nei bu	内部	💠
+nei ku	内裤	🩲 🩳
+nei xiang	内向	🫥
+nei xin huo dong qi pao	内心活动气泡	💭
+nei yi	内衣	👙
+nen miao	嫩苗	🌱
+ni bo er	尼泊尔	🇳🇵
+ni de lan	尼德兰	🇳🇱
+ni gu	尼姑	👩‍🦲 🧘‍♀️
+ni hao	你好	👋
+ni ji jing	逆戟鲸	🫍
+ni jia la gua	尼加拉瓜	🇳🇮
+ni jia la gua gong he guo	尼加拉瓜共和国	🇳🇮
+ni ma si le	你妈死了	🤬
+ni ri er	尼日尔	🇳🇪
+ni ri er gong he guo	尼日尔共和国	🇳🇪
+ni ri li ya	尼日利亚	🇳🇬
+ni ri li ya lian bang	尼日利亚联邦	🇳🇬
+ni ri li ya lian bang gong he guo	尼日利亚联邦共和国	🇳🇬
+ni shi zhen	逆时针	🔄
+ni shi zhen chui zhi jian tou	逆时针垂直箭头	🔄
+ni shi zhen fang xiang	逆时针方向	🔄
+ni zi ji	你自己	🫵
+nian lao	年老	🦳
+nian qing ren	年轻人	🧒
+nian tu	黏土	🧱
+nian zhu	念珠	📿
+niao	鸟	🐦
+niao chao	鸟巢	🪺 🪹
+niao dan	鸟蛋	🪺
+niao lei xue	鸟类学	🐦
+niao tou	鸟头	🐦
+nie chi	啮齿	🐹
+nie he	捏合	🤌
+nie shou zhi	捏手指	🤌
+nie zhe	捏着	🤏
+nin hao	您好	🫂
+ning meng	柠檬	🍋
+ning shi	凝视	🫣
+niu	牛	🐮
+niu ai	纽埃	🇳🇺
+niu bi	牛逼	👍
+niu da	扭打	🫯
+niu jiao mian bao	牛角面包	🥐
+niu lian	牛脸	🐮
+niu nai	牛奶	🥛 🧈 🧋
+niu nai bei	牛奶杯	🥛
+niu niu	牛牛	🐮
+niu pai	牛排	🥩
+niu qu	扭曲	🫪
+niu tou	牛头	🐮
+niu you	牛油	🧈
+niu you guo	牛油果	🥑
+niu yue	纽约	🗽
+niu zai	牛仔	🤠
+niu zai ku	牛仔裤	👖
+niu zai mao	牛仔帽	🤠
+niu zai mao lian	牛仔帽脸	🤠
+nong fu	农夫	👨‍🌾
+nong fu	农妇	👩‍🌾
+nong min	农民	🧑‍🌾 👨‍🌾 👩‍🌾
+nong min gong	农民工	👷‍♂️ 👷‍♀️
+nong tang	浓汤	🦞
+nong zuo	农作	🧺
+nong zuo wu	农作物	🌽
+nu	怒	💢 😡 😠
+nu huo zhong shao	怒火中烧	😡
+nu li	努力	💪
+nu shi	怒视	🙎
+nuo fu ke dao	诺福克岛	🇳🇫
+nuo mi tuan	糯米团	🍡
+nuo wei	挪威	🇳🇴
+nuo wei wang guo	挪威王国	🇳🇴
+nv	女	♀️
+nv bai ling	女白领	👩‍💼
+nv ban gong shi zhi yuan	女办公室职员	👩‍💼
+nv bao	女包	👜
+nv ce	女厕	🚺
+nv ce suo	女厕所	🚺
+nv chao ji da fan pai	女超级大反派	🦹‍♀️
+nv chao ji ying xiong	女超级英雄	🦸‍♀️
+nv chao ren	女超人	🦸‍♀️ 🦸
+nv chen shan	女衬衫	👚
+nv cheng xu yuan	女程序员	👩‍💻
+nv chu shi	女厨师	👩‍🍳
+nv da fan pai	女大反派	🦹‍♀️
+nv dai fu	女大夫	👩‍⚕️
+nv deng shen	女灯神	🧞‍♀️
+nv dian gong	女电工	👩‍🔧
+nv er	女儿	👧
+nv fa guan	女法官	👩‍⚖️
+nv fa shi	女法师	🧙‍♀️
+nv fan pai	女反派	🦹‍♀️
+nv fei xing yuan	女飞行员	👩‍✈️
+nv fu wu sheng	女服务生	💁‍♀️
+nv fu wu yuan	女服务员	💁‍♀️
+nv ge shou	女歌手	👩‍🎤
+nv gong chang gong ren	女工厂工人	👩‍🏭
+nv gong ren	女工人	👩‍🏭 👷‍♀️
+nv hai	女孩	👧
+nv hua jia	女画家	👩‍🎨
+nv hua xue jia	女化学家	👩‍🔬
+nv huai dan	女坏蛋	🦹‍♀️
+nv huang	女皇	👸
+nv ji gong	女技工	👩‍🔧
+nv ji shu yuan	女技术员	👩‍💻
+nv jian zhu gong	女建筑工	👷‍♀️
+nv jian zhu gong ren	女建筑工人	👷‍♀️
+nv jiang shi	女僵尸	🧟‍♀️
+nv jiao shi	女教师	👩‍🏫
+nv jing cha	女警察	👮‍♀️
+nv jing guan	女警官	👮‍♀️
+nv jing ling	女精灵	🧝‍♀️ 🧚‍♀️
+nv ju zhong yun dong yuan	女举重运动员	🏋️‍♀️
+nv kai fa ren yuan	女开发人员	👩‍💻
+nv ke xue jia	女科学家	👩‍🔬
+nv lao shi	女老师	👩‍🏫
+nv ma chu	女码畜	👩‍💻
+nv ma nong	女码农	👩‍💻
+nv man hua jia	女漫画家	👩‍🎨
+nv mao	女帽	👒
+nv mo fa shi	女魔法师	🧙‍♀️
+nv mo shu shi	女魔术师	🧙‍♀️ 🧙
+nv nong min gong	女农民工	👷‍♀️
+nv ren	女人	👩
+nv sang shi	女丧尸	🧟‍♀️
+nv sheng chong lang	女生冲浪	🏄‍♀️
+nv sheng ju zhong	女生举重	🏋️‍♀️
+nv sheng wan shui qiu	女生玩水球	🤽‍♀️
+nv sheng you yong	女生游泳	🏊‍♀️
+nv shi	女士	🚺
+nv shi	女式	👒
+nv shi biao zhi	女士标志	🚺
+nv shi chen shan	女士衬衫	👚
+nv shi fu hao	女士符号	🚺
+nv shi liang xie	女式凉鞋	👡
+nv shi qian bao	女士钱包	👛
+nv shui guan gong	女水管工	👩‍🔧
+nv tong	女同	👩‍❤️‍👩
+nv tong xing lian	女同性恋	👩‍❤️‍👩
+nv wang	女王	👸
+nv wei bing	女卫兵	💂‍♀️
+nv wei shi	女卫士	💂‍♀️
+nv wu	女巫	🧙‍♀️ 🧙 🪄 🧹
+nv xi shou jian	女洗手间	🚺
+nv xi xie gui	女吸血鬼	🧛‍♀️
+nv xi xue gui	女吸血鬼	🧛‍♀️
+nv xiao fang yuan	女消防员	👩‍🚒
+nv xie	女鞋	👠
+nv xin lang	女新郎	🤵‍♀️
+nv xing	女性	♀️ 👩‍🦯 👩‍🦯‍➡️
+nv xing shi zou rou	女行尸走肉	🧟‍♀️
+nv xiu li gong	女修理工	👩‍🔧
+nv xue	女靴	👢
+nv xue sheng	女学生	👩‍🎓
+nv yan yuan	女演员	🎭
+nv yao guai	女妖怪	🧞‍♀️
+nv yao gun ge shou	女摇滚歌手	👩‍🎤
+nv yi hu ren yuan	女医护人员	👩‍⚕️
+nv yi sheng	女医生	👩‍⚕️
+nv yi shu jia	女艺术家	👩‍🎨
+nv ying xiong	女英雄	🦸
+nv yu hang yuan	女宇航员	👩‍🚀
+nv zai	女仔	🧍‍♀️
+nv zhen tan	女侦探	🕵️‍♀️
+nv zhi yuan	女职员	👩‍💼
+nv zhuang	女装	👚
+nv zi	女子	👩‍🦼 👩‍🦽 👩‍🦼‍➡️ 👩‍🦽‍➡️
+nve ji	疟疾	🦟
+o	哦	😮
+o ye	哦耶	✌️
+ou fei di qiu yi	欧非地球仪	🌍
+ou meng	欧盟	🇪🇺
+ou shi cheng bao	欧式城堡	🏰
+ou tu	呕吐	🤮
+ou yuan	欧元	💶
+ou yuan chao piao	欧元钞票	💶
+ou zhou	欧洲	🌍 🏤 🏰
+ou zhou cheng bao	欧洲城堡	🏰
+ou zhou di qiu yi	欧洲地球仪	🌍
+ou zhou fei zhou	欧洲非洲	🌍
+ou zhou fei zhou di qiu yi	欧洲非洲地球仪	🌍
+ou zhou lian meng	欧洲联盟	🇪🇺
+ou zhou ye niu	欧洲野牛	🦬
+ou zhou you ju	欧洲邮局	🏤
+pa	怕	😨 😱
+pa lao	帕劳	🇵🇼
+pa lao gong he guo	帕劳共和国	🇵🇼
+pa pa pa	啪啪啪	👏
+pa shan	爬山	🧗
+pa shu	爬树	🦥
+pa ti	爬梯	🪜
+pa ti zi	爬梯子	🪜
+pa xing dong wu	爬行动物	🦎
+pai	派	🥧
+pai deng jie	排灯节	🪔
+pai dian ying	拍电影	🎬
+pai dui	派对	🥳 🎉
+pai dui li bin hua	派对礼宾花	🎉
+pai dui lian	派对脸	🥳
+pai gu	排骨	🍖
+pai ju	牌局	♦️ 🀄
+pai pian	拍片	🩻
+pai qiu	排球	🏐
+pai she	拍摄	📹
+pai shou	拍手	👏
+pai zhang	拍掌	👏
+pai zhao	拍照	📸 📷
+pan pa de nan ren	攀爬的男人	🧗‍♂️
+pan pa de nv ren	攀爬的女人	🧗‍♀️
+pan pa de ren	攀爬的人	🧗 🧗‍♂️ 🧗‍♀️
+pan rao	盘绕	🥨
+pan rao shi zha yu bing	盘绕式炸鱼饼	🍥
+pan shan	攀山	🧗‍♂️ 🧗‍♀️
+pan tui	盘腿	🧘‍♂️ 🧘‍♀️
+pan tui de nan ren	盘腿的男人	🧘‍♂️
+pan tui de nv ren	盘腿的女人	🧘‍♀️
+pan yan	攀岩	🧗
+pan yan zhe	攀岩者	🧗‍♂️ 🧗‍♀️ 🧗
+pang da	胖达	🐼
+pang xie	螃蟹	🦀 ♋
+pao bu	跑步	🏃‍♂️ 🏃‍♀️ 🏃 🎽 🏃‍➡️ 🏃‍♀️‍➡️
+pao bu xie	跑步鞋	👟
+pao bu zhe	跑步者	🏃 🏃‍♂️ 🏃‍♀️
+pao cai	泡菜	🥒
+pao cha	泡茶	🍵
+pao che	跑车	🏎️
+pao jie	抛接	🤹‍♂️ 🤹‍♀️ 🤹
+pao jie za shua	抛接杂耍	🤹 🤹‍♂️ 🤹‍♀️
+pao lu	跑路	🏃 🏃‍➡️
+pao mei yan	抛媚眼	😉
+pao mo	泡沫	🧼
+pao pao	泡泡	🫧 🧋
+pao xie	跑鞋	👟
+pao zao	泡澡	🛀 🛁
+pao zao de ren	泡澡的人	🛀
+pao zhu	炮竹	🎆
+pei gen	培根	🥓
+pei yang	培养	🧫
+pei yang min	培养皿	🧫
+pei yu	培育	🪴
+pen fa	喷发	🌋
+pen jian	喷溅	💦
+pen jing	盆景	🪴
+pen qi ji	喷气机	✈️
+pen quan	喷泉	⛲
+pen sa	喷洒	🫟
+pen shui	喷水	🐳 🚿
+pen shui de jing	喷水的鲸	🐳
+pen shui de jing yu	喷水的鲸鱼	🐳
+pen ti	喷嚏	🤧
+pen tou	喷头	🚿
+pen yu	盆浴	🛀
+pen zai	盆栽	🪴 🎍
+pen zai zhi wu	盆栽植物	🪴
+peng bei	碰杯	🥂 🍻
+peng dao	碰倒	🫗
+peng hua	捧花	💐
+peng ke	朋克	👨‍🎤 👩‍🎤
+peng ren	烹饪	🍳 🍽️ 🔪
+peng tiao	烹调	🍴
+peng wu	棚屋	🛖
+peng you	朋友	👭 👬 👥
+peng zhang de ai xin	膨胀的爱心	💗
+peng zhang de xin	膨胀的心	💗
+peng zhe	捧着	🤲
+pi bao	皮包	👝
+pi bei	疲惫	🫩 😩 😮‍💨 😪 😫 🙀
+pi jian	披肩	🥻
+pi jiu	啤酒	🍺
+pi jiu du	啤酒肚	🫃
+pi jiu jie	啤酒节	🍺
+pi juan	疲倦	🫩 😩 😫 🥱 🙀 💤
+pi ka	皮卡	🛻
+pi ka che	皮卡车	🛻
+pi lao	疲劳	😩 🫩 😫 🙀
+pi lao hu	皮老虎	🪠
+pi na ta	皮纳塔	🪅
+pi nuo cao	匹诺曹	🤥
+pi ta san ming zhi	皮塔三明治	🥙
+pi te kai en qun dao	皮特凯恩群岛	🇵🇳
+pi xie	皮鞋	👞
+pi ya zi	皮芽子	🧅
+pian jia ming	片假名	🈁 🈂️
+pian pian	便便	💩 🪠
+pian ren	骗人	🤥
+pian ren bu	骗人布	🤥
+pian zi	骗子	🤥
+piao	票	🎫
+piao chong	瓢虫	🐞
+piao dai	飘带	🎗️
+piao fu	漂浮	🛟 🫧
+piao gen	票根	🎫
+piao liang	漂亮	🦋
+piao qie	剽窃	🦜
+piao xiang	票箱	🗳️
+pie zui	撇嘴	🫤
+pin kuai	拼块	🧩
+pin kuai er	拼块儿	🧩
+pin tie	拼贴	📌
+pin tu	拼图	🧩
+pin tu kuai	拼图块	🧩
+ping deng	平等	🟰
+ping di bei	平底杯	🥃
+ping di guo	平底锅	🍳 🥘
+ping di xie	平底鞋	🥿
+ping guo	苹果	🍎 🍏
+ping guo pai	苹果派	🥧
+ping heng	平衡	🤹 ♎
+ping jing	平静	😐
+ping ju	凭据	🧾
+ping pang	乒乓	🏓
+ping pang qiu	乒乓球	🏓
+ping pang qiu pai	乒乓球拍	🏓
+ping zheng	凭证	🪪
+ping zi	瓶子	🫙 🍾
+po jian	泼溅	🫟
+po jie	破解	🔓
+po ke	破壳	🐣
+pu gong ying	蒲公英	🌼
+pu ke	扑克	♠️ ♥️ ♦️ ♣️ 🃏
+pu ke pai	扑克牌	🎴
+pu tao	葡萄	🍇
+pu tao jiu	葡萄酒	🍷
+pu tao ya	葡萄牙	🇵🇹
+pu tao ya gong he guo	葡萄牙共和国	🇵🇹
+qi	七	7️⃣
+qi che	汽车	🚗 🚘
+qi che	骑车	🚴‍♂️ 🚴‍♀️ 🚵‍♀️ 🚲
+qi che wei qi	汽车尾气	💨
+qi dan che	骑单车	🚴‍♂️ 🚴‍♀️ 🚴
+qi dao	祈祷	🙏 🤲 📿 🛐
+qi dian	七点	🕖
+qi dian ban	七点半	🕢
+qi dian zhong	七点钟	🕖
+qi e	企鹅	🐧
+qi fei	起飞	🛫
+qi fu	祈福	🙏
+qi gan shang de qi zhi	旗杆上的旗帜	🚩
+qi gan shang de san jiao qi	旗杆上的三角旗	🚩
+qi guai	奇怪	🤔
+qi guai le	奇怪了	🤔
+qi guan	器官	🫀 🫁
+qi hou bian hua	气候变化	🪸
+qi huan	奇幻	🧞
+qi lin lu	麒麟鹿	🦒
+qi ma	骑马	🏇 🐎
+qi pa	奇葩	🤓
+qi pao	气泡	🫧
+qi qiu	气球	🎈
+qi qiu	祈求	🙏 🥺
+qi ren	气人	😡 😠
+qi shan di che	骑山地车	🚵 🚵‍♂️ 🚵‍♀️
+qi shui	汽水	🥤
+qi si	起司	🧀 🍕
+qi si huo guo	起司火锅	🫕
+qi wei	气味	👃
+qi wen	气温	🌡️
+qi xi	七夕	🎋
+qi xi jie	七夕节	🎋
+qi xi shu	七夕树	🎋
+qi xing piao chong	七星瓢虫	🐞
+qi xuan	气旋	🌀
+qi yi guo	奇异果	🥝
+qi zhi	旗帜	🚩 🎌 🏳️‍🌈 🏳️‍⚧️
+qi zhong ji	起重机	🏗️
+qi zi	旗子	🚩
+qi zi xing che	骑自行车	🚴 🚴‍♂️ 🚴‍♀️
+qia qia	恰恰	🪇
+qian	钱	💰
+qian bao	钱包	👛
+qian bi	钱币	🪙
+qian bi	铅笔	✏️
+qian dai	钱袋	💰
+qian fang shi gong	前方施工	🚧
+qian fei le	钱飞了	💸
+qian fu se	浅肤色	🏻
+qian lan	浅蓝	🩵
+qian lan se	浅蓝色	🏳️‍⚧️
+qian men	前门	🚪
+qian shou	牵手	🧑‍🤝‍🧑
+qian shou de qing lv	牵手的情侣	👫
+qian shui	潜水	🤿 🥽
+qian shui mian zhao	潜水面罩	🤿
+qian tai	前台	💁
+qian yan	钱眼	🤑
+qian yan er	钱眼儿	🤑
+qiang	强	👍
+qiang diao	强调	🤌
+qiang du	强度	📶
+qiang ren lei shui	强忍泪水	🥹
+qiang zhuang	强壮	💪
+qiao	桥	🌉
+qiao gu	敲鼓	🥁
+qiao ke li	巧克力	🍫
+qiao ke li bang	巧克力棒	🍫
+qie zi	茄子	🍆
+qin	亲	💋
+qin jian	琴键	🎹
+qin lao	勤劳	🐝
+qin ni	亲你	😘
+qin qin	亲亲	😗 😘
+qin qin de mao	亲亲的猫	😽
+qin qin mao	亲亲猫	😽
+qin qin mao lian	亲亲猫脸	😽
+qin wen	亲吻	💏 💋
+qin yi ge	亲一个	😘
+qin yi xia	亲一下	😘
+qin zui	亲嘴	💋
+qing	亲	💋
+qing chen	清晨	🌄 🌅
+qing chu	清除	🆑
+qing dao	倾倒	🫗
+qing dao ye ti	倾倒液体	🫗
+qing dian	庆典	🎈 🎆 🎗️
+qing diao	情调	🫦
+qing gan lan	青橄榄	🫒
+qing gua	青瓜	🥒
+qing gui	轻轨	🚈
+qing gui dian che	轻轨电车	🚈
+qing he	庆贺	㊗️
+qing hua cai	青花菜	🥦
+qing jiao	青椒	🫑
+qing jie	情节	🪥
+qing jie	清洁	🧹 🧼 🫧 🪥 🧽
+qing jin	青筋	💢
+qing jiu	清酒	🍶
+qing ke	请客	🧁
+qing li	清理	🆑
+qing lv	情侣	💑 👫
+qing lv bin guan	情侣宾馆	🏩
+qing lv jiu dian	情侣酒店	🏩
+qing lv lv dian	情侣旅店	🏩
+qing lv lv guan	情侣旅馆	🏩
+qing ning	青柠	🍋‍🟩
+qing ou you yun	晴偶有云	🌤️
+qing ping guo	青苹果	🍏
+qing qiu	请求	🥺
+qing ren bin guan	情人宾馆	🏩
+qing ren jiu dian	情人酒店	🏩
+qing ren lv dian	情人旅店	🏩
+qing ren lv guan	情人旅馆	🏩
+qing se	青色	🩵
+qing sheng	轻声	🔈
+qing shu	情书	💌
+qing shuang	清爽	🍋‍🟩
+qing tian	晴天	☀️
+qing wa	青蛙	🐸
+qing wa lian	青蛙脸	🐸
+qing wa tou	青蛙头	🐸
+qing wu luan diu la ji	请勿乱丢垃圾	🚯
+qing wu luan reng la ji	请勿乱扔垃圾	🚯
+qing wu ru nei	请勿入内	⛔
+qing wu shi ru	请勿驶入	⛔
+qing wu xi yan	请勿吸烟	🚭
+qing wu yin yong	请勿饮用	🚱
+qing xi	清洗	🧽
+qing xu	情绪	🥹
+qing zhen	清真	🕌
+qing zhen si	清真寺	🕌
+qing zhu	庆祝	🎉 🥳
+qiu	龟	🐢
+qiu bi te	丘比特	💘 🪉
+qiu gun	球棍	🏑 🏒 🥍
+qiu hun jie	求婚戒	💍
+qiu jiu	求救	🆘
+qiu jiu xin hao	求救信号	🆘
+qiu jiu xun hao	求救讯号	🆘
+qiu men	球门	🥅
+qiu men wang	球门网	🥅
+qiu ni le	求你了	🥺 🙏
+qiu pai	球拍	🏸 🎾 🏏 🏓
+qiu qiu	求求	🥺
+qiu qiu ni	求求你	🥺 🙏
+qiu qiu ni le	求求你了	🥺 🙏
+qiu sai	球赛	⚽ 🏐 🏑
+qiu tian	秋天	🥮
+qiu tong	球童	🏌️
+qiu wang	球网	🥅
+qiu ye	秋叶	🍁
+qiu yin	蚯蚓	🪱
+qiu zuo	球座	🏌️
+qu bie zhen	曲别针	📎 🖇️
+qu gan	驱赶	🫳
+qu gun qiu	曲棍球	🏑
+qu kuan ji	取款机	🏧
+qu pu	曲谱	🎼
+qu qi	曲奇	🍪
+qu qi bing gan	曲奇饼干	🍪
+qu qu	蛐蛐	🦗
+qu shi xian	趋势线	📈 📉
+qu xian	曲线	🪝
+qu xiao	取消	✖️ ❌ ❎
+quan	犬	🐕
+quan dao	全倒	🎳
+quan ji	拳击	🥊
+quan ji shou tao	拳击手套	🥊
+quan lian hua zuo	全莲花坐	🧘‍♂️ 🧘‍♀️
+quan mai mian bao	全麦面包	🍞
+quan qiu	全球	🌎 🌏 🌐
+quan tou	拳头	👊 ✊ 🤛 🤜
+quan xin	全新	🆕
+quan yu	痊愈	❤️‍🩹
+que ding	确定	👌
+qun zi	裙子	👗
+ran liao	燃料	⛽
+ran shao	燃烧	🔥 ❤️‍🔥 🕯️
+ran shao de xin	燃烧的心	❤️‍🔥
+ran you	燃油	⛽
+re	热	🥵
+re cha	热茶	🍵
+re dai	热带	🦩 🐠 🌴 🍋‍🟩 🍍 🥭
+re dai shui guo yin liao	热带水果饮料	🍹
+re dai yin liao	热带饮料	🍹
+re dai yu	热带鱼	🐠
+re dian	热点	🛜
+re gou	热狗	🌭
+re qi teng teng	热气腾腾	🍜 ☕ ♨️
+re si	热死	🥵
+re si le	热死了	🥵
+re yin	热饮	☕
+ren ma zuo	人马座	🏹 ♐
+ren nai	忍耐	😣
+ren ou	人偶	🎎
+ren shu	忍术	🥷
+ren shu	认输	🏳️
+ren shu le	认输了	🏳️
+ren wu jian ying	人物剪影	👤
+ren xiang	人像	👤
+ren yu	人鱼	🧜 🧜‍♂️ 🧜‍♀️
+ren yuan	人猿	🦧
+ren zhe	忍者	🥷
+ren zhu lei shui	忍住泪水	🥹
+ren zi tuo	人字拖	🩴
+reng diao	扔掉	🫳
+reng la ji	扔垃圾	🚮
+ri	日	☀️
+ri ben	日本	🇯🇵
+ri ben cheng bao	日本城堡	🏯
+ri ben chu xue zhe biao zhi	日本初学者标志	🔰
+ri ben di tu	日本地图	🗾
+ri ben guo	日本国	🇯🇵
+ri ben jian ying	日本剪影	🗾
+ri ben ren ou	日本人偶	🎎
+ri ben ren xing	日本人形	🎎
+ri ben shen she	日本神社	⛩️
+ri ben wa wa	日本娃娃	🎎
+ri ben xin shou jia shi biao zhi	日本新手驾驶标志	🔰
+ri ben you ju	日本邮局	🏣
+ri bi	日币	💴 💹
+ri chu	日出	🌅 🌄
+ri ji ben	日记本	📔 📓 📒
+ri li	日历	📅
+ri luo	日落	🌇
+ri qi	日期	📅 📆 🗓️
+ri shi cheng bao	日式城堡	🏯
+ri yu	日语	🈁 🈂️ 🈸 🈳
+ri yuan	日元	💴
+ri yuan chao piao	日元钞票	💴
+ri yuan hui lv	日元汇率	💹
+ri yuan sheng zhi	日元升值	💹
+rong hua	融化	🫠
+rong jie	溶解	🫠
+rong qi	容器	🫙
+rong wo san si	容我三思	🤔
+rou	肉	🍖 🥩
+rou dao	柔道	🥋
+rou dao fu	柔道服	🥋
+rou jia mo	肉夹馍	🥙
+rou kuai	肉块	🥩
+rou pai	肉排	🥩 🥧
+rou rou	肉肉	🍖 🥩
+rou wan	肉丸	🧆 🍝
+rou wan zi	肉丸子	🧆
+ru chang quan	入场券	🎟️
+ru chong	蠕虫	🪱
+ru ding	入定	😣
+ru fang	乳房	🤱
+ru niu	乳牛	🐮 🐄
+ru shi zhong fu	如释重负	😌 😥
+ru shui	入睡	🛌
+ru ye	乳液	🧴
+ru ye ping	乳液瓶	🧴
+ru zhi pin	乳制品	🧈
+ruan bing ji ling	软冰激凌	🍦
+ruan bing qi lin	软冰淇淋	🍦
+ruan jian	软件	🧑‍💻 👨‍💻 👩‍💻
+ruan pan	软盘	💾
+ruan ti dong wu	软体动物	🦑
+ruan yin liao	软饮料	🥤
+rui dian	瑞典	🇸🇪
+rui dian wang guo	瑞典王国	🇸🇪
+rui shi	瑞士	🇨🇭
+rui shi lian bang	瑞士联邦	🇨🇭
+rui si bai	瑞思拜	🫡
+rui zhi	睿智	🦉
+sa chu	洒出	🫗
+sa er wa duo	萨尔瓦多	🇸🇻
+sa er wa duo gong he guo	萨尔瓦多共和国	🇸🇻
+sa huang	撒谎	🤥
+sa ke dao	萨克岛	🇨🇶
+sa ke si	萨克斯	🎷
+sa ke si feng	萨克斯风	🎷
+sa ke si guan	萨克斯管	🎷
+sa mo ya	萨摩亚	🇼🇸
+sa mo ya du li guo	萨摩亚独立国	🇼🇸
+sai bang zi	腮帮子	🧔
+sai bo peng ke	赛博朋克	🦾 🦿
+sai che	赛车	🏎️
+sai er wei ya	塞尔维亚	🇷🇸
+sai er wei ya gong he guo	塞尔维亚共和国	🇷🇸
+sai la li ang	塞拉利昂	🇸🇱
+sai la li ang gong he guo	塞拉利昂共和国	🇸🇱
+sai ma	赛马	🏇
+sai ma qi shi	赛马骑师	🏇
+sai nei jia er	塞内加尔	🇸🇳
+sai nei jia er gong he guo	塞内加尔共和国	🇸🇳
+sai pao	赛跑	🏃 🏃‍➡️
+sai pu lu si	塞浦路斯	🇨🇾
+sai pu lu si gong he guo	塞浦路斯共和国	🇨🇾
+sai she er	塞舌尔	🇸🇨
+sai she er gong he guo	塞舌尔共和国	🇸🇨
+sai ting	赛艇	🚤
+san	三	3️⃣
+san	伞	☂️
+san beng zi	三蹦子	🛺
+san bu	散步	🚶 🚶‍➡️
+san bu hou	三不猴	🙈 🙉 🙊
+san cha ji	三叉戟	🔱 🧜
+san cha ji biao zhi	三叉戟标志	🔱
+san dian	三点	🕒
+san dian ban	三点半	🕞
+san dian shi	三点式	👙
+san dian zhong	三点钟	🕒
+san jiao	三角	🔺 🔻 📐 ▶️ ⏭️ ⏯️
+san jiao ban	三角板	📐
+san jiao chi	三角尺	📐
+san jiao ji	三脚鸡	🛺
+san jiao ku	三角裤	🩲
+san jiao qi	三角旗	🚩
+san jiao xing	三角形	🔺 🔻
+san kou zhi jia	三口之家	👨‍👩‍👦 👨‍👩‍👧
+san lun che	三轮车	🛺
+san lun mo tuo che	三轮摩托车	🛺
+san ming zhi	三明治	🥪
+san ye cao	三叶草	☘️
+san zhong	三种	🤟
+san zhuang	伞状	☂️
+sang li	丧礼	⚱️
+sang na	桑拿	🧖‍♂️ 🧖‍♀️ 🧖
+sang na yu	桑拿浴	🧖
+sang shi	丧尸	🧟‍♂️ 🧟‍♀️
+sao ba	扫把	🧹
+sao di	扫地	🧹
+sao miao	扫描	🖨️
+sao zhou	扫帚	🧹
+se cai bin fen	色彩缤纷	🦚
+se la	色拉	🫜 🥬
+sha bi	傻逼	🤬
+sha chui	沙槌	🪇
+sha fa	沙发	🛋️
+sha fa he deng	沙发和灯	🛋️
+sha gua	傻瓜	🤪 🪿
+sha gua lian	傻瓜脸	🤪
+sha jiang	砂浆	🧱
+sha jun	杀菌	🧼
+sha la	沙拉	🥗
+sha li	纱丽	🥻
+sha lou	沙漏	⌛ ⏳
+sha mo	沙漠	🏜️
+sha ren jing	杀人鲸	🫍
+sha shi bi ya	莎士比亚	🎭
+sha tan	沙滩	🏖️ 🩴
+sha tan liang xie	沙滩凉鞋	🩴
+sha tan san	沙滩伞	🏖️ ⛱️
+sha te	沙特	🇸🇦
+sha te a la bo	沙特阿拉伯	🇸🇦
+sha te a la bo wang guo	沙特阿拉伯王国	🇸🇦
+sha xian	纱线	🧶
+sha xiao	傻笑	😆 🤭
+sha yu	鲨鱼	🦈
+shai zi	色子	🎲
+shan	山	⛰️
+shan di che	山地车	🚵‍♂️ 🚵‍♀️ 🚵
+shan di zi xing che	山地自行车	🚵‍♂️ 🚵‍♀️ 🚵
+shan dian	闪电	⚡ 🌩️
+shan ding	山顶	⛰️
+shan ding ri chu	山顶日出	🌄
+shan dong	扇动	🪭
+shan feng	山峰	⛰️
+shan guang	闪光	✨ 🌟 ❇️
+shan guang deng	闪光灯	📸
+shan guang deng da kai	闪光灯打开	📸
+shan hu	珊瑚	🪸
+shan hu jiao	珊瑚礁	🪸
+shan liang	闪亮	✨
+shan liang de xin	闪亮的心	💖
+shan liang de xing xing	闪亮的星星	🌟
+shan mai	山脉	⛰️
+shan qu	山区	🚞
+shan qu tie lu	山区铁路	🚞
+shan ren	闪人	🏃 🏃‍➡️
+shan ti hua po	山体滑坡	🛘
+shan yang	山羊	🐐
+shan yao	闪耀	✨ 🪩 ❇️
+shan yao de xing xing	闪耀的星星	🌟
+shan zhong ri chu	山中日出	🌄
+shan zhu	山猪	🐗
+shan zi	扇子	🪭
+shang	上	⬆️
+shang ban	上班	💼
+shang bian	上边	👆
+shang biao	商标	™️
+shang biao fu hao	商标符号	™️
+shang chang	商场	🏬
+shang chao	商超	🏬
+shang dian	商店	🏪
+shang jian tou	上箭头	⬆️
+shang kou	伤口	🩹
+shang mian	上面	👆
+shang ren	商人	🧑‍💼 👨‍💼 👩‍💼
+shang san jiao	上三角	🔼
+shang sheng	上升	📈
+shang suo	上锁	🔒
+shang wu	商务	🕴️
+shang xia	上下	↕️
+shang xia jian tou	上下箭头	↕️
+shang xian yue	上弦月	🌓 🌛
+shang xin	伤心	💔 😟 😢
+shang xue	上学	🎒
+shang yang	上扬	💹
+shang yi	上衣	👕 🎽
+shang yi ge	上一个	⏮️
+shang yi shou	上一首	⏮️
+shang ying	上映	📽️
+shang yue	赏月	🎑
+shang zhang	上涨	📈 💹
+shao liang	少量	🤏
+shao xu	少许	🤏
+shao yun	少云	🌤️
+shao zi	勺子	🥄
+she	舌	👅
+she	蛇	🐍
+she fu zuo	蛇夫座	⛎
+she hua	奢华	🧐
+she jian	射箭	🏹
+she lu ji	摄录机	🎥
+she she	蛇蛇	🐍
+she shou	射手	🏹 ♐
+she shou zuo	射手座	♐
+she tou	舌头	👅
+she xiang ji	摄像机	📹 🎥
+she ying	摄影	🎥 📷
+she ying ji	摄影机	🎥 📹 🎦
+she zhang	蛇杖	⚕️
+shei zhi dao	谁知道	🤷‍♂️ 🤷‍♀️
+shei zhi dao ne	谁知道呢	🤷‍♂️ 🤷‍♀️
+shen	申	🈸
+shen dao jiao	神道教	⛩️
+shen fen	身份	🆔 🫆
+shen fen zheng	身份证	🪪 🆔
+shen fu se	深肤色	🏿
+shen hua	神话	🧞 🪽 🐲
+shen hua gu shi	神话故事	😈 💀 👹 👺 👻 🧌
+shen ling	神灵	🧞
+shen long	神龙	🐉
+shen mi	神秘	🫆 🧝 🧞
+shen qian	深潜	🤿
+shen qing	申请	🈸
+shen qing biao	申请表	🈸
+shen qing shu	申请书	🈸
+shen she	神社	⛩️
+shen shou	伸手	🫴 🫱 🫲
+shen si	深思	🤔
+shen si de lian	深思的脸	🤔
+shen ti	身体	💀 🫀 🫁 👀 👁️ 👅
+shen tou	渗透	🧽
+shen xun	审讯	🤌
+shen ye	深夜	🌃
+sheng	乘	✖️
+sheng ba tai le mi	圣巴泰勒米	🇧🇱
+sheng bing	生病	😷 🤒 🤮 🤧 💊
+sheng cai	生菜	🥬
+sheng dan	圣诞	🎅 🤶 🧑‍🎄 🎄 🎁
+sheng dan dao	圣诞岛	🇨🇽
+sheng dan fu ren	圣诞夫人	🤶
+sheng dan jie	圣诞节	🎅 🤶
+sheng dan kuai le	圣诞快乐	🧑‍🎄
+sheng dan lao ren	圣诞老人	🎅
+sheng dan nai nai	圣诞奶奶	🤶
+sheng dan shu	圣诞树	🎄
+sheng duo mei he pu lin xi bi	圣多美和普林西比	🇸🇹
+sheng duo mei he pu lin xi bi min zhu gong he guo	圣多美和普林西比民主共和国	🇸🇹
+sheng hao	生蚝	🦪
+sheng he le na	圣赫勒拿	🇸🇭
+sheng hua wei ji	生化危机	☣️
+sheng ji	升级	🆙
+sheng ji ci he ni wei si	圣基茨和尼维斯	🇰🇳
+sheng jia chong	圣甲虫	🪲
+sheng jiang	生姜	🫚
+sheng jiang ji	升降机	🛗
+sheng jie	绳结	🪢
+sheng li	胜利	✌️ 😤 🏆
+sheng lu xi ya	圣卢西亚	🇱🇨
+sheng ma ding	圣马丁	🇸🇽
+sheng ma li nuo	圣马力诺	🇸🇲
+sheng ma li nuo gong he guo	圣马力诺共和国	🇸🇲
+sheng men qi	生闷气	🙎
+sheng ming	生命	🧬
+sheng pi ai er he mi ke long qun dao	圣皮埃尔和密克隆群岛	🇵🇲
+sheng qi	升旗	🚩
+sheng qi	生气	😠 😡 💢
+sheng qi de e mo	生气的恶魔	👿
+sheng qi de mao	生气的猫	😾
+sheng qi e mo	生气恶魔	👿
+sheng qi fu hao	生气符号	💢
+sheng qi mao	生气猫	😾
+sheng qi mao lian	生气猫脸	😾
+sheng ri	生日	🥳 💐 🎂 🎈 🎉
+sheng ri dan gao	生日蛋糕	🎂
+sheng ri kuai le	生日快乐	🎂 🎉
+sheng ri li wu	生日礼物	🎁
+sheng tang	圣堂	⛪
+sheng tian	升天	🪽
+sheng wen sen te he ge lin na ding si	圣文森特和格林纳丁斯	🇻🇨
+sheng wu	生物	🔬
+sheng wu wei hai	生物危害	☣️
+sheng wu xing wei hai	生物性危害	☣️
+sheng wu xue	生物学	🧫
+sheng wu xue jia	生物学家	🧑‍🔬 👨‍🔬 👩‍🔬 🧫 🧬
+sheng yin	声音	🔇
+sheng zhang	生长	🪴
+sheng zi	绳子	🪢 🧵
+shi	匙	🥄
+shi	十	🔟
+shi	嘘	🤫
+shi	屎	💩
+shi	狮	🦁
+shi ba jin	十八禁	🔞
+shi bie	识别	🆔
+shi bing	士兵	🥷 🪖
+shi che ju	矢车菊	🪻
+shi cong	失聪	🧏‍♂️ 🧏‍♀️ 🦻
+shi cong zhe	失聪者	🧏 🧏‍♂️ 🧏‍♀️
+shi dai	饰带	🎽
+shi dian	十点	🕙
+shi dian ban	十点半	🕥
+shi dian zhong	十点钟	🕙
+shi er dian	十二点	🕛
+shi er dian ban	十二点半	🕧
+shi er dian zhong	十二点钟	🕛
+shi gong	施工	🏗️ 🚧
+shi gong fu hao	施工符号	🚧
+shi gong zhong	施工中	🚧
+shi guan	试管	🧪
+shi jian	时间	⌚
+shi jie	世界	🌍 🌎 🌏 🌐 🗺️
+shi jie di tu	世界地图	🗺️
+shi jie he ping	世界和平	☮️
+shi lian	失恋	💔
+shi lian	狮脸	🦁
+shi luo	失落	😔
+shi pin	视频	📽️ 📺 📹
+shi pin you xi shou bing	视频游戏手柄	🎮
+shi ran	释然	😌 😮‍💨
+shi ren mo	食人魔	👹
+shi tang	食堂	🍳
+shi tou	狮头	🦁
+shi tou	石头	🪨
+shi wang	失望	😞
+shi wang dan ru shi zhong fu	失望但如释重负	😥
+shi wei	示威	🪧
+shi wu	食物	🥘 🍲
+shi xi	实习	🔰
+shi yan	实验	🥼 ⚗️ 🧪 🔬
+shi yan	食盐	🧂
+shi yan shi	实验室	🧪 🧫 🔬
+shi yan shi wai yi	实验室外衣	🥼
+shi yi	十亿	💰
+shi yi dian	十一点	🕚
+shi yi dian ban	十一点半	🕦
+shi yi dian zhong	十一点钟	🕚
+shi yi si dai de xin	饰以丝带的心	💝
+shi you	石油	⛽ 🛢️
+shi zhi	食指	☝️ 👈 👉 👆 👇
+shi zhi he mu zhi jiao cha de shou	食指和拇指交叉的手	🫰
+shi zhi zhi xiang guan cha zhe	食指指向观察者	🫵
+shi zhuang	时装	👠
+shi zi	十字	⛑️ ⚔️ ➕
+shi zi	狮子	🦁
+shi zi an quan mao	十字安全帽	⛑️
+shi zi jia	十字架	✝️
+shi zi lian	狮子脸	🦁
+shi zi tou	狮子头	🦁
+shi zi tou kui	十字头盔	⛑️
+shi zi zuo	狮子座	♌
+shou	手	✋
+shou bei	手背	🤚
+shou bi	手臂	🦾
+shou biao	手表	⌚
+shou bing	手柄	🎮
+shou cai nu	守财奴	💰
+shou che	守车	🚂
+shou dai	手袋	👝
+shou dao	收到	🫡
+shou dao lai xin	收到来信	📨
+shou dao you jian	收到邮件	📨 📥
+shou dian	手电	🔦
+shou dian tong	手电筒	🔦
+shou dong	手动	👨‍🦽 👩‍🦽 👨‍🦽‍➡️ 👩‍🦽‍➡️
+shou dong gua hu dao	手动刮胡刀	🪒
+shou dong lun yi	手动轮椅	🦽 👨‍🦽 👩‍🦽
+shou fei	收费	🈶 🈂️
+shou feng qin	手风琴	🪗
+shou ji	手机	📱
+shou ji guan ji	手机关机	📴
+shou ji lai dian	手机来电	📲
+shou ji xin hao	手机信号	📶
+shou jian	收件	📥
+shou jian xiang	收件箱	📥
+shou ju	手锯	🪚
+shou ju	收据	🧾
+shou kao	手铐	⛓️‍💥
+shou la shou	手拉手	🧑‍🤝‍🧑 👭 👫 👬
+shou la shou de qing lv	手拉手的情侣	👫
+shou mi	守密	🤐
+shou na	手拿	👝
+shou na	收纳	🗄️
+shou na bao	手拿包	👝
+shou pian zhe	受骗者	♟️
+shou qi de san	收起的伞	🌂
+shou qi de yu san	收起的雨伞	🌂
+shou qian	收钱	💳
+shou qiang	手枪	🔫
+shou qiu	手球	🤾 🤾‍♂️ 🤾‍♀️
+shou shang	受伤	🤕 ❤️‍🩹
+shou shang de xin	受伤的心	❤️‍🩹
+shou shang de xin ling	受伤的心灵	❤️‍🩹
+shou shi	手势	🤌 🙆 🙋‍♂️
+shou si	寿司	🍣
+shou si ri li	手撕日历	📆
+shou tao	手套	🧤
+shou ti bao	手提包	👜
+shou ti dian hua	手提电话	📱
+shou ti dian nao	手提电脑	💻
+shou ti xiang	手提箱	🧳
+shou tiao	收条	🧾
+shou tui che	手推车	🛒
+shou wei	守卫	💂 💂‍♂️ 💂‍♀️
+shou xie	手写	✍️
+shou xin	收信	📥 📨
+shou yin ji	收音机	📻
+shou you jian	收邮件	📩 📥
+shou zhang	手掌	🖐️ ✋
+shou zhang	手杖	🦯 🩼
+shou zhang chao shang	手掌朝上	🫴
+shou zhang chao xia	手掌朝下	🫳
+shou zhang wu lian	手掌捂脸	🤦‍♂️ 🤦‍♀️
+shou zhi	手指	🤌 🤏 🤞 🫵
+shou zhi	手纸	🧻
+shou zhi jiao cha	手指交叉	🤞
+shou zhi nie he	手指捏合	🤌
+shou zhi zhang kai	手指张开	🖐️
+shou zhi zhang kai de shou	手指张开的手	🖐️
+shu	书	📖 📚
+shu	树	🌳
+shu	鼠	🐭
+shu bao	书包	🎒
+shu ben	书本	📖 📚 📕 📗 📘 📙
+shu biao	鼠标	🖱️ 🖲️
+shu cai	蔬菜	🥬
+shu cai sha la	蔬菜沙拉	🥗
+shu dai xiong	树袋熊	🐨
+shu dai zi	书呆子	🤓
+shu dai zi lian	书呆子脸	🤓
+shu di	竖笛	🪈
+shu gan	树干	🪾
+shu ji	书籍	📖 📚
+shu lan	树懒	🦥
+shu lan xian sheng	树懒先生	🦥
+shu li	梳理	🪮
+shu lian	鼠脸	🐭
+shu mu	树木	🌳
+shu nv	淑女	👩 👩‍🦰 👩‍🦱 👩‍🦳 👩‍🦲
+shu qian	书签	🔖
+shu qian biao qian	书签标签	📑
+shu qin	竖琴	🪉
+shu ru	输入	⌨️
+shu ru fa	输入法	🔠 🔡
+shu ru fu hao	输入符号	🔣
+shu tiao	薯条	🍟
+shu tou	鼠头	🐭
+shu xie	输血	🩸
+shu xue	数学	📏 📐 ➕ ➖ ➗ 🟰
+shu xue	输血	🩸
+shu xue jia	数学家	👨‍🔬 👩‍🔬
+shu ye	树叶	🍃 🍁
+shu zhi	树枝	🪾 🪹 🪺
+shu zhong zhi	竖中指	🖕
+shu zi	数字	🔢
+shu zi	梳子	🪮
+shua ka	刷卡	💳
+shua xin	刷新	🔃 🔄
+shua ya	刷牙	🪥
+shua zi	刷子	🪥
+shuai jiao	摔跤	🤼‍♂️ 🤼‍♀️ 🤼
+shuai jiao xuan shou	摔跤选手	🤼 🤼‍♂️ 🤼‍♀️
+shuai luo	衰落	🌖
+shuai tou	甩头	🫨
+shuang bao tai	双胞胎	👯
+shuang er ping	双耳瓶	🏺
+shuang feng	双峰	🐫
+shuang feng luo tuo	双峰骆驼	🐫
+shuang feng tuo	双峰驼	🐫
+shuang gan tan hao	双感叹号	‼️
+shuang huan	双环	➿
+shuang jian	双剑	⚔️
+shuang jian bao	双肩包	🎒
+shuang jian jiao cha	双剑交叉	⚔️
+shuang jing tan hao	双惊叹号	‼️
+shuang juan qu huan	双卷曲环	➿
+shuang ren	双人	👥
+shuang ren wu	双人舞	👯
+shuang ren xiang	双人像	👥
+shuang shou	双手	🤲 🙌 👐
+shuang shou he shi	双手合十	🙏
+shuang shou shou zhang xiang shang	双手手掌向上	🤲
+shuang shou zhang kai	双手张开	👐
+shuang tan hao	双叹号	‼️
+shuang xing	双性	🏳️‍🌈
+shuang xing lian	双性恋	🌈
+shuang yan	双眼	👀
+shuang yu	双鱼	♓
+shuang yu zuo	双鱼座	♓
+shuang zhang	双掌	🤲
+shuang zi	双子	♊
+shuang zi zuo	双子座	♊
+shui ba zi	水拔子	🪠
+shui dao	水稻	🌾
+shui di	水滴	💧 💦
+shui fei	水肺	🥽
+shui guan gong	水管工	👨‍🔧 👩‍🔧 🧑‍🔧 🪠
+shui guo dan gao	水果蛋糕	🍰
+shui guo dao	水果刀	🔪
+shui guo pai	水果派	🥧
+shui guo yin liao	水果饮料	🍹
+shui jiao	水饺	🥟
+shui jiao	睡觉	😴 💤 🛌 😪 🛏️
+shui jiao de ren	睡觉的人	🛌
+shui jing	水晶	🔮
+shui jing qiu	水晶球	🔮
+shui le	睡了	😴 💤
+shui liao	水疗	💆
+shui long tou	水龙头	🚰
+shui mian	睡眠	😴 💤 🛏️
+shui mian fu hao	睡眠符号	💤
+shui mu	水母	🪼
+shui niu	水牛	🐃
+shui ping	水瓶	🏺
+shui ping zuo	水瓶座	♒
+shui qiang	水枪	🔫
+shui qiu	水球	🤽 🤽‍♂️ 🤽‍♀️
+shui rong	睡容	😴
+shui shang yun dong	水上运动	🤽 🤽‍♂️ 🤽‍♀️
+shui ta	水獭	🦦
+shui tong	水桶	🪣
+shui xia	水下	🫧
+shui zhao	睡着	💤 😴
+shui zhao le	睡着了	😴 💤
+shui zhe	睡着	💤 😴
+shui zhi dao	谁知道	🤷‍♂️ 🤷‍♀️
+shui zhi dao ne	谁知道呢	🤷‍♂️ 🤷‍♀️
+shui zhu	水珠	💦 💧
+shui zu guan	水族馆	🪼
+shun shi zhen	顺时针	🔃 🔁 🔂
+shun shi zhen chui zhi jian tou	顺时针垂直箭头	🔃
+shun shi zhen fang xiang	顺时针方向	🔃
+shuo hua	说话	🗣️
+shuo huang	说谎	🤥
+shuo yue	朔月	🌑 🌚
+shuo zang hua	说脏话	🤬
+si	四	4️⃣
+si bo ke	斯波克	🖖
+si dai	丝带	🎗️ 🎀
+si dian	四点	🕓
+si dian ban	四点半	🕟
+si dian zhong	四点钟	🕓
+si fang mao	四方帽	🎓
+si jia che	私家车	🚗 🚘
+si jiao ku	四角裤	🩳
+si kao	思考	🤔
+si kao qi pao	思考气泡	💭
+si kou zhi jia	四口之家	👨‍👩‍👧‍👦 👨‍👩‍👦‍👦 👨‍👩‍👧‍👧
+si li lan ka	斯里兰卡	🇱🇰
+si li lan ka min zhu she hui zhu yi gong he guo	斯里兰卡民主社会主义共和国	🇱🇰
+si lun hua bing xie	四轮滑冰鞋	🛼
+si luo fa ke	斯洛伐克	🇸🇰
+si luo fa ke gong he guo	斯洛伐克共和国	🇸🇰
+si luo wen ni ya	斯洛文尼亚	🇸🇮
+si luo wen ni ya gong he guo	斯洛文尼亚共和国	🇸🇮
+si mi	私密	🔒
+si miao	寺庙	🛕
+si wa er ba he yang ma yan	斯瓦尔巴和扬马延	🇸🇯
+si wang	死亡	💀 ☠️ ⚰️ 🪦 ⚱️
+si wei shi lan	斯威士兰	🇸🇿
+si wei shi lan wang guo	斯威士兰王国	🇸🇿
+si xiang	思想	💭
+si xiang huo dong	思想活动	💭
+si ye cao	四叶草	🍀
+si yuan	寺院	🛕
+song bing	松饼	🧇
+song can	送餐	🥡
+song can fu wu	送餐服务	🥡
+song chu	送出	🫴
+song huo	送货	🚚
+song huo che	送货车	🚚
+song jian	耸肩	🤷 🤷‍♂️ 🤷‍♀️
+song kou qi	松口气	😌
+song le kou qi	松了口气	😌
+song le yi kou qi	松了一口气	😌
+song ni yi ke xin	送你一颗心	💝
+song shu	松树	🌲
+song shu	松鼠	🐿️
+song yi kou qi	松一口气	😮‍💨
+sou suo	搜索	🔍 🔎
+su da	苏打	🥤
+su dan	苏丹	🇸🇩
+su dan gong he guo	苏丹共和国	🇸🇩
+su du	速度	🚄
+su ge lan	苏格兰	🏴󠁧󠁢󠁳󠁣󠁴󠁿
+su li nan	苏里南	🇸🇷
+su li nan gong he guo	苏里南共和国	🇸🇷
+su shi	素食	🫜 🍄‍🟫
+su shi	速食	🍔
+su shi zhe	素食者	🫛
+su xiang	塑像	🗽
+suan	蒜	🧄
+suan cheng	酸橙	🍋‍🟩
+suan ming	算命	🥠
+suan pan	算盘	🧮
+suan shuang	酸爽	🍋‍🟩
+suan tou	蒜头	🧄
+suan xiang	蒜香	🧄
+sui bian	随便	😝
+sui hua cai qiu	碎花彩球	🎊
+sui ji	随机	🔀
+sui ji bo fang	随机播放	🔀
+suo	锁	🔒 🔓
+suo dao	索道	🚡
+suo ding	锁定	🔒
+suo lian	锁链	⛓️ 🔗
+suo luo men qun dao	所罗门群岛	🇸🇧
+suo ma li	索马里	🇸🇴
+suo ma li lian bang	索马里联邦	🇸🇴
+suo ma li lian bang gong he guo	索马里联邦共和国	🇸🇴
+suo shang	锁上	🔒 🔐
+suo tou	锁头	🔒 🔓
+suo yin	索引	🗂️ 📇 🗃️
+suo zhu	锁住	🔒
+ta ban che	踏板车	🛵
+ta fang	塌方	🛘
+ta ji ke si tan	塔吉克斯坦	🇹🇯
+ta ji ke si tan gong he guo	塔吉克斯坦共和国	🇹🇯
+tai bang	太棒	👍
+tai bang la	太棒啦	👍
+tai bang le	太棒了	👍 🎉
+tai cha	太差	👎
+tai cha la	太差啦	👎
+tai cha le	太差了	👎
+tai che le	太扯了	🤣
+tai di	泰迪	🧸
+tai di xiong	泰迪熊	🧸
+tai feng	台风	🌀
+tai guo	泰国	🇹🇭
+tai hao le	太好了	😛
+tai ji	太极	☯️
+tai jie	台阶	🪜
+tai qi	抬起	🫴
+tai qiu	台球	🎱
+tai quan dao	跆拳道	🥋
+tai quan dao fu	跆拳道服	🥋
+tai shi	台式	🖥️
+tai shi dian nao	台式电脑	🖥️
+tai wan	台湾	🇹🇼
+tai wang guo	泰王国	🇹🇭
+tai yang	太阳	☀️ 🌞
+tai yang hua	太阳花	🌻
+tai yang jing	太阳镜	😎 🕶️
+tai yang san	太阳伞	🏖️
+tai zhong	台钟	🕰️
+tan chu	弹出	⏏️
+tan chu an niu	弹出按钮	⏏️
+tan ge	探戈	💃
+tan hao	叹号	❗ ❕ ❣️ ‼️ ⁉️
+tan hao wen hao	叹号问号	⁉️
+tan jiu	探究	🧐
+tan lian ai	谈恋爱	👩‍❤️‍👨
+tan qi	叹气	😮‍💨
+tan sang ni ya	坦桑尼亚	🇹🇿
+tan sang ni ya lian he gong he guo	坦桑尼亚联合共和国	🇹🇿
+tan shou	摊手	👐
+tan wen hao	叹问号	⁉️
+tan xi	叹息	😮‍💨
+tan zou	弹奏	🎸 🎹 🪕
+tang	汤	🥣
+tang	糖	🍬
+tang chi	汤匙	🥄
+tang guo	糖果	🍬 🍫 🍭 🪅
+tang guo qiu	糖果球	🎊
+tang hu lu	糖葫芦	🍡
+tang jia	汤加	🇹🇴
+tang jia wang guo	汤加王国	🇹🇴
+tang shao	汤勺	🥄
+tang wan	汤碗	🥣
+tang yuan	汤圆	⚪
+tang zai chuang shang de ren	躺在床上的人	🛌
+tao	桃	🍑
+tao jia huan jia	讨价还价	🉐
+tao qi	淘气	🦝
+tao ren xi huan	讨人喜欢	🩷
+tao sheng	逃生	🦺
+tao wa	套娃	🪆
+tao zi	桃子	🍑
+te bang	特棒	👍
+te bie ku	特别酷	🆒
+te gong	特工	🕵️ 🕵️‍♀️
+te ke si he kai ke si qun dao	特克斯和凯科斯群岛	🇹🇨
+te li ni da he duo ba ge	特立尼达和多巴哥	🇹🇹
+te li ni da he duo ba ge gong he guo	特立尼达和多巴哥共和国	🇹🇹
+te li si tan da ku ni ya	特里斯坦-达库尼亚	🇹🇦
+te li si tan da ku ni ya qun dao	特里斯坦-达库尼亚群岛	🇹🇦
+te shu	特殊	🩷 🩵 🩶
+ti	踢	🦶
+ti bao	提包	👜
+ti cao	体操	🤸 🤸‍♂️ 🤸‍♀️
+ti dao	剃刀	🪒
+ti gong	提供	🫴
+ti ji	梯级	🪜
+ti kuan ji	提款机	🏧
+ti qin	提琴	🎻
+ti qu	提取	🛄
+ti wen ji	体温计	🤒
+ti xu dao	剃须刀	🪒
+ti yu	体育	🤺 ⛹️ 🤸 🤼 🤽 🤾
+ti yu chang	体育场	🏟️
+ti yu guan	体育馆	🏟️
+ti yu jing ji	体育竞技	🚵
+ti zi	提子	🍇
+ti zi	梯子	🪜
+tian a	天啊	🫨
+tian cai	天才	🤓
+tian cai	甜菜	🫜
+tian cheng	天秤	⚖️
+tian cheng zuo	天秤座	♎
+tian chong	填充	🧸
+tian dian	甜点	🍮
+tian e	天鹅	🦢
+tian fu luo	天妇罗	🍤
+tian gua	甜瓜	🍈
+tian jiao	甜椒	🫑
+tian jing	恬静	🪷
+tian lan	天蓝	🩵
+tian mi	甜蜜	🩷
+tian pin	甜品	🍮 🍫
+tian ping	天平	⚖️
+tian qi	天气	☁️
+tian ran	天然	🫚
+tian shi	天使	👼 😇 🪽
+tian shi bao bao	天使宝宝	👼
+tian shi de chi bang	天使的翅膀	🪽
+tian ti	天体	🔭
+tian tian quan	甜甜圈	🍩
+tian tong	甜筒	🍦
+tian wei	甜味	🧃
+tian wen	天文	🔭
+tian wen xue	天文学	🔭
+tian xian	天线	📡 📶
+tian xiao de	天晓得	🤷 🤷‍♂️ 🤷‍♀️
+tian xie	天蝎	♏
+tian xie gong	天蝎宫	🦂
+tian xie zuo	天蝎座	♏
+tian ya	天呀	😳
+tian zhen	天真	😇
+tian zhu jiao	天主教	✝️
+tiao ba lei	跳芭蕾	🧑‍🩰
+tiao di	调低	🔽
+tiao fu	条幅	🎋
+tiao gao	调高	🔼
+tiao geng	调羹	🥄
+tiao jie	调节	🎚️ 🎛️
+tiao mei	挑眉	🤨
+tiao pi	调皮	😜 😛
+tiao qing	调情	🫦 🪭
+tiao san	跳伞	🪂
+tiao se ban	调色板	🎨
+tiao se pan	调色盘	🎨
+tiao wei	调味	🧄 🧅
+tiao wei liao	调味料	🧂
+tiao wei pin	调味品	🧂 🫙
+tiao wei zhi	调味汁	🍋‍🟩
+tiao wen	条纹	🦓
+tiao wu	跳舞	💃 🕺
+tiao wu de nan ren	跳舞的男人	🕺
+tiao wu de nv ren	跳舞的女人	💃
+tiao xing tu	条形图	📊
+tiao yue	跳跃	🦘
+tiao zhou	笤帚	🧹
+tie chui	铁锤	🔨 ⚒️ 🛠️
+tie gao	铁镐	⛏️
+tie gou	铁钩	🪝
+tie gui	铁轨	🛤️
+tie lian	铁链	⛓️
+tie lian zi	铁链子	⛓️
+tie lu	铁路	🚂 🚃 🚆 🚉 🚞 🛤️
+tie qiao	铁锹	🪏
+tie ren san xiang	铁人三项	🏊
+ting	听	👂
+ting bo	停泊	⚓
+ting che	停车	🅿️
+ting che an niu	停车按钮	🅿️
+ting che biao zhi	停车标志	🛑
+ting che chang	停车场	🅿️
+ting che rang xing	停车让行	🛑
+ting li	听力	🧏
+ting li zhang ai	听力障碍	🦻 🧏 🧏‍♂️ 🧏‍♀️
+ting tong	听筒	📞
+ting yuan	庭院	🏡
+ting zhang	听障	🦻 🧏
+ting zhen qi	听诊器	🩺
+ting zhi	停止	⏹️ 🫷 🫸 🛑 ⏸️
+ting zhi biao zhi	停止标志	🛑
+ting zhi bo fang	停止播放	⏹️
+tong	桶	🪣
+tong	洞	🕳️
+tong a	痛啊	😧
+tong ban	铜板	👛
+tong guan yue qi	铜管乐器	🪊
+tong guo	通过	🈴
+tong hao	同好	👯 👯‍♂️
+tong hua	童话	👸 🧚 🧜 🐲 🔮
+tong ji	统计	🈷️
+tong kong	瞳孔	👁️
+tong ku	痛哭	😭
+tong ku	痛苦	😣
+tong pai	铜牌	🥉
+tong qing	同情	😮
+tong tong le	通通乐	🪠
+tong xin	通信	📱 📲 📞 📟
+tong xing	同性	🏳️‍🌈
+tong xing lian	同性恋	👨‍❤️‍👨 👩‍❤️‍👩
+tong xing qi	同性旗	🏳️‍🌈
+tong xing zheng	通行证	🛂
+tong yi	同意	🙆‍♂️ 🙆‍♀️ 👌 👍 🙆 🆗
+tong zhi	同志	🌈
+tong zhi	通知	📢 📣
+tou bao zha	头爆炸	🤯
+tou bu jian ying	头部剪影	🗣️
+tou dai shi er ji	头戴式耳机	🎧
+tou fa	头发	🦳 🪮
+tou gu	头骨	💀 ☠️
+tou hun yan hua	头昏眼花	🥴
+tou jin	头巾	👳‍♂️ 👳‍♀️ 🧕 👳 🧣
+tou kan	偷看	🫣
+tou kui	偷窥	🫣
+tou kui	头盔	🪖 👷 👷‍♀️ ⛑️
+tou ming	透明	🪟
+tou nao	头脑	🧠
+tou piao	投票	🗳️
+tou piao xiang	投票箱	🗳️
+tou qiao	偷瞧	🫣
+tou qiu	投球	🤾 🤾‍♀️
+tou sha	头纱	👰‍♀️ 👰 👰‍♂️
+tou tong	头痛	😣 💆 💆‍♂️
+tou tou kan	偷偷看	🫣
+tou tou qiao	偷偷瞧	🫣
+tou tu	头秃	👨‍🦲 👩‍🦲 🦲
+tou xiang	头像	👤
+tou xiang	投降	🏳️
+tou ying yi	投影仪	📽️
+tou yun	头晕	💫 😵 😵‍💫
+tou yun mu xuan	头晕目眩	😵 😵‍💫 💫 🥴
+tou yun yan hua	头晕眼花	😵 😵‍💫 🥴
+tou zi	骰子	🎲
+tu	兔	🐰
+tu	吐	🤮
+tu bao bao	兔宝宝	🐰
+tu biao	图表	📊 📈 📉
+tu bu	徒步	🚶‍♂️ 🚶‍♀️
+tu chu lai	吐出来	🤮
+tu ding	图钉	📌
+tu ding	秃顶	🦲 👨‍🦲 👩‍🦲
+tu dou	土豆	🥔
+tu er duo	兔耳朵	👯‍♂️ 👯‍♀️ 👯
+tu er qi	土耳其	🇹🇷
+tu er qi gong he guo	土耳其共和国	🇹🇷
+tu ku man si tan	土库曼斯坦	🇹🇲
+tu la	吐啦	🤮
+tu le	吐了	🤮
+tu lian	兔脸	🐰
+tu ni si	突尼斯	🇹🇳
+tu ni si gong he guo	突尼斯共和国	🇹🇳
+tu nv lang	兔女郎	👯‍♀️
+tu pian	图片	🧩
+tu she	吐舌	😛 😜 😝
+tu she tou	吐舌头	😛 😜 😝
+tu shu	图书	📖 📚
+tu shu guan	图书馆	📖 📗 📘 📙 📚
+tu tou	兔头	🐰
+tu tou	秃头	👨‍🦲 👩‍🦲 🦲 👴
+tu wa lu	图瓦卢	🇹🇻
+tu xian sheng	兔先生	👯‍♂️
+tu xing	图形	📊
+tu xing	土星	🪐
+tu zhi jia you	涂指甲油	💅
+tu zhu	土著	🪃
+tu zi	兔子	🐇 🐰
+tu zi lian	兔子脸	🐰
+tu zi tou	兔子头	🐰
+tuan jie	团结	✊
+tuan yuan bing	团圆饼	🥮
+tuan zi	团子	🍡
+tui	腿	🦵
+tui chu	推出	⏏️
+tui chu an niu	推出按钮	⏏️
+tui er	腿儿	🦵
+tui hui	退回	🔙
+tui shou	推手	🫷 🫸
+tun	鲀	🐡
+tuo che	拖车	🚛
+tuo fa	脱发	👨‍🦲 👩‍🦲 🦲
+tuo feng	驼峰	🐪
+tuo ke lao	托克劳	🇹🇰
+tuo la ji	拖拉机	🚜
+tuo lu	驼鹿	🫎
+tuo lu lian	驼鹿脸	🫎
+tuo lu tou	驼鹿头	🫎
+tuo ta	拖沓	🍄‍🟫
+tuo xie	拖鞋	🩴
+tuo yang he tang he suan	脱氧核糖核酸	🧬
+wa jue	挖掘	⛏️
+wa ken	瓦肯	🖖
+wa ken ju shou li	瓦肯举手礼	🖖
+wa ku	挖苦	🤌
+wa li si he fu tu na	瓦利斯和富图纳	🇼🇫
+wa nu a tu	瓦努阿图	🇻🇺
+wa nu a tu gong he guo	瓦努阿图共和国	🇻🇺
+wa wa	娃娃	🎎 🪆
+wa zi	袜子	🧦
+wai dai bei zi	外带杯子	🥤
+wai gong	外公	👴
+wai hui	外汇	💱
+wai mai	外卖	🍱 🥡
+wai mai bao zhuang	外卖包装	🥡
+wai mai he	外卖盒	🥡
+wai mai tong	外卖桶	🥡
+wai po	外婆	👵
+wai tai kong	外太空	👽
+wai tao	外套	🧥
+wai xing	外星	👽 👾
+wai xing guai wu	外星怪物	👾
+wai xing ren	外星人	👽
+wai yi	外衣	🥼
+wan	碗	🥣
+wan an	晚安	🌙 😴
+wan can	晚餐	🍽️ 🍴
+wan cheng	完成	✅
+wan dou	豌豆	🫛
+wan dou jia	豌豆荚	🫛
+wan gou	弯钩	🪝
+wan ju	玩具	🪀 🧸
+wan ju qiang	玩具枪	🔫
+wan lan qiu	玩篮球	⛹️‍♂️ ⛹️‍♀️
+wan long	腕龙	🦕
+wan mian	碗面	🍜
+wan ou	玩偶	🧸
+wan qiu	玩球	⛹️
+wan qu	弯曲	🥨
+wan quan tong yi	完全同意	👊
+wan shang	晚上	🌃 🌉
+wan shao	碗勺	🥣
+wan sheng jie	万圣节	🎃
+wan shou qiu	玩手球	🤾‍♂️ 🤾‍♀️
+wan shua	玩耍	🛝
+wan shui	晚睡	🫩
+wan shui qiu	玩水球	🤽‍♂️ 🤽‍♀️
+wan tong	顽童	👿
+wan tui	弯腿	🦵
+wan wu	玩物	🧸
+wan yue	弯月	🌙
+wang cai	旺财	🐶
+wang chai	旺柴	🐶
+wang guan	王冠	👑 🫅
+wang hou	往后	⏭️
+wang hou	王后	👸 🫅 👑
+wang ji	忘记	😮
+wang luo	网络	🛜
+wang qiu	网球	🎾
+wang qiu pai	网球拍	🎾
+wang qiu xie	网球鞋	👟
+wang shang	往上	👆 🔼
+wang shang chong lang	网上冲浪	🏄
+wang shang zhi	往上指	👆
+wang shi	王室	🫅
+wang xia	往下	👇 🔽
+wang xia zhi	往下指	👇
+wang you	往右	👉 🫸
+wang you pao	往右跑	🏃‍♂️‍➡️ 🏃‍♀️‍➡️
+wang you zhi	往右指	👉
+wang you zou	往右走	🚶‍♂️‍➡️ 🚶‍♀️‍➡️
+wang yuan jing	望远镜	🔭
+wang yue	望月	🌕 🌝
+wang zhi	网址	🔗
+wang zi	王子	🤴
+wang zuo	往左	👈 🫷
+wang zuo pao	往左跑	🏃‍♂️ 🏃‍♀️
+wang zuo zhi	往左指	👈
+wang zuo zou	往左走	🚶‍♂️ 🚶‍♀️
+wei bing	卫兵	💂 💂‍♂️ 💂‍♀️
+wei bo	围脖	🧣
+wei cheng nian	未成年	🔞
+wei cheng nian bu yi	未成年不宜	🔞
+wei dao	味道	🧂
+wei di ma la	危地马拉	🇬🇹
+wei er shi	威尔士	🏴󠁧󠁢󠁷󠁬󠁳󠁿
+wei jin	围巾	🧣
+wei lou	危楼	🏚️
+wei nai	喂奶	🤱
+wei nei rui la	委内瑞拉	🇻🇪
+wei nei rui la bo li wa er gong he guo	委内瑞拉玻利瓦尔共和国	🇻🇪
+wei nu	微怒	😠
+wei qi	围棋	⚫ ⚪
+wei qi	尾气	💨
+wei qu	委屈	🥹 🙁 ☹️
+wei shen me	为什么	🤌 ❓ ❔
+wei sheng	卫生	🪥
+wei sheng jian	卫生间	🚻 🚾
+wei sheng wu	微生物	🦠
+wei sheng zhi	卫生纸	🧻
+wei shi	卫士	💂‍♂️ 💂‍♀️ 💂
+wei shi ji	威士忌	🥃
+wei ta ming	维他命	💊
+wei wei bu man	微微不满	🙁
+wei xian	危险	⚠️ ⚡
+wei xiao	微笑	😊 🙂 ☺️
+wei xiao de	微笑的	🥲
+wei xiao de e mo	微笑的恶魔	😈
+wei xiao de man yue	微笑的满月	🌝
+wei xiao de mao	微笑的猫	😸
+wei xiao de shang xian yue	微笑的上弦月	🌛
+wei xiao de shuo yue	微笑的朔月	🌚
+wei xiao de tai yang	微笑的太阳	🌞
+wei xiao de xia xian yue	微笑的下弦月	🌜
+wei xiao de xin yue	微笑的新月	🌚
+wei xiao de yue liang	微笑的月亮	🌝
+wei xiao e mo	微笑恶魔	😈
+wei xiao mao	微笑猫	😸
+wei xiao mao lian	微笑猫脸	😸
+wei xiao qin qin	微笑亲亲	😙
+wei xiao tian shi	微笑天使	😇
+wei xing	卫星	🛰️
+wei xing tian xian	卫星天线	📡
+wei xun	微醺	🥴
+wei yang	喂养	👩‍🍼 👨‍🍼 🧑‍🍼
+wei zhi	位置	📍
+wei zhuang	伪装	🥸
+wei zhuang de lian	伪装的脸	🥸
+wei zi	位子	💺
+wei zui	微醉	🥴
+wen	吻	💋
+wen	闻	👃
+wen dang	文档	📃 📄
+wen du	温度	🌡️
+wen du ji	温度计	🌡️
+wen hao	问号	❓ ❔ ⁉️
+wen hao	问好	👋
+wen hen	吻痕	💋
+wen hou	问候	👋
+wen jian	文件	📄
+wen jian gui	文件柜	🗄️
+wen jian jia	文件夹	📁 📂
+wen ju	文具	📁 📂 🗒️ 📏 📐
+wen lai	文莱	🇧🇳
+wen lai da lu sa lan guo	文莱达鲁萨兰国	🇧🇳
+wen meng	蚊虻	🦟
+wen quan	温泉	♨️
+wen shu	文书	📄 📃
+wen ti	问题	❔
+wen yi gong si	瘟疫公司	☣️
+wen ying	蚊蝇	🦟 🪰
+wen zi	蚊子	🦟
+wo ai ni	我爱你	🤟
+wo bu gan kan	我不敢看	🫣
+wo bu kan	我不看	🙈
+wo bu ting	我不听	🙉
+wo bu xin	我不信	😮
+wo de tian	我的天	😮 😯
+wo di	卧底	👮 👮‍♀️
+wo fu le	我服了	🤦‍♂️ 🤦‍♀️
+wo fu le ni	我服了你	🤦‍♂️ 🤦‍♀️
+wo fu le ni le	我服了你了	🤦‍♂️ 🤦‍♀️
+wo ge shou	握个手	🤝
+wo jin de quan tou	握紧的拳头	👊
+wo ju	莴苣	🥬
+wo niu	蜗牛	🐌
+wo quan	握拳	✊
+wo shi zheng ren	我是证人	👁️‍🗨️
+wo shou	握手	🤝
+wo shou he zuo	握手合作	🤝
+wo shou yan he	握手言和	🤝
+wo tu	我吐	🤮
+wo tu la	我吐啦	🤮
+wo tu le	我吐了	🤮
+wo wo shou	握握手	🤝
+wo xiang xiang	我想想	🤔
+wo yun	我晕	😵 😵‍💫
+wo zai xiang xiang	我再想想	🤔
+wo zhi dao	我知道	🙋‍♂️ 🙋‍♀️ 🙋
+wu	五	5️⃣
+wu	无	🈚
+wu	雾	🌫️
+wu cai zhi xie qiu	五彩纸屑球	🎊
+wu can	午餐	🍴
+wu dao	舞蹈	🪩 🪭 🩰 🪇
+wu dian	五点	🕔
+wu dian ban	五点半	🕠
+wu dian zhong	五点钟	🕔
+wu diu la ji	勿丢垃圾	🚯
+wu dong de xin	舞动的心	💞
+wu du	雾都	🌁
+wu er	捂耳	🙉
+wu er duo	捂耳朵	🙉
+wu gan	无感	😐
+wu gan da	乌干达	🇺🇬
+wu gan da gong he guo	乌干达共和国	🇺🇬
+wu gui	乌龟	🐢
+wu gui dian che	无轨电车	🚎
+wu hui	舞会	🎊 🪩
+wu ji zhui dong wu	无脊椎动物	🪼
+wu jiao xing	五角星	⭐
+wu jin	无尽	♾️
+wu jing	武警	👮 👮‍♀️
+wu jing	芜菁	🫜
+wu ke lan	乌克兰	🇺🇦
+wu la gui	乌拉圭	🇺🇾
+wu la gui dong an gong he guo	乌拉圭东岸共和国	🇺🇾
+wu li xue jia	物理学家	🧑‍🔬 👨‍🔬 👩‍🔬
+wu lian	捂脸	🤦 🙈 🤦‍♂️ 🤦‍♀️
+wu liao	无聊	🫤 🥱 🍄‍🟫
+wu ling	五菱	🚐
+wu ling hong guang	五菱宏光	🚐
+wu liu	物流	🚚
+wu long cha	乌龙茶	🍵
+wu mai	雾霾	🌫️
+wu men	屋门	🚪
+wu meng meng	雾蒙蒙	🌁
+wu nai	无奈	😮‍💨 🤦‍♂️ 🤦‍♀️
+wu nv	舞女	💃
+wu po	巫婆	🧹
+wu qi	武器	⚔️ 🔪 🔫 🗡️ 🪃 🛡️
+wu qi	雾气	🌁
+wu qi long zhao de qiao	雾气笼罩的桥	🌁
+wu qiong da	无穷大	♾️
+wu ran	污染	☣️
+wu ren dao	无人岛	🏝️
+wu ren huang dao	无人荒岛	🏝️
+wu reng la ji	勿扔垃圾	🚯
+wu shang er duo	捂上耳朵	🙉
+wu shang zui ba	捂上嘴巴	🤭 🙊
+wu shen lun	无神论	⚛️
+wu sheng	无声	🔇 🔕
+wu shi	巫师	🧙 🪄
+wu shi	无视	🤷 🤷‍♂️ 🤷‍♀️
+wu shu	武术	🥋
+wu shu fu	武术服	🥋
+wu suo pu	乌索普	🤥
+wu suo wei	无所谓	🫥 🫤 🤷 🤷‍♂️ 🤷‍♀️
+wu ting	舞厅	🪩
+wu wei xiong	无尾熊	🐨
+wu wu	呜呜	🚆
+wu xian	无线	🛜
+wu xian dian	无线电	📻
+wu xian ju yu wang	无线局域网	🛜
+wu xian pu	五线谱	🎼 🎵 🎶
+wu xian wang	无线网	🛜
+wu xian wang luo	无线网络	🛜
+wu xie	舞鞋	🩰
+wu xing hong qi	五星红旗	🇨🇳
+wu ya	乌鸦	🐦‍⬛
+wu yan	捂眼	🙈
+wu yan	无言	😑
+wu yan jing	捂眼睛	🙈
+wu yu	无语	😑
+wu yue jie	五月节	🪅
+wu yun bi ri	乌云蔽日	⛅
+wu zei	乌贼	🦑
+wu zhang ai she shi	无障碍设施	♿
+wu zhe	舞者	🧑‍🩰 🕺 💃 👯
+wu zhe er duo	捂着耳朵	🙉
+wu zhe zui ba	捂着嘴巴	🤭 🙊
+wu zhe zui xiao	捂着嘴笑	🤭
+wu zhi	五指	✋
+wu zhi	物质	⚛️
+wu zhu er duo	捂住耳朵	🙉
+wu zhu yan	捂住眼	🙈
+wu zhu yan jing	捂住眼睛	🙈
+wu zhu zui ba	捂住嘴巴	🤭 🙊
+wu zi	污渍	🫟
+wu zi bie ke si tan	乌兹别克斯坦	🇺🇿
+wu zi bie ke si tan gong he guo	乌兹别克斯坦共和国	🇺🇿
+wu zui	捂嘴	🤭 🙊
+wu zui ba	捂嘴巴	🤭 🙊
+wu zui xiao	捂嘴笑	🤭
+xi ba	吸把	🪠
+xi ban ya	西班牙	🇪🇸
+xi ban ya hai xian fan	西班牙海鲜饭	🥘
+xi ban ya wang guo	西班牙王国	🇪🇸
+xi bao	细胞	🔬
+xi bei	西北	↖️
+xi can	西餐	🍽️ 🍴
+xi fa lu	洗发露	🧴
+xi fa shui	洗发水	🧴
+xi fan	稀饭	🥣
+xi fu	西服	🤵‍♂️
+xi gua	西瓜	🍉
+xi guan	吸管	🧃
+xi guan bei	吸管杯	🥤
+xi hong shi	西红柿	🍅
+xi huan	喜欢	😍 ❤️ 😻 🩷 🩵
+xi ji er qi	喜极而泣	😹 😂 🥲 🥹
+xi ju	戏剧	🎭
+xi jun	细菌	🦠
+xi ke	锡克	🪯
+xi ke jiao	锡克教	🪯
+xi la	希腊	🇬🇷
+xi la gong he guo	希腊共和国	🇬🇷
+xi lan hua	西蓝花	🥦
+xi li	吸力	🪠
+xi mie	熄灭	🧯
+xi nan	西南	↙️
+xi niu	犀牛	🦏
+xi qi	吸气	🫁
+xi qing	喜庆	🏮
+xi sa ha la	西撒哈拉	🇪🇭
+xi sheng pin	牺牲品	♟️
+xi shou	吸收	🧽
+xi shou	洗手	🧼
+xi shou jian	洗手间	🚻 🚽 🚹 🚺 🚾
+xi shu	洗漱	🪥
+xi shuai	蟋蟀	🦗
+xi shui	吸水	🧽
+xi tie shi	吸铁石	🧲
+xi wang	希望	🤲
+xi xi	嘻嘻	😁
+xi xiao yan kai	喜笑颜开	🥰
+xi xie gui	吸血鬼	🧛 🧛‍♂️ 🧛‍♀️
+xi xue gui	吸血鬼	🧛 🧛‍♂️ 🧛‍♀️
+xi yan	吸烟	🚬 🚭
+xi yang	夕阳	🌇
+xi yi	洗衣	🧺
+xi yi	蜥蜴	🦎
+xi yin	吸引	🧲
+xi yin li	吸引力	🧲
+xi you duan dai de xin	系有缎带的心	💝
+xi yue	喜悦	🥲
+xi zao	洗澡	🛀 🛁 🧼
+xi zao de ren	洗澡的人	🛀
+xi zhuang	西装	🤵‍♂️
+xi zhuang ge lv	西装革履	🕴️
+xia	下	⬇️
+xia	虾	🦐
+xia bian	下边	👇
+xia chu	下厨	👨‍🍳 👩‍🍳
+xia ci ba	下次吧	😥
+xia da yu	下大雨	⛈️
+xia dao le	吓到了	🤯
+xia die	下跌	📉
+xia gui	下跪	🧎 🧎‍♂️ 🧎‍♀️ 🧎‍➡️ 🧎‍♀️‍➡️ 🧎‍♂️‍➡️
+xia jian tou	下箭头	⬇️
+xia jiang	下降	📉
+xia ke	侠客	🥷
+xia mian	下面	👇
+xia ren	吓人	😱 👹 🧟
+xia san jiao	下三角	🔽
+xia shui dao	下水道	🕳️
+xia si	吓死	😱
+xia si le	吓死了	😱
+xia tou	下投	🫳
+xia xian yue	下弦月	🌗 🌜
+xia xue	下雪	🌨️ ❄️
+xia yi ge	下一个	⏭️
+xia yi shou	下一首	⏭️
+xia yu	下雨	🌧️
+xian	线	🧵
+xian guang	闲逛	🚶 🚶‍➡️
+xian hua	鲜花	💐
+xian jin	陷进	🪤
+xian jing	陷阱	🕳️ 🪤
+xian luo	暹罗	🇹🇭
+xian nv	仙女	🧚‍♀️
+xian qiu	线球	🧶
+xian quan	线圈	🗒️ 🗓️
+xian quan ben	线圈本	🗒️
+xian quan bi ji ben	线圈笔记本	🗒️
+xian quan ri li	线圈日历	🗓️
+xian ren	仙人	🧚‍♂️
+xian ren zhang	仙人掌	🌵
+xian ru ai he	陷入爱河	🥰
+xian shi ping	显示屏	🖥️
+xian shi qi	显示器	🖥️
+xian suo	线索	🫆 🧩 🗝️
+xian tao	仙桃	🍑
+xian tuan	线团	🧶
+xian wei jing	显微镜	🔬
+xian xie	献血	🩸
+xian xue	献血	🩸
+xian yue qi	弦乐器	🪕
+xian zhou	线轴	🧵
+xian zi	仙子	🧚
+xiang ai	相爱	👩‍❤️‍👨 🥰
+xiang bin	香槟	🍾
+xiang cao	香草	🌿
+xiang chang	香肠	🌭
+xiang cheng	相乘	✖️ ❌
+xiang chu	相除	➗
+xiang deng	相等	🟰
+xiang fa	想法	💭 💡
+xiang gang	香港	🇭🇰
+xiang gang te bie xing zheng qu	香港特别行政区	🇭🇰
+xiang gua	香瓜	🍈
+xiang ji	相机	📷
+xiang jia	相加	➕
+xiang jiao	香蕉	🍌
+xiang kou	相扣	🧩
+xiang li	香梨	🍐
+xiang lian	相恋	👫
+xiang lian	项链	📿
+xiang liao	香料	🫚
+xiang ling	响铃	🔔
+xiang ling guan bi	响铃关闭	🔕
+xiang ni	想你	😘
+xiang pi	橡皮	✏️
+xiang pi ca	橡皮擦	✏️
+xiang qian	向前	⏩
+xiang qian chong	向前冲	🏃 🏃‍➡️
+xiang ri kui	向日葵	🌻
+xiang shang	向上	👆 📈 🔝 🔼 ⏫ 🆙
+xiang shang jian tou	向上箭头	⬆️
+xiang shang zhi	向上指	👆 ☝️
+xiang shui	想睡	😪 😴 💤
+xiang tu	想吐	🤢
+xiang xia	向下	👇 📉 ⬇️ 🔽 ⏬ 🔻
+xiang xia jian tou	向下箭头	⬇️
+xiang xia zhi	向下指	👇
+xiang xiang	想想	🤔
+xiang yan	香烟	🚬
+xiang yang hua	向阳花	🌻
+xiang yi xiang	想一想	🤔
+xiang you	向右	👉 🫱 🫸 ▶️ ⏯️
+xiang you de shou	向右的手	🫱
+xiang you jian tou	向右箭头	➡️
+xiang you pao	向右跑	🏃‍♂️‍➡️ 🏃‍♀️‍➡️
+xiang you shen de shou	向右伸的手	🫱
+xiang you tui	向右推	🫸
+xiang you tui de shou	向右推的手	🫸
+xiang you tui shou	向右推手	🫸
+xiang you zhi	向右指	👉
+xiang you zou	向右走	🚶‍♂️‍➡️ 🚶‍♀️‍➡️
+xiang zao	香皂	🧼
+xiang zhi	响指	🫰
+xiang zi	箱子	📦 🧰
+xiang zuo	向左	👈 🫲 🫷 ◀️
+xiang zuo de shou	向左的手	🫲
+xiang zuo jian tou	向左箭头	⬅️
+xiang zuo pao	向左跑	🏃‍♂️ 🏃‍♀️
+xiang zuo shen de shou	向左伸的手	🫲
+xiang zuo tui	向左推	🫷
+xiang zuo tui de shou	向左推的手	🫷
+xiang zuo tui shou	向左推手	🫷
+xiang zuo zhi	向左指	👈
+xiang zuo zou	向左走	🚶‍♂️ 🚶‍♀️
+xiao	笑	😄 😊
+xiao	鸮	🦉
+xiao ba	小巴	🚐
+xiao bai cai	小白菜	🥬
+xiao bai dian	小白点	⚪
+xiao bai dian er	小白点儿	⚪
+xiao bai kuang	小白框	⬜
+xiao bai shu	小白鼠	🐁
+xiao bai tu	小白兔	🐇
+xiao bao bei	小宝贝	👶
+xiao bao bei er	小宝贝儿	👶
+xiao chou	小丑	🤡 🃏
+xiao chou lian	小丑脸	🤡
+xiao chou pai	小丑牌	🃏
+xiao chu yan lei	笑出眼泪	🤣 😂 😹
+xiao chu yan lei de mao	笑出眼泪的猫	😹
+xiao dai shu	小袋鼠	🦘
+xiao dao	小刀	🔪
+xiao de da gun	笑得打滚	🤣
+xiao de da gun er	笑得打滚儿	🤣
+xiao de man di da gun	笑得满地打滚	🤣
+xiao de man di da gun er	笑得满地打滚儿	🤣
+xiao dian er sheng	小点儿声	🤫
+xiao dian lv	小电驴	🛵
+xiao dian sheng	小点声	🤫
+xiao fang	消防	👨‍🚒 👩‍🚒
+xiao fang che	消防车	🚒
+xiao fang kuai	小方块	▪️ ▫️
+xiao fang pian	小方片	🔸 🔹
+xiao fang yuan	消防员	🧑‍🚒 👨‍🚒 👩‍🚒
+xiao fei	小费	💁‍♂️
+xiao fei ji	小飞机	🛩️
+xiao gong zhu	小公主	👸
+xiao gou	小狗	🐶 🐕
+xiao hai	小孩	🧒 👦 👧
+xiao hai er	小孩儿	🧒
+xiao hai zi	小孩子	🧒
+xiao hao	小号	🎺
+xiao hei dian	小黑点	⚫
+xiao hei dian er	小黑点儿	⚫
+xiao hei kuang	小黑框	⬛
+xiao hei mao	小黑猫	🐈‍⬛
+xiao hong shu	小红书	📕
+xiao huan xiong	小浣熊	🦝
+xiao huang	小黄	🚕 🚖
+xiao ji	小鸡	🐤 🐣 🐥
+xiao ji ji	小鸡鸡	🐥
+xiao ji po ke	小鸡破壳	🐣
+xiao ji tou	小鸡头	🐤
+xiao jiao che	小轿车	🚗 🚘
+xiao jiao tang	小教堂	⛪
+xiao jing ling	小精灵	🧝 🧚‍♂️ 🧚‍♀️
+xiao ku	笑哭	😂 🤣
+xiao ku le	笑哭了	😂 🤣
+xiao lao shu	小老鼠	🐁
+xiao lian	笑脸	😀 😄 😊
+xiao lian xiang ying	笑脸相迎	😊
+xiao ling xing	小菱形	🔸 🔹
+xiao long xia	小龙虾	🦞
+xiao lu	小鹿	🦌
+xiao lv	小驴	🫏
+xiao ma	小马	🐎
+xiao mai	小麦	🍞
+xiao mao	小猫	🐱 🐈
+xiao mao mi	小猫咪	🐱 🐈
+xiao mao tou	小毛头	👶
+xiao mi feng	小蜜蜂	🐝
+xiao mo gu	小蘑菇	🍄
+xiao nan hai	小男孩	👦
+xiao niao	小鸟	🐦
+xiao niao qiu	小鸟球	🏌️
+xiao niu	小牛	🐮
+xiao nv hai	小女孩	👧
+xiao pen you	小盆友	🧒
+xiao peng you	小朋友	🧒
+xiao ping guo	小苹果	🍎 🍏
+xiao qi che	小汽车	🚗 🚘
+xiao qiang	小强	🪳
+xiao qu	小区	🏘️
+xiao shang dian	小商店	🏪
+xiao she	小蛇	🐍
+xiao sheng	小声	🤫 🔈
+xiao sheng dian	小声点	🤫
+xiao sheng dian er	小声点儿	🤫
+xiao shi	小时	⏰
+xiao shi	消失	🫠 🫥
+xiao shu	小鼠	🐁
+xiao shui	小睡	😴
+xiao shui di	小水滴	💦
+xiao shui zhu	小水珠	💦
+xiao shuo	小说	📖 📚
+xiao si	笑死	😆
+xiao si le	笑死了	🤣 😂
+xiao ti qin	小提琴	🎻
+xiao tian e	小天鹅	🦢
+xiao tian shi	小天使	👼
+xiao tu zi	小兔子	🐇
+xiao wang	小王	🃏
+xiao wang zi	小王子	🤴
+xiao wu	小屋	🛖
+xiao xian nv	小仙女	🧚‍♀️
+xiao xian zi	小仙子	🧚‍♂️ 🧚‍♀️
+xiao xie	小写	🔡
+xiao xie zi mu	小写字母	🔡
+xiao xin	小心	⚠️
+xiao xing fei ji	小型飞机	🛩️
+xiao xing mo tuo che	小型摩托车	🛵
+xiao xiong	小熊	🐻
+xiao xiong wei ni	小熊维尼	🍯
+xiao ya zi	小鸭子	🦆
+xiao yan	小眼	🤪
+xiao yan	笑颜	😁
+xiao yang	小羊	🐑
+xiao yao jing	小妖精	👺
+xiao yu	小鱼	🐟
+xiao yu er	小鱼儿	🐟
+xiao yuan dian	小圆点	⚪
+xiao yuan dian er	小圆点儿	⚪
+xiao yun	笑晕	😆
+xiao zheng fang xing	小正方形	▪️ ▫️
+xiao zhong dai lei	笑中带泪	😹 🥲
+xiao zhu	小猪	🐷
+xiao zhuang shi pin	小装饰品	🧿
+xie	蟹	🦀
+xie	血	🩸
+xie di	血滴	🩸
+xie e	邪恶	🖤 🦹
+xie lao ban	蟹老板	🦀
+xie mo	邪魔	😈
+xie pin	血拼	👛 👜
+xie qi	泄气	😅
+xie xie	谢谢	🙏
+xie xin	写信	✉️
+xie xing	血型	🅰️ 🆎 🅱️ 🅾️
+xie yan	邪眼	🧿
+xie ye	血液	🩸 🅰️ 🆎 🅱️ 🅾️
+xie yi	协议	🤝
+xie zi	写字	✍️
+xie zi	蝎子	🦂
+xie zi	鞋子	👟
+xie zi ban	写字板	📋
+xie zi lou	写字楼	🏢
+xie zuo	写作	📔
+xin	心	❤️
+xin	新	🆕
+xin de	新的	🆕
+xin dong	心动	💓 ❣️
+xin fan yi luan	心烦意乱	🙍
+xin feng	信封	✉️
+xin gan xian	新干线	🚄 🚅
+xin hao	信号	📶
+xin hao deng	信号灯	🚥 🚦
+xin hao jie shou	信号接收	📡
+xin hao qiang du	信号强度	📶
+xin hao qiang du tiao	信号强度条	📶
+xin huo	心火	❤️‍🔥
+xin jia po	新加坡	🇸🇬
+xin jia po gong he guo	新加坡共和国	🇸🇬
+xin jian	信件	✉️ 📧 📨 📩 📤 📥
+xin jian	新建	🆕
+xin jiang gua	新疆瓜	🍈
+xin ka li duo ni ya	新喀里多尼亚	🇳🇨
+xin lang	新郎	🤵‍♂️ 🤵
+xin lian xin	心连心	💞
+xin lv	心率	🫀
+xin nian kuai le	新年快乐	🎉 🧧 🎊
+xin niang	新娘	👰‍♀️ 👰
+xin niang zi	新娘子	👰‍♀️
+xin qing bu hao	心情不好	🙁
+xin shang	心伤	❤️‍🩹
+xin sheng er	新生儿	👨‍🍼 🧑‍🍼 🍼
+xin shi chong chong	心事重重	😔
+xin shou	新手	🔰
+xin sui	心碎	💔
+xin tan hao	心叹号	❣️
+xin tiao	心跳	💓
+xin wei	欣慰	🥲
+xin wen	新闻	📰 🗞️
+xin xi	信息	ℹ️
+xin xi lan	新西兰	🇳🇿
+xin xi zhong xin	信息中心	ℹ️
+xin xian kong qi	新鲜空气	🪟
+xin xiang	信箱	📪 📫 📬 📭 📮
+xin xing	心形	❤️ 💟 🤎 🤍
+xin xing zhuang shi	心形装饰	💟
+xin yang	信仰	🪯
+xin yong	信用	💳
+xin yong ka	信用卡	💳
+xin you jian	新邮件	📨
+xin yue	新月	🌑 🌚
+xin yue xing	新月形	🌙
+xin yue xing mian bao	新月形面包	🥐
+xin zai ran shao	心在燃烧	❤️‍🔥
+xin zai zhao huo	心在着火	❤️‍🔥
+xin zang	心脏	🫀 🩺
+xin zang qi guan	心脏器官	🫀
+xin zhong jian le	心中箭了	💘
+xing ba ke	星巴克	☕
+xing bi ti	擤鼻涕	🤧
+xing bi zi	擤鼻子	🤧
+xing fen	兴奋	🤩 🤸 🤸‍♂️ 🤸‍♀️ 🎉
+xing fu	幸福	🥰 🥲
+xing gan	性感	💋 🫦
+xing guang shan shan de ye wan	星光闪闪的夜晚	🌃
+xing hao	星号	*️⃣ ✳️
+xing hao jian	星号键	*️⃣
+xing ji	星际	👽 👾
+xing ji mi hang	星际迷航	🖖
+xing jian	兴建	🏗️
+xing kong	星空	🌌 🌃 🌠
+xing li	行李	🧳 🛄 🛅
+xing li ji cun	行李寄存	🛅
+xing li ji cun chu	行李寄存处	🛅
+xing li ling qu	行李领取	🛄
+xing li ling qu chu	行李领取处	🛄
+xing li pai	行李牌	🏷️
+xing li xiang	行李箱	🧳
+xing li yuan	行李员	🛎️
+xing ming pai	姓名牌	📛
+xing qiu	星球	🪐
+xing ren	杏仁	🌰
+xing ren	行人	🚶
+xing shi zou rou	行尸走肉	🧟‍♂️ 🧟‍♀️ 🧟
+xing tiao qi	星条旗	🇺🇸
+xing xing	星星	⭐ 🌟 ✨
+xing xing	猩猩	🦍 🦧
+xing xing	行星	🪐
+xing xing yan	星星眼	🤩
+xing yue	星月	☪️
+xing yun	幸运	🤞 🍀
+xing yun bing gan	幸运饼干	🥠
+xing yun cao	幸运草	🍀
+xing zou	行走	🚶‍♂️ 🚶‍♀️
+xing zuan	星钻	💍
+xiong	熊	🐻
+xiong di	兄弟	👬 👨 👨‍🦰 👨‍🦱 👨‍🦳 👨‍🦲
+xiong e	雄鹅	🪿
+xiong ji	雄鸡	🐓
+xiong lian	熊脸	🐻
+xiong mao	熊猫	🐼
+xiong mao lian	熊猫脸	🐼
+xiong mao ren	熊猫人	🐼
+xiong mao tou	熊猫头	🐼
+xiong pai	胸牌	📛
+xiong pian	胸片	🩻
+xiong shi	雄狮	♌
+xiong tou	熊头	🐻
+xiong tou	胸透	🩻
+xiong xing	雄性	♂️ 🐏
+xiong ya li	匈牙利	🇭🇺
+xiu	嗅	👃
+xiu bu	修补	❤️‍🩹
+xiu da	休达	🇪🇦
+xiu da he mei li li ya	休达和梅利利亚	🇪🇦
+xiu da ji mei li li ya	休达及梅利利亚	🇪🇦
+xiu fu shou shang de xin ling	修复受伤的心灵	❤️‍🩹
+xiu hua zhen	绣花针	🪡
+xiu ji rou	秀肌肉	💪
+xiu jian	修剪	✂️ 🪚
+xiu li	修理	🔨
+xiu li gong	修理工	👨‍🔧 👩‍🔧
+xiu se	羞涩	😳 😊 😚 🪭
+xiu se qin qin	羞涩亲亲	😚
+xiu xi	休息	♨️
+xiu xian	休闲	👖
+xiu xian che	休闲车	🚙
+xiu xian fu zhuang	休闲服装	👕
+xiu xian xie	休闲鞋	👟
+xiu zhi jia	修指甲	💅
+xu	嘘	🤫
+xu dian chi	蓄电池	🔋
+xu ke	许可	🉑
+xu li ya	叙利亚	🇸🇾
+xu li ya gong he guo	叙利亚共和国	🇸🇾
+xu ri	旭日	🌄 🌅
+xu ri dong sheng	旭日东升	🌄 🌅
+xu shan	恤衫	👕
+xu xian lian	虚线脸	🫥
+xu xian lun kuo	虚线轮廓	🫥
+xu yuan	许愿	🌠
+xuan feng	旋风	🌀 🌪️
+xuan fu	悬浮	🕴️
+xuan gua	悬挂	🚟
+xuan ju	选举	🗳️
+xuan niu	旋钮	🎛️
+xuan piao	选票	🗳️ ☑️
+xuan wo	旋涡	🌀
+xuan wo	选我	🙋
+xuan zhong	选中	🔘
+xuan zhuan	旋转	💞 💈
+xuan zhuan de xin	旋转的心	💞
+xuan zhuan mu ma	旋转木马	🎠
+xue	血	🩸
+xue	雪	❄️ 🌨️
+xue di	血滴	🩸
+xue ding	雪顶	🏔️
+xue gao	雪糕	🍨
+xue hua	雪花	❄️
+xue ju ju guai	穴居巨怪	🧌
+xue li	雪梨	🍐
+xue pin	血拼	👛 👜
+xue qiao	雪橇	🛷
+xue qiu	雪球	⚪
+xue ren	雪人	⛄
+xue shan	雪山	🏔️
+xue sheng	学生	🧑‍🎓 👨‍🎓 👩‍🎓
+xue shi mao	学士帽	🎓
+xue tong guo jie	学童过街	🚸
+xue wei	学位	🎓
+xue xi	学习	📚
+xue xiao	学校	🏫
+xue xing	血型	🅰️ 🆎 🅱️ 🅾️
+xue ye	血液	🩸 🅰️ 🆎 🅱️ 🅾️
+xue yun	雪云	🌨️
+xue zhe	学者	🎓
+xue zi	靴子	👢 🥾
+xun hu ji	寻呼机	📟
+xun huan	循环	♻️ 🔁 🔂
+xun huan bo fang	循环播放	🔁
+xun huan li yong	循环利用	♻️
+xun huan zai sheng	循环再生	♻️
+xun lian	训练	🏋️ 🏋️‍♀️
+xun luo	巡逻	🚓
+xun rou	熏肉	🥓
+xun xian rou	熏咸肉	🥓
+xun yi cao	薰衣草	🪻
+xun zhang	勋章	🎖️
+ya	牙	🦷
+ya	鸭	🦆
+ya ao di qiu yi	亚澳地球仪	🌏
+ya chi	牙齿	🦷
+ya jiao sheng	鸦叫声	🐦‍⬛
+ya jun	亚军	🥈
+ya ke	牙科	🪥
+ya ke yi sheng	牙科医生	🦷
+ya kou wu yan	哑口无言	🫢
+ya mai jia	牙买加	🇯🇲
+ya mei ni ya	亚美尼亚	🇦🇲
+ya mei ni ya gong he guo	亚美尼亚共和国	🇦🇲
+ya qun	鸭群	🪿
+ya she mao	鸭舌帽	🧢
+ya shua	牙刷	🪥
+ya suo	压缩	🗜️
+ya ya	牙牙	🦷
+ya yi	牙医	😬 🦷
+ya zhi	压制	🧯
+ya zhou	亚洲	🌏
+ya zhou ao zhou	亚洲澳洲	🌏
+ya zhou di qiu yi	亚洲地球仪	🌏
+ya zi	鸭子	🦆
+yan	烟	🚬
+yan	盐	🧂
+yan	眼	👀 👁️
+yan cai	腌菜	🥒
+yan cao	烟草	🚬
+yan dai	眼袋	🫩
+yan hua	演化	🧬
+yan hua	烟花	🎇 🎆
+yan hua	眼花	🥴
+yan huo	烟火	🎇 🧨 ❇️
+yan huo	焰火	🎆 🎇
+yan jin	严禁	🚫 🈲
+yan jing	眼睛	👁️ 👀
+yan jing	眼镜	👓
+yan jiu	研究	🧐
+yan juan	厌倦	🫩
+yan lei	眼泪	😂 🥲 😹 😿 💧
+yan li	艳丽	🦩
+yan liao	颜料	🎨
+yan mai	燕麦	🥣
+yan mai zhou	燕麦粥	🥣
+yan mao jin xing	眼冒金星	🤩 😵
+yan mao xing xing	眼冒星星	🤩
+yan re	炎热	🥵
+yan rou	烟肉	🥓
+yan shi	岩石	🪨
+yan wei fu	燕尾服	🤵‍♂️ 🤵
+yan yuan	演员	🧑‍🎤 👩‍🎤 🎭
+yan zou	演奏	🎷 🎸 🎹 🎻
+yang	羊	🐑
+yang cong	洋葱	🧅
+yang guang	阳光	🫡
+yang guang ming mei	阳光明媚	☀️ 🌞
+yang guang pu zhao	阳光普照	☀️
+yang jiao mian bao	羊角面包	🥐
+yang mao	羊毛	🐑 🦙
+yang pai	羊排	🥩
+yang pi zhi	羊皮纸	📜
+yang san	阳伞	⛱️
+yang sheng qi	扬声器	🔈 🔉 🔊 🔇
+yang sheng qi guan bi	扬声器关闭	🔇
+yang shou huan hu	扬手欢呼	🙌
+yang suan	洋蒜	🧅
+yang tuo	羊驼	🦙
+yang yang	羊羊	🐑
+yang yu	洋芋	🥔
+yao cao	药草	🌿
+yao dong	摇动	🪇
+yao gan	摇杆	🕹️
+yao guai	妖怪	🧞 👺
+yao gun	摇滚	🤘
+yao gun ge shou	摇滚歌手	👨‍🎤 👩‍🎤 🧑‍🎤
+yao gun nan ge shou	摇滚男歌手	👨‍🎤
+yao gun nv ge shou	摇滚女歌手	👩‍🎤
+yao gun shou shi	摇滚手势	🤘
+yao hai	要害	🎯
+yao jing	妖精	🧚‍♂️ 🧚‍♀️
+yao ku le	要哭了	🥹
+yao shi	钥匙	🔑 🗝️
+yao tou	摇头	🙂‍↔️
+yao tou huang nao	摇头晃脑	🫨
+yao wan	药丸	💊
+yao wu	药物	💊
+yao ya	咬牙	😬
+yao ya qie chi	咬牙切齿	😬
+yao zhu zui chun	咬住嘴唇	🫦
+yao zui chun	咬嘴唇	🫦
+ye	耶	✌️
+ye can	野餐	🧺
+ye jian da qiao	夜间大桥	🌉
+ye jian de da qiao	夜间的大桥	🌉
+ye li	夜里	🥱 🛌
+ye men	也门	🇾🇪
+ye men gong he guo	也门共和国	🇾🇪
+ye mian	页面	📃
+ye mu	夜幕	🌉
+ye mu xia de qiao	夜幕下的桥	🌉
+ye niu	野牛	🦬
+ye qian	页签	📑
+ye ti	液体	🫠
+ye wan	夜晚	🌃
+ye xia	腋下	🥎
+ye ye	爷爷	👴
+ye ying	野营	🏕️
+ye zhu	野猪	🐗
+ye zhuang	叶状	🔰
+ye zi	叶子	🍃
+ye zi	椰子	🥥
+ye zi guo	椰子果	🥥
+yi	一	1️⃣
+yi bai	一百	💯
+yi bai fen	一百分	💯
+yi bei	一杯	🥃
+yi bei	椅背	🪑
+yi bei jiu	一杯酒	🥃
+yi bei nai	一杯奶	🥛
+yi bei nai cha	一杯奶茶	🧋
+yi chu	溢出	🫟
+yi chuan xue	遗传学	🧬
+yi da li	意大利	🇮🇹
+yi da li gong he guo	意大利共和国	🇮🇹
+yi da li mian	意大利面	🍝
+yi da li mian tiao	意大利面条	🍝
+yi di	一滴	💧
+yi di shui	一滴水	💧
+yi dian	一点	🕐 🤏
+yi dian ban	一点半	🕜
+yi dian dian	一点点	🤏
+yi dian er	一点儿	🤏
+yi dian zhong	一点钟	🕐
+yi dong	移动	📱
+yi dong dian hua	移动电话	📱 📲
+yi dong tong xin	移动通信	📱
+yi er san si	一二三四	🔢
+yi fen	意粉	🍝
+yi fu	衣服	👔 🥼 👗 👘 🥻 👚
+yi fu hua	一幅画	🖼️
+yi ge	一个	☝️
+yi guo shi wu	一锅食物	🍲 🥘
+yi hu	一壶	🫖
+yi hu cha	一壶茶	🫖
+yi hu ren yuan	医护人员	👨‍⚕️ 👩‍⚕️
+yi huo	疑惑	🤔 😕 🫤
+yi jia ren	一家人	👨‍👩‍👦 👨‍👩‍👧 👨‍👩‍👧‍👦 👨‍👩‍👦‍👦 👨‍👩‍👧‍👧
+yi jia san kou	一家三口	👨‍👩‍👦 👨‍👩‍👧
+yi jia si kou	一家四口	👨‍👩‍👧‍👦 👨‍👩‍👦‍👦 👨‍👩‍👧‍👧
+yi jian chuan xin	一箭穿心	💘
+yi jing yin de yang sheng qi	已静音的扬声器	🔇
+yi la ke	伊拉克	🇮🇶
+yi la ke gong he guo	伊拉克共和国	🇮🇶
+yi lang	伊朗	🇮🇷
+yi lang yi si lan gong he guo	伊朗伊斯兰共和国	🇮🇷
+yi lian bu yue	一脸不悦	🙁
+yi liao	医疗	🩸 🩺 🩻 ⚕️
+yi liao biao zhi	医疗标志	⚕️
+yi liao fu hao	医疗符号	⚕️
+yi mian	意面	🍝
+yi miao	疫苗	💉
+yi nan yi nv	一男一女	👫
+yi ren	艺人	🧑‍🎤 👨‍🎤 👩‍🎤
+yi se lie	以色列	🇮🇱
+yi se lie guo	以色列国	🇮🇱
+yi sheng	医生	👨‍⚕️ 👩‍⚕️
+yi shu	艺术	🎨 👨‍🎨 👩‍🎨 🎭 🖼️
+yi shu jia	艺术家	🧑‍🎨 👨‍🎨 👩‍🎨
+yi si lan	伊斯兰	🕌 🕋 ☪️
+yi suo shang dan gua zhe yao shi de suo	已锁上但挂着钥匙的锁	🔐
+yi ti	义体	🦾 🦿
+yi tiao long	一条龙	🐉
+yi tiao she	一条蛇	🐍
+yi wai	意外	🤭 😟 😦
+yi wan fu weng	亿万富翁	🚤
+yi wan mian	一碗面	🍜
+yi wen	疑问	🤔 ❓
+yi wen jing tan	疑问惊叹	⁉️
+yi wen jing tan hao	疑问惊叹号	⁉️
+yi xin duo yong	一心多用	🤹 🤹‍♂️
+yi xing guai shou	异形怪兽	👾
+yi xue	医学	💉 ⚕️
+yi yan wei ding	一言为定	🤝
+yi yao	医药	🏥
+yi yuan	医院	🏥
+yi zhi	义肢	🦾 🦿
+yi zhi yan	一只眼	👁️
+yi zhi yan	一支烟	🚬
+yi zhi yan jing	一只眼睛	👁️
+yi zi	椅子	🪑
+yin	阴	⛅
+yin cang	隐藏	🫥 🥷
+yin du	印度	🇮🇳
+yin du gong he guo	印度共和国	🇮🇳
+yin du jiao	印度教	🪷 🕉️
+yin du miao	印度庙	🛕
+yin du ni xi ya	印度尼西亚	🇮🇩
+yin du ni xi ya gong he guo	印度尼西亚共和国	🇮🇩
+yin du si miao	印度寺庙	🛕
+yin fu	音符	🎵 🎶
+yin hang	银行	🏦
+yin hang ka	银行卡	💳
+yin he	银河	🌌
+yin he xi	银河系	🌌
+yin ji	印迹	🫆
+yin liang	音量	🔈 🔊 🎚️
+yin liao	饮料	🥤
+yin man shen fen	隐瞒身份	🥸
+yin mi	隐秘	🔏
+yin pai	银牌	🥈
+yin se	银色	🩶
+yin shen	隐身	🥷
+yin shua ji	印刷机	🖨️
+yin shui chu	饮水处	🚰
+yin si	隐私	🔏
+yin tian	阴天	⛅
+yin xing	隐形	🫥
+yin yang	阴阳	☯️
+yin yong shui	饮用水	🚰
+yin yue	音乐	🎵 🎶
+yin yue jian pan	音乐键盘	🎹
+ying	营	🈺
+ying	鹰	🦅
+ying bang	英镑	💷
+ying bang chao piao	英镑钞票	💷
+ying bi	硬币	🪙
+ying bi	硬笔	✒️ 🖋️
+ying di	营地	🏕️
+ying er	婴儿	👶 🚼 🤱 👩‍🍼 👨‍🍼 🧑‍🍼
+ying er biao zhi	婴儿标志	🚼
+ying er fu hao	婴儿符号	🚼
+ying ge lan	英格兰	🏴󠁧󠁢󠁥󠁮󠁧󠁿
+ying guo	英国	🇬🇧
+ying hua	樱花	🌸
+ying la	硬拉	🏋️
+ying la	赢啦	✌️
+ying le	赢了	✌️
+ying lo	赢咯	✌️
+ying lun	英伦	🇬🇧
+ying mian bao quan	硬面包圈	🥯
+ying mian er lai	迎面而来	🚘
+ying pian	影片	💿 📀 📽️ 🎦
+ying qian	赢钱	💰
+ying shi gan lan qiu	英式橄榄球	🏉
+ying shi zu qiu	英式足球	⚽
+ying shu wei er jing qun dao	英属维尔京群岛	🇻🇬
+ying shu yin du yang ling di	英属印度洋领地	🇮🇴
+ying tao	樱桃	🍒
+ying tu yue	盈凸月	🌔
+ying wen	英文	🔠 🔡
+ying wen da xie	英文大写	🔠
+ying wen xiao xie	英文小写	🔡
+ying wu	鹦鹉	🦜
+ying xiong	英雄	🦸 🦸‍♂️ 🦸‍♀️
+ying ye	营业	🈺
+ying yu	英语	🔠 🔡
+ying yue	盈月	🌒
+ying zui dou	鹰嘴豆	🧆
+yong bao	拥抱	🤗 🫂
+yong bao de ren	拥抱的人	🫂
+yong dong	涌动	💞
+yong jing	泳镜	🥽
+yong ke	泳客	🏊‍♂️ 🏊‍♀️
+yong ku	泳裤	🩳
+yong lang	涌浪	🏄
+yong quan	泳圈	🛟
+yong yao	用药	💊
+yong yi	泳衣	🩱 🩲 🩳
+yong zhong	臃肿	🫃 🫄
+yong zhuang	泳装	🩱 👙 🩲 🩳
+you	右	➡️
+you	有	🈶
+you	鼬	🦨
+you beng	油泵	⛽
+you bian	右边	👉
+you bu	优步	🚖
+you dai lei dong wu	有袋类动物	🐨 🦘
+you dan de chao	有蛋的巢	🪺
+you dan de niao chao	有蛋的鸟巢	🪺
+you deng	油灯	🪔
+you di	邮递	📭
+you dian	有电	⚡
+you er	诱饵	🪤
+you gan lan	油橄榄	🫒
+you gou quan	右钩拳	🤛
+you gui dian che	有轨电车	🚋
+you hu xu de ren	有胡须的人	🧔
+you hu zi de ren	有胡子的人	🧔
+you huan xing xing	有环行星	🪐
+you huo	诱惑	🫦
+you jian	邮件	📧
+you jian tou	右箭头	➡️
+you jing	幽静	🪷
+you ju	邮局	🏤 🏣
+you kong wei	有空位	🈳
+you le chang	游乐场	🛝
+you le yuan	游乐园	🎠 🛝 🎡 🎢
+you liao	有料	🈶
+you ling	幽灵	👻
+you lun	邮轮	🚢
+you lv	忧虑	😔
+you mian	右面	👉
+you miao	幼苗	🌱
+you qi	油漆	🫟
+you qian	有钱	💰
+you quan	右拳	🤛
+you shang	右上	↗️
+you shang	忧伤	😔
+you shang jian tou	右上箭头	↗️
+you shou	右手	🫱 🫸
+you su dian xin	油酥点心	🥧
+you tai	犹太	🕍 ✡️ 🕎 🔯
+you tai jiao	犹太教	🕍 ✡️ 🕎 🔯
+you tai jiao hui tang	犹太教会堂	🕍
+you tai jiao tang	犹太教堂	🕍
+you tao	油桃	🍊
+you ting	游艇	⛵
+you tong	油桶	🛢️
+you tong	邮筒	📮
+you tui	右推	🫸
+you wu	有雾	🌁
+you xi	游戏	🎮
+you xi cao kong gan	游戏操控杆	🕹️
+you xi shou bing	游戏手柄	🎮
+you xi yao gan	游戏摇杆	🕹️
+you xia	右下	↘️
+you xia jian tou	右下箭头	↘️
+you xiang	邮箱	📮 📫
+you xiang quan	右向拳	🤜
+you ya	优雅	💃 🌹
+you yi	友谊	🫂
+you yong	游泳	🏊 🏊‍♂️ 🏊‍♀️
+you yong jing	游泳镜	🥽
+you yong quan	游泳圈	🛟
+you yong zhe	游泳者	🏊‍♂️ 🏊‍♀️ 🏊
+you you qiu	悠悠球	🪀
+you yu	鱿鱼	🦑
+you yu bu jue	犹豫不决	🪀
+you zha	油炸	🍟 🍤
+you zha mian quan	油炸面圈	🍩
+you zha ying zui dou bing	油炸鹰嘴豆饼	🧆
+you zheng	邮政	📯
+you zheng la ba	邮政喇叭	📯
+you zhuan wan	右转弯	↩️
+yu	雨	🌧️ ☔
+yu	鱼	🐟 🐠
+yu ban	鱼板	🍥
+yu bing	鱼饼	🍥
+yu di	雨滴	☔
+yu ding	预定	🈯
+yu ding	预订	🈯
+yu er	鱼儿	🐟
+yu gan	渔竿	🎣
+yu gang	浴缸	🛁
+yu gou	鱼钩	🪝
+yu hang yuan	宇航员	🧑‍🚀 👨‍🚀 👩‍🚀
+yu huo chong sheng	浴火重生	🐦‍🔥
+yu jia	瑜伽	🧘‍♂️ 🧘‍♀️ 🧘
+yu jia nan	瑜伽男	🧘‍♂️
+yu jia nv	瑜伽女	🧘‍♀️
+yu jin xiang	郁金香	🌷
+yu jing	预警	⚠️
+yu le	娱乐	🎨 📻
+yu mao	羽毛	🪶
+yu mao qiu	羽毛球	🏸
+yu mao qiu pai	羽毛球拍	🏸
+yu men	郁闷	🫤 😒
+yu mi	玉米	🌽
+yu mi bing	玉米饼	🫓
+yu pen	浴盆	🛀 🛁
+yu san	雨伞	☔ 🌂 ☂️
+yu shi	浴室	🪥
+yu wo wu guan	与我无关	🤷‍♂️ 🤷‍♀️
+yu yan	预言	🥠
+yu yan	鱼眼	🫪
+yu yi	浴衣	👘
+yu yi	羽翼	🪽
+yu ying shi	育婴室	🚼
+yu yun	雨云	🌧️
+yu zhou	宇宙	👨‍🚀 👩‍🚀 ♾️
+yuan bai cai	圆白菜	🥬
+yuan ding	园丁	🧑‍🌾 👨‍🌾 👩‍🌾
+yuan mu	原木	🪵
+yuan mu	圆木	🪵
+yuan pan	圆盘	🥏
+yuan quan	圆圈	⭕ 🛞 🟠 🟢 🟣 🟤
+yuan tong	圆桶	🪣
+yuan tong bing ji ling	圆筒冰激凌	🍦
+yuan tong bing qi lin	圆筒冰淇淋	🍦
+yuan tu ding	圆图钉	📍
+yuan tuo	原驼	🦙
+yuan wang	愿望	🧞
+yuan wei hua	鸢尾花	⚜️
+yuan xiao	元宵	⚪
+yuan xin	圆心	🔘
+yuan xing	圆形	⚫ ⚪
+yuan yue	圆月	🌕 🌝
+yuan zhu bi	圆珠笔	🖊️
+yuan zi	原子	⚛️
+yuan zi bi	原子笔	🖊️
+yuan zi fu hao	原子符号	⚛️
+yuan zu	远足	🚶 🚶‍➡️
+yue	月	🈷️
+yue bing	月饼	🥮
+yue dan	约旦	🇯🇴
+yue dan ha xi mu wang guo	约旦哈希姆王国	🇯🇴
+yue dong	跃动	💞
+yue du	月度	🈷️
+yue dui	乐队	🪈
+yue jing	月经	🩸
+yue liang	月亮	🌙
+yue nan	越南	🇻🇳
+yue nan she hui zhu yi gong he guo	越南社会主义共和国	🇻🇳
+yue pu	乐谱	🎼
+yue qiu	月球	🌕
+yue shi	月食	🌒 🌘
+yue tuan	月团	🥮
+yue ya	月牙	🌙
+yue ye che	越野车	🚙
+yun	云	☁️
+yun	晕	😵‍💫 😵
+yun cai	云彩	☁️
+yun dong bei xin	运动背心	🎽
+yun dong fu	运动服	🎽
+yun dong hui jiang pai	运动会奖牌	🏅
+yun dong xie	运动鞋	👟
+yun dong xing duo yong tu che	运动型多用途车	🚙
+yun dong yuan	运动员	🏅
+yun du	孕肚	🤰
+yun duo	云朵	☁️
+yun fu	孕妇	🤰
+yun le	晕了	😵 😵‍💫
+yun qi	运气	🧧
+yun qiu	运球	⛹️
+yun song	运送	📦
+yun tou	晕头	😵 😵‍💫
+yun tou zhuan xiang	晕头转向	😵 😵‍💫
+yun zhong	云中	😶‍🌫️
+yun zhong de lian	云中的脸	😶‍🌫️
+za gong	杂工	👨‍🔧
+za ji	杂技	🤸 🤸‍♂️ 🤸‍♀️ 🤹 🤹‍♂️ 🤹‍♀️
+za shua	杂耍	🤹‍♂️ 🤹‍♀️ 🤹
+zai ci	再次	🔄
+zai huo	载货	🛻
+zai jian	再见	👋
+zai li yong	再利用	♻️
+zai lu shang	在路上	👣 🔜
+zai ma	在吗	👋
+zai sheng	再生	♻️
+zan	赞	👍
+zan bi ya	赞比亚	🇿🇲
+zan bi ya gong he guo	赞比亚共和国	🇿🇲
+zan cheng	赞成	👍 👏
+zan ting	暂停	⏸️ 🫷 🫸 ⏯️
+zan ting an niu	暂停按钮	⏸️
+zan tong	赞同	👍
+zang hua	脏话	🤬
+zang li	葬礼	⚰️ ⚱️
+zao	皂	🧼
+zao an	早安	🌅 ☀️
+zao can	早餐	🥯 🍳 🥣 🍴
+zao chen	早晨	☕ 🌄 🌅
+zao pen	澡盆	🛀 🛁
+zao shang hao	早上好	☀️ 🌅
+zao xing shi	造型师	💇
+ze bei	责备	👎
+ze xi	泽西	🇯🇪
+ze xi dao	泽西岛	🇯🇪
+zha dan	炸弹	💣
+zha de	乍得	🇹🇩
+zha de gong he guo	乍得共和国	🇹🇩
+zha dou wan zi	炸豆丸子	🧆
+zha meng	蚱蜢	🦗
+zha xia	炸虾	🍤
+zha yan	眨眼	😉
+zha yao	炸药	🧨
+zhai nan	宅男	🤓
+zhan bu	占卜	🔮
+zhan dou	战斗	⚔️ 🥷
+zhan li	站立	🧍‍♂️ 🧍‍♀️ 🧍
+zhan li de nan ren	站立的男人	🧍‍♂️
+zhan li de nv ren	站立的女人	🧍‍♀️
+zhan li zhe	站立者	🧍 🧍‍♂️ 🧍‍♀️
+zhan shi	战士	🪖
+zhan si	战死	⚔️
+zhan tai	站台	🚉
+zhan zhe	站着	🧍‍♂️ 🧍‍♀️ 🧍
+zhan zheng	战争	🪖
+zhang ben	账本	📒
+zhang bu	账簿	📒
+zhang chi bang de qian	长翅膀的钱	💸
+zhang dan	账单	🧾
+zhang kai shuang shou	张开双手	👐
+zhang lang	蟑螂	🪳
+zhang le chi bang de qian	长了翅膀的钱	💸
+zhang peng	帐篷	⛺
+zhang xin chao shang	掌心朝上	🫴
+zhang xin chao xia	掌心朝下	🫳
+zhang xin xiang shang tuo qi	掌心向上托起	🤲
+zhang ya	长牙	🦣
+zhang yin	掌印	🐾
+zhang yu	章鱼	🐙
+zhao huan	召唤	🫴 🧙
+zhao huo	着火	🔥
+zhao huo le	着火了	🔥
+zhao ming	照明	🔦 🕯️
+zhao pian	照片	🖼️ 📷
+zhao shou	招手	👋
+zhao xiang ji	照相机	📷
+zhao yao	招摇	🦚
+zhao yin	爪印	🐾
+zhe ge wo zhi dao	这个我知道	🙋‍♂️ 🙋‍♀️
+zhe kou	折扣	🈹
+zhe li	这里	🈁
+zhe shan	折扇	🪭
+zhe yang san	遮阳伞	⛱️
+zhen	针	🪡
+zhen bang	真棒	👍
+zhen dong	振动	📳
+zhen dong	震动	🫨 📳
+zhen dong mo shi	振动模式	📳
+zhen duan	诊断	🩺
+zhen feng	阵风	💨
+zhen jing	震惊	😲 😦 😧
+zhen jun	真菌	🍄
+zhen tan	侦探	🕵️ 🕵️‍♂️ 🕵️‍♀️
+zhen tong	针筒	💉
+zhen tou	针头	💉
+zhen xian	针线	🪡 🧵
+zhen xin	真心	🫀
+zhen yu	阵雨	⛈️
+zhen zhu	珍珠	🦪 🧋
+zhen zhu nai cha	珍珠奶茶	🧋
+zhen zi	榛子	🌰
+zheng dian	整点	🕛
+zheng fang	蒸房	🧖‍♂️ 🧖‍♀️ 🧖
+zheng fang li de nan ren	蒸房里的男人	🧖‍♂️
+zheng fang li de nv ren	蒸房里的女人	🧖‍♀️
+zheng fang li de ren	蒸房里的人	🧖 🧖‍♂️ 🧖‍♀️
+zheng fang xing	正方形	⬛ ⬜
+zheng fu	正负	🧲
+zheng ji	正极	🔋
+zheng jian	证件	🪪
+zheng ju	证据	🧾
+zheng liu	蒸馏	⚗️
+zheng liu qi	蒸馏器	⚗️
+zheng ming	证明	🧾
+zheng nan	正南	⬇️
+zheng qi	蒸汽	♨️ 🚂
+zheng qi huo che	蒸汽火车	🚂
+zheng qi yu	蒸汽浴	🧖
+zheng que	正确	⭕ ✅ ✔️
+zheng ren	证人	👁️‍🗨️
+zheng san jiao	正三角	🔺
+zheng sang na	蒸桑拿	🧖‍♂️ 🧖‍♀️
+zheng shi	正式	🤵 👔 🎩
+zheng yi	正义	👨‍⚖️ 👩‍⚖️ ⚖️ ♎
+zheng zhang	证章	📛
+zheng zhao	证照	🪪
+zheng zhong ba xin de fei biao	正中靶心的飞镖	🎯
+zheng zhuang	正装	🕴️
+zhi	指	🈯
+zhi	纸	📄
+zhi bei dan gao	纸杯蛋糕	🧁
+zhi bei zhen	指北针	🧭
+zhi bi	纸币	💵 💴 💶 💷 💸
+zhi bu luo tuo	直布罗陀	🇬🇮
+zhi chi	直尺	📏
+zhi ding	置顶	🔝
+zhi fang tu	直方图	📊
+zhi fu	制服	🥋
+zhi gao qi ang	趾高气昂	😤
+zhi hui	智慧	🧠
+zhi ji	值机	🛫
+zhi jia	纸夹	📎 🖇️
+zhi jia you	指甲油	💅
+zhi jie ming zhong	直接命中	🎯
+zhi jin	纸巾	🧻
+zhi jing	致敬	🫡
+zhi juan	纸卷	📜 🧻
+zhi li	智利	🇨🇱
+zhi li gong he guo	智利共和国	🇨🇱
+zhi li you xi	智力游戏	🧩
+zhi li yuan	直立猿	🫈
+zhi liao	治疗	💆 💉 💊
+zhi liao shi	治疗师	🧑‍⚕️ 👨‍⚕️ 👩‍⚕️
+zhi mo	蟙䘃	🦇
+zhi nan zhen	指南针	🧭
+zhi neng	智能	🧠
+zhi neng shou ji	智能手机	📱 📲 🛜
+zhi ni	指你	🫵
+zhi ren	指人	🫵
+zhi sheng fei ji	直升飞机	🚁
+zhi sheng ji	直升机	🚁
+zhi shi	知识	📖 📚
+zhi shi	芝士	🧀
+zhi shi huo guo	芝士火锅	🫕
+zhi shi pai	指示牌	🚸
+zhi ti	肢体	🦵
+zhi tou zi	掷骰子	🎲
+zhi wen	指纹	🫆
+zhi wen jie suo	指纹解锁	🫆
+zhi wen shi bie	指纹识别	🫆
+zhi wo	指我	🫵
+zhi wu	植物	🏵️ 🌺 🪻 🪴 🌵 🍄‍🟫
+zhi xiang	指向	🫵 📦
+zhi xiang	纸箱	📦
+zhi xiang guan cha zhe de shi zhi	指向观察者的食指	🫵
+zhi xiang zi	纸箱子	📦
+zhi yan	纸烟	🚬
+zhi yin	指印	🫆
+zhi yin	指引	🦮
+zhi yin shui	直饮水	🚰
+zhi yu de xin	治愈的心	❤️‍🩹
+zhi yuan	纸鸢	🪁
+zhi yuan	职员	👨‍💼 👩‍💼
+zhi zhang	纸张	📃 📋
+zhi zhao	执照	🪪
+zhi zhe	指着	🫵
+zhi zhe	智者	🧙
+zhi zhe ni	指着你	🫵
+zhi zhu	蜘蛛	🕷️
+zhi zhu wang	蜘蛛网	🕸️
+zhi zuo	制作	⏺️
+zhong	中	🀄
+zhong biao	钟表	🕰️
+zhong can	中餐	🍴
+zhong deng	中等	🔉 ◼️ ◻️
+zhong deng fang kuai	中等方块	◼️ ◻️
+zhong deng fu se	中等肤色	🏽
+zhong deng qian fu se	中等浅肤色	🏼
+zhong deng shen fu se	中等深肤色	🏾
+zhong deng yin liang	中等音量	🔉
+zhong deng yin liang de yang sheng qi	中等音量的扬声器	🔉
+zhong deng zheng fang xing	中等正方形	◼️ ◻️
+zhong dian	终点	🏁 🔚
+zhong dian qi	终点旗	🏁
+zhong dong shu cai qiu	中东蔬菜球	🧆
+zhong fang kuai	中方块	◼️ ◻️
+zhong fei	中非	🇨🇫
+zhong fei gong he guo	中非共和国	🇨🇫
+zhong guo	中国	🇨🇳
+zhong guo ao men	中国澳门	🇲🇴
+zhong guo ao men te bie xing zheng qu	中国澳门特别行政区	🇲🇴
+zhong guo long	中国龙	🐲
+zhong guo mao	中国帽	👲
+zhong guo xiang gang	中国香港	🇭🇰
+zhong guo xiang gang te bie xing zheng qu	中国香港特别行政区	🇭🇰
+zhong hua ren min gong he guo	中华人民共和国	🇨🇳
+zhong ji	终极	🥏
+zhong jin shu	重金属	👨‍🎤 👩‍🎤
+zhong qiu	中秋	🎑
+zhong qiu jia jie	中秋佳节	🎑
+zhong qiu jie	中秋节	🎑 🥮
+zhong qiu kuai le	中秋快乐	🥮 🌕
+zhong quan chu ji	重拳出击	👊
+zhong sheng	钟声	🔔
+zhong shu	中暑	🥵
+zhong xiao	中小	◾
+zhong xin	中心	🫀 💠
+zhong yao	中药	🌿
+zhong zheng fang xing	中正方形	◼️ ◻️
+zhong zhi	中指	🖕
+zhong zhi	中止	🫷 🫸
+zhong zhi	种植	🪏 🧺
+zhong zhi	终止	⏹️
+zhou ma	咒骂	🤬
+zhou mei	皱眉	🙍
+zhou mo	周末	👖
+zhou nian ji nian	周年纪念	💐
+zhou zhe mei tou	皱着眉头	🙍‍♂️ 🙍‍♀️
+zhou zhe mei tou de ren	皱着眉头的人	🙍‍♂️ 🙍‍♀️
+zhu	猪	🐖 🐷
+zhu	祝	㊗️
+zhu bao	珠宝	💎
+zhu bi	猪鼻	🐽
+zhu bi zi	猪鼻子	🐽
+zhu cang	贮藏	🫙
+zhu ce	注册	®️
+zhu ce biao ji	注册标记	®️
+zhu ce shang biao	注册商标	®️
+zhu ce shang biao fu hao	注册商标符号	®️
+zhu chao	筑巢	🪹 🪺
+zhu chu	主厨	🔪
+zhu fu	祝福	㊗️ 🙏
+zhu gu li	朱古力	🍫
+zhu gu li bang	朱古力棒	🍫
+zhu guang	烛光	🕯️
+zhu hao yun	祝好运	🤞
+zhu he	祝贺	🎉 🎊
+zhu huo	烛火	🕯️
+zhu jia	住家	🏠 🏡
+zhu lan	竹篮	🧺
+zhu lian	猪脸	🐷
+zhu mang zhang de ren	拄盲杖的人	🧑‍🦯 👨‍🦯 👩‍🦯
+zhu pai	猪排	🥩
+zhu ri hua	逐日花	🌻
+zhu rou	猪肉	🐖
+zhu she qi	注射器	💉
+zhu shi	主食	🍚
+zhu shi	注视	👀
+zhu shou de fan	煮熟的饭	🍚
+zhu shu de fan	煮熟的饭	🍚
+zhu tai	烛台	🕎
+zhu ting qi	助听器	🦻
+zhu tou	猪头	🐷
+zhu wang	蛛网	🕸️
+zhu xing tu	柱形图	📊
+zhu ya	蛀牙	🍬
+zhu yi	主意	💡
+zhu yi	注意	⚠️
+zhu yi er tong	注意儿童	🚸
+zhu zhai	住宅	🏘️
+zhu zhai lou	住宅楼	🏠
+zhu zhu	猪猪	🐷 🐖
+zhu zhuang tu	柱状图	📊
+zhu zi	珠子	📿 🧿
+zhu zui	住嘴	🤐
+zhua kuang	抓狂	😫
+zhua yin	爪印	🐾
+zhua zi	爪子	🐾
+zhuan	砖	🧱
+zhuan dong	转动	🛞
+zhuan ji	专辑	💿
+zhuan jia	专家	🤓
+zhuan kuai	砖块	🧱
+zhuan tou	砖头	🧱
+zhuan zhu	专注	😣
+zhuang huo	装货	📦
+zhuang pei	装配	🧑‍🏭 👨‍🏭 👩‍🏭
+zhuang shi	装饰	💟 🎄
+zhui ri hua	追日花	🌻
+zhui ru ai he	坠入爱河	🥰
+zhui xing zu	追星族	🤩
+zhuo lu	着陆	🛬
+zhuo qiu	桌球	🏓
+zi dan tou	子弹头	🚅
+zi dan tou gao su lie che	子弹头高速列车	🚅
+zi ding xiang	紫丁香	🪻
+zi dong ren li che	自动人力车	🛺
+zi fu	字符	🔣
+zi fu	自负	😤
+zi hao	自豪	🥲 🥹
+zi liao	资料	📊 ℹ️
+zi luo lan	紫罗兰	🪻
+zi mu	字母	🔠 🔤 Ⓜ️
+zi pai	自拍	🤳
+zi ran	自然	🍄‍🟫 🏞️
+zi se	紫色	🟣 🟪 🪻
+zi se de xin	紫色的心	💜
+zi se xin	紫色心	💜
+zi shi	姿势	🙇
+zi shui qiang	滋水枪	🔫
+zi wu xian	子午线	🌐
+zi xi ting	仔细听	👂
+zi xin	紫心	💜
+zi xin	自信	😎
+zi xing che	自行车	🚲
+zi xing che sai	自行车赛	🚴
+zi xun	资讯	ℹ️
+zi ya	龇牙	😬
+zi ya lie zui	龇牙咧嘴	😬
+zi you	自由	🆓 🗽 ⛓️‍💥
+zi you nv shen	自由女神	🗽
+zi you nv shen xiang	自由女神像	🗽
+zi you yong	自由泳	🏊
+zong lv	棕榈	🌴 🥥
+zong lv shu	棕榈树	🌴
+zong mo gu	棕蘑菇	🍄‍🟫
+zong se	棕色	🟤 🟫 🤎 🍄‍🟫 👞
+zong se de xin	棕色的心	🤎
+zong se xin	棕色心	🤎
+zong xin	棕心	🤎
+zong zi	粽子	🫔
+zou lu	走路	🚶‍♂️ 🚶‍♀️ 🚶 🚶‍➡️ 🚶‍♀️‍➡️ 🚶‍♂️‍➡️
+zou ni	揍你	👊
+zou shi	走势	💹
+zu	足	🦶
+zu dang	阻挡	🫷 🫸
+zu fu	祖父	👴
+zu ji	足迹	👣 🐾
+zu jian xie	足尖鞋	🩰
+zu mu	祖母	👵
+zu qiu	足球	⚽
+zu qiu chang	足球场	🏟️
+zu zhi	阻止	🚫
+zu zhou	诅咒	🤬
+zuan jie	钻戒	💍
+zuan shi	钻石	💎 🔶 🔷 🔹
+zui	嘴	👄
+zui ba	嘴巴	👄
+zui chun	嘴唇	👄 🫦
+zui fan	罪犯	🦹 🦹‍♂️ 🦹‍♀️
+zui le	醉了	🥴
+zui xun xun	醉醺醺	🥴
+zun jing	尊敬	🫡
+zun zhong	尊重	🫡
+zuo	左	⬅️
+zuo bian	左边	👈
+zuo cai	做菜	🍳 🍽️
+zuo cheng xin xing de shuang shou	做成心形的双手	🫶
+zuo dian dong lun yi de nan ren	坐电动轮椅的男人	👨‍🦼
+zuo dian dong lun yi de nv ren	坐电动轮椅的女人	👩‍🦼
+zuo dian dong lun yi de ren	坐电动轮椅的人	🧑‍🦼 👨‍🦼 👩‍🦼
+zuo fan	做饭	👨‍🍳 👩‍🍳 🧑‍🍳
+zuo gou quan	左钩拳	🤜
+zuo hao	做好	☑️
+zuo ji	座机	☎️ 📞
+zuo jian tou	左箭头	⬅️
+zuo liao	佐料	🧂 🧄 🧅
+zuo liao ping	佐料瓶	🧂
+zuo lun	左轮	🔫
+zuo mei jia	做美甲	💅
+zuo mian	左面	👈
+zuo quan	左拳	🤜
+zuo shang	左上	↖️
+zuo shang jian tou	左上箭头	↖️
+zuo shou	左手	🫲 🫷
+zuo shou dong lun yi de nan ren	坐手动轮椅的男人	👨‍🦽
+zuo shou dong lun yi de nv ren	坐手动轮椅的女人	👩‍🦽
+zuo shou dong lun yi de ren	坐手动轮椅的人	🧑‍🦽 👨‍🦽 👩‍🦽
+zuo tui	左推	🫷
+zuo wei	座位	💺
+zuo xia	坐下	🪑
+zuo xia	左下	↙️
+zuo xia jian tou	左下箭头	↙️
+zuo xiang quan	左向拳	🤛
+zuo xue qiao	坐雪橇	🛷
+zuo you	左右	↔️
+zuo you jian tou	左右箭头	↔️
+zuo zao xing	做造型	💇‍♂️ 💇‍♀️
+zuo zhi jia	做指甲	💅
+zuo zhong	座钟	🕰️
+zuo zhuan wan	左转弯	↪️

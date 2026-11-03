@@ -1,0 +1,92 @@
+#!/bin/bash
+# Copy this helper and academic_profile_files.txt to the profile before release.
+# Prepare in the profile, then use Squirrel's “Sync user data”.
+#   /bin/bash academic_profile.txt prepare
+# Restore from the device backup into a new directory under an existing parent.
+#   /bin/bash academic_profile.txt restore "/path/to/parent"
+set -e
+umask 077
+export PATH=/usr/bin:/bin
+unset ZIPOPT UNZIP UNZIPOPT
+manifest=academic_profile_files.txt
+archive=academic_assets.zip.txt
+helper=academic_profile.txt
+fail() { printf '%s\n' "$*" >&2; exit 1; }
+
+# Reject a link anywhere between the profile and a managed source file.
+check_file() {
+  local path=$1
+  [[ -f "$path" ]] || fail "Missing profile file: $path"
+  while :; do
+    [[ ! -L "$path" ]] || fail "Linked profile file or directory: $path"
+    [[ "$path" == */* ]] || break
+    path=${path%/*}
+  done
+}
+
+case "${1:-}" in
+  prepare) [[ $# == 1 ]] || fail "Usage: $helper prepare" ;;
+  restore) [[ $# == 2 && -d "$2" ]] || fail "Usage: $helper restore /existing/parent"
+           parent=$(cd -P -- "$2" && pwd) ;;
+  *) fail "Use prepare in the profile, or restore /existing/parent in the device backup." ;;
+esac
+mode=$1
+cd -P -- "$(dirname -- "$0")"
+source_dir=$PWD
+check_file "$manifest"
+check_file "$helper"
+for required in default.custom.yaml squirrel.custom.yaml academic_terms.dict.yaml daily_words.dict.yaml personal_terms.dict.yaml word_shortcuts.txt academic_preferences.txt; do
+  grep -Fxq -- "$required" "$manifest" || fail "Missing from the file list: $required"
+done
+
+native=()
+assets=()
+safe_name='^[[:alnum:]_][[:alnum:]_ ./-]*$'
+while IFS= read -r name || [[ -n "$name" ]]; do
+  case "$name" in ''|'#'*) continue ;; esac
+  [[ "$name" =~ $safe_name && "/$name" != */.* && "$name" != *//* && "$name" != *.userdb* ]] ||
+    fail "Invalid profile path: $name"
+  case "$name" in
+    lua/*.lua|cn_dicts/*.dict.yaml|en_dicts/*.dict.yaml|en_dicts/*.txt|opencc/*.json|opencc/*.txt|opencc/*.ocd2|LICENSE|rime.lua)
+      assets+=("$name") ;;
+    */*) fail "Unrecognized resource directory: $name" ;;
+    *.schema.yaml|*.dict.yaml|*.custom.yaml|default.yaml|squirrel.yaml|symbols_*.yaml|custom_phrase.txt|word_shortcuts.txt|academic_preferences.txt|Squirrel-Recovery.txt)
+      native+=("$name") ;;
+    *) fail "Unrecognized profile file: $name" ;;
+  esac
+done < "$manifest"
+
+work=''
+cleanup() { if [[ -n "$work" ]]; then rm -rf -- "$work"; fi; }
+trap cleanup EXIT
+trap 'exit 1' HUP INT TERM
+
+if [[ "$mode" == prepare ]]; then
+  if [[ ! -e academic_preferences.txt && ! -L academic_preferences.txt ]]; then
+    [[ ! -e academic_preferences.tsv && ! -L academic_preferences.tsv ]] ||
+      fail "Open the academic profile once to migrate the old preferences before preparing."
+    (set -C; : > academic_preferences.txt)
+  fi
+  for name in "${native[@]}" "${assets[@]}"; do check_file "$name"; done
+  [[ ! -d "$archive" && ! -L "$archive" ]] || fail "Invalid archive destination."
+  work=$(mktemp -d "$source_dir/.academic-prepare.XXXXXXXX")
+  # The extension lets the native sync copy this ordinary ZIP byte for byte.
+  zip -qX "$work/assets.zip" "$manifest" "${assets[@]}"
+  unzip -tqq "$work/assets.zip"
+  mv -f -- "$work/assets.zip" "$archive"
+  printf '%s\n' 'Ready for Squirrel’s Sync user data.'
+  exit 0
+fi
+
+check_file "$archive"
+for name in "${native[@]}"; do check_file "$name"; done
+work=$(mktemp -d "$parent/Rime-restored.XXXXXXXX")
+unzip -p "$archive" "$manifest" > "$work/$manifest"
+cmp -s "$manifest" "$work/$manifest" || fail "The file list and resource archive are from different releases."
+for name in "${assets[@]}"; do
+  mkdir -p -- "$(dirname -- "$work/$name")"
+  unzip -p "$archive" "$name" > "$work/$name"
+done
+for name in "$helper" "$archive" "${native[@]}"; do cp -- "$name" "$work/$name"; done
+printf '%s\n' "$work"
+work=''

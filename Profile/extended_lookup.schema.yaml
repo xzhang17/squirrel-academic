@@ -1,0 +1,18 @@
+# Compile the lookup dictionary and fuzzy prism without adding a selectable scheme.
+schema:
+  schema_id: extended_lookup
+  name: 扩展词库
+  version: "1.0"
+
+speller:
+  alphabet: zyxwvutsrqponmlkjihgfedcba
+  delimiter: " '"
+  algebra:
+    __patch:
+      - academic_pinyin.schema:/personal_fuzzy
+      - pinyin:/abbreviation
+
+translator:
+  dictionary: extended_lookup
+  prism: extended_lookup
+  enable_user_dict: false

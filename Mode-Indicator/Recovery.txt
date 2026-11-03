@@ -1,0 +1,19 @@
+Squirrel mode indicator
+
+The filled Squirrel badge means Chinese. The outlined A means English.
+Squirrel remains the input source in both modes. The menu-bar helper asks
+the official nightly for its current mode. It starts at login in this account.
+Left-click or right-click either badge to open the Squirrel configuration menu.
+Settings opens your Rime folder in Finder and selects squirrel.custom.yaml.
+Logs opens the logs folder in Finder and selects the current log shortcut.
+Deploy and Sync user data go to the running input method. The last item opens
+the official nightly release page.
+
+After restoring your Rime profile and the official Squirrel nightly, run:
+
+  /bin/bash "$HOME/Squirrel-Backup/Mode-Indicator/Restore.command"
+
+The helper and its SVG artwork are inside the ZIP. The two SVGs and build
+sources are also provided separately. If you use Bartender, put “Squirrel
+Mode Indicator” under Shown Items. Apple's separate Input menu can be
+controlled in System Settings → Keyboard → Text Input → Edit.

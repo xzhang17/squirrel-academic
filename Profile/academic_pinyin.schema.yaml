@@ -1,0 +1,128 @@
+# encoding: utf-8
+schema:
+  schema_id: academic_pinyin
+  name: 学术拼音
+  version: "0.11.0"
+  dependencies: [extended_lookup, extended_mixed]
+
+switches:
+  - name: ascii_mode
+    reset: 1
+    states: [中, 英]
+  - name: full_shape
+    states: [半角, 全角]
+  - name: ascii_punct
+    states: [中式标点, 西式标点]
+
+engine:
+  processors:
+    - lua_processor@*extended_lookup*processor
+    - lua_processor@*academic_first*processor
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors: [ascii_segmentor, lua_segmentor@*extended_lookup*segmentor, matcher, abc_segmentor, punct_segmentor, fallback_segmentor]
+  translators:
+    - punct_translator
+    - table_translator@word_shortcuts
+    - table_translator@custom_phrase
+    - table_translator@english_words
+    - script_translator
+    - script_translator@extended_lookup
+    - script_translator@extended_mixed
+  filters: [lua_filter@*english_order, lua_filter@*english_context, lua_filter@*academic_first*filter, lua_filter@*emoji_suggestions, lua_filter@*extended_lookup*filter, uniquifier]
+
+speller:
+  alphabet: zyxwvutsrqponmlkjihgfedcba
+  delimiter: " '"
+  algebra:
+    __patch:
+      - academic_pinyin.schema:/personal_fuzzy
+      - pinyin:/abbreviation
+      - pinyin:/spelling_correction
+      - pinyin:/key_correction
+
+translator:
+  dictionary: academic_pinyin
+  prism: academic_pinyin
+  enable_user_dict: false
+  preedit_format:
+    - xform/([nl])v/$1ü/
+    - xform/([nl])ue/$1üe/
+    - xform/([jqxy])v/$1u/
+
+extended_lookup:
+  tag: extended_lookup
+  dictionary: extended_lookup
+  prism: extended_lookup
+  enable_user_dict: false
+  enable_completion: false
+  enable_sentence: false
+
+# The Latin letters in mixed terms use their own spelling index. A literal S
+# must not suppress the pinyin initial s in searches of the Chinese dictionaries.
+extended_mixed:
+  __include: extended_lookup
+  dictionary: extended_mixed
+  prism: extended_mixed
+  initial_quality: 1
+
+# Text tables are read-only. Exact shortcuts can outrank ordinary suggestions.
+word_shortcuts:
+  dictionary: ""
+  user_dict: word_shortcuts
+  db_class: stabledb
+  enable_completion: false
+  enable_sentence: false
+  initial_quality: 99
+
+custom_phrase:
+  dictionary: ""
+  user_dict: custom_phrase
+  db_class: stabledb
+  enable_completion: false
+  enable_sentence: false
+  initial_quality: 98
+
+english_words:
+  dictionary: ""
+  user_dict: en_dicts/english_words
+  db_class: stabledb
+  enable_completion: false
+  enable_sentence: false
+  initial_quality: 90
+
+# Shared exceptions. The account's own exact custom phrases also take priority.
+english_first:
+  ai: AI
+  cpu: CPU
+  gpu: GPU
+  pdf: PDF
+  usb: USB
+  wifi: Wi-Fi
+
+punctuator:
+  import_preset: symbols
+
+recognizer:
+  import_preset: default
+  patterns:
+    punct: '^/([0-9]0?|[A-Za-z]+)$'
+
+key_binder:
+  import_preset: default
+
+personal_fuzzy:
+  __append:
+    - derive/^([scz])h/$1/
+    - derive/^([scz])([^h])/$1h$2/
+    - derive/([aeio])ng$/$1n/
+    - derive/([aeio])n$/$1ng/
+
+__patch:
+  - academic_pinyin.custom:/patch?

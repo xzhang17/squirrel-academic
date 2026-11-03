@@ -1,0 +1,40 @@
+# Personal Squirrel appearance
+patch:
+  status_icon/show: true
+  style/color_scheme: mac_green
+  style/color_scheme_dark: mac_green
+  style/inline_preedit: true
+  style/inline_candidate: false
+  # macOS can host an administrator prompt in a separate authentication process.
+  app_options/com.apple.SecurityAgent/ascii_mode: true
+  app_options/com.apple.LocalAuthentication.UIAgent/ascii_mode: true
+  app_options/com.apple.LocalAuthenticationRemoteService/ascii_mode: true
+  app_options/com.apple.authorizationhost/ascii_mode: true
+  app_options/com.apple.osascript/ascii_mode: true
+  preset_color_schemes/mac_green:
+    name: MacGreen
+    color_space: srgb
+    candidate_list_layout: linear
+    text_orientation: horizontal
+    candidate_format: "%c %@ "
+    corner_radius: 13
+    hilited_corner_radius: 10
+    line_spacing: 10
+    # Squirrel adds the 13-point panel radius to each border to set the text inset.
+    border_height: -6
+    border_width: -6
+    # AppKit on this Mac resolves the spaced name to PingFangSC-Regular.
+    font_face: "PingFangSC,PingFang SC"
+    font_point: 19
+    label_font_point: 17
+    text_color: 0x424242
+    back_color: 0xFFFFFF
+    border_color: 0xFFFFFF
+    label_color: 0x999999
+    candidate_text_color: 0x3c3c3c
+    comment_text_color: 0x999999
+    hilited_text_color: 0x999999
+    hilited_candidate_back_color: 0x7FC026  # sRGB #26C07F (Rime stores blue, green, red)
+    hilited_candidate_text_color: 0xFFFFFF
+    hilited_candidate_label_color: 0xFFFFFF
+    hilited_comment_text_color: 0x999999

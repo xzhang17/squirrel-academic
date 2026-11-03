@@ -1,0 +1,57 @@
+# Rime table
+# coding: utf-8
+#@/db_name	personal_mixed.txt
+#@/db_type	tabledb
+# These exact spellings add everyday terms from Ice cn_en to normal Chinese mode.
+# Latin letters stay literal. Alternative spellings cover only fuzzy Mandarin syllables.
+# Word, exact spelling, weight.
+X射线	xshexian	1
+X射线	xshexiang	1
+X射线	xsexian	1
+X射线	xsexiang	1
+X光	xguang	1
+X光	xguan	1
+X光片	xguangpian	1
+X光片	xguangpiang	1
+X光片	xguanpian	1
+X光片	xguanpiang	1
+U盘	upan	1
+U盘	upang	1
+Wi-Fi密码	wifimima	1
+USB接口	usbjiekou	1
+USB线	usbxian	1
+USB线	usbxiang	1
+IP地址	ipdizhi	1
+IP地址	ipdizi	1
+SIM卡	simka	1
+A4纸	asizhi	1
+A4纸	asizi	1
+A4纸	ashizhi	1
+A4纸	ashizi	1
+T恤	txu	1
+T恤衫	txushan	1
+T恤衫	txusan	1
+T恤衫	txushang	1
+T恤衫	txusang	1
+B站	bzhan	1
+B站	bzan	1
+B站	bzhang	1
+B站	bzang	1
+PC端	pcduan	1
+PC端	pcduang	1
+Web端	webduan	1
+Web端	webduang	1
+C语言	cyuyan	1
+C语言	cyuyang	1
+R语言	ryuyan	1
+R语言	ryuyang	1
+Mac版	macban	1
+Mac版	macbang	1
+macOS版	macosban	1
+macOS版	macosbang	1
+AA制	aazhi	1
+AA制	aazi	1
+DNA检测	dnajiance	1
+DNA检测	dnajianche	1
+DNA检测	dnajiangce	1
+DNA检测	dnajiangche	1

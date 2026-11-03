@@ -1,0 +1,116 @@
+# encoding: utf-8
+# Simplified Chinese. Each entry is one word or term, followed by full pinyin.
+# Add explicit first-choice codes to word_shortcuts.txt if desired.
+---
+name: academic_terms
+version: "1.0"
+sort: by_weight
+use_preset_vocabulary: false
+...
+
+# 力学与量子物理
+哈密顿量	ha mi dun liang	1000
+哈密顿方程	ha mi dun fang cheng	1000
+拉格朗日量	la ge lang ri liang	1000
+拉格朗日方程	la ge lang ri fang cheng	1000
+作用量	zuo yong liang	1000
+广义坐标	guang yi zuo biao	1000
+广义动量	guang yi dong liang	1000
+正则变换	zheng ze bian huan	1000
+泊松括号	po song kuo hao	1000
+相空间	xiang kong jian	1000
+守恒量	shou heng liang	1000
+动能	dong neng	1000
+势能	shi neng	1000
+波动方程	bo dong fang cheng	1000
+波函数	bo han shu	1000
+波矢	bo shi	1000
+波数	bo shu	1000
+色散关系	se san guan xi	1000
+态矢	tai shi	1000
+态矢量	tai shi liang	1000
+左矢	zuo shi	1000
+右矢	you shi	1000
+量子态	liang zi tai	1000
+叠加态	die jia tai	1000
+纠缠态	jiu chan tai	1000
+本征值	ben zheng zhi	1000
+本征态	ben zheng tai	1000
+本征函数	ben zheng han shu	1000
+算符	suan fu	1000
+厄米算符	e mi suan fu	1000
+对易子	dui yi zi	1000
+对易关系	dui yi guan xi	1000
+密度矩阵	mi du ju zhen	1000
+期望值	qi wang zhi	1000
+测不准关系	ce bu zhun guan xi	1000
+薛定谔方程	xue ding e fang cheng	1000
+希尔伯特空间	xi er bo te kong jian	1000
+海森堡绘景	hai sen bao hui jing	1000
+路径积分	lu jing ji fen	1000
+时间演化	shi jian yan hua	1000
+微扰理论	wei rao li lun	1000
+角动量	jiao dong liang	1000
+自旋	zi xuan	1000
+简谐振子	jian xie zhen zi	1000
+产生算符	chan sheng suan fu	1000
+湮灭算符	yan mie suan fu	1000
+配分函数	pei fen han shu	1000
+自由能	zi you neng	1000
+统计物理	tong ji wu li	1000
+热力学	re li xue	1000
+
+# 场论与数学
+电磁场	dian ci chang	1000
+麦克斯韦方程组	mai ke si wei fang cheng zu	1000
+磁通量	ci tong liang	1000
+电势	dian shi	1000
+边界条件	bian jie tiao jian	1000
+初始条件	chu shi tiao jian	1000
+格林函数	ge lin han shu	1000
+传播子	chuan bo zi	1000
+拉普拉斯算子	la pu la si suan zi	1000
+梯度	ti du	1000
+散度	san du	1000
+旋度	xuan du	1000
+傅里叶变换	fu li ye bian huan	1000
+傅里叶级数	fu li ye ji shu	1000
+偏微分方程	pian wei fen fang cheng	1000
+常微分方程	chang wei fen fang cheng	1000
+偏导数	pian dao shu	1000
+张量	zhang liang	1000
+度规张量	du gui zhang liang	1000
+特征值	te zheng zhi	1000
+特征向量	te zheng xiang liang	1000
+线性代数	xian xing dai shu	1000
+正交基	zheng jiao ji	1000
+归一化	gui yi hua	1000
+线性响应	xian xing xiang ying	1000
+概率分布	gai lv fen bu	1000
+微分方程	wei fen fang cheng	1000
+
+# 科研与写作
+数值模拟	shu zhi mo ni	1000
+数值解	shu zhi jie	1000
+近似解	jin si jie	1000
+理论模型	li lun mo xing	1000
+量纲分析	liang gang fen xi	1000
+无量纲	wu liang gang	1000
+实验设计	shi yan she ji	1000
+实验数据	shi yan shu ju	1000
+对照组	dui zhao zu	1000
+控制变量	kong zhi bian liang	1000
+样本量	yang ben liang	1000
+误差分析	wu cha fen xi	1000
+标准差	biao zhun cha	1000
+置信区间	zhi xin qu jian	1000
+显著性	xian zhu xing	1000
+数据分析	shu ju fen xi	1000
+研究方法	yan jiu fang fa	1000
+参考文献	can kao wen xian	1000
+文献综述	wen xian zong shu	1000
+同行评审	tong hang ping shen	1000
+补充材料	bu chong cai liao	1000
+关键词	guan jian ci	1000
+摘要	zhai yao	1000
+实验结果	shi yan jie guo	1000

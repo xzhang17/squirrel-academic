@@ -1,0 +1,11 @@
+# The character table supplies readings for Tencent entries without pinyin.
+---
+name: extended_lookup
+version: "1.0"
+sort: by_weight
+use_preset_vocabulary: false
+import_tables:
+  - cn_dicts/8105
+  - cn_dicts/ext
+  - cn_dicts/tencent
+...
