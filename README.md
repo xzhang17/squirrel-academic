@@ -15,7 +15,16 @@ A Simplified Chinese profile for the official **Squirrel** input method on macOS
 
 New typing sessions start in English. The indicator shows an outlined A for English and the Squirrel badge for Chinese. Left- or right-click it for Deploy, Sync, Settings and Logs. The final menu item links to the official nightly release.
 
-## Install on macOS
+## Download and install
+
+1. Install the official **Squirrel** input method on macOS if you do not already have it. [Official Squirrel releases](https://github.com/rime/squirrel/releases)
+2. Download the **Squirrel-Academic-Config** ZIP under **Assets** on the release page and unzip it. [Download the latest release](https://github.com/xzhang17/squirrel-academic-config/releases/latest)
+3. Open **Install.command**, read the installation summary and enter `y` to continue. You can also run `./Install.command` from Terminal in the unzipped folder. The installer runs as your normal Mac user. It offers the clickable indicator separately on compatible nightly builds.
+4. Choose **Squirrel → Deploy** (重新部署). Switch to Chinese with Shift, then try `mdjz` for 密度矩阵.
+
+On an existing installation the academic schema and MacGreen skin become active. The installer keeps your private phrases, learning data, sync settings and other files outside the release. It saves copies of every differing file it replaces under `~/Library/Squirrel-Academic-Previous-…`, including any dictionaries with matching filenames. An existing word-preference file is also backed up because redeployment can prune pins for words absent from the new dictionaries. The path is printed during installation. To revert, copy those files back to `~/Library/Rime` at the same relative paths and redeploy. `Added-files.txt` lists the files that were introduced. A new installation uses `~/Squirrel-Backup/sync`; an existing installation retains its sync destination.
+
+## Manual installation or a separate staged profile
 
 1. Install the official Squirrel input method. This profile was tested with the 2026-10-30 nightly at commit `d220b92`, whose installer SHA-256 is `7eb907e3aafb62741e4871ec63c7ba3cf25669fff9777d792a5a9f0b1aded984`. The upstream nightly link moves as new builds are released. If restoring from a personal Squirrel backup, use the matching package in its `installers` folder. [Official releases](https://github.com/rime/squirrel/releases) · [Tested revision](https://github.com/rime/squirrel/commit/d220b92ae7d0c916f4cce50df42d9a136668ea52)
 2. Clone or download this repository. In Terminal, run the following from the repository root. It prints the path to a new staged profile under your Library. It preserves any active Rime profile.

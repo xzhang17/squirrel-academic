@@ -20,9 +20,11 @@ while IFS= read -r name || [[ -n "$name" ]]; do
   esac
   [[ -f "$source/$name" && ! -L "$source/$name" ]] || { echo "Missing resource: $name" >&2; exit 1; }
   mkdir -p "$(dirname -- "$profile/$name")"
-  cp -- "$source/$name" "$profile/$name"
+  cp -p -- "$source/$name" "$profile/$name"
+  chmod 600 "$profile/$name"
 done < "$source/academic_profile_files.txt"
-cp -- "$source/academic_profile.txt" "$source/academic_profile_files.txt" "$profile/"
+cp -p -- "$source/academic_profile.txt" "$source/academic_profile_files.txt" "$profile/"
+chmod 600 "$profile/academic_profile.txt" "$profile/academic_profile_files.txt"
 /bin/bash "$profile/academic_profile.txt" prepare >&2
 sync_path=$(/usr/bin/ruby -rjson -e 'print JSON.generate(File.expand_path("~/Squirrel-Backup/sync"))')
 printf 'installation_id: "%s"\nsync_dir: %s\n' "$(uuidgen | tr 'A-F' 'a-f')" "$sync_path" > "$profile/installation.yaml"
