@@ -15,7 +15,7 @@ abort 'Install the official Squirrel input method first.' unless [app, local_app
 abort 'The Rime folder is a link or is not a directory. Use Prepare-profile.command for a manual installation.' if File.symlink?(live) || (File.exist?(live) && !File.directory?(live))
 
 puts 'Squirrel Academic Config · 学术拼音'
-puts 'This installs the academic scheme, its dictionaries, keyboard shortcuts and MacGreen skin.'
+puts 'This installs the academic scheme, its dictionaries, local learning, punctuation settings and MacGreen skin.'
 puts 'Only the academic scheme will be selected by the new configuration.'
 puts 'Private phrase lists, learned choices, existing sync settings and unrelated files are preserved.'
 print "Continue? [y/N] "
@@ -96,6 +96,8 @@ File.open(library, File::RDONLY) do |lock|
 end
 
 puts 'Profile installed. Choose Squirrel → Deploy (重新部署), switch to Chinese, and try mdjz → 密度矩阵.'
+puts 'For smart spacing on the matching d220b92 nightly, run:'
+puts '/bin/bash "$HOME/Library/Rime/native_typing/Install.command"'
 system_binary = File.join(app, 'Contents/MacOS/Squirrel')
 if File.file?(system_binary) && File.binread(system_binary).include?('SquirrelGetASCIIModeNotification')
   print "Install the optional clickable Chinese/English menu-bar indicator for this account? [y/N] "

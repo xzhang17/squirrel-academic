@@ -3,6 +3,7 @@ default.custom.yaml
 squirrel.custom.yaml
 Squirrel-Recovery.txt
 academic_pinyin.schema.yaml
+academic_fuzzy.yaml
 academic_pinyin.dict.yaml
 extended_lookup.schema.yaml
 extended_lookup.dict.yaml
@@ -16,7 +17,6 @@ custom_phrase.txt
 academic_preferences.txt
 en_dicts/english_words.txt
 en_dicts/english_evidence.txt
-en_dicts/cn_en.txt
 opencc/emoji_candidates.txt
 cn_dicts/8105.dict.yaml
 cn_dicts/base.dict.yaml
@@ -29,6 +29,18 @@ lua/extended_lookup.lua
 lua/english_order.lua
 lua/english_context.lua
 lua/emoji_suggestions.lua
+lua/symbol_suggestions.lua
 lua/academic_preferences.lua
+lua/academic_fuzzy.lua
+lua/learning_limit.lua
 academic_pinyin.custom.yaml
 en_dicts/personal_mixed.txt
+native_typing/TextInsertion.swift
+native_typing/IMKTypingClient.swift
+native_typing/Squirrel.local
+native_typing/nightly-base.txt
+native_typing/entitlements.txt
+native_typing/Install.command
+native_typing/Build.command
+native_typing/Readme.txt
+native_typing/source.zip.txt

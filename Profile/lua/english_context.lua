@@ -1,6 +1,7 @@
 -- Reorder actual candidates only. The regular filter has already applied
 -- exact private phrases and the six shared exceptions. Personal pins run last.
 local preferences = require("academic_preferences")
+local learning_limit = require("learning_limit")
 local M = {}
 local index, sessions = nil, 0
 
@@ -45,7 +46,7 @@ local function familiar_chunks(text, boundaries)
 end
 
 local function weak_chinese(cand, input)
-  local kind, text = cand:get_genuine().type, cand.text
+  local kind, text = learning_limit.original_type(cand), cand.text
   if cand.start ~= 0 or (kind ~= "sentence" and kind ~= "phrase") or index.common[text]
       or preferences.is_curated(text) ~= false then return false end
   local boundaries = {}

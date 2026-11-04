@@ -1,5 +1,8 @@
 # Personal mixed terms join the normal menu only on a complete listed spelling.
 patch:
+  # ASCII punctuation within decimals, times, and grouped numbers.
+  "punctuator/digit_separators": ".:,"
+  "punctuator/digit_separator_action": keep
   "engine/translators/+":
     - table_translator@personal_mixed
   personal_mixed:
@@ -9,3 +12,40 @@ patch:
     enable_completion: false
     enable_sentence: false
     initial_quality: 90
+  # Replace each punctuation table so list entries can become direct commits.
+  # These complete tables keep the configured punctuation independent of presets.
+  "punctuator/half_shape":
+    "!": {"commit": "！"}
+    "\"": {"pair": ["“", "”"]}
+    "#": {"commit": "#"}
+    "$": ["￥", "$", "€"]
+    "%": {"commit": "%"}
+    "&": "&"
+    "'": {"pair": ["‘", "’"]}
+    "(": "（"
+    ")": "）"
+    "*": ["*", "×"]
+    "+": "+"
+    ",": {"commit": "，"}
+    "-": "-"
+    ".": {"commit": "。"}
+    "/": {"commit": "/"}
+    ":": {"commit": "："}
+    ";": {"commit": "；"}
+    "<": {"commit": "《"}
+    "=": {"commit": "="}
+    ">": {"commit": "》"}
+    "?": {"commit": "？"}
+    "@": {"commit": "@"}
+    "[": {"commit": "【"}
+    "\\": {"commit": "、"}
+    "]": {"commit": "】"}
+    "^": {"commit": "^"}
+    "_": "——"
+    "`": {"commit": "`"}
+    "{": {"commit": "{"}
+    "|": {"commit": "|"}
+    "}": {"commit": "}"}
+    "~": {"commit": "~"}
+  # Remove the inherited full-width mapping; the engine option is kept off.
+  "punctuator/full_shape": {}

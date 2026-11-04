@@ -2,23 +2,26 @@
 schema:
   schema_id: academic_pinyin
   name: 学术拼音
-  version: "0.11.0"
+  version: "0.20.2"
   dependencies: [extended_lookup, extended_mixed]
 
 switches:
   - name: ascii_mode
     reset: 1
     states: [中, 英]
-  - name: full_shape
-    states: [半角, 全角]
   - name: ascii_punct
+    reset: 0
     states: [中式标点, 西式标点]
 
 engine:
   processors:
-    - lua_processor@*extended_lookup*processor
-    - lua_processor@*academic_first*processor
+    # Let the native composer track Shift taps before shortcuts pass through.
     - ascii_composer
+    - lua_processor@*academic_first*shortcut_guard
+    - lua_processor@*symbol_suggestions*processor
+    - lua_processor@*extended_lookup*processor
+    - lua_processor@*learning_limit*processor
+    - lua_processor@*academic_first*processor
     - recognizer
     - key_binder
     - speller
@@ -35,14 +38,15 @@ engine:
     - script_translator
     - script_translator@extended_lookup
     - script_translator@extended_mixed
-  filters: [lua_filter@*english_order, lua_filter@*english_context, lua_filter@*academic_first*filter, lua_filter@*emoji_suggestions, lua_filter@*extended_lookup*filter, uniquifier]
+  # Reserve symbol positions before emoji counts the remaining page slots.
+  filters: [lua_filter@*learning_limit, lua_filter@*english_order, lua_filter@*english_context, lua_filter@*academic_first*filter, lua_filter@*extended_lookup*filter, lua_filter@*symbol_suggestions, lua_filter@*emoji_suggestions, uniquifier]
 
 speller:
   alphabet: zyxwvutsrqponmlkjihgfedcba
   delimiter: " '"
   algebra:
     __patch:
-      - academic_pinyin.schema:/personal_fuzzy
+      - academic_fuzzy:/personal_fuzzy
       - pinyin:/abbreviation
       - pinyin:/spelling_correction
       - pinyin:/key_correction
@@ -50,11 +54,17 @@ speller:
 translator:
   dictionary: academic_pinyin
   prism: academic_pinyin
-  enable_user_dict: false
+  enable_user_dict: true
+  # Native combination limit; learning_limit also blocks oversized components.
+  max_word_length: 8
   preedit_format:
     - xform/([nl])v/$1ü/
     - xform/([nl])ue/$1üe/
     - xform/([jqxy])v/$1u/
+
+# Two deliberate Chinese choices promote a word to second, then first place.
+chinese_learning:
+  max_chars: 8
 
 extended_lookup:
   tag: extended_lookup
@@ -67,9 +77,12 @@ extended_lookup:
 # The Latin letters in mixed terms use their own spelling index. A literal S
 # must not suppress the pinyin initial s in searches of the Chinese dictionaries.
 extended_mixed:
-  __include: extended_lookup
+  tag: extended_lookup
   dictionary: extended_mixed
   prism: extended_mixed
+  enable_user_dict: false
+  enable_completion: false
+  enable_sentence: false
   initial_quality: 1
 
 # Text tables are read-only. Exact shortcuts can outrank ordinary suggestions.
@@ -107,7 +120,7 @@ english_first:
   wifi: Wi-Fi
 
 punctuator:
-  import_preset: symbols
+  __include: symbols:/punctuator
 
 recognizer:
   import_preset: default
@@ -116,13 +129,6 @@ recognizer:
 
 key_binder:
   import_preset: default
-
-personal_fuzzy:
-  __append:
-    - derive/^([scz])h/$1/
-    - derive/^([scz])([^h])/$1h$2/
-    - derive/([aeio])ng$/$1n/
-    - derive/([aeio])n$/$1ng/
 
 __patch:
   - academic_pinyin.custom:/patch?

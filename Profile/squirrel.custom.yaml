@@ -1,6 +1,9 @@
 # Personal Squirrel appearance
 patch:
-  status_icon/show: true
+  # Local smart spacing; punctuation follows the configured key mappings.
+  typing/smart_space: true
+  typing/smart_space_digit: true
+  status_icon/show: false
   style/color_scheme: mac_green
   style/color_scheme_dark: mac_green
   style/inline_preedit: true

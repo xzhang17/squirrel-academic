@@ -47,10 +47,10 @@ while IFS= read -r name || [[ -n "$name" ]]; do
   [[ "$name" =~ $safe_name && "/$name" != */.* && "$name" != *//* && "$name" != *.userdb* ]] ||
     fail "Invalid profile path: $name"
   case "$name" in
-    lua/*.lua|cn_dicts/*.dict.yaml|en_dicts/*.dict.yaml|en_dicts/*.txt|opencc/*.json|opencc/*.txt|opencc/*.ocd2|LICENSE|rime.lua)
+    lua/*.lua|cn_dicts/*.dict.yaml|en_dicts/*.dict.yaml|en_dicts/*.txt|opencc/*.json|opencc/*.txt|opencc/*.ocd2|LICENSE|rime.lua|native_typing/*.swift|native_typing/*.patch|native_typing/*.txt|native_typing/*.command|native_typing/Squirrel.local)
       assets+=("$name") ;;
     */*) fail "Unrecognized resource directory: $name" ;;
-    *.schema.yaml|*.dict.yaml|*.custom.yaml|default.yaml|squirrel.yaml|symbols_*.yaml|custom_phrase.txt|word_shortcuts.txt|academic_preferences.txt|Squirrel-Recovery.txt)
+    *.schema.yaml|*.dict.yaml|*.custom.yaml|default.yaml|squirrel.yaml|academic_fuzzy.yaml|symbols_*.yaml|custom_phrase.txt|word_shortcuts.txt|academic_preferences.txt|Squirrel-Recovery.txt)
       native+=("$name") ;;
     *) fail "Unrecognized profile file: $name" ;;
   esac
@@ -88,5 +88,16 @@ for name in "${assets[@]}"; do
   unzip -p "$archive" "$name" > "$work/$name"
 done
 for name in "$helper" "$archive" "${native[@]}"; do cp -- "$name" "$work/$name"; done
+# Native Sync exports this separately from the managed configuration files.
+# Restore into the NEW profile, never a running input method's directory.
+if [[ -e academic_pinyin.userdb.txt || -L academic_pinyin.userdb.txt ]]; then
+  check_file academic_pinyin.userdb.txt
+  manager='/Library/Input Methods/Squirrel.app/Contents/MacOS/rime_dict_manager'
+  if [[ ! -x "$manager" ]]; then
+    manager="$HOME/Library/Input Methods/Squirrel.app/Contents/MacOS/rime_dict_manager"
+  fi
+  [[ -x "$manager" ]] || fail "Install Squirrel before restoring its learned vocabulary."
+  (cd -- "$work" && "$manager" --restore "$source_dir/academic_pinyin.userdb.txt") >&2
+fi
 printf '%s\n' "$work"
 work=''

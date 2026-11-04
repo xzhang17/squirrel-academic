@@ -17,14 +17,6 @@ function processor.func(key, env)
   local ctx = env.engine.context
   local active = ctx:get_option(option)
   local name = key:repr()
-  if name == "equal" and ctx.input == "" and not ctx:has_menu() and not ctx:get_option("ascii_mode") then
-    -- Rime formats even explicit commits as full-width when this option is on.
-    local wide = ctx:get_option("full_shape")
-    if wide then ctx:set_option("full_shape", false) end
-    env.engine:commit_text("=")
-    if wide then ctx:set_option("full_shape", true) end
-    return 1
-  end
   if active then
     if name == "bracketright" or name == "Escape" then
       ctx:set_option(option, false)

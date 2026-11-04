@@ -1,9 +1,21 @@
-Squirrel academic profile on macOS
+Squirrel academic profile and custom nightly on macOS
 
-This profile was prepared for the official Squirrel nightly d220b92. New typing sessions start in English. Tap Shift for Chinese. While composing, Tab moves one syllable forward and Shift+Tab moves one syllable back. The candidate menu has seven places. Use - and = to page. With no composition, = inserts an ordinary equal sign. Press [ for the extended dictionaries and ] to return. Ctrl+P pins an eligible word. Ctrl+U removes its pin.
+This public snapshot targets Squirrel nightly d220b92 with Rime 1.17.0 and the arm64 smart-spacing extension 1.2. Use the matching original nightly installer retained in the GitHub release. The release also contains an archive of the customized app.
 
-Add academic and daily words to their corresponding dictionaries and add exact spellings to word_shortcuts.txt. Keep account-specific phrases in custom_phrase.txt. Personal pins are stored locally in academic_preferences.txt.
+Install the profile with Install.command from the release. Then run:
+  /bin/bash "$HOME/Library/Rime/native_typing/Install.command"
+Complete the macOS administrator prompt. This installs the saved custom executable without downloading a different release. Choose Squirrel - Simplified and Deploy. The menu indicator can be restored with Mode-Indicator/Restore.command from the release.
 
-From the active Squirrel menu, choose Deploy after editing. If nested Lua or dictionary files changed, run /bin/bash "$HOME/Library/Rime/academic_profile.txt" prepare before choosing Sync user data. The native backup is under ~/Squirrel-Backup/sync. To restore it, run academic_profile.txt restore "$HOME/Library" from its device folder, then swap in the restored directory with Squirrel stopped. Configure a local sync_dir in the fresh installation.yaml.
+New sessions start in English; Shift alone switches Chinese/English. The candidate menu has seven places, with - and = for paging. While composing, [ opens extended lookup and ] returns. Tab moves one syllable forward. Special modifier-key shortcuts are disabled. Full-width mode and automatic bracket completion are absent. In Chinese mode, shifted braces and pipe insert {, }, and | directly; unshifted brackets insert 【 and 】.
 
-The separate SVG indicator can be installed using Mode-Indicator/Restore.command from the GitHub repository or your local backup. Either mouse button opens its menu. The A badge means English.
+Smart spacing supports Chinese/English and Chinese/number boundaries when the editor provides the necessary text context. It does not move the cursor. Number punctuation preserves separators such as 3.14, 12:00 and 1,000.
+
+Normal local Chinese learning is limited to eight characters. Deliberate choices promote phrases to second, then first place. The native learned dictionary is academic_pinyin.userdb; additional selection preferences are in academic_preferences.txt. academic_pref_guard.userdb provides the writer lock. These private records and custom_phrase.txt are not published in this repository.
+
+Add words to the plain dictionaries and shared spellings to word_shortcuts.txt. Keep private phrases in custom_phrase.txt. Choose Deploy after edits. Before manually syncing changed nested resources, run:
+  /bin/bash "$HOME/Library/Rime/academic_profile.txt" prepare
+Then choose Sync user data. A fresh public installation uses ~/Squirrel-Backup/sync; existing installations retain their own destination. Backups remain manual.
+
+To restore a private backup, run academic_profile.txt restore "$HOME/Library" from its device folder. With Squirrel stopped, keep the current profile aside and put the restored profile at ~/Library/Rime. Reapply native_typing/Install.command to the matching nightly and restore the indicator. The private backup supplies learned vocabulary and private phrases omitted by the public release.
+
+See native_typing/Readme.txt for the saved executable, rebuild command, original-app rollback archive and smart-spacing behavior.

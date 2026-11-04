@@ -1,6 +1,7 @@
 -- Join emoji to a Chinese word actually offered by Rime. The cheap spelling
 -- key below is only a prefilter; the syllable patterns make the final decision.
 local M = {}
+local fuzzy = require("academic_fuzzy")
 local index, sessions = nil, 0
 
 local function key(pinyin)
@@ -8,13 +9,7 @@ local function key(pinyin)
 end
 
 local function reading(pinyin)
-  local fuzzy = {}
-  for syllable in pinyin:gmatch("[a-z]+") do
-    -- s/sh, c/ch and z/zh are separate pairs. Only syllable-final n/ng varies.
-    local f = syllable:gsub("^([scz])h?", "%1h?"):gsub("([aeio])ng?$", "%1ng?")
-    fuzzy[#fuzzy+1] = f
-  end
-  return {exact = "^" .. pinyin:gsub(" ", "'?") .. "$", fuzzy = "^" .. table.concat(fuzzy, "'?") .. "$"}
+  return {exact = "^" .. pinyin:gsub(" ", "'?") .. "$", fuzzy = fuzzy.pattern(pinyin)}
 end
 
 function M.init(env)

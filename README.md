@@ -1,59 +1,83 @@
 # Squirrel Academic Config · 学术拼音
 
-A Simplified Chinese profile for the official **Squirrel** input method on macOS. It combines academic and everyday dictionaries, fuzzy pinyin, English candidates in Chinese mode, a seven-candidate MacGreen skin, and a clickable menu-bar indicator. Recognition and candidate ranking run on the Mac. The published files are a static configuration snapshot.
+A Simplified Chinese profile and locally customized **Squirrel nightly d220b92** for macOS. This snapshot includes the current dictionaries, Lua scripts, configuration, smart-spacing source and executable, and the clickable Chinese/English menu-bar indicator.
 
-| Try it | Behavior |
+The custom executable is **arm64 (Apple silicon), macOS 13 or later**, with local extension version **1.2** and Rime **1.17.0**. It retains the special nightly's mode-notification interface used by the indicator. It was built locally; no stable release was substituted.
+
+## Current behavior
+
+| Input or feature | Behavior |
 |---|---|
 | `hamidunl`, `mint`, `mdjz` | 哈密顿量, 明天, 密度矩阵 |
-| `taisi`, `bochi` | 态矢, 驳斥. The s/sh and c/ch families stay separate. |
-| `wosou` | 握手, with 🤝 behind the Chinese candidates |
-| `[` / `]` | Open extended lookup using the pinyin already typed / return to the ordinary list |
-| `-` / `=` | Previous / next candidate page. With no composition, `=` inserts an ordinary equals sign. |
-| Tab / Shift+Tab | Move forward / backward one pinyin syllable |
-| Ctrl+P / Ctrl+U | Pin an eligible highlighted word / remove its pin |
-| Shift | Switch Chinese/English. During composition, commit the literal letters. |
+| Local Chinese learning | Learns Chinese phrases up to eight characters. A deliberate choice promotes a phrase to second place, then first after another deliberate choice. |
+| Smart spacing | Adds spaces at supported Chinese/English and Chinese/number boundaries. |
+| Number punctuation | Keeps ASCII separators in values such as `3.14`, `12:00`, and `1,000`. |
+| `[` / `]` during composition | Open extended lookup / return to the ordinary candidate list. |
+| `-` / `=` during composition | Previous / next seven-candidate page. |
+| Shift alone | Switch Chinese/English; new typing sessions start in English. |
+| Tab | Move forward one pinyin syllable. |
+| Chinese-mode punctuation | `[` and `]` insert 【 and 】; shifted `{`, `}`, and `|` insert those ASCII symbols directly. |
+| `riqi`, `xinqi`, `alpha`, `du` | Current date, weekday, Greek-letter and degree-symbol suggestions. |
 
-New typing sessions start in English. The indicator shows an outlined A for English and the Squirrel badge for Chinese. Left- or right-click it for Deploy, Sync, Settings and Logs. The final menu item links to the official nightly release.
+Full-width mode and special modifier-key shortcuts are disabled. Brackets insert individually; automatic bracket completion is absent. Smart spacing does not move the cursor or require Accessibility. It uses text context exposed by the editor and leaves unavailable context alone. English candidates keep their existing ranking rules.
 
-## Download and install
+The optional indicator shows an outlined A for English and a Squirrel badge for Chinese. Either mouse button opens its configuration menu. The candidate window remains a single row with ordinary paging.
 
-1. Install the official **Squirrel** input method on macOS if you do not already have it. [Official Squirrel releases](https://github.com/rime/squirrel/releases)
-2. Download the **Squirrel-Academic-Config** ZIP under **Assets** on the release page and unzip it. [Download the latest release](https://github.com/xzhang17/squirrel-academic-config/releases/latest)
-3. Open **Install.command**, read the installation summary and enter `y` to continue. You can also run `./Install.command` from Terminal in the unzipped folder. The installer runs as your normal Mac user. It offers the clickable indicator separately on compatible nightly builds.
-4. Choose **Squirrel → Deploy** (重新部署). Switch to Chinese with Shift, then try `mdjz` for 密度矩阵.
+## Release downloads
 
-On an existing installation the academic schema and MacGreen skin become active. The installer keeps your private phrases, learning data, sync settings and other files outside the release. It saves copies of every differing file it replaces under `~/Library/Squirrel-Academic-Previous-…`, including any dictionaries with matching filenames. An existing word-preference file is also backed up because redeployment can prune pins for words absent from the new dictionaries. The path is printed during installation. To revert, copy those files back to `~/Library/Rime` at the same relative paths and redeploy. `Added-files.txt` lists the files that were introduced. A new installation uses `~/Squirrel-Backup/sync`; an existing installation retains its sync destination.
+[Download v1.1.0](https://github.com/xzhang17/squirrel-academic-config/releases/tag/v1.1.0) contains:
 
-## Manual installation or a separate staged profile
+- **Squirrel-Academic-Config-v1.1.0-macOS.zip** — this public profile, dictionaries, scripts, local executable, rebuild source, installer and mode indicator.
+- **Squirrel-Custom-d220b92-smart-spacing-1.2-arm64.zip** — a full copy of the currently customized `Squirrel.app`, including its matching engine, plugins and resources.
+- **Squirrel-nightly-2026-10-30-d220b92.pkg** — the retained, matching original nightly installer for reproducible restoration.
+- **SHA256SUMS** — checksums for the three downloadable archives/packages.
 
-1. Install the official Squirrel input method. This profile was tested with the 2026-10-30 nightly at commit `d220b92`, whose installer SHA-256 is `7eb907e3aafb62741e4871ec63c7ba3cf25669fff9777d792a5a9f0b1aded984`. The upstream nightly link moves as new builds are released. If restoring from a personal Squirrel backup, use the matching package in its `installers` folder. [Official releases](https://github.com/rime/squirrel/releases) · [Tested revision](https://github.com/rime/squirrel/commit/d220b92ae7d0c916f4cce50df42d9a136668ea52)
-2. Clone or download this repository. In Terminal, run the following from the repository root. It prints the path to a new staged profile under your Library. It preserves any active Rime profile.
+The full app ZIP is an offline copy of the customized bundle. The installation steps below use the matching original installer plus the saved customization, so no replacement nightly needs to be downloaded. Upstream background release checking is disabled in the custom build.
+
+## Install or restore the customized setup
+
+1. On a Mac without the matching nightly, install the included `Squirrel-nightly-2026-10-30-d220b92.pkg` with macOS administrator authorization. The upstream nightly link moves; use this saved package for the build in this release.
+2. Unzip **Squirrel-Academic-Config-v1.1.0-macOS.zip**, open **Install.command**, and enter `y` to install the profile for your account. It offers the menu-bar indicator separately. Existing private phrases, learned data and sync settings are preserved; differing managed files are copied to a `~/Library/Squirrel-Academic-Previous-…` folder.
+3. Apply the saved custom executable to the matching installed nightly:
 
    ```sh
-   /bin/bash ./Prepare-profile.command
+   /bin/bash "$HOME/Library/Rime/native_typing/Install.command"
    ```
 
-3. With Squirrel stopped, move the staged folder to `~/Library/Rime`. Keep an existing Rime folder separately so you can revert or recover your own phrases and preferences. If Squirrel is your only keyboard, you can have an administrator swap the folders while you are signed out. Enable **Squirrel – Simplified** in System Settings → Keyboard → Text Input, select it and choose **Deploy**.
-4. To use the SVG indicator, run the following from the repository root. It installs the helper for the signed-in user, sets it to start at login, and hides Squirrel’s built-in text label. If the separate Apple Input menu is also visible, its setting is under Keyboard → Text Input → Edit.
+   Complete the macOS administrator prompt. The script checks the nightly and engine, installs the saved executable, verifies the bundle, and restarts Squirrel. It downloads nothing. Python 3 and Apple's command-line tools are needed for this script; rebuilding additionally needs the Swift compiler.
+4. Choose **Squirrel – Simplified** in macOS input settings and **Deploy** in Squirrel's menu. New sessions start in English; tap Shift for Chinese. Try `mdjz`, mixed Chinese/English text, and ordinary bracket insertion.
+5. If the indicator was not installed in step 2, run `Mode-Indicator/Restore.command` from the unzipped release. Either mouse button opens its menu.
 
-   ```sh
-   /bin/bash ./Mode-Indicator/Restore.command
-   ```
+The untouched original app is retained locally at `/Library/Application Support/Squirrel Typing/Original-Squirrel.zip`. A different Squirrel nightly requires rebuilding the customization against matching sources and libraries.
 
-5. Select **Sync user data** in the indicator or Squirrel menu. The staged profile configures a fresh device ID and a local sync destination under `~/Squirrel-Backup/sync`. Keep the `Mode-Indicator` folder alongside `sync` for an offline indicator restore. If your backup already contains it, keep that verified copy.
+## Prepare a separate profile
+
+To stage a fresh profile without changing an active input method:
+
+```sh
+/bin/bash ./Prepare-profile.command
+```
+
+The command prints a new `Rime-restored.…` directory under your Library. With Squirrel stopped, keep any existing `~/Library/Rime` separately and move the staged profile into its place. The staged profile has a fresh device ID and a manual sync destination under `~/Squirrel-Backup/sync`. Installing a profile alone does not modify the Squirrel app; use the custom installation step above for smart spacing.
 
 ## What is shared
 
-The `Profile` directory contains the academic and daily dictionaries, the two additional personal term lists approved for sharing, the shared shortcuts, fuzzy-pinyin and ranking rules, and the skin. The large Ice dictionaries are used by extended lookup. `Mode-Indicator` contains the helper app ZIP, checksums, SVGs, source, and restore command. Third-party data notices are under `notices`.
+`Profile` contains the academic, everyday and approved personal term dictionaries, shared shortcuts, current Lua modules, configuration, and `native_typing` source/executable. `Mode-Indicator` contains its app archive, SVG artwork, source and restore helper. Third-party notices remain under `notices` and in the source archive.
 
-**Private reference shortcuts and learned preferences stay local.** Preparing a profile creates an empty `custom_phrase.txt` and `academic_preferences.txt`. Sync data, logs, device IDs, and compiled caches are excluded from Git. A personal Squirrel backup can restore private entries that this public profile omits.
+**Private reference phrases and learned typing data are excluded from this public repository and its release downloads.** Profile preparation creates empty `custom_phrase.txt` and `academic_preferences.txt` files. Live user databases, exported learning records, account/device identifiers, sync settings, logs and compiled profile caches are excluded. Restore personal learning from your separate private backup.
 
-## Edit and back up
+## Edit, rebuild and back up manually
 
-Edit the plain dictionary or shortcut files, then redeploy. After editing nested resources under `~/Library/Rime`, refresh the archive used by Squirrel’s native backup, then select **Sync user data**.
+After changing profile configuration or dictionaries, choose **Deploy**. After changing nested resources, prepare the archive before selecting **Sync user data**:
 
 ```sh
 /bin/bash "$HOME/Library/Rime/academic_profile.txt" prepare
 ```
 
-Squirrel Sync writes to your local backup. To publish later changes, copy just the intended shareable files to a clone of this repository, review the Git diff, commit, and push.
+To rebuild the local executable from the retained source against the installed matching nightly:
+
+```sh
+/bin/bash "$HOME/Library/Rime/native_typing/Build.command"
+```
+
+The build command runs its spacing checks and updates the saved executable only after success. It does not install. Backups and future GitHub updates remain manual.

@@ -9,3 +9,7 @@ The English-word evidence uses SCOWL 2020.12.07. Its copyright and permission no
 Emoji names and keywords use Unicode CLDR 46 Simplified Chinese data and Unicode Emoji 17.0. Unicode-LICENSE.txt contains the license. [CLDR](https://github.com/unicode-org/cldr/tree/release-46/common/annotations) · [Emoji data](https://www.unicode.org/Public/17.0.0/emoji/emoji-test.txt)
 
 The Chinese menu-bar badge uses the Squirrel logo. The English badge is an outlined A. The indicator source and its SVG files accompany the app archive. [Squirrel](https://github.com/rime/squirrel)
+
+## Customized native app
+
+The custom frontend is based on Squirrel nightly commit [d220b92ae7d0c916f4cce50df42d9a136668ea52](https://github.com/rime/squirrel/commit/d220b92ae7d0c916f4cce50df42d9a136668ea52), with Rime 1.17.0. Its retained source, headers, spacing tests, Squirrel license and Sparkle license are in `Profile/native_typing/source.zip.txt` (a ZIP archive). The standalone Swift files in `native_typing` replace their archived copies during builds. `Build.command`, `Install.command`, and `nightly-base.txt` describe the local build and matching components. The release preserves the original installer and a copy of the customized app bundle.
