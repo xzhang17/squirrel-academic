@@ -25,19 +25,19 @@ The optional indicator shows an outlined A for English and a Squirrel badge for 
 
 ## Release downloads
 
-[Download v1.1.0](https://github.com/xzhang17/squirrel-academic-config/releases/tag/v1.1.0) contains:
+The `v1.1.1` profile keeps one ordinary space between the number and the candidate and uses a thin space before an optional annotation. [Download v1.1.1](https://github.com/xzhang17/squirrel-academic-config/releases/tag/v1.1.1)
 
-- **Squirrel-Academic-Config-v1.1.0-macOS.zip** — this public profile, dictionaries, scripts, local executable, rebuild source, installer and mode indicator.
-- **Squirrel-Custom-d220b92-smart-spacing-1.2-arm64.zip** — a full copy of the currently customized `Squirrel.app`, including its matching engine, plugins and resources.
-- **Squirrel-nightly-2026-10-30-d220b92.pkg** — the retained, matching original nightly installer for reproducible restoration.
-- **SHA256SUMS** — checksums for the three downloadable archives/packages.
+- The profile ZIP contains the dictionaries, scripts, local executable, rebuild source, profile installer and mode indicator. [Download the profile](https://github.com/xzhang17/squirrel-academic-config/releases/download/v1.1.1/Squirrel-Academic-Config-v1.1.1-macOS.zip)
+- The custom app ZIP contains the installed arm64 nightly with its matching engine, plugins and resources. [Download the custom app](https://github.com/xzhang17/squirrel-academic-config/releases/download/v1.1.0/Squirrel-Custom-d220b92-smart-spacing-1.2-arm64.zip)
+- Use the original d220b92 installer for a fresh installation. [Download the matching nightly installer](https://github.com/xzhang17/squirrel-academic-config/releases/download/v1.1.0/Squirrel-nightly-2026-10-30-d220b92.pkg)
+- Checksums are available for each download. [Profile checksum](https://github.com/xzhang17/squirrel-academic-config/releases/download/v1.1.1/SHA256SUMS) · [App and installer checksums](https://github.com/xzhang17/squirrel-academic-config/releases/download/v1.1.0/SHA256SUMS)
 
 The full app ZIP is an offline copy of the customized bundle. The installation steps below use the matching original installer plus the saved customization, so no replacement nightly needs to be downloaded. Upstream background release checking is disabled in the custom build.
 
 ## Install or restore the customized setup
 
 1. On a Mac without the matching nightly, install the included `Squirrel-nightly-2026-10-30-d220b92.pkg` with macOS administrator authorization. The upstream nightly link moves; use this saved package for the build in this release.
-2. Unzip **Squirrel-Academic-Config-v1.1.0-macOS.zip**, open **Install.command**, and enter `y` to install the profile for your account. It offers the menu-bar indicator separately. Existing private phrases, learned data and sync settings are preserved; differing managed files are copied to a `~/Library/Squirrel-Academic-Previous-…` folder.
+2. Unzip **Squirrel-Academic-Config-v1.1.1-macOS.zip**, open **Install.command**, and enter `y` to install the profile for your account. It offers the menu-bar indicator separately. Existing private phrases, learned data and sync settings are preserved; differing managed files are copied to a `~/Library/Squirrel-Academic-Previous-…` folder.
 3. Apply the saved custom executable to the matching installed nightly:
 
    ```sh

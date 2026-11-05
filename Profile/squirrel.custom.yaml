@@ -19,7 +19,7 @@ patch:
     color_space: srgb
     candidate_list_layout: linear
     text_orientation: horizontal
-    candidate_format: "%c %@ "
+    candidate_format: "[label] [candidate]\u2009[comment]"
     corner_radius: 13
     hilited_corner_radius: 10
     line_spacing: 10

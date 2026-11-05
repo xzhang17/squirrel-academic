@@ -1,6 +1,6 @@
 Squirrel academic profile and custom nightly on macOS
 
-This public snapshot targets Squirrel nightly d220b92 with Rime 1.17.0 and the arm64 smart-spacing extension 1.2. Use the matching original nightly installer retained in the GitHub release. The release also contains an archive of the customized app.
+This public snapshot targets Squirrel nightly d220b92 with Rime 1.17.0 and the arm64 smart-spacing extension 1.2. The v1.1.1 profile release links to both the customized app archive and the matching original nightly installer from v1.1.0.
 
 Install the profile with Install.command from the release. Then run:
   /bin/bash "$HOME/Library/Rime/native_typing/Install.command"
