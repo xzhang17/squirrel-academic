@@ -4,6 +4,14 @@ A Simplified Chinese profile and locally customized **Squirrel nightly d220b92**
 
 The custom executable is **arm64 (Apple silicon), macOS 13 or later**, with local extension version **1.2** and Rime **1.17.0**. It retains the special nightly's mode-notification interface used by the indicator. It was built locally; no stable release was substituted.
 
+## Install on a new Mac
+
+For the v1.2.0 installer prerelease on Apple silicon with macOS 13 or later, open the downloaded package, click **Continue → Install**, and approve the macOS administrator prompt. The installer sets up the custom d220b92 app, the academic profile with the tighter candidate spacing, and the menu-bar indicator. All setup steps run locally. [Download the single installer](https://github.com/xzhang17/squirrel-academic-config/releases/download/v1.2.0/Squirrel-Academic-v1.2.0-macOS-arm64.pkg)
+
+This installer is unsigned. macOS may require a one-time approval in **System Settings → Privacy & Security** before it opens. [Apple’s guidance](https://support.apple.com/en-sg/102445)
+
+Choose **Squirrel – Simplified** from the input menu and tap Shift for Chinese. If macOS defers activation, sign out and back in, then add it under **System Settings → Keyboard → Text Input → Edit**. Your private phrases and learning can be restored separately from your personal backup.
+
 ## Current behavior
 
 | Input or feature | Behavior |
@@ -23,18 +31,18 @@ Full-width mode and special modifier-key shortcuts are disabled. Brackets insert
 
 The optional indicator shows an outlined A for English and a Squirrel badge for Chinese. Either mouse button opens its configuration menu. The candidate window remains a single row with ordinary paging.
 
-## Release downloads
+## Separate downloads
 
 The `v1.1.1` profile keeps one ordinary space between the number and the candidate and uses a thin space before an optional annotation. [Download v1.1.1](https://github.com/xzhang17/squirrel-academic-config/releases/tag/v1.1.1)
 
 - The profile ZIP contains the dictionaries, scripts, local executable, rebuild source, profile installer and mode indicator. [Download the profile](https://github.com/xzhang17/squirrel-academic-config/releases/download/v1.1.1/Squirrel-Academic-Config-v1.1.1-macOS.zip)
-- The custom app ZIP contains the installed arm64 nightly with its matching engine, plugins and resources. [Download the custom app](https://github.com/xzhang17/squirrel-academic-config/releases/download/v1.1.0/Squirrel-Custom-d220b92-smart-spacing-1.2-arm64.zip)
+- Use the v1.2.0 package for a complete custom app installation. The older standalone app ZIP omits the detached signing metadata on the bundled `rime-install` script.
 - Use the original d220b92 installer for a fresh installation. [Download the matching nightly installer](https://github.com/xzhang17/squirrel-academic-config/releases/download/v1.1.0/Squirrel-nightly-2026-10-30-d220b92.pkg)
 - Checksums are available for each download. [Profile checksum](https://github.com/xzhang17/squirrel-academic-config/releases/download/v1.1.1/SHA256SUMS) · [App and installer checksums](https://github.com/xzhang17/squirrel-academic-config/releases/download/v1.1.0/SHA256SUMS)
 
-The full app ZIP is an offline copy of the customized bundle. The installation steps below use the matching original installer plus the saved customization, so no replacement nightly needs to be downloaded. Upstream background release checking is disabled in the custom build.
+The manual steps below use the original nightly package plus the saved customization. Upstream background release checking is disabled in the custom build.
 
-## Install or restore the customized setup
+## Manual installation from separate files
 
 1. On a Mac without the matching nightly, install the included `Squirrel-nightly-2026-10-30-d220b92.pkg` with macOS administrator authorization. The upstream nightly link moves; use this saved package for the build in this release.
 2. Unzip **Squirrel-Academic-Config-v1.1.1-macOS.zip**, open **Install.command**, and enter `y` to install the profile for your account. It offers the menu-bar indicator separately. Existing private phrases, learned data and sync settings are preserved; differing managed files are copied to a `~/Library/Squirrel-Academic-Previous-…` folder.

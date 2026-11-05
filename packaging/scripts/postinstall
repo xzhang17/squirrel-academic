@@ -1,0 +1,11 @@
+#!/bin/bash
+# PackageKit installs the signed app and read-only template as root. Run all
+# account operations with the desktop user's identity and GUI bootstrap.
+set -euo pipefail
+export PATH=/usr/bin:/bin:/usr/sbin:/sbin
+[[ $3 == / ]]
+owner_uid=$(/usr/bin/stat -f %u /dev/console)
+[[ $owner_uid -ge 500 ]] || { echo 'Sign in and run this installer again.' >&2; exit 1; }
+/usr/bin/codesign --verify --deep --strict '/Library/Input Methods/Squirrel.app'
+exec /bin/launchctl asuser "$owner_uid" /usr/bin/sudo -n -H -u "#$owner_uid" \
+  /bin/bash '/Library/Application Support/Squirrel Academic/Setup/install-user.sh'

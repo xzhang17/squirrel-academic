@@ -2,7 +2,9 @@ Squirrel academic profile and custom nightly on macOS
 
 This public snapshot targets Squirrel nightly d220b92 with Rime 1.17.0 and the arm64 smart-spacing extension 1.2. The v1.1.1 profile release links to both the customized app archive and the matching original nightly installer from v1.1.0.
 
-Install the profile with Install.command from the release. Then run:
+On a new Apple silicon Mac with macOS 13 or later, open Squirrel-Academic-v1.2.0-macOS-arm64.pkg from release v1.2.0, click Continue and Install, and approve macOS authentication. The package installs the customized app, academic profile and clickable indicator, and requests activation of Squirrel - Simplified.
+
+For a manual installation from the separate profile ZIP, open Install.command from that ZIP. Then run:
   /bin/bash "$HOME/Library/Rime/native_typing/Install.command"
 Complete the macOS administrator prompt. This installs the saved custom executable without downloading a different release. Choose Squirrel - Simplified and Deploy. The menu indicator can be restored with Mode-Indicator/Restore.command from the release.
 

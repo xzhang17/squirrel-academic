@@ -3,6 +3,8 @@
 require 'fileutils'
 require 'tmpdir'
 
+package_profile = ARGV == ['--package-profile']
+abort 'Usage: Install.command [--package-profile]' unless ARGV.empty? || package_profile
 File.umask(0077)
 root = File.expand_path(__dir__)
 home = Dir.home
@@ -18,9 +20,11 @@ puts 'Squirrel Academic Config · 学术拼音'
 puts 'This installs the academic scheme, its dictionaries, local learning, punctuation settings and MacGreen skin.'
 puts 'Only the academic scheme will be selected by the new configuration.'
 puts 'Private phrase lists, learned choices, existing sync settings and unrelated files are preserved.'
-print "Continue? [y/N] "
-STDOUT.flush
-exit 0 unless STDIN.gets.to_s.strip.match?(/\A(y|yes)\z/i)
+unless package_profile
+  print "Continue? [y/N] "
+  STDOUT.flush
+  exit 0 unless STDIN.gets.to_s.strip.match?(/\A(y|yes)\z/i)
+end
 
 File.open(library, File::RDONLY) do |lock|
   abort 'Another profile installation is running. Try again when it finishes.' unless lock.flock(File::LOCK_EX | File::LOCK_NB)
@@ -95,6 +99,8 @@ File.open(library, File::RDONLY) do |lock|
   end
 end
 
+# macOS Installer handles the app, deployment and indicator in its next step.
+exit 0 if package_profile
 puts 'Profile installed. Choose Squirrel → Deploy (重新部署), switch to Chinese, and try mdjz → 密度矩阵.'
 puts 'For smart spacing on the matching d220b92 nightly, run:'
 puts '/bin/bash "$HOME/Library/Rime/native_typing/Install.command"'

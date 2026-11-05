@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<installer-gui-script minSpecVersion="2">
+  <title>Squirrel Academic · 学术拼音</title>
+  <welcome file="welcome.html" mime-type="text/html"/>
+  <conclusion file="complete.html" mime-type="text/html"/>
+  <options customize="never" require-scripts="false" hostArchitectures="arm64" rootVolumeOnly="true"/>
+  <domains enable_anywhere="false" enable_currentUserHome="false" enable_localSystem="true"/>
+  <volume-check><allowed-os-versions><os-version min="13.0"/></allowed-os-versions></volume-check>
+  <choices-outline><line choice="setup"/></choices-outline>
+  <choice id="setup" visible="false"><pkg-ref id="com.github.xzhang17.squirrel-academic"/></choice>
+  <pkg-ref id="com.github.xzhang17.squirrel-academic" version="1.2.0">SquirrelAcademic-component.pkg</pkg-ref>
+</installer-gui-script>
