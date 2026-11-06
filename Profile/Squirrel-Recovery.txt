@@ -3,7 +3,7 @@
 The public installer provides the shared Zenfire configuration and a clean
 learning profile. It contains no author's private phrases or learned data.
 Core features and installation instructions:
-https://github.com/xzhang17/squirrel-academic-config
+https://github.com/xzhang17/squirrel-academic
 
 Manual backup
 
