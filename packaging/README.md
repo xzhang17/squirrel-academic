@@ -2,7 +2,9 @@
 
 Requirements: Apple Silicon Mac, Python 3.8 or newer, and Apple Command Line Tools.
 
-Use the retained original Squirrel nightly `d220b92` installer (also available in release v1.1.0). Do not substitute a stable release. Download `wanxiang-lts-zh-hans.gram` from release v1.3.0 into `Profile/`; the builder verifies `Model.sha256`.
+Use the retained original Squirrel nightly `d220b92` installer (also available in release v1.1.0). Do not substitute a stable release. Copy `wanxiang-lts-zh-hans.gram` from the installed `~/Library/Rime/` profile into the repository's `Profile/`; the builder verifies `Model.sha256`. The model is included inside the complete installer, not provided as a separate release download.
+
+To obtain the model without installing, expand the complete `.pkg` using `pkgutil --expand-full`. It is inside `SquirrelAcademic-component.pkg/Payload/Library/Application Support/Squirrel Academic/Setup/Profile/` in the expanded package.
 
 ```sh
 python3 packaging/build-installer.py \
@@ -15,3 +17,5 @@ The builder verifies the original installer, native executable, Rime engine, mod
 Installation runs dictionary deployment, mode-indicator setup and Simplified input-source registration as the signed-in desktop user. Existing private data and sync settings are preserved. Changed configuration files are saved before replacement. Existing `academic_pinyin` learning is migrated only if `zenfire_pinyin.userdb` is absent; the original database stays intact.
 
 The package is unsigned; the included app uses a local ad hoc signature. The release notes distinguish isolated deployment tests from fresh-Mac GUI activation, which cannot be confirmed by a package build alone.
+
+Publish only the complete `.pkg` and its `SHA256SUMS` file. The release checksum list contains one entry for the installer; `Model.sha256` remains an internal source-build verification file.

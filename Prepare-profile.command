@@ -8,7 +8,7 @@ source="$repo/Profile"
 parent="${1:-$HOME/Library}"
 [[ -d "$parent" && -f "$source/zenfire_profile_files.txt" ]] || exit 1
 [[ -s "$source/wanxiang-lts-zh-hans.gram" ]] || {
-  echo 'Missing Wanxiang model. Use the complete installer, or download wanxiang-lts-zh-hans.gram from release v1.3.0 into Profile/.' >&2
+  echo 'Missing Wanxiang model. Use the complete installer, or copy its installed wanxiang-lts-zh-hans.gram into Profile/ for source setup.' >&2
   exit 1
 }
 (cd "$source" && /usr/bin/shasum -a 256 -c "$repo/Model.sha256") >&2

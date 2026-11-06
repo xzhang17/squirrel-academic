@@ -6,7 +6,7 @@ Academic subject terminology, selected scientist names and mixed Chinese/Latin v
 
 The generated `zenfire_chars` table combines existing Ice readings with character-frequency scores from [Rime Frost, gaboolic and contributors, commit 3ba4f1d](https://github.com/gaboolic/rime-frost/tree/3ba4f1df224823079b947ce1553441c36097b124). Upstream notices remain with the dictionaries. This profile does not replace its complete word dictionary or schema with Frost.
 
-The unmodified `wanxiang-lts-zh-hans.gram` is from [Wanxiang LTS, amzxyz and contributors](https://github.com/amzxyz/rime-wanxiang-data/releases/tag/LTS), SHA-256 `e34500ab44626dc039a0641792ecba98ab63307646eb3d29186be56608ffe094`. The upstream data license is CC BY 4.0, included as Wanxiang-LICENSE. This binary is included in release assets and the installer, rather than Git history. No Wanxiang training code is redistributed, and no personal model training is claimed.
+The unmodified `wanxiang-lts-zh-hans.gram` is from [Wanxiang LTS, amzxyz and contributors](https://github.com/amzxyz/rime-wanxiang-data/releases/tag/LTS), SHA-256 `e34500ab44626dc039a0641792ecba98ab63307646eb3d29186be56608ffe094`. The upstream data license is CC BY 4.0, included as Wanxiang-LICENSE. This binary is included inside the installer, rather than Git history or a separate release attachment. No Wanxiang training code is redistributed, and no personal model training is claimed.
 
 The four optional Mint skins and selected name-source entries are adapted from [Mintimate/oh-my-rime, commit cb4f7dd](https://github.com/Mintimate/oh-my-rime/tree/cb4f7dda2fb74332cda0a7712ffc89ea5ded856f). MacGreen remains selected.
 

@@ -6,6 +6,8 @@
 
 支持 **Apple Silicon（M 系列）、macOS 13 及以上**。安装包包含定制鼠须管 nightly `d220b92`、全部词典、脚本、万象模型及中英文菜单栏指示器，无需另装稳定版或逐个下载组件。Intel Mac 暂无安装包。
 
+**安装只需下载一个 `.pkg` 文件，Wanxiang 模型已完整内置。** 发布页的 `SHA256SUMS` 仅用于校验这个安装包，无需另外下载模型。
+
 ## 核心功能
 
 - **日常与学术词汇兼顾。** 保留雾凇中文基础词库，采用经过本方案测试的白霜字频调整；学科词库可独立开关。科学家使用常见教材简称。
@@ -73,6 +75,6 @@
 | `packaging/` | 可复现安装包的构建脚本 |
 | `notices/` | 第三方来源和许可证 |
 
-GitHub 源码 ZIP **不包含约 399 MiB 的 `.gram` 文件**。普通用户只需下载完整 `.pkg`。源码用户从本版 [Release](https://github.com/xzhang17/squirrel-academic-config/releases/tag/v1.3.0) 下载 `wanxiang-lts-zh-hans.gram` 放入 `Profile/`，用 `Model.sha256` 校验后，可运行 `Prepare-profile.command` 生成独立配置，或运行 `Install.command` 安装配置。源码安装前需已有兼容鼠须管；智能空格需要本仓库的定制 app。
+GitHub 源码 ZIP **不包含约 399 MiB 的 `.gram` 文件**；模型随完整 `.pkg` 提供，本版不另行发布模型附件。开发者如需使用源码配置，可从已安装的 `~/Library/Rime/wanxiang-lts-zh-hans.gram` 复制到仓库的 `Profile/`，并用 `Model.sha256` 校验。随后可运行 `Prepare-profile.command` 生成独立配置，或运行 `Install.command` 安装配置。源码安装前需已有兼容鼠须管；智能空格需要本仓库的定制 app。
 
 安装包构建方法见 [packaging/README.md](packaging/README.md)。词典与模型来源见 [notices/SOURCES.md](notices/SOURCES.md) 和 [学科词典来源](Profile/dicts/academic_dicts/Sources.txt)。各组件保留各自许可证。
