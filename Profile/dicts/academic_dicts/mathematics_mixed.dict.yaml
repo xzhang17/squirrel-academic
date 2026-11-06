@@ -1,0 +1,47 @@
+# 数学
+# Sources and licenses: Sources.txt in this folder.
+---
+name: mathematics_mixed
+version: "1.1"
+sort: by_weight
+use_preset_vocabulary: false
+...
+ADMM算法	admm suan fa	160
+Banach空间	banach kong jian	160
+BFGS算法	bfgs suan fa	160
+Cholesky分解	cholesky fen jie	100
+单边Z变换	dan bian z bian huan	100
+Ⅱ型错误	er xing cuo wu	100
+Fourier分析	fourier fen xi	160
+Gram-Schmidt正交化	gram schmidt zheng jiao hua	100
+Hilbert空间	hilbert kong jian	160
+i次方	i ci fang	100
+i次幂	i ci mi	100
+Ito积分	ito ji fen	160
+Jordan标准形	jordan biao zhun xing	100
+KKT条件	kkt tiao jian	160
+Krylov子空间	krylov zi kong jian	160
+lambda演算	lambda yan suan	100
+Lebesgue测度	lebesgue ce du	160
+Lipschitz连续	lipschitz lian xu	160
+LU分解	lu fen jie	160
+Lyapunov函数	lyapunov han shu	160
+n次方	n ci fang	100
+n次幂	n ci mi	100
+nabla算子	nabla suan zi	100
+逆Z变换	ni z bian huan	100
+p进数	p jin shu	100
+p进数域	p jin shu yu	100
+QR分解	qr fen jie	160
+S曲线	s qu xian	100
+Schur分解	schur fen jie	100
+双边Z变换	shuang bian z bian huan	100
+Sobolev空间	sobolev kong jian	160
+Stratonovich积分	stratonovich ji fen	160
+SVD分解	svd fen jie	160
+X轴	x zhou	100
+Y轴	y zhou	100
+Ⅰ型错误	yi xing cuo wu	100
+Z变换	z bian huan	100
+Z逆变换	z ni bian huan	100
+Z轴	z zhou	100

@@ -1,0 +1,1320 @@
+# 地质与地球科学
+# Sources and licenses: Sources.txt in this folder.
+---
+name: geology
+version: "1.1"
+sort: by_weight
+use_preset_vocabulary: false
+...
+暗色矿物	an se kuang wu	100
+暗闪辉长岩	an shan hui chang yan	100
+安山岩	an shan yan	100
+鞍状矿脉	an zhuang kuang mai	100
+奥陶系	ao tao xi	100
+八面沸石	ba mian fei shi	100
+白沸石	bai fei shi	100
+白榴斑岩	bai liu ban yan	100
+白榴熔岩	bai liu rong yan	100
+白榴霞斑岩	bai liu xia ban yan	100
+白黏土	bai nian tu	100
+白钨矿	bai wu kuang	100
+白云母片岩	bai yun mu pian yan	100
+斑点板岩	ban dian ban yan	100
+半化石	ban hua shi	100
+半晶质	ban jing zhi	100
+板块边界	ban kuai bian jie	100
+板块分布	ban kuai fen bu	100
+板块俯冲	ban kuai fu chong	160
+板块构造	ban kuai gou zao	160
+板块构造学说	ban kuai gou zao xue shuo	160
+板片断离	ban pian duan li	160
+板片回撤	ban pian hui che	160
+伴生矿物	ban sheng kuang wu	100
+板岩	ban yan	100
+斑岩铜矿	ban yan tong kuang	100
+斑岩型矿床	ban yan xing kuang chuang	160
+斑状变晶	ban zhuang bian jing	100
+板状构造	ban zhuang gou zao	100
+板状晶体	ban zhuang jing ti	100
+孢粉分析	bao fen fen xi	100
+孢粉统计	bao fen tong ji	100
+孢粉组合	bao fen zu he	160
+包裹体	bao guo ti	100
+饱和矿物	bao he kuang wu	100
+宝塔灰岩	bao ta hui yan	100
+倍长辉长岩	bei chang hui chang yan	100
+倍长石	bei chang shi	100
+变杆沸石	bian gan fei shi	100
+变辉长岩	bian hui chang yan	100
+变基性岩	bian ji xing yan	100
+变闪长岩	bian shan chang yan	100
+变形机制	bian xing ji zhi	160
+变形组构	bian xing zu gou	100
+变玄武岩	bian xuan wu yan	100
+变质程度	bian zhi cheng du	100
+变质带	bian zhi dai	100
+变质反应	bian zhi fan ying	160
+变质核杂岩	bian zhi he za yan	160
+变质温压计	bian zhi wen ya ji	160
+变质相	bian zhi xiang	160
+变质相系	bian zhi xiang xi	160
+变质作用	bian zhi zuo yong	160
+表面侵蚀	biao mian qin shi	100
+标型矿物	biao xing kuang wu	100
+标准化石	biao zhun hua shi	100
+标准矿物	biao zhun kuang wu	100
+冰长石	bing chang shi	100
+冰川冰	bing chuan bing	100
+冰川擦痕	bing chuan ca hen	100
+冰川槽	bing chuan cao	100
+冰川沉积	bing chuan chen ji	100
+冰川地貌	bing chuan di mao	160
+冰川风	bing chuan feng	100
+冰川谷	bing chuan gu	100
+冰川洪水	bing chuan hong shui	100
+冰川湖	bing chuan hu	100
+冰川裂隙	bing chuan lie xi	100
+冰川舌	bing chuan she	100
+冰川相	bing chuan xiang	100
+冰川学	bing chuan xue	100
+冰斗冰川	bing dou bing chuan	100
+冰盖层	bing gai ceng	100
+冰积土	bing ji tu	100
+冰碛层	bing qi ceng	100
+冰碛湖	bing qi hu	100
+冰碛土	bing qi tu	100
+冰碛物	bing qi wu	100
+冰碛岩	bing qi yan	100
+冰水沉积	bing shui chen ji	100
+冰芯记录	bing xin ji lu	160
+玻基粗粒玄武岩	bo ji cu li xuan wu yan	100
+玻璃光泽	bo li guang ze	100
+不对称褶皱	bu dui chen zhe zhou	100
+部分熔融	bu fen rong rong	160
+不整合面	bu zheng he mian	100
+擦碎角砾岩	ca sui jiao li yan	100
+残斑岩	can ban yan	100
+残积层	can ji ceng	100
+残留矿床	can liu kuang chuang	100
+残余矿物	can yu kuang wu	100
+残余岩浆	can yu yan jiang	100
+层间角砾岩	ceng jian jiao li yan	100
+层间砾岩	ceng jian li yan	100
+层凝灰岩	ceng ning hui yan	100
+层序地层学	ceng xu di ceng xue	160
+层序界面	ceng xu jie mian	160
+层状构造	ceng zhuang gou zao	100
+层状矿床	ceng zhuang kuang chuang	100
+拆离断层	chai li duan ceng	160
+长石斑岩	chang shi ban yan	100
+长石化	chang shi hua	100
+长石砂岩	chang shi sha yan	100
+长石石英岩	chang shi shi ying yan	100
+长云角页岩	chang yun jiao ye yan	100
+超变质	chao bian zhi	100
+超基性岩	chao ji xing yan	100
+潮汐表	chao xi biao	100
+潮汐摩擦	chao xi mo ca	100
+潮汐三角洲	chao xi san jiao zhou	100
+沉积层序	chen ji ceng xu	100
+沉积成因	chen ji cheng yin	100
+沉积地球化学	chen ji di qiu hua xue	160
+沉积地质	chen ji di zhi	100
+沉积分布	chen ji fen bu	100
+沉积分析	chen ji fen xi	100
+沉积构造	chen ji gou zao	160
+沉积间断	chen ji jian duan	100
+沉积盆地	chen ji pen di	160
+沉积曲线	chen ji qu xian	100
+沉积特征	chen ji te zheng	100
+沉积体系	chen ji ti xi	160
+沉积微相	chen ji wei xiang	160
+沉积物通量	chen ji wu tong liang	160
+沉积物源	chen ji wu yuan	160
+沉积相	chen ji xiang	160
+沉积旋回	chen ji xuan hui	100
+沉积学	chen ji xue	100
+沉降海岸	chen jiang hai an	100
+沉降史	chen jiang shi	160
+成层火山	cheng ceng huo shan	100
+成层矿床	cheng ceng kuang chuang	100
+成矿流体	cheng kuang liu ti	160
+成矿区域	cheng kuang qu yu	100
+成矿时代	cheng kuang shi dai	160
+成矿预测	cheng kuang yu ce	160
+成矿元素	cheng kuang yuan su	100
+成矿作用	cheng kuang zuo yong	160
+成岩作用	cheng yan zuo yong	100
+冲积矿床	chong ji kuang chuang	100
+冲积锥	chong ji zhui	100
+臭灰岩	chou hui yan	100
+抽水试验	chou shui shi yan	160
+雏火山	chu huo shan	100
+储气层	chu qi ceng	100
+储气岩	chu qi yan	100
+储油层	chu you ceng	100
+储油岩	chu you yan	100
+穿插双晶	chuan cha shuang jing	100
+垂直褶皱	chui zhi zhe zhou	100
+纯橄榄岩	chun gan lan yan	100
+纯闪锌矿	chun shan xin kuang	100
+次长石砂岩	ci chang shi sha yan	100
+磁赤铁矿	ci chi tie kuang	100
+磁黄铁矿	ci huang tie kuang	100
+次绿泥石	ci lv ni shi	100
+次生构造	ci sheng gou zao	100
+次生构造岩	ci sheng gou zao yan	100
+次生化石	ci sheng hua shi	100
+次生矿床	ci sheng kuang chuang	100
+次生劈理岩	ci sheng pi li yan	100
+磁铁矿砂	ci tie kuang sha	100
+次透辉石	ci tou hui shi	100
+磁性地层学	ci xing di ceng xue	160
+次要矿物	ci yao kuang wu	100
+磁异常	ci yi chang	160
+粗粒砂岩	cu li sha yan	100
+粗砂岩	cu sha yan	100
+脆绿泥石	cui lv ni shi	100
+脆韧性转换	cui ren xing zhuan huan	160
+脆性变形	cui xing bian xing	160
+大地电磁测深	da di dian ci ce shen	160
+大地构造学	da di gou zao xue	100
+大陆板块	da lu ban kuai	100
+大陆碰撞	da lu peng zhuang	160
+大陆漂移	da lu piao yi	100
+大洋地壳	da yang di qiao	100
+代替矿物	dai ti kuang wu	100
+带状构造	dai zhuang gou zao	100
+单成火山	dan cheng huo shan	100
+单成砾岩	dan cheng li yan	100
+单成岩	dan cheng yan	100
+淡红沸石	dan hong fei shi	100
+淡色斑岩	dan se ban yan	100
+单斜构造	dan xie gou zao	100
+等轴晶系	deng zhou jing xi	100
+地表形变	di biao xing bian	160
+地层不整合	di ceng bu zheng he	160
+地层层序	di ceng ceng xu	160
+地层单位	di ceng dan wei	100
+地层对比	di ceng dui bi	100
+地层划分	di ceng hua fen	100
+地层剖面	di ceng pou mian	100
+地层水	di ceng shui	100
+地层图	di ceng tu	100
+地层柱	di ceng zhu	100
+地磁倒转	di ci dao zhuan	160
+地磁图	di ci tu	100
+地磁仪	di ci yi	100
+地磁异常	di ci yi chang	100
+地电流	di dian liu	100
+底砾岩	di li yan	100
+地幔岩	di man yan	100
+地貌演化	di mao yan hua	160
+地面沉降	di mian chen jiang	160
+底黏土	di nian tu	100
+地壳变动	di qiao bian dong	100
+地壳形变	di qiao xing bian	160
+地壳运动	di qiao yun dong	100
+地球成因学	di qiu cheng yin xue	100
+地球化学相	di qiu hua xue xiang	100
+地球系统模型	di qiu xi tong mo xing	160
+地热梯度	di re ti du	100
+地热学	di re xue	100
+地温梯度	di wen ti du	100
+地下水径流	di xia shui jing liu	160
+地下水流	di xia shui liu	100
+地下水面	di xia shui mian	100
+地下水排泄	di xia shui pai xie	160
+地下水污染	di xia shui wu ran	160
+地下水异常	di xia shui yi chang	100
+地震波层析成像	di zhen bo ceng xi cheng xiang	160
+地震层析成像	di zhen ceng xi cheng xiang	160
+地震层序	di zhen ceng xu	100
+地震成因	di zhen cheng yin	100
+地震地层学	di zhen di ceng xue	160
+地震地貌	di zhen di mao	100
+地震地质	di zhen di zhi	100
+地震断层	di zhen duan ceng	100
+地震分布	di zhen fen bu	100
+地震干涉	di zhen gan she	160
+地震构造	di zhen gou zao	100
+地震海啸	di zhen hai xiao	100
+地震活动	di zhen huo dong	100
+地震计	di zhen ji	100
+地震记录	di zhen ji lu	100
+地震矩	di zhen ju	160
+地震剖面	di zhen pou mian	100
+地震强度	di zhen qiang du	100
+地震序列	di zhen xu lie	100
+地震异常	di zhen yi chang	100
+地震作用	di zhen zuo yong	100
+地质雷达	di zhi lei da	160
+地质罗盘	di zhi luo pan	100
+地质年代表	di zhi nian dai biao	160
+地质年代学	di zhi nian dai xue	100
+地质年龄	di zhi nian ling	100
+地质剖面	di zhi pou mian	100
+地质灾害评估	di zhi zai hai ping gu	160
+电子自旋共振测年	dian zi zi xuan gong zhen ce nian	160
+电阻率成像	dian zu lv cheng xiang	160
+叠层构造	die ceng gou zao	100
+蝶形双晶	die xing shuang jing	100
+定向构造	ding xiang gou zao	100
+动力变质	dong li bian zhi	100
+洞穴沉积	dong xue chen ji	100
+豆状灰岩	dou zhuang hui yan	100
+断层槽	duan ceng cao	100
+断层带	duan ceng dai	100
+断层构造	duan ceng gou zao	100
+断层谷	duan ceng gu	100
+断层滑动反演	duan ceng hua dong fan yan	160
+断层活动性	duan ceng huo dong xing	160
+断层裂缝	duan ceng lie feng	100
+断层面	duan ceng mian	100
+断层泥	duan ceng ni	160
+断层泉	duan ceng quan	100
+断层线	duan ceng xian	100
+断层崖	duan ceng ya	100
+断层岩	duan ceng yan	100
+断层运动学	duan ceng yun dong xue	160
+断层褶皱	duan ceng zhe zhou	100
+断层作用	duan ceng zuo yong	100
+断块山	duan kuai shan	100
+对称带状构造	dui chen dai zhuang gou zao	100
+对称褶皱	dui chen zhe zhou	100
+对流层顶	dui liu ceng ding	100
+盾状火山	dun zhuang huo shan	100
+峨眉山玄武岩	e mei shan xuan wu yan	100
+二长安山岩	er chang an shan yan	100
+二长斑岩	er chang ban yan	100
+二长辉长岩	er chang hui chang yan	100
+二长闪长岩	er chang shan chang yan	100
+二叠系	er die xi	100
+二辉橄榄岩	er hui gan lan yan	100
+二辉石岩	er hui shi yan	100
+鲕绿泥石	er lv ni shi	100
+鲕状石灰岩	er zhuang shi hui yan	100
+发沸石	fa fei shi	100
+钒辉石	fan hui shi	100
+反条正长闪长岩	fan tiao zheng chang shan chang yan	100
+反信风	fan xin feng	100
+方沸石	fang fei shi	100
+方辉橄榄岩	fang hui gan lan yan	100
+方锰矿	fang meng kuang	100
+放射成因同位素	fang she cheng yin tong wei su	160
+放射性定年	fang she xing ding nian	160
+放射性碳测年	fang she xing tan ce nian	160
+放射状岩脉群	fang she zhuang yan mai qun	100
+沸斑岩	fei ban yan	100
+非饱和带	fei bao he dai	160
+非构造岩	fei gou zao yan	100
+非晶体	fei jing ti	100
+沸石矿床	fei shi kuang chuang	100
+沸石相	fei shi xiang	100
+霏细安山岩	fei xi an shan yan	100
+霏细斑岩	fei xi ban yan	100
+分带化石	fen dai hua shi	100
+粪化石	fen hua shi	100
+分离结晶	fen li jie jing	160
+粉砂岩	fen sha yan	100
+粉砂质黏土	fen sha zhi nian tu	100
+风成沉积	feng cheng chen ji	100
+风成细粒灰岩	feng cheng xi li hui yan	100
+风成岩	feng cheng yan	100
+风化层	feng hua ceng	100
+风化带	feng hua dai	100
+风化矿石	feng hua kuang shi	100
+风化煤	feng hua mei	100
+风化壳	feng hua qiao	100
+风化石灰	feng hua shi hui	100
+风化通量	feng hua tong liang	160
+风化穴	feng hua xue	100
+风蚀盆地	feng shi pen di	100
+复成火山	fu cheng huo shan	100
+复成砾岩	fu cheng li yan	100
+俯冲带	fu chong dai	160
+俯冲作用	fu chong zuo yong	160
+副地槽	fu di cao	100
+复地槽	fu di cao	100
+副断层	fu duan ceng	100
+复断层	fu duan ceng	100
+复合火山	fu he huo shan	100
+富矿体	fu kuang ti	100
+副矿物	fu kuang wu	100
+副砾岩	fu li yan	100
+氟磷灰石	fu lin hui shi	100
+腐泥岩	fu ni yan	100
+副片麻岩	fu pian ma yan	100
+复片麻岩	fu pian ma yan	100
+副片岩	fu pian yan	100
+浮石凝灰岩	fu shi ning hui yan	100
+复双晶	fu shuang jing	100
+复褶皱	fu zhe zhou	100
+钙长橄榄岩	gai chang gan lan yan	100
+钙长石	gai chang shi	100
+钙沸石	gai fei shi	100
+钙橄榄石	gai gan lan shi	100
+钙黄长石	gai huang chang shi	100
+钙钠长石	gai na chang shi	100
+钙铁辉石	gai tie hui shi	100
+钙硬锰矿	gai ying meng kuang	100
+钙质片岩	gai zhi pian yan	100
+钙质页岩	gai zhi ye yan	100
+杆沸石	gan fei shi	100
+橄辉钠长斑岩	gan hui na chang ban yan	100
+橄金斑岩	gan jin ban yan	100
+橄榄岩	gan lan yan	100
+橄闪斑岩	gan shan ban yan	100
+橄闪正长煌斑岩	gan shan zheng chang huang ban yan	100
+橄钛辉长岩	gan tai hui chang yan	100
+橄霞玄武岩	gan xia xuan wu yan	100
+锆石年代学	gao shi nian dai xue	160
+高温石英	gao wen shi ying	100
+铬磁铁矿	ge ci tie kuang	100
+铬绿泥石	ge lv ni shi	100
+铬透辉石	ge tou hui shi	100
+更新世	geng xin shi	100
+更新统	geng xin tong	100
+工程地质勘察	gong cheng di zhi kan cha	160
+公馆凝灰岩	gong guan ning hui yan	100
+构造剥蚀	gou zao bo shi	100
+构造层	gou zao ceng	100
+构造沉降	gou zao chen jiang	100
+构造窗	gou zao chuang	100
+构造单元	gou zao dan yuan	100
+构造地貌	gou zao di mao	100
+构造地形	gou zao di xing	100
+构造地质	gou zao di zhi	100
+构造地质学	gou zao di zhi xue	160
+构造高原	gou zao gao yuan	100
+构造谷	gou zao gu	100
+构造湖	gou zao hu	100
+构造面	gou zao mian	100
+构造盆地	gou zao pen di	100
+构造平原	gou zao ping yuan	100
+构造圈	gou zao quan	100
+构造特征	gou zao te zheng	100
+构造土	gou zao tu	100
+构造线	gou zao xian	100
+构造相	gou zao xiang	100
+构造型式	gou zao xing shi	100
+构造形式	gou zao xing shi	100
+构造序列	gou zao xu lie	100
+构造旋回	gou zao xuan hui	100
+构造岩	gou zao yan	100
+构造样式	gou zao yang shi	100
+构造要素	gou zao yao su	100
+构造应力场	gou zao ying li chang	160
+构造轴	gou zao zhou	100
+构造作用	gou zao zuo yong	100
+古冰川	gu bing chuan	100
+古地磁	gu di ci	100
+古地磁地层学	gu di ci di ceng xue	100
+古地磁学	gu di ci xue	160
+古地理重建	gu di li chong jian	160
+古地理图	gu di li tu	100
+古地理学	gu di li xue	100
+古地质学	gu di zhi xue	100
+钴方解石	gu fang jie shi	100
+古气候代用指标	gu qi hou dai yong zhi biao	160
+古气候模拟	gu qi hou mo ni	160
+古气候学	gu qi hou xue	100
+古生态学	gu sheng tai xue	100
+古生物地层学	gu sheng wu di ceng xue	160
+古生物相	gu sheng wu xiang	100
+古铜辉石	gu tong hui shi	100
+古新世	gu xin shi	100
+观测井	guan ce jing	100
+灌注片麻岩	guan zhu pian ma yan	100
+管状矿体	guan zhuang kuang ti	100
+光释光测年	guang shi guang ce nian	160
+硅灰石膏	gui hui shi gao	100
+硅铝矿物	gui lv kuang wu	100
+硅锰矿	gui meng kuang	100
+硅铅锰矿	gui qian meng kuang	100
+硅酸盐风化	gui suan yan feng hua	160
+硅藻组合	gui zao zu he	160
+硅质灰岩	gui zhi hui yan	100
+硅质岩	gui zhi yan	100
+硅质页岩	gui zhi ye yan	100
+过酸性岩	guo suan xing yan	100
+海岸沉积	hai an chen ji	100
+海岸地形	hai an di xing	100
+海岸侵蚀	hai an qin shi	160
+海底沉积	hai di chen ji	100
+海底地貌	hai di di mao	100
+海底地震	hai di di zhen	100
+海底扩张	hai di kuo zhang	160
+海平面变化	hai ping mian bian hua	160
+海蚀穴	hai shi xue	100
+海蚀柱	hai shi zhu	100
+海洋沉积记录	hai yang chen ji ji lu	160
+海洋环流	hai yang huan liu	160
+海洋缺氧	hai yang que yang	160
+海洋热浪	hai yang re lang	160
+海洋酸化	hai yang suan hua	160
+含金砾岩层	han jin li yan ceng	100
+含金石英	han jin shi ying	100
+含镁石灰岩	han mei shi hui yan	100
+含水层参数	han shui ceng can shu	160
+寒武系	han wu xi	100
+航空物探	hang kong wu tan	160
+河岸侵蚀	he an qin shi	100
+合成矿物	he cheng kuang wu	100
+河道迁移	he dao qian yi	160
+褐硅锰矿	he gui meng kuang	100
+河流沉积	he liu chen ji	100
+河流阶地	he liu jie di	160
+褐硫锰矿	he liu meng kuang	100
+河流袭夺	he liu xi duo	100
+褐锰矿	he meng kuang	100
+褐斜闪石	he xie shan shi	100
+褐锌锰矿	he xin meng kuang	100
+黑锰矿	hei meng kuang	100
+黑钨矿	hei wu kuang	100
+黑锌锰矿	hei xin meng kuang	100
+横断层	heng duan ceng	100
+横节理	heng jie li	100
+横褶皱	heng zhe zhou	100
+红钙长石	hong gai chang shi	100
+红锆石	hong gao shi	100
+红硅锰矿	hong gui meng kuang	100
+洪积层	hong ji ceng	100
+红帘石英片岩	hong lian shi ying pian yan	100
+红钠闪石	hong na shan shi	100
+红黏土	hong nian tu	100
+红砂岩	hong sha yan	100
+红闪石	hong shan shi	100
+洪水侵蚀	hong shui qin shi	100
+红钛锰矿	hong tai meng kuang	100
+红柱角页岩	hong zhu jiao ye yan	100
+厚层泥岩	hou ceng ni yan	100
+后成矿床	hou cheng kuang chuang	100
+互层	hu ceng	100
+弧后盆地	hu hou pen di	160
+湖积平原	hu ji ping yuan	100
+湖泊沉积记录	hu po chen ji ji lu	160
+弧前盆地	hu qian pen di	160
+弧形构造	hu xing gou zao	100
+花斑岩	hua ban yan	100
+滑断层	hua duan ceng	100
+滑劈理	hua pi li	100
+滑坡易发性	hua po yi fa xing	160
+滑石矿床	hua shi kuang chuang	100
+滑石片岩	hua shi pian yan	100
+化石群落	hua shi qun luo	100
+化石作用	hua shi zuo yong	100
+化学沉积	hua xue chen ji	100
+化学地层学	hua xue di ceng xue	160
+化学侵蚀	hua xue qin shi	100
+环带构造	huan dai gou zao	100
+环境噪声成像	huan jing zao sheng cheng xiang	160
+环状断层	huan zhuang duan ceng	100
+环状构造	huan zhuang gou zao	100
+煌斑片岩	huang ban pian yan	100
+煌斑岩	huang ban yan	100
+黄长石	huang chang shi	100
+黄长玄武岩	huang chang xuan wu yan	100
+黄高岭石	huang gao ling shi	100
+黄锆石	huang gao shi	100
+黄铁矿结核	huang tie kuang jie he	100
+黄铁炭质页岩	huang tie tan zhi ye yan	100
+黄土古土壤	huang tu gu tu rang	160
+辉长玢岩	hui chang bin yan	100
+辉长煌斑岩	hui chang huang ban yan	100
+辉长苏长岩	hui chang su chang yan	100
+辉长岩	hui chang yan	100
+辉沸石	hui fei shi	100
+汇聚板块边界	hui ju ban kuai bian jie	160
+辉绿泥石	hui lv ni shi	100
+辉钼矿	hui mu kuang	100
+辉闪石	hui shan shi	100
+辉石安山岩	hui shi an shan yan	100
+辉石类	hui shi lei	100
+辉石岩	hui shi yan	100
+灰质结砾岩	hui zhi jie li yan	100
+灰质黏土	hui zhi nian tu	100
+混成岩	hun cheng yan	100
+火成角砾岩	huo cheng jiao li yan	100
+火成论	huo cheng lun	100
+火成碎屑岩	huo cheng sui xie yan	100
+火成岩相	huo cheng yan xiang	100
+活断层	huo duan ceng	100
+火口岩浆	huo kou yan jiang	100
+火山玻璃	huo shan bo li	100
+火山尘	huo shan chen	100
+火山沉积	huo shan chen ji	100
+火山带	huo shan dai	100
+火山弹	huo shan dan	100
+火山道	huo shan dao	100
+火山地貌	huo shan di mao	100
+火山地质	huo shan di zhi	100
+火山构造	huo shan gou zao	100
+火山管	huo shan guan	100
+火山弧	huo shan hu	100
+火山灰层	huo shan hui ceng	100
+火山灰流	huo shan hui liu	100
+火山灰土	huo shan hui tu	100
+火山颈	huo shan jing	100
+火山喀斯特	huo shan ka si te	100
+火山块	huo shan kuai	100
+火山泪	huo shan lei	100
+火山砾岩	huo shan li yan	100
+火山裂缝	huo shan lie feng	100
+火山泥	huo shan ni	100
+火山泥流	huo shan ni liu	100
+火山黏土	huo shan nian tu	100
+火山气体	huo shan qi ti	100
+火山沙	huo shan sha	100
+火山山脉	huo shan shan mai	100
+火山栓	huo shan shuan	100
+火山碎屑	huo shan sui xie	100
+火山碎屑流	huo shan sui xie liu	100
+火山现象	huo shan xian xiang	100
+火山学	huo shan xue	100
+火山学家	huo shan xue jia	100
+火山岩相	huo shan yan xiang	100
+火山岩屑	huo shan yan xie	100
+火山云	huo shan yun	100
+火山渣	huo shan zha	100
+火山渣锥	huo shan zha zhui	100
+火山锥	huo shan zhui	100
+火山作用	huo shan zuo yong	100
+极磁铁矿	ji ci tie kuang	100
+集块熔岩	ji kuai rong yan	100
+寄生火山	ji sheng huo shan	100
+寄生火山锥	ji sheng huo shan zhui	100
+机械风化	ji xie feng hua	100
+基性岩	ji xing yan	100
+基准面变化	ji zhun mian bian hua	160
+假斑晶	jia ban jing	100
+假层理	jia ceng li	100
+钾长石	jia chang shi	100
+钾沸石	jia fei shi	100
+假火山	jia huo shan	100
+假角砾岩	jia jiao li yan	100
+假晶	jia jing	100
+假砾岩	jia li yan	100
+镓钠长石	jia na chang shi	100
+假钠沸石	jia na fei shi	100
+假劈理	jia pi li	100
+钾氩定年	jia ya ding nian	160
+钾氩定年法	jia ya ding nian fa	100
+钾云母	jia yun mu	100
+假整合	jia zheng he	100
+剪节理	jian jie li	100
+碱菱沸石	jian ling fei shi	100
+尖榴辉岩	jian liu hui yan	100
+剪劈理	jian pi li	100
+碱性岩系	jian xing yan xi	100
+剪褶皱	jian zhe zhou	100
+角斑岩	jiao ban yan	100
+交错层	jiao cuo ceng	100
+交错层理	jiao cuo ceng li	100
+交错矿脉	jiao cuo kuang mai	100
+交代矿床	jiao dai kuang chuang	100
+角度不整合	jiao du bu zheng he	160
+交沸石	jiao fei shi	100
+胶黄铁矿	jiao huang tie kuang	100
+礁灰岩	jiao hui yan	100
+胶结带	jiao jie dai	100
+胶结物	jiao jie wu	100
+胶结作用	jiao jie zuo yong	100
+角砾混合岩	jiao li hun he yan	100
+角砾脉	jiao li mai	100
+角砾破碎岩	jiao li po sui yan	100
+角砾岩	jiao li yan	100
+角闪橄榄岩	jiao shan gan lan yan	100
+角闪片岩	jiao shan pian yan	100
+角闪石岩	jiao shan shi yan	100
+焦石英	jiao shi ying	100
+角页岩	jiao ye yan	100
+角页岩相	jiao ye yan xiang	100
+接触变质矿床	jie chu bian zhi kuang chuang	100
+接触变质作用	jie chu bian zhi zuo yong	160
+接触矿床	jie chu kuang chuang	100
+接触矿脉	jie chu kuang mai	100
+接触矿物	jie chu kuang wu	100
+接触双晶	jie chu shuang jing	100
+阶地砂矿	jie di sha kuang	100
+结晶构造	jie jing gou zao	100
+结晶灰岩	jie jing hui yan	100
+结晶片岩	jie jing pian yan	100
+节理系	jie li xi	100
+节理组	jie li zu	100
+接收函数	jie shou han shu	160
+近单矿物岩	jin dan kuang wu yan	100
+金刚光泽	jin gang guang ze	100
+浸染矿床	jin ran kuang chuang	100
+金属矿物	jin shu kuang wu	100
+近围岩岩脉	jin wei yan yan mai	100
+晶面指数	jing mian zhi shu	100
+晶体习性	jing ti xi xing	100
+晶形	jing xing	100
+晶轴	jing zhou	100
+晶粥	jing zhou	160
+巨斑岩	ju ban yan	100
+巨角砾岩	ju jiao li yan	100
+巨矿脉	ju kuang mai	100
+聚片双晶	ju pian shuang jing	100
+巨型构造	ju xing gou zao	100
+绢云片岩	juan yun pian yan	100
+均密石英岩	jun mi shi ying yan	100
+可燃页岩	ke ran ye yan	100
+可弯砂岩	ke wan sha yan	100
+孔隙水	kong xi shui	100
+块熔岩	kuai rong yan	100
+块云母	kuai yun mu	100
+块状熔岩	kuai zhuang rong yan	100
+矿床成因	kuang chuang cheng yin	160
+矿化带	kuang hua dai	100
+矿化剂	kuang hua ji	100
+矿化蚀变	kuang hua shi bian	160
+矿化作用	kuang hua zuo yong	100
+矿脉走向	kuang mai zou xiang	100
+矿石矿物	kuang shi kuang wu	100
+矿物包裹体	kuang wu bao guo ti	160
+矿物分离	kuang wu fen li	100
+矿物共生	kuang wu gong sheng	100
+矿物化学	kuang wu hua xue	100
+矿物环带	kuang wu huan dai	160
+矿物填料	kuang wu tian liao	100
+矿物相律	kuang wu xiang lv	100
+矿物颜料	kuang wu yan liao	100
+矿物组合	kuang wu zu he	100
+拉长石	la chang shi	100
+蜡蛇纹石	la she wen shi	100
+蓝片岩	lan pian yan	100
+蓝闪片岩	lan shan pian yan	100
+蓝闪片岩相	lan shan pian yan xiang	100
+蓝闪石	lan shan shi	100
+蓝透辉石	lan tou hui shi	100
+粒度分布	li du fen bu	100
+粒度分析	li du fen xi	100
+粒钙长石	li gai chang shi	100
+粒硅锰矿	li gui meng kuang	100
+粒辉石	li hui shi	100
+锂辉石	li hui shi	100
+粒径分布	li jing fen bu	100
+粒径分析	li jing fen xi	100
+锂绿泥石	li lv ni shi	100
+沥青页岩	li qing ye yan	100
+李四光	li si guang	375
+粒状角页岩	li zhuang jiao ye yan	100
+裂变径迹定年	lie bian jing ji ding nian	160
+捩断层	lie duan ceng	100
+裂谷湖	lie gu hu	100
+裂谷作用	lie gu zuo yong	100
+磷锂锰矿	lin li meng kuang	100
+鳞绿泥石	lin lv ni shi	100
+磷锰矿	lin meng kuang	100
+磷钠锰矿	lin na meng kuang	100
+鳞片构造	lin pian gou zao	100
+鳞石英	lin shi ying	100
+磷铁锰矿	lin tie meng kuang	100
+鳞蛭石	lin zhi shi	100
+菱长斑岩	ling chang ban yan	100
+菱沸石	ling fei shi	100
+菱锰矿	ling meng kuang	100
+菱形晶系	ling xing jing xi	100
+流动构造	liu dong gou zao	100
+榴辉岩	liu hui yan	100
+榴辉岩相	liu hui yan xiang	100
+硫锰矿	liu meng kuang	100
+流劈理	liu pi li	100
+流体包裹体	liu ti bao guo ti	160
+硫同位素	liu tong wei su	100
+流纹结构	liu wen jie gou	100
+流纹玄武岩	liu wen xuan wu yan	100
+流纹岩	liu wen yan	100
+流纹英安岩	liu wen ying an yan	100
+流褶皱	liu zhe zhou	100
+陆内变形	lu nei bian xing	160
+陆相沉积	lu xiang chen ji	100
+陆源沉积物	lu yuan chen ji wu	100
+落水洞	luo shui dong	100
+绿点板岩	lv dian ban yan	100
+绿橄榄石	lv gan lan shi	100
+绿辉石	lv hui shi	100
+绿基正长云英斑岩	lv ji zheng chang yun ying ban yan	100
+铝蓝闪石	lv lan shan shi	100
+绿帘石	lv lian shi	100
+绿帘石岩	lv lian shi yan	100
+绿磷锰矿	lv lin meng kuang	100
+铝绿泥石	lv lv ni shi	100
+绿泥片岩	lv ni pian yan	100
+绿泥闪帘片岩	lv ni shan lian pian yan	100
+绿泥石	lv ni shi	100
+绿闪石	lv shan shi	100
+铝铁闪石	lv tie shan shi	100
+铝土岩	lv tu yan	100
+绿萤石	lv ying shi	100
+铝直闪石	lv zhi shan shi	100
+脉构造	mai gou zao	100
+脉矿床	mai kuang chuang	100
+脉石矿物	mai shi kuang wu	100
+脉状片麻岩	mai zhuang pian ma yan	100
+盲节理	mang jie li	100
+毛沸石	mao fei shi	100
+镁白云石	mei bai yun shi	100
+镁橄榄石	mei gan lan shi	100
+镁铬铁矿	mei ge tie kuang	100
+玫瑰石英	mei gui shi ying	100
+镁黄长石	mei huang chang shi	100
+镁绿泥石	mei lv ni shi	100
+镁钠闪石	mei na shan shi	100
+镁铁闪石	mei tie shan shi	100
+镁硬绿泥片岩	mei ying lv ni pian yan	100
+镁直闪石	mei zhi shan shi	100
+锰白云石	meng bai yun shi	100
+锰磁铁矿	meng ci tie kuang	100
+锰方解石	meng fang jie shi	100
+锰钙辉石	meng gai hui shi	100
+锰橄榄石	meng gan lan shi	100
+锰绿泥石	meng lv ni shi	100
+锰闪石	meng shan shi	100
+锰铁闪石	meng tie shan shi	100
+锰锌辉石	meng xin hui shi	100
+面波频散	mian bo pin san	160
+莫霍不连续面	mo huo bu lian xu mian	160
+磨圆作用	mo yuan zuo yong	100
+母岩浆	mu yan jiang	100
+钠长斑岩	na chang ban yan	100
+钠长橄斑岩	na chang gan ban yan	100
+钠长石	na chang shi	100
+钠长石化	na chang shi hua	100
+钠长英板岩	na chang ying ban yan	100
+钠沸石	na fei shi	100
+钠钙长石	na gai chang shi	100
+钠锆石	na gao shi	100
+钠辉石	na hui shi	100
+钠闪石	na shan shi	100
+钠铁闪石	na tie shan shi	100
+钠透长石	na tou chang shi	100
+钠透闪石	na tou shan shi	100
+钠正长石	na zheng chang shi	100
+南赤道暖流	nan chi dao nuan liu	100
+南磁极	nan ci ji	100
+内成岩	nei cheng yan	100
+内流盆地	nei liu pen di	100
+泥板岩	ni ban yan	100
+逆冲断层	ni chong duan ceng	160
+逆断层	ni duan ceng	100
+霓辉石	ni hui shi	100
+泥灰岩相	ni hui yan xiang	100
+泥火山	ni huo shan	100
+泥砾岩	ni li yan	100
+霓流纹岩	ni liu wen yan	100
+泥熔岩	ni rong yan	100
+逆温	ni wen	100
+泥岩	ni yan	100
+逆掩断层	ni yan duan ceng	100
+泥质板岩	ni zhi ban yan	100
+泥质砂岩	ni zhi sha yan	100
+黏板岩	nian ban yan	100
+年代地层单位	nian dai di ceng dan wei	100
+年代地层学	nian dai di ceng xue	160
+黏土夹层	nian tu jia ceng	100
+黏土矿物	nian tu kuang wu	100
+黏土脉	nian tu mai	100
+黏土岩	nian tu yan	100
+镍磁铁矿	nie ci tie kuang	100
+镍黄铁矿	nie huang tie kuang	100
+镍绿泥石	nie lv ni shi	100
+凝灰角砾岩	ning hui jiao li yan	100
+凝灰岩相	ning hui yan xiang	100
+牛轭湖	niu e hu	100
+喷出岩	pen chu yan	100
+喷出岩体	pen chu yan ti	100
+盆地分析	pen di fen xi	160
+盆地模拟	pen di mo ni	160
+硼镁锰矿	peng mei meng kuang	100
+片沸石	pian fei shi	100
+片水锰矿	pian shui meng kuang	100
+片状构造	pian zhuang gou zao	100
+平衡剖面	ping heng pou mian	160
+平均粒径	ping jun li jing	100
+平行不整合	ping xing bu zheng he	160
+破劈理	po pi li	100
+普通辉石	pu tong hui shi	100
+气成矿物	qi cheng kuang wu	100
+气成岩	qi cheng yan	100
+气候反馈	qi hou fan kui	160
+气候敏感度	qi hou min gan du	160
+气候强迫	qi hou qiang po	160
+浅成热液矿床	qian cheng re ye kuang chuang	100
+浅成岩	qian cheng yan	100
+千枚岩	qian mei yan	100
+潜水面	qian shui mian	100
+蔷薇辉石	qiang wei hui shi	100
+侵入岩	qin ru yan	160
+侵入岩床	qin ru yan chuang	100
+侵蚀谷	qin shi gu	100
+侵蚀湖	qin shi hu	100
+侵蚀孔	qin shi kong	100
+侵蚀面	qin shi mian	100
+青辉石	qing hui shi	100
+轻矿物	qing kuang wu	100
+球颗玄武岩	qiu ke xuan wu yan	100
+球状斑岩	qiu zhuang ban yan	100
+球状风化	qiu zhuang feng hua	100
+球状构造	qiu zhuang gou zao	100
+球状辉长岩	qiu zhuang hui chang yan	100
+球状闪长岩	qiu zhuang shan chang yan	100
+曲流	qu liu	100
+曲流带	qu liu dai	100
+区域变质作用	qu yu bian zhi zuo yong	100
+全晶质	quan jing zhi	100
+热变质作用	re bian zhi zuo yong	100
+热测井	re ce jing	100
+热年代学	re nian dai xue	160
+热演化史	re yan hua shi	160
+热盐环流	re yan huan liu	160
+热液矿床	re ye kuang chuang	100
+热液蚀变	re ye shi bian	160
+韧性剪切	ren xing jian qie	160
+日长石	ri chang shi	100
+熔结凝灰岩	rong jie ning hui yan	100
+熔融岩浆	rong rong yan jiang	100
+溶蚀谷	rong shi gu	100
+熔体包裹体	rong ti bao guo ti	160
+熔岩层	rong yan ceng	100
+熔岩管	rong yan guan	100
+熔岩海	rong yan hai	100
+熔岩湖	rong yan hu	100
+熔岩灰	rong yan hui	100
+熔岩火山	rong yan huo shan	100
+熔岩棘	rong yan ji	100
+熔岩颈	rong yan jing	100
+熔岩流	rong yan liu	100
+熔岩瀑布	rong yan pu bu	100
+熔岩球	rong yan qiu	100
+熔岩石笋	rong yan shi sun	100
+熔岩隧道	rong yan sui dao	100
+熔岩钟乳	rong yan zhong ru	100
+熔岩柱	rong yan zhu	100
+熔岩锥	rong yan zhui	100
+溶质运移	rong zhi yun yi	160
+肉红长石	rou hong chang shi	100
+蠕绿泥石	ru lv ni shi	100
+乳石英	ru shi ying	100
+软流圈	ruan liu quan	100
+软锰矿	ruan meng kuang	100
+三方晶系	san fang jing xi	100
+三角洲沉积	san jiao zhou chen ji	160
+三角洲前缘	san jiao zhou qian yuan	160
+三斜晶系	san xie jing xi	100
+三斜闪石	san xie shan shi	100
+砂积矿床	sha ji kuang chuang	100
+沙丘沟	sha qiu gou	100
+沙丘湖	sha qiu hu	100
+砂质黏土	sha zhi nian tu	100
+砂质页岩	sha zhi ye yan	100
+闪长玢岩	shan chang bin yan	100
+山谷冰川	shan gu bing chuan	100
+扇砾岩	shan li yan	100
+闪石类	shan shi lei	100
+闪苏安山岩	shan su an shan yan	100
+闪斜煌斑岩	shan xie huang ban yan	100
+上升海岸	shang sheng hai an	100
+上升流	shang sheng liu	160
+上投断层	shang tou duan ceng	100
+上新世	shang xin shi	100
+蛇异橄榄岩	she yi gan lan yan	100
+深变片麻岩	shen bian pian ma yan	100
+深变质	shen bian zhi	100
+深成岩	shen cheng yan	100
+深成岩体	shen cheng yan ti	100
+肾硅锰矿	shen gui meng kuang	100
+深海沉积	shen hai chen ji	100
+深海地质	shen hai di zhi	100
+深海相	shen hai xiang	100
+沈括	shen kuo	5115
+深绿辉石	shen lv hui shi	100
+深切曲流	shen qie qu liu	100
+深源地震	shen yuan di zhen	100
+升华矿床	sheng hua kuang chuang	100
+生物泵	sheng wu beng	160
+生物沉积	sheng wu chen ji	100
+生物地层学	sheng wu di ceng xue	160
+生长断层	sheng zhang duan ceng	160
+绳状熔岩	sheng zhuang rong yan	100
+蚀变矿物	shi bian kuang wu	100
+石冰川	shi bing chuan	100
+视电阻率	shi dian zu lv	100
+石膏花	shi gao hua	100
+石膏岩	shi gao yan	100
+石笋记录	shi sun ji lu	160
+始新世	shi xin shi	100
+始新统	shi xin tong	100
+石英安山岩	shi ying an shan yan	100
+石英斑岩	shi ying ban yan	100
+石英粗安岩	shi ying cu an yan	100
+石英粗面岩	shi ying cu mian yan	100
+石英二长岩	shi ying er chang yan	100
+石英角斑岩	shi ying jiao ban yan	100
+石英矿	shi ying kuang	100
+石英脉	shi ying mai	100
+石英钠长岩	shi ying na chang yan	100
+石英片	shi ying pian	100
+石英片岩	shi ying pian yan	100
+石英砂岩	shi ying sha yan	100
+石英闪长岩	shi ying shan chang yan	100
+石英楔	shi ying xie	100
+石英玄武岩	shi ying xuan wu yan	100
+石英云煌岩	shi ying yun huang yan	100
+石英质	shi ying zhi	100
+石油地质学	shi you di zhi xue	100
+石质凝灰岩	shi zhi ning hui yan	100
+示踪试验	shi zong shi yan	160
+束沸石	shu fei shi	100
+树轮年代学	shu lun nian dai xue	160
+双晶	shuang jing	100
+双晶律	shuang jing lv	100
+双晶面	shuang jing mian	100
+双晶轴	shuang jing zhou	100
+水白云母	shui bai yun mu	100
+水白云石	shui bai yun shi	100
+水赤铁矿	shui chi tie kuang	100
+水钙沸石	shui gai fei shi	100
+水锆石	shui gao shi	100
+水硅锰矿	shui gui meng kuang	100
+水滑大理岩	shui hua da li yan	100
+水滑结晶灰岩	shui hua jie jing hui yan	100
+水辉石	shui hui shi	100
+水镁大理岩	shui mei da li yan	100
+水锰矿	shui meng kuang	100
+水蛇纹石	shui she wen shi	100
+水文地质模型	shui wen di zhi mo xing	160
+水文地质学	shui wen di zhi xue	160
+水锌锰矿	shui xin meng kuang	100
+水云母	shui yun mu	100
+水云母片岩	shui yun mu pian yan	100
+瞬变电磁法	shun bian dian ci fa	160
+丝光沸石	si guang fei shi	100
+似整合	si zheng he	100
+松脂光泽	song zhi guang ze	100
+溯源侵蚀	su yuan qin shi	100
+碎晶凝灰岩	sui jing ning hui yan	100
+燧石板岩	sui shi ban yan	100
+碎屑沉积	sui xie chen ji	100
+碎屑沉积物	sui xie chen ji wu	160
+碎屑锆石	sui xie gao shi	160
+碎屑矿床	sui xie kuang chuang	100
+碎屑岩墙	sui xie yan qiang	100
+他形晶	ta xing jing	100
+塔状石英	ta zhuang shi ying	100
+钛磁铁矿	tai ci tie kuang	100
+钛橄榄石	tai gan lan shi	100
+太古界	tai gu jie	100
+钛辉石	tai hui shi	100
+钛角闪石	tai jiao shan shi	100
+钛铁矿	tai tie kuang	100
+钛铁磷灰岩	tai tie lin hui yan	100
+碳磷灰石	tan lin hui shi	100
+碳酸盐补偿深度	tan suan yan bu chang shen du	160
+碳酸盐风化	tan suan yan feng hua	160
+碳酸盐台地	tan suan yan tai di	160
+碳同位素记录	tan tong wei su ji lu	160
+炭质页岩	tan zhi ye yan	100
+体系域	ti xi yu	160
+条痕板	tiao hen ban	100
+铁白云石	tie bai yun shi	100
+铁方解石	tie fang jie shi	100
+铁橄榄石	tie gan lan shi	100
+铁高岭石	tie gao ling shi	100
+铁辉石	tie hui shi	100
+铁金红石	tie jin hong shi	100
+铁磷灰石	tie lin hui shi	100
+铁绿泥石	tie lv ni shi	100
+铁锰辉石	tie meng hui shi	100
+铁闪石	tie shan shi	100
+铁云母	tie yun mu	100
+铜蒙脱石	tong meng tuo shi	100
+同熔岩浆	tong rong yan jiang	100
+同生构造	tong sheng gou zao	100
+同生矿床	tong sheng kuang chuang	100
+同时侵蚀	tong shi qin shi	100
+同位素地球化学	tong wei su di qiu hua xue	160
+同位素定年	tong wei su ding nian	160
+同位素分馏	tong wei su fen liu	160
+同位素示踪	tong wei su shi zong	160
+同源岩浆区	tong yuan yan jiang qu	100
+透长石	tou chang shi	100
+透长石相	tou chang shi xiang	100
+透辉石	tou hui shi	100
+透辉石岩	tou hui shi yan	100
+透锂长石	tou li chang shi	100
+透蛇纹石	tou she wen shi	100
+土壤矿物	tu rang kuang wu	100
+脱玻安山岩	tuo bo an shan yan	100
+脱玻流纹岩	tuo bo liu wen yan	100
+脱玻玄武岩	tuo bo xuan wu yan	100
+歪长石	wai chang shi	100
+外气层	wai qi ceng	100
+顽火辉石	wan huo hui shi	100
+弯曲褶皱	wan qu zhe zhou	100
+网金红石	wang jin hong shi	100
+网状构造	wang zhuang gou zao	100
+魏格纳	wei ge na	1345
+微量元素示踪	wei liang yuan su shi zong	160
+微闪长岩	wei shan chang yan	100
+微体古生物学	wei ti gu sheng wu xue	100
+微纹长石	wei wen chang shi	100
+微斜长石	wei xie chang shi	100
+纹长石	wen chang shi	100
+稳定同位素	wen ding tong wei su	160
+西风带	xi feng dai	100
+矽卡岩型矿床	xi ka yan xing kuang chuang	160
+锡矿床	xi kuang chuang	100
+锡矿脉	xi kuang mai	100
+西南季风	xi nan ji feng	100
+锡石	xi shi	100
+锡石云英岩	xi shi yun ying yan	100
+稀土元素配分	xi tu yuan su pei fen	160
+细褶皱	xi zhe zhou	100
+席状矿床	xi zhuang kuang chuang	100
+霞辉二长斑岩	xia hui er chang ban yan	100
+霞石玄武岩	xia shi xuan wu yan	100
+线玻正斑岩	xian bo zheng ban yan	100
+纤沸石	xian fei shi	100
+纤蛇纹石	xian she wen shi	100
+显微构造	xian wei gou zao	100
+纤维石膏	xian wei shi gao	100
+线状构造	xian zhuang gou zao	100
+向下侵蚀	xiang xia qin shi	100
+向源侵蚀	xiang yuan qin shi	100
+小火山	xiao huo shan	100
+小褶皱	xiao zhe zhou	100
+斜斑粗粒玄武岩	xie ban cu li xuan wu yan	100
+斜长斑岩	xie chang ban yan	100
+斜长片麻岩	xie chang pian ma yan	100
+斜长石	xie chang shi	100
+斜断层	xie duan ceng	100
+斜方辉石	xie fang hui shi	100
+斜方晶系	xie fang jing xi	100
+斜锆石	xie gao shi	100
+斜辉橄榄岩	xie hui gan lan yan	100
+斜节理	xie jie li	100
+斜磷锰矿	xie lin meng kuang	100
+斜绿泥石	xie lv ni shi	100
+斜铁辉石	xie tie hui shi	100
+斜顽辉石	xie wan hui shi	100
+锌方解石	xin fang jie shi	100
+信风带	xin feng dai	100
+新构造	xin gou zao	100
+锌黄长石	xin huang chang shi	100
+锌锰辉石	xin meng hui shi	100
+锌锰矿	xin meng kuang	100
+杏仁状构造	xing ren zhuang gou zao	100
+休火山	xiu huo shan	100
+徐霞客	xu xia ke	11900
+悬冰川	xuan bing chuan	100
+旋回地层学	xuan hui di ceng xue	160
+玄武玻璃	xuan wu bo li	100
+玄武辉石	xuan wu hui shi	100
+玄武闪石	xuan wu shan shi	100
+悬崖冰川	xuan ya bing chuan	100
+选择风化	xuan ze feng hua	100
+选择侵蚀	xuan ze qin shi	100
+旋转变形	xuan zhuan bian xing	100
+雪花石膏	xue hua shi gao	100
+压节理	ya jie li	100
+压碎角砾岩	ya sui jiao li yan	100
+氩氩定年	ya ya ding nian	160
+亚杂砂岩	ya za sha yan	100
+岩床	yan chuang	100
+岩浆玻璃灰	yan jiang bo li hui	100
+岩浆成因	yan jiang cheng yin	100
+岩浆储源	yan jiang chu yuan	100
+岩浆顶蚀作用	yan jiang ding shi zuo yong	100
+岩浆房	yan jiang fang	160
+岩浆分结矿床	yan jiang fen jie kuang chuang	100
+岩浆分凝	yan jiang fen ning	100
+岩浆分异	yan jiang fen yi	160
+岩浆分异作用	yan jiang fen yi zuo yong	100
+岩浆混合	yan jiang hun he	160
+岩浆混染	yan jiang hun ran	160
+岩浆活动	yan jiang huo dong	100
+岩浆库	yan jiang ku	100
+岩浆矿床	yan jiang kuang chuang	100
+岩浆矿石	yan jiang kuang shi	100
+岩浆喷发	yan jiang pen fa	100
+岩浆圈	yan jiang quan	100
+岩浆蚀顶作用	yan jiang shi ding zuo yong	100
+岩浆水	yan jiang shui	100
+岩浆旋回	yan jiang xuan hui	100
+岩浆演化	yan jiang yan hua	100
+岩浆柱	yan jiang zhu	100
+岩浆作用	yan jiang zuo yong	100
+盐类矿床	yan lei kuang chuang	100
+岩脉	yan mai	100
+岩墙群	yan qiang qun	100
+岩溶地质	yan rong di zhi	100
+岩溶含水层	yan rong han shui ceng	160
+岩溶旋回	yan rong xuan hui	100
+岩溶作用	yan rong zuo yong	100
+岩石变形	yan shi bian xing	100
+岩石成因	yan shi cheng yin	100
+岩石成因论	yan shi cheng yin lun	100
+岩石地层	yan shi di ceng	100
+岩石地层单位	yan shi di ceng dan wei	100
+岩石地质	yan shi di zhi	100
+岩石风化	yan shi feng hua	100
+岩石构造	yan shi gou zao	100
+岩石构造学	yan shi gou zao xue	100
+岩石化学	yan shi hua xue	100
+岩石圈拆沉	yan shi quan chai chen	160
+岩石圈地幔	yan shi quan di man	160
+岩石蠕动	yan shi ru dong	100
+岩石显微镜	yan shi xian wei jing	100
+岩石异常	yan shi yi chang	100
+岩相图	yan xiang tu	100
+岩相学	yan xiang xue	100
+岩屑堆	yan xie dui	100
+岩屑土	yan xie tu	100
+岩屑锥	yan xie zhui	100
+岩心分析	yan xin fen xi	100
+岩心管	yan xin guan	100
+岩心记录	yan xin ji lu	100
+岩心钻机	yan xin zuan ji	100
+岩性	yan xing	100
+岩性地层单位	yan xing di ceng dan wei	100
+岩性学	yan xing xue	100
+岩组分析	yan zu fen xi	100
+岩组学	yan zu xue	100
+氧磁铁矿	yang ci tie kuang	100
+氧角闪石	yang jiao shan shi	100
+洋中脊	yang zhong ji	160
+叶绿泥石	ye lv ni shi	100
+叶钠长石	ye na chang shi	100
+叶蛇纹石	ye she wen shi	100
+叶双晶石	ye shuang jing shi	100
+易变辉石	yi bian hui shi	100
+异剥橄榄岩	yi bo gan lan yan	100
+移动沙丘	yi dong sha qiu	100
+伊利石	yi li shi	100
+一致熔融	yi zhi rong rong	100
+移置岩体	yi zhi yan ti	100
+隐晶流纹岩	yin jing liu wen yan	100
+硬沸石	ying fei shi	100
+应力矿物	ying li kuang wu	100
+硬绿泥片岩	ying lv ni pian yan	100
+硬绿泥石	ying lv ni shi	100
+硬锰矿	ying meng kuang	100
+硬蛇纹石	ying she wen shi	100
+英云角页岩	ying yun jiao ye yan	100
+英云闪长岩	ying yun shan chang yan	100
+永久冻土	yong jiu dong tu	100
+油层压力	you ceng ya li	100
+有机矿物	you ji kuang wu	100
+铀矿物	you kuang wu	100
+铀铅测年法	you qian ce nian fa	100
+铀铅定年	you qian ding nian	160
+铀系定年	you xi ding nian	160
+优先流	you xian liu	160
+有效粒径	you xiao li jing	100
+油脂光泽	you zhi guang ze	100
+羽状节理	yu zhuang jie li	100
+原层序	yuan ceng xu	100
+原生构造	yuan sheng gou zao	100
+原生矿床	yuan sheng kuang chuang	100
+原生岩	yuan sheng yan	100
+原始岩浆	yuan shi yan jiang	100
+远岩浆矿床	yuan yan jiang kuang chuang	100
+月长石	yue chang shi	100
+晕长石	yun chang shi	100
+陨鳞石英	yun lin shi ying	100
+云母赤铁矿	yun mu chi tie kuang	100
+云母橄榄岩	yun mu gan lan yan	100
+云母片麻岩	yun mu pian ma yan	100
+云母片岩	yun mu pian yan	100
+云母铁矿	yun mu tie kuang	100
+云母铜矿	yun mu tong kuang	100
+云母岩	yun mu yan	100
+杂褐锰矿	za he meng kuang	100
+杂砂岩	za sha yan	100
+再沉积	zai chen ji	100
+再生矿床	zai sheng kuang chuang	100
+造山相	zao shan xiang	100
+造山型金矿	zao shan xing jin kuang	160
+造山作用	zao shan zuo yong	160
+造岩元素	zao yan yuan su	100
+增生楔	zeng sheng xie	160
+张量反演	zhang liang fan yan	160
+褶皱鼻	zhe zhou bi	100
+褶皱带	zhe zhou dai	100
+褶皱断层	zhe zhou duan ceng	100
+褶皱构造	zhe zhou gou zao	160
+褶皱山	zhe zhou shan	100
+褶皱系	zhe zhou xi	100
+褶皱旋回	zhe zhou xuan hui	100
+褶皱翼	zhe zhou yi	100
+褶皱运动	zhe zhou yun dong	100
+褶皱运动学	zhe zhou yun dong xue	160
+褶皱轴	zhe zhou zhou	100
+褶皱作用	zhe zhou zuo yong	100
+震波图	zhen bo tu	100
+震源机制	zhen yuan ji zhi	160
+震源距	zhen yuan ju	100
+震源深度	zhen yuan shen du	100
+珍珠光泽	zhen zhu guang ze	100
+枕状熔岩	zhen zhuang rong yan	100
+正白云石	zheng bai yun shi	100
+正长斑岩	zheng chang ban yan	100
+正长辉长岩	zheng chang hui chang yan	100
+正长闪长岩	zheng chang shan chang yan	100
+正长石	zheng chang shi	100
+正地槽	zheng di cao	100
+正断层	zheng duan ceng	100
+蒸发岩	zheng fa yan	100
+蒸发盐	zheng fa yan	100
+蒸发作用	zheng fa zuo yong	100
+正方晶系	zheng fang jing xi	100
+正辉英闪长岩	zheng hui ying shan chang yan	100
+正片麻岩	zheng pian ma yan	100
+正石英岩	zheng shi ying yan	100
+正岩浆期	zheng yan jiang qi	100
+志留系	zhi liu xi	100
+致密灰岩	zhi mi hui yan	100
+直闪石	zhi shan shi	100
+指示矿物	zhi shi kuang wu	100
+指相化石	zhi xiang hua shi	100
+中长辉磷煌斑岩	zhong chang hui lin huang ban yan	100
+中长石	zhong chang shi	100
+中长玄武岩	zhong chang xuan wu yan	100
+重矿物	zhong kuang wu	100
+中粒玄武岩	zhong li xuan wu yan	100
+重力异常	zhong li yi chang	160
+中心对称晶体	zhong xin dui chen jing ti	100
+中新统	zhong xin tong	100
+中性岩	zhong xing yan	100
+中源地震	zhong yuan di zhen	100
+钟状火山	zhong zhuang huo shan	100
+轴双晶	zhou shuang jing	100
+柱沸石	zhu fei shi	100
+珠光石英	zhu guang shi ying	100
+竺可桢	zhu ke zhen	3020
+柱绿泥石	zhu lv ni shi	100
+主要矿物	zhu yao kuang wu	100
+柱状构造	zhu zhuang gou zao	100
+柱状节理	zhu zhuang jie li	100
+转换断层	zhuan huan duan ceng	160
+锥辉石	zhui hui shi	100
+准层序	zhun ceng xu	160
+准矿物	zhun kuang wu	100
+准片岩	zhun pian yan	100
+浊沸石	zhuo fei shi	100
+浊流沉积	zhuo liu chen ji	160
+自变质作用	zi bian zhi zuo yong	100
+紫锂辉石	zi li hui shi	100
+自生矿物	zi sheng kuang wu	100
+紫苏辉石	zi su hui shi	100
+紫苏闪石岩	zi su shan shi yan	100
+自形晶	zi xing jing	100
+自由曲流	zi you qu liu	100
+纵节理	zong jie li	100
+走滑断层	zou hua duan ceng	160
+走向断层	zou xiang duan ceng	100
+走向节理	zou xiang jie li	100
+最大海泛面	zui da hai fan mian	160

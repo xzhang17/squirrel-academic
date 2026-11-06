@@ -16,3 +16,8 @@ build/
 **/installation.yaml
 **/user.yaml
 **/academic_assets.zip.txt
+**/zenfire_preferences.txt
+**/zenfire_preferences.tsv
+**/zenfire_assets.zip.txt
+*.gram
+*.pkg

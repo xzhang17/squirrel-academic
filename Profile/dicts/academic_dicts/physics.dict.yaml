@@ -1,0 +1,1745 @@
+# 物理学
+# Sources and licenses: Sources.txt in this folder.
+---
+name: physics
+version: "1.2"
+sort: by_weight
+use_preset_vocabulary: false
+...
+阿贝折射计	a bei zhe she ji	100
+爱因斯坦	ai yin si tan	110180
+爱因斯坦宇宙	ai yin si tan yu zhou	100
+安德森	an de sen	25880
+安德森局域化	an de sen ju yu hua	160
+暗辐射	an fu she	100
+暗能量	an neng liang	100
+安培	an pei	8755
+暗线光谱	an xian guang pu	100
+昂萨格	ang sa ge	100
+奥本海默	ao ben hai mo	100
+凹光栅	ao guang shan	100
+奥斯特	ao si te	3750
+巴巴散射	ba ba san she	100
+巴丁	ba ding	10
+八极辐射	ba ji fu she	100
+巴克豪森效应	ba ke hao sen xiao ying	100
+百万电子伏特	bai wan dian zi fu te	100
+半导体晶体	ban dao ti jing ti	100
+半导体芯片	ban dao ti xin pian	100
+半导体元件	ban dao ti yuan jian	100
+半经典近似	ban jing dian jin si	160
+半轻子衰变	ban qing zi shuai bian	100
+饱和磁化强度	bao he ci hua qiang du	100
+保迹映射	bao ji ying she	160
+薄膜干涉	bao mo gan she	100
+薄膜光学	bao mo guang xue	100
+保真度易感率	bao zhen du yi gan lv	160
+贝尔	bei er	44
+贝尔不等式	bei er bu deng shi	160
+贝尔非定域性	bei er fei ding yu xing	160
+贝尔基测量	bei er ji ce liang	160
+贝尔态	bei er tai	160
+背景辐射	bei jing fu she	100
+贝里	bei li	1
+贝里曲率	bei li qu lv	160
+贝里相位	bei li xiang wei	160
+倍频效应	bei pin xiao ying	160
+背散射	bei san she	100
+贝特	bei te	10
+倍增电极	bei zeng dian ji	100
+本征	ben zheng	160
+本征半导体	ben zheng ban dao ti	100
+本征方程	ben zheng fang cheng	160
+本征函数	ben zheng han shu	1000
+本征基	ben zheng ji	160
+本征矢	ben zheng shi	160
+本征矢量	ben zheng shi liang	160
+本征态	ben zheng tai	1000
+本征态热化假说	ben zheng tai re hua jia shuo	160
+本征值	ben zheng zhi	1000
+本征子空间	ben zheng zi kong jian	160
+本质自伴	ben zhi zi ban	160
+变分量子本征求解器	bian fen liang zi ben zheng qiu jie qi	160
+变分量子算法	bian fen liang zi suan fa	160
+边界效应	bian jie xiao ying	100
+遍历假说	bian li jia shuo	160
+遍历性	bian li xing	160
+标度不变性	biao du bu bian xing	160
+标度律	biao du lv	160
+标记原子	biao ji yuan zi	100
+表面等离激元	biao mian deng li ji yuan	160
+表面电导	biao mian dian dao	100
+表面光学	biao mian guang xue	100
+表面极化	biao mian ji hua	100
+表面量子化	biao mian liang zi hua	100
+表面声波	biao mian sheng bo	100
+表面声子	biao mian sheng zi	100
+表面态	biao mian tai	100
+表面子能带	biao mian zi neng dai	100
+表象变换	biao xiang bian huan	160
+标准光源	biao zhun guang yuan	100
+标准量子极限	biao zhun liang zi ji xian	160
+波长标准	bo chang biao zhun	100
+波长计	bo chang ji	100
+波导管	bo dao guan	100
+波的干涉	bo de gan she	100
+波的衍射	bo de yan she	100
+波动光学	bo dong guang xue	100
+玻恩	bo en	10
+波恩近似	bo en jin si	160
+玻恩近似	bo en jin si	160
+玻尔	bo er	1
+玻尔效应	bo er xiao ying	100
+玻尔兹曼	bo er zi man	10
+玻尔兹曼输运方程	bo er zi man shu yun fang cheng	160
+波函数	bo han shu	1000
+波前分割	bo qian fen ge	100
+波前像差	bo qian xiang cha	100
+玻色	bo se	100
+玻色爱因斯坦分布	bo se ai yin si tan fen bu	160
+玻色爱因斯坦凝聚	bo se ai yin si tan ning ju	160
+玻色场	bo se chang	100
+玻色分布	bo se fen bu	100
+玻色凝聚	bo se ning ju	160
+波矢	bo shi	1000
+波数	bo shu	1000
+波折射	bo zhe she	100
+不带电粒子	bu dai dian li zi	100
+不对易	bu dui yi	160
+部分迹	bu fen ji	160
+部分转置	bu fen zhuan zhi	160
+不可观测量	bu ke guan ce liang	160
+不可克隆定理	bu ke ke long ding li	160
+布拉格散射	bu la ge san she	100
+布拉格衍射	bu la ge yan she	100
+布里奇曼	bu li qi man	100
+布里渊区	bu li yuan qu	160
+布里渊散射	bu li yuan san she	160
+布洛赫	bu luo he	1245
+布洛赫波	bu luo he bo	160
+布洛赫定理	bu luo he ding li	160
+布洛赫函数	bu luo he han shu	160
+布洛赫态	bu luo he tai	160
+参量下转换	can liang xia zhuan huan	160
+测不准关系	ce bu zhun guan xi	1000
+测地线方程	ce di xian fang cheng	160
+产生算符	chan sheng suan fu	1000
+长波辐射	chang bo fu she	100
+长程关联	chang cheng guan lian	160
+长程有序	chang cheng you xu	160
+场函数	chang han shu	100
+场粒子	chang li zi	100
+场量子	chang liang zi	100
+场强张量	chang qiang zhang liang	160
+长射程粒子	chang she cheng li zi	100
+场效电晶体	chang xiao dian jing ti	100
+场效应晶体管	chang xiao ying jing ti guan	100
+超导计算机	chao dao ji suan ji	100
+超导量子干涉仪	chao dao liang zi gan she yi	100
+超导能隙	chao dao neng xi	160
+超导相变温度	chao dao xiang bian wen du	100
+超导谐振腔	chao dao xie zhen qiang	100
+超对称	chao dui chen	100
+超辐射	chao fu she	100
+超辐射跃迁	chao fu she yue qian	100
+超交换作用	chao jiao huan zuo yong	160
+超拉曼散射	chao la man san she	100
+超冷中子	chao leng zhong zi	100
+超离子相变	chao li zi xiang bian	100
+超流体	chao liu ti	100
+超弦理论	chao xian li lun	100
+超引力	chao yin li	100
+朝永振一郎	chao yong zhen yi lang	100
+陈数	chen shu	160
+弛豫振荡	chi yu zhen dang	100
+弛豫振荡器	chi yu zhen dang qi	100
+重整化	chong zheng hua	160
+重整化群	chong zheng hua qun	160
+重整化群不动点	chong zheng hua qun bu dong dian	160
+重整化群方程	chong zheng hua qun fang cheng	160
+重整化群流	chong zheng hua qun liu	160
+重整化条件	chong zheng hua tiao jian	160
+出射态	chu she tai	160
+出射线	chu she xian	100
+传播子	chuan bo zi	1000
+穿透深度	chuan tou shen du	160
+垂直磁化	chui zhi ci hua	100
+纯态	chun tai	160
+纯退相位	chun tui xiang wei	160
+磁场源	ci chang yuan	100
+磁光效应	ci guang xiao ying	100
+磁化电流	ci hua dian liu	100
+磁化方向	ci hua fang xiang	100
+磁化强度	ci hua qiang du	100
+磁化曲线	ci hua qu xian	100
+次级电子	ci ji dian zi	100
+次级光谱	ci ji guang pu	100
+磁极化	ci ji hua	100
+次级粒子	ci ji li zi	100
+磁量子数	ci liang zi shu	100
+磁偶极辐射	ci ou ji fu she	100
+磁热效应	ci re xiao ying	100
+磁声波	ci sheng bo	100
+次铁磁共振	ci tie ci gong zhen	100
+磁通量	ci tong liang	1460
+磁通量标准	ci tong liang biao zhun	100
+磁通量子	ci tong liang zi	160
+磁通量子化	ci tong liang zi hua	100
+磁通势	ci tong shi	100
+磁性半导体	ci xing ban dao ti	100
+磁致伸缩	ci zhi shen suo	100
+磁致旋光	ci zhi xuan guang	100
+磁阻率	ci zu lv	100
+磁阻系数	ci zu xi shu	100
+淬灭效应	cui mie xiao ying	100
+崔琦	cui qi	100
+大角度散射	da jiao du san she	100
+大气折射	da qi zhe she	100
+大型强子对撞机	da xing qiang zi dui zhuang ji	100
+大正则系综	da zheng ze xi zong	160
+单分子反应	dan fen zi fan ying	100
+单分子膜	dan fen zi mo	100
+单核子模型	dan he zi mo xing	100
+单极跃迁	dan ji yue qian	100
+单粒子不可约图	dan li zi bu ke yue tu	100
+单粒子能级	dan li zi neng ji	100
+单位晶格	dan wei jing ge	100
+单向量子导引	dan xiang liang zi dao yin	160
+单原子气体	dan yuan zi qi ti	100
+单轴晶体	dan zhou jing ti	100
+导电高分子	dao dian gao fen zi	100
+倒电容	dao dian rong	100
+倒格矢	dao ge shi	160
+倒格子	dao ge zi	160
+倒易晶格	dao yi jing ge	160
+倒易空间	dao yi kong jian	160
+氘原子	dao yuan zi	100
+德拜	de bai	10
+德拜函数	de bai han shu	100
+德拜屏蔽	de bai ping bi	160
+德拜温度	de bai wen du	160
+德布罗意	de bu luo yi	10
+德布罗意波长	de bu luo yi bo chang	100
+德鲁德	de lu de	10
+等光程点	deng guang cheng dian	100
+邓稼先	deng jia xian	5695
+等离子体密度	deng li zi ti mi du	100
+等离子体频率	deng li zi ti pin lv	100
+等离子体振荡	deng li zi ti zhen dang	160
+等熵线	deng shang xian	100
+地磁场	di ci chang	100
+第二宇宙速度	di er yu zhou su du	100
+底夸克	di kua ke	100
+狄拉克	di la ke	100
+狄拉克半金属	di la ke ban jin shu	160
+狄拉克方程	di la ke fang cheng	100
+狄拉克分布	di la ke fen bu	100
+狄拉克效应	di la ke xiao ying	100
+狄拉克锥	di la ke zhui	160
+低能态	di neng tai	100
+低能有效理论	di neng you xiao li lun	160
+第一布里渊区	di yi bu li yuan qu	160
+第一级光谱	di yi ji guang pu	100
+第一性原理	di yi xing yuan li	160
+第一性原理计算	di yi xing yuan li ji suan	160
+低质量核反应	di zhi liang he fan ying	100
+电磁场	dian ci chang	18230
+电磁场张量	dian ci chang zhang liang	160
+电磁动量	dian ci dong liang	100
+电磁继电器	dian ci ji dian qi	100
+电磁力	dian ci li	100
+电磁流	dian ci liu	100
+电磁脉冲	dian ci mai chong	100
+电磁耦合	dian ci ou he	100
+电磁驱动	dian ci qu dong	100
+电磁散射	dian ci san she	100
+电磁体	dian ci ti	100
+电磁透镜	dian ci tou jing	100
+电磁相互作用	dian ci xiang hu zuo yong	100
+电磁振动	dian ci zhen dong	100
+电磁质量	dian ci zhi liang	100
+电磁阻尼	dian ci zu ni	100
+电导系数	dian dao xi shu	100
+电多极辐射	dian duo ji fu she	100
+电多极矩	dian duo ji ju	100
+电共振	dian gong zhen	100
+电光效应	dian guang xiao ying	100
+电荷对称	dian he dui chen	100
+电荷分离	dian he fen li	100
+电荷共轭	dian he gong e	100
+电荷交换	dian he jiao huan	100
+电荷密度	dian he mi du	100
+电荷耦合元件	dian he ou he yuan jian	100
+电荷守恒	dian he shou heng	100
+电极化	dian ji hua	100
+电极化率	dian ji hua lv	100
+电离度	dian li du	100
+电离热	dian li re	100
+电偶极辐射	dian ou ji fu she	100
+电偶极矩	dian ou ji ju	100
+电容率	dian rong lv	100
+电弱相互作用	dian ruo xiang hu zuo yong	160
+电势	dian shi	8055
+电势降	dian shi jiang	100
+电势能	dian shi neng	100
+电势梯度	dian shi ti du	100
+电四极辐射	dian si ji fu she	100
+电子波	dian zi bo	100
+电子成像	dian zi cheng xiang	100
+电子磁矩	dian zi ci ju	100
+电子电荷	dian zi dian he	100
+电子对	dian zi dui	100
+电子关联	dian zi guan lian	100
+电子光学	dian zi guang xue	100
+电子回旋加速器	dian zi hui xuan jia su qi	100
+电子极化	dian zi ji hua	100
+电子计算	dian zi ji suan	100
+电子能级	dian zi neng ji	100
+电子能谱	dian zi neng pu	100
+电子耦合振荡器	dian zi ou he zhen dang qi	100
+电子迁移率	dian zi qian yi lv	100
+电子声子耦合	dian zi sheng zi ou he	160
+电子数	dian zi shu	100
+电子态	dian zi tai	100
+电子透镜	dian zi tou jing	100
+电子温度	dian zi wen du	100
+电子系统	dian zi xi tong	100
+电子芯片	dian zi xin pian	100
+电子源	dian zi yuan	100
+电子跃迁	dian zi yue qian	100
+电子振荡	dian zi zhen dang	100
+电子振荡器	dian zi zhen dang qi	100
+电子组态	dian zi zu tai	100
+叠加态	die jia tai	1000
+顶夸克	ding kua ke	100
+定容比热	ding rong bi re	100
+定态	ding tai	160
+定态微扰	ding tai wei rao	160
+定态微扰理论	ding tai wei rao li lun	160
+定压比热	ding ya bi re	100
+丁肇中	ding zhao zhong	540
+动力学量子相变	dong li xue liang zi xiang bian	160
+动力学映射	dong li xue ying she	160
+动量表象	dong liang biao xiang	160
+动生电动势	dong sheng dian dong shi	100
+动态散射	dong tai san she	100
+独立粒子模型	du li li zi mo xing	100
+短程关联	duan cheng guan lian	160
+短程有序	duan cheng you xu	160
+对称性破缺	dui chen xing po que	160
+对称对数导数	dui cheng dui shu dao shu	160
+对称性保护拓扑相	dui cheng xing bao hu tuo pu xiang	160
+对偶晶格	dui ou jing ge	100
+对数负性	dui shu fu xing	160
+对易关系	dui yi guan xi	1000
+对易算符	dui yi suan fu	160
+对易子	dui yi zi	1000
+多尺度纠缠重整化	duo chi du jiu chan chong zheng hua	160
+多重散射	duo chong san she	100
+多电子原子	duo dian zi yuan zi	100
+多光子电离	duo guang zi dian li	100
+多光子过程	duo guang zi guo cheng	100
+多光子激发	duo guang zi ji fa	100
+多光子解离	duo guang zi jie li	100
+多光子吸收	duo guang zi xi shou	100
+多光子跃迁	duo guang zi yue qian	100
+多极辐射	duo ji fu she	100
+多极展开	duo ji zhan kai	100
+多粒子态	duo li zi tai	100
+多粒子系统	duo li zi xi tong	100
+多普勒	duo pu le	12350
+多声子散射	duo sheng zi san she	100
+多体局域化	duo ti ju yu hua	160
+多体微扰理论	duo ti wei rao li lun	160
+厄米	e mi	160
+厄米共轭	e mi gong e	160
+厄米哈密顿量	e mi ha mi dun liang	160
+厄米矩阵	e mi ju zhen	160
+厄米算符	e mi suan fu	1000
+厄米算子	e mi suan zi	160
+厄米性	e mi xing	160
+二次电子	er ci dian zi	100
+二次量子化	er ci liang zi hua	100
+二级相变	er ji xiang bian	100
+二阶效应	er jie xiao ying	100
+二维光栅	er wei guang shan	100
+法布里珀罗干涉仪	fa bu li po luo gan she yi	160
+法拉第	fa la di	5945
+反常磁矩	fan chang ci ju	100
+反常点	fan chang dian	160
+反常霍尔效应	fan chang huo er xiao ying	160
+反常塞曼效应	fan chang sai man xiao ying	160
+反冲电子	fan chong dian zi	100
+反冲效应	fan chong xiao ying	100
+范德华	fan de hua	10
+反电子	fan dian zi	100
+反对称波函数	fan dui chen bo han shu	100
+反对易	fan dui yi	160
+反对易关系	fan dui yi guan xi	160
+反对易子	fan dui yi zi	160
+反厄米	fan e mi	160
+反厄米矩阵	fan e mi ju zhen	160
+反厄米算符	fan e mi suan fu	160
+反费米子	fan fei mi zi	100
+反共振	fan gong zhen	100
+泛函积分	fan han ji fen	160
+反核子	fan he zi	100
+反夸克	fan kua ke	100
+反轻子	fan qing zi	100
+反射光栅	fan she guang shan	100
+反射光学	fan she guang xue	100
+反射线	fan she xian	100
+反射折射光学	fan she zhe she guang xue	100
+反射折射光学系统	fan she zhe she guang xue xi tong	100
+反铁磁共振	fan tie ci gong zhen	100
+反铁磁相互作用	fan tie ci xiang hu zuo yong	160
+反铁磁性	fan tie ci xing	100
+反幺正	fan yao zheng	160
+反幺正算符	fan yao zheng suan fu	160
+反中子	fan zhong zi	100
+放射性沉积物	fang she xing chen ji wu	100
+放射性碘	fang she xing dian	100
+放射性定年法	fang she xing ding nian fa	100
+放射性废物	fang she xing fei wu	100
+放射性衰变	fang she xing shuai bian	160
+放射性原子	fang she xing yuan zi	100
+放射性沾污	fang she xing zhan wu	100
+非阿贝尔规范场	fei a bei er gui fan chang	160
+非遍历	fei bian li	160
+非布洛赫能带理论	fei bu luo he neng dai li lun	160
+非定态	fei ding tai	160
+非厄米	fei e mi	160
+非厄米哈密顿量	fei e mi ha mi dun liang	160
+非厄米矩阵	fei e mi ju zhen	160
+非厄米趋肤效应	fei e mi qu fu xiao ying	160
+非厄米算符	fei e mi suan fu	160
+非厄米物理	fei e mi wu li	160
+非厄米系统	fei e mi xi tong	160
+非厄米性	fei e mi xing	160
+非费米液体	fei fei mi ye ti	160
+非简并	fei jian bing	160
+非简并态	fei jian bing tai	160
+非简并微扰	fei jian bing wei rao	160
+非简并微扰理论	fei jian bing wei rao li lun	160
+非晶半导体	fei jing ban dao ti	100
+非晶态	fei jing tai	100
+非绝热	fei jue re	160
+非绝热耦合	fei jue re ou he	100
+非绝热跃迁	fei jue re yue qian	160
+非均匀半导体	fei jun yun ban dao ti	100
+非马尔可夫动力学	fei ma er ke fu dong li xue	160
+非马尔可夫性	fei ma er ke fu xing	160
+费曼	fei man	1
+费曼传播子	fei man chuan bo zi	160
+费曼图	fei man tu	100
+费米	fei mi	1
+费米本征能级	fei mi ben zheng neng ji	100
+费米波矢	fei mi bo shi	160
+费米场	fei mi chang	100
+费米狄拉克分布	fei mi di la ke fen bu	160
+费米动量	fei mi dong liang	100
+费米分布	fei mi fen bu	100
+费米海	fei mi hai	100
+费米黄金定则	fei mi huang jin ding ze	160
+费米简并	fei mi jian bing	160
+费米近似	fei mi jin si	100
+费米面	fei mi mian	160
+费米面嵌套	fei mi mian qian tao	160
+费米能	fei mi neng	160
+费米能级	fei mi neng ji	160
+费米能量	fei mi neng liang	160
+费米耦合常数	fei mi ou he chang shu	100
+费米球	fei mi qiu	100
+费米速度	fei mi su du	100
+费米温度	fei mi wen du	100
+费米液体	fei mi ye ti	160
+费米液体理论	fei mi ye ti li lun	160
+费米子场	fei mi zi chang	100
+菲涅耳衍射	fei nie er yan she	100
+非偏振光	fei pian zhen guang	100
+非平衡格林函数	fei ping heng ge lin han shu	160
+非平衡态统计物理	fei ping heng tai tong ji wu li	160
+非平衡稳态	fei ping heng wen tai	160
+非平衡相变	fei ping heng xiang bian	160
+非热辐射	fei re fu she	100
+非色散介质	fei se san jie zhi	100
+非时序关联函数	fei shi xu guan lian han shu	160
+非弹性散射	fei tan xing san she	100
+非完美晶体	fei wan mei jing ti	100
+非微扰	fei wei rao	160
+非微扰效应	fei wei rao xiao ying	160
+非线性光学	fei xian xing guang xue	100
+非线性极化	fei xian xing ji hua	160
+非相对论性粒子	fei xiang dui lun xing li zi	100
+非谐振子	fei xie zhen zi	100
+非幺正	fei yao zheng	160
+非幺正演化	fei yao zheng yan hua	160
+分波分析	fen bo fen xi	160
+分裂中子	fen lie zhong zi	100
+分数量子霍尔效应	fen shu liang zi huo er xiao ying	160
+分子半径	fen zi ban jing	100
+分子泵	fen zi beng	100
+分子场	fen zi chang	100
+分子磁矩	fen zi ci ju	100
+分子磁体	fen zi ci ti	100
+分子电流	fen zi dian liu	100
+分子光学	fen zi guang xue	100
+分子化合物	fen zi hua he wu	100
+分子极化	fen zi ji hua	100
+分子键	fen zi jian	100
+分子间力	fen zi jian li	100
+分子扩散	fen zi kuo san	100
+分子离子	fen zi li zi	100
+分子内重排	fen zi nei chong pai	100
+分子能级	fen zi neng ji	100
+分子热	fen zi re	100
+分子散射	fen zi san she	100
+分子声学	fen zi sheng xue	100
+分子势能	fen zi shi neng	100
+分子数	fen zi shu	100
+分子束磊晶	fen zi shu lei jing	100
+分子说	fen zi shuo	100
+分子态	fen zi tai	100
+分子吸附	fen zi xi fu	100
+分子吸收系数	fen zi xi shou xi shu	100
+分子质量	fen zi zhi liang	100
+分子转动	fen zi zhuan dong	100
+封闭量子系统	feng bi liang zi xi tong	160
+冯诺依曼熵	feng nuo yi man shang	160
+伏打效应	fu da xiao ying	100
+复合费米子	fu he fei mi zi	100
+复合核	fu he he	100
+复合晶格	fu he jing ge	100
+复合粒子	fu he li zi	100
+傅科	fu ke	1111
+富兰克林	fu lan ke lin	24020
+夫琅禾费衍射	fu lang he fei yan she	100
+辐射长度	fu she chang du	100
+辐射冲流	fu she chong liu	100
+辐射带	fu she dai	100
+辐射度	fu she du	100
+辐射分解	fu she fen jie	100
+辐射复合	fu she fu he	100
+辐射激发	fu she ji fa	100
+辐射流	fu she liu	100
+辐射密度	fu she mi du	100
+辐射体	fu she ti	100
+辐射通量	fu she tong liang	100
+辐射系数	fu she xi shu	100
+辐射压	fu she ya	100
+辐射跃迁	fu she yue qian	100
+辐射转移	fu she zhuan yi	100
+辐射阻抗	fu she zu kang	100
+辐射阻尼	fu she zu ni	100
+伏特	fu te	22250
+辐照度	fu zhao du	100
+负阻效应	fu zu xiao ying	100
+盖尔曼	gai er man	60
+概率幅	gai lv fu	160
+概率流	gai lv liu	160
+概率密度流	gai lv mi du liu	160
+甘汞电极	gan gong dian ji	100
+干涉函数	gan she han shu	100
+干涉条纹	gan she tiao wen	100
+干涉图	gan she tu	100
+干涉图样	gan she tu yang	100
+干涉项	gan she xiang	100
+干涉折射计	gan she zhe she ji	100
+甘特马克效应	gan te ma ke xiao ying	100
+感应电机	gan ying dian ji	100
+高锟	gao kun	3
+高能粒子	gao neng li zi	100
+高斯光学	gao si guang xue	100
+高温超导体	gao wen chao dao ti	160
+哥白尼	ge bai ni	7210
+格林	ge lin	120460
+格佩特-梅耶	ge pei te mei ye	10
+各态历经假说	ge tai li jing jia shuo	160
+各向同性介质	ge xiang tong xing jie zhi	100
+各向异性介质	ge xiang yi xing jie zhi	100
+共价晶体	gong jia jing ti	100
+共心光束	gong xin guang shu	100
+共振点	gong zhen dian	100
+共振峰	gong zhen feng	100
+共振公式	gong zhen gong shi	100
+共振激发	gong zhen ji fa	100
+共振积分	gong zhen ji fen	100
+共振价键理论	gong zhen jia jian li lun	100
+共振粒子	gong zhen li zi	100
+共振能	gong zhen neng	100
+共振器	gong zhen qi	100
+共振腔	gong zhen qiang	100
+共振曲线	gong zhen qu xian	100
+共振散射	gong zhen san she	100
+共振态	gong zhen tai	100
+共振吸收	gong zhen xi shou	100
+共振现象	gong zhen xian xiang	100
+共振效应	gong zhen xiao ying	100
+共振荧光	gong zhen ying guang	100
+共振中子	gong zhen zhong zi	100
+沟道效应	gou dao xiao ying	100
+孤立电子对	gu li dian zi dui	100
+固有振荡	gu you zhen dang	100
+关联长度	guan lian chang du	160
+关联传播	guan lian chuan bo	160
+关联函数	guan lian han shu	100
+光程差	guang cheng cha	100
+光的干涉	guang de gan she	100
+光的衍射	guang de yan she	100
+光电导体	guang dian dao ti	100
+光电二极体	guang dian er ji ti	100
+光电吸收	guang dian xi shou	100
+光电阴极	guang dian yin ji	100
+光电子能谱学	guang dian zi neng pu xue	100
+光度视差	guang du shi cha	100
+光粒子	guang li zi	100
+光脉冲	guang mai chong	100
+光密介质	guang mi jie zhi	100
+光能量	guang neng liang	100
+光谱色	guang pu se	100
+光谱特性	guang pu te xing	100
+光谱吸收率	guang pu xi shou lv	100
+光谱线系	guang pu xian xi	100
+光栅常数	guang shan chang shu	100
+光生伏打效应	guang sheng fu da xiao ying	100
+光声效应	guang sheng xiao ying	100
+光疏介质	guang shu jie zhi	100
+光纤放大器	guang xian fang da qi	100
+光纤光学	guang xian guang xue	100
+光学常数	guang xue chang shu	100
+光学成像	guang xue cheng xiang	100
+光学计算	guang xue ji suan	100
+光学克尔效应	guang xue ke er xiao ying	160
+光学冷却	guang xue leng que	100
+光学录声	guang xue lu sheng	100
+光学密度	guang xue mi du	100
+光学模型	guang xue mo xing	100
+光学散射	guang xue san she	100
+光学声子	guang xue sheng zi	160
+光学通信	guang xue tong xin	100
+光学信息	guang xue xin xi	100
+广义梯度近似	guang yi ti du jin si	160
+光致蜕变	guang zhi tui bian	100
+光子光学	guang zi guang xue	100
+光子晶体	guang zi jing ti	160
+光子流	guang zi liu	100
+光子能量	guang zi neng liang	100
+光子频率	guang zi pin lv	100
+光子数	guang zi shu	100
+光子束	guang zi shu	100
+光子通量	guang zi tong liang	100
+光子学	guang zi xue	100
+光子元件	guang zi yuan jian	100
+光子质量	guang zi zhi liang	100
+轨道角动量	gui dao jiao dong liang	160
+规范变换	gui fan bian huan	160
+规范玻色子	gui fan bo se zi	160
+规范不变性	gui fan bu bian xing	160
+规范场	gui fan chang	100
+规范场论	gui fan chang lun	160
+规范对称性	gui fan dui chen xing	160
+规范固定	gui fan gu ding	160
+归一化常数	gui yi hua chang shu	160
+归一化条件	gui yi hua tiao jian	160
+归一化因子	gui yi hua yin zi	160
+郭守敬	guo shou jing	2900
+哈勃	ha bo	4845
+哈雷	ha lei	10395
+哈密顿	ha mi dun	820
+哈密顿雅可比方程	ha mi dun ya ke bi fang cheng	160
+亥姆霍兹	hai mu huo zi	10
+海森堡	hai sen bao	1150
+海森堡绘景	hai sen bao hui jing	1000
+海森堡极限	hai sen bao ji xian	160
+含时微扰	han shi wei rao	160
+含时微扰理论	han shi wei rao li lun	160
+好量子数	hao liang zi shu	100
+耗散动力学	hao san dong li xue	160
+耗散算子	hao san suan zi	160
+耗散相变	hao san xiang bian	160
+耗散制备	hao san zhi bei	160
+核场论	he chang lun	100
+核磁矩	he ci ju	100
+核电荷	he dian he	100
+核反应截面	he fan ying jie mian	160
+核反应控制	he fan ying kong zhi	100
+核反应器	he fan ying qi	100
+核共振	he gong zhen	100
+核极化	he ji hua	100
+核结合能	he jie he neng	160
+核能级	he neng ji	100
+核散射	he san she	100
+核心极化	he xin ji hua	100
+赫兹	he zi	11415
+核子级联	he zi ji lian	100
+核子数	he zi shu	100
+核自旋	he zi xuan	100
+核子学	he zi xue	100
+赫兹振荡器	he zi zhen dang qi	100
+核子转移	he zi zhuan yi	100
+黑体辐射	hei ti fu she	160
+横电磁波	heng dian ci bo	100
+横向极化	heng xiang ji hua	100
+恒星风	heng xing feng	100
+恒星时	heng xing shi	100
+恒星形成	heng xing xing cheng	100
+红外发散	hong wai fa san	160
+红外分光光度计	hong wai fen guang guang du ji	100
+红外吸收谱	hong wai xi shou pu	100
+后效应	hou xiao ying	100
+弧光谱	hu guang pu	100
+缓发中子	huan fa zhong zi	100
+环向磁场	huan xiang ci chang	100
+黄昆	huang kun	10
+回波效应	hui bo xiao ying	100
+惠更斯	hui geng si	2200
+回声效应	hui sheng xiao ying	100
+灰体辐射	hui ti fu she	100
+回旋共振	hui xuan gong zhen	160
+回旋频率	hui xuan pin lv	160
+混合熵	hun he shang	100
+混合态	hun he tai	160
+混合跃迁	hun he yue qian	100
+混态	hun tai	160
+混浊介质	hun zhuo jie zhi	100
+霍尔常数	huo er chang shu	100
+霍尔丹	huo er dan	10
+霍尔电导	huo er dian dao	160
+霍尔电导率	huo er dian dao lv	160
+霍尔电压	huo er dian ya	100
+霍尔电阻	huo er dian zu	160
+霍尔系数	huo er xi shu	100
+霍尔元件	huo er yuan jian	100
+活化效应	huo hua xiao ying	100
+霍金	huo jin	12615
+霍列沃界	huo lie wo jie	160
+基本晶格	ji ben jing ge	100
+基本振荡	ji ben zhen dang	100
+吉布斯系综	ji bu si xi zong	100
+激磁场	ji ci chang	100
+基尔霍夫	ji er huo fu	100
+激光频率	ji guang pin lv	100
+激光退火	ji guang tui huo	100
+几何电子光学	ji he dian zi guang xue	100
+极化率	ji hua lv	100
+极化效应	ji hua xiao ying	100
+极间电容	ji jian dian rong	100
+迹距离	ji ju li	160
+级联辐射	ji lian fu she	100
+几率幅	ji lv fu	160
+基态波函数	ji tai bo han shu	100
+基态能级	ji tai neng ji	100
+基态能量	ji tai neng liang	100
+奇宇称	ji yu cheng	100
+激子分子	ji zi fen zi	100
+激子极化激元	ji zi ji hua ji yuan	160
+激子相	ji zi xiang	100
+集总电容	ji zong dian rong	100
+伽利略	jia li lve	16000
+简并	jian bing	12000
+简并半导体	jian bing ban dao ti	100
+简并度	jian bing du	100
+简并化	jian bing hua	100
+简并解除	jian bing jie chu	160
+简并能级	jian bing neng ji	160
+简并气体	jian bing qi ti	100
+简并微扰	jian bing wei rao	160
+简并微扰理论	jian bing wei rao li lun	160
+碱金属原子	jian jin shu yuan zi	100
+渐近自由	jian jin zi you	160
+键维数	jian wei shu	160
+简谐振子	jian xie zhen zi	1000
+检验电荷	jian yan dian he	100
+降算符	jiang suan fu	160
+角动量	jiao dong liang	1885
+角动量守恒定律	jiao dong liang shou heng ding lv	100
+焦耳	jiao er	4820
+焦耳效应	jiao er xiao ying	100
+交换关联泛函	jiao huan guan lian fan han	160
+交换积分	jiao huan ji fen	160
+交换极化	jiao huan ji hua	100
+交换相互作用	jiao huan xiang hu zuo yong	160
+交换作用	jiao huan zuo yong	160
+角量子数	jiao liang zi shu	100
+胶体粒子	jiao ti li zi	100
+胶子场	jiao zi chang	160
+接触电势差	jie chu dian shi cha	100
+接地电极	jie di dian ji	100
+介电电泳	jie dian dian yong	100
+介电损耗	jie dian sun hao	100
+介电体	jie dian ti	100
+介电系数	jie dian xi shu	100
+介电质	jie dian zhi	100
+截断权重	jie duan quan zhong	160
+介观效应	jie guan xiao ying	100
+阶梯光栅	jie ti guang shan	100
+截止波长	jie zhi bo chang	100
+介子核子散射	jie zi he zi san she	100
+介子原子	jie zi yuan zi	100
+紧束缚近似	jin shu fu jin si	160
+紧束缚模型	jin shu fu mo xing	160
+金属晶体	jin shu jing ti	100
+近藤效应	jin teng xiao ying	100
+金兹堡朗道理论	jin zi bao lang dao li lun	160
+近自由电子模型	jin zi you dian zi mo xing	160
+静磁场	jing ci chang	100
+经典费舍尔信息	jing dian fei she er xin xi	160
+静电感应系数	jing dian gan ying xi shu	100
+净电荷	jing dian he	100
+经典极限	jing dian ji xian	160
+经典阴影	jing dian yin ying	160
+晶格弛豫	jing ge chi yu	100
+晶格单元	jing ge dan yuan	100
+晶格动力学	jing ge dong li xue	160
+晶格动量	jing ge dong liang	160
+晶格光学	jing ge guang xue	100
+晶格畸变	jing ge ji bian	100
+晶格间距	jing ge jian ju	100
+晶格力学	jing ge li xue	100
+晶格面	jing ge mian	100
+晶格模型	jing ge mo xing	100
+晶格匹配	jing ge pi pei	100
+晶格平面	jing ge ping mian	100
+晶格散射	jing ge san she	100
+晶格位移	jing ge wei yi	100
+晶格吸收	jing ge xi shou	100
+晶格振动	jing ge zhen dong	100
+晶体参数	jing ti can shu	100
+晶体测量	jing ti ce liang	100
+晶体场	jing ti chang	100
+晶体大小	jing ti da xiao	100
+晶体动量	jing ti dong liang	100
+晶体对称	jing ti dui chen	100
+晶体光学	jing ti guang xue	100
+晶体光轴	jing ti guang zhou	100
+晶体化学	jing ti hua xue	100
+晶体计数器	jing ti ji shu qi	100
+晶体结构因子	jing ti jie gou yin zi	100
+晶体滤波器	jing ti lv bo qi	100
+晶体密度	jing ti mi du	100
+晶体模型	jing ti mo xing	100
+晶体色散	jing ti se san	100
+晶体探测器	jing ti tan ce qi	100
+晶体振荡	jing ti zhen dang	100
+晶体织构	jing ti zhi gou	100
+晶体质量	jing ti zhi liang	100
+晶体主截面	jing ti zhu jie mian	100
+径向量子数	jing xiang liang zi shu	100
+纠缠成本	jiu chan cheng ben	160
+纠缠纯化	jiu chan chun hua	160
+纠缠负性	jiu chan fu xing	160
+纠缠见证	jiu chan jian zheng	160
+纠缠交换	jiu chan jiao huan	160
+纠缠浓缩	jiu chan nong suo	160
+纠缠谱	jiu chan pu	160
+纠缠熵	jiu chan shang	160
+纠缠深度	jiu chan shen du	160
+纠缠态	jiu chan tai	1000
+纠缠形成	jiu chan xing cheng	160
+纠缠增长	jiu chan zeng zhang	160
+纠缠蒸馏	jiu chan zheng liu	160
+局部振荡	ju bu zhen dang	100
+巨磁阻	ju ci zu	100
+巨分子	ju fen zi	100
+巨共振	ju gong zhen	100
+居里	ju li	6325
+居里夫人	ju li fu ren	6420
+巨脉冲	ju mai chong	100
+矩形波导	ju xing bo dao	100
+局域规范变换	ju yu gui fan bian huan	160
+局域密度近似	ju yu mi du jin si	160
+局域态密度	ju yu tai mi du	160
+矩阵乘积算子	ju zhen cheng ji suan zi	160
+矩阵乘积态	ju zhen cheng ji tai	160
+巨正则系综	ju zheng ze xi zong	160
+绝对熵	jue dui shang	100
+绝对折射率	jue dui zhe she lv	100
+绝热定理	jue re ding li	160
+绝热方程	jue re fang cheng	100
+绝热近似	jue re jin si	160
+绝热消除	jue re xiao chu	160
+绝热压缩	jue re ya suo	100
+绝热演化	jue re yan hua	160
+绝热指数	jue re zhi shu	100
+绝缘介质	jue yuan jie zhi	100
+卡诺	ka nuo	5785
+卡皮察	ka pi cha	100
+卡文迪许	ka wen di xu	270
+卡西米尔效应	ka xi mi er xiao ying	100
+开尔文	kai er wen	1045
+开放量子系统	kai fang liang zi xi tong	160
+开普勒	kai pu le	3125
+抗磁	kang ci	160
+康普顿	kang pu dun	100
+康普顿波长	kang pu dun bo chang	100
+克尔黑洞	ke er hei dong	100
+克尔效应	ke er xiao ying	100
+可观测量	ke guan ce liang	160
+克劳斯表示	ke lao si biao shi	160
+克劳斯算符	ke lao si suan fu	160
+克劳修斯	ke lao xiu si	100
+科斯特利茨	ke si te li ci	10
+克原子	ke yuan zi	100
+空间电荷	kong jian dian he	100
+空间电荷层	kong jian dian he ceng	100
+空间电荷区	kong jian dian he qu	100
+空间反演	kong jian fan yan	160
+空间反演对称性	kong jian fan yan dui chen xing	160
+空间晶格	kong jian jing ge	100
+空间量子化	kong jian liang zi hua	100
+空间相干性	kong jian xiang gan xing	100
+孔径光阑	kong jing guang lan	100
+空腔辐射	kong qiang fu she	100
+库仑	ku lun	3205
+库仑规范	ku lun gui fan	160
+库仑晶格	ku lun jing ge	100
+库仑散射	ku lun san she	100
+库珀	ku po	11
+库珀对	ku po dui	160
+夸克模型	kua ke mo xing	100
+快中子	kuai zhong zi	100
+拉曼	la man	111
+拉曼光谱	la man guang pu	100
+拉曼散射	la man san she	160
+朗道	lang dao	100
+朗道量子化	lang dao liang zi hua	160
+朗道能级	lang dao neng ji	160
+劳夫林	lao fu lin	10
+棱镜光谱仪	leng jing guang pu yi	100
+冷中子	leng zhong zi	100
+李代数表示	li dai shu biao shi	160
+离散对称性	li san dui chen xing	160
+立体效应	li ti xiao ying	100
+理想晶体	li xiang jing ti	100
+李政道	li zheng dao	5115
+离子电导率	li zi dian dao lv	100
+粒子辐射	li zi fu she	100
+粒子光束	li zi guang shu	100
+离子光学	li zi guang xue	100
+粒子光学	li zi guang xue	100
+离子回旋共振	li zi hui xuan gong zhen	100
+离子极化	li zi ji hua	100
+粒子加速器	li zi jia su qi	100
+离子晶体	li zi jing ti	100
+粒子空穴对称性	li zi kong xue dui chen xing	160
+粒子密度	li zi mi du	100
+粒子散射	li zi san she	100
+粒子数	li zi shu	100
+粒子数反转	li zi shu fan zhuan	160
+粒子数算符	li zi shu suan fu	100
+粒子探测器	li zi tan ce qi	100
+离子效应	li zi xiao ying	100
+粒子质量	li zi zhi liang	100
+连续对称性	lian xu dui chen xing	160
+连续辐射	lian xu fu she	100
+连续极限	lian xu ji xian	160
+连续介质	lian xu jie zhi	100
+连续量子测量	lian xu liang zi ce liang	160
+两亲分子	liang qin fen zi	100
+量子不可克隆定理	liang zi bu ke ke long ding li	160
+量子不确定性	liang zi bu que ding xing	100
+量子参数估计	liang zi can shu gu ji	160
+量子测量反作用	liang zi ce liang fan zuo yong	160
+量子查询复杂度	liang zi cha xun fu za du	160
+量子场	liang zi chang	100
+量子穿隧	liang zi chuan sui	100
+量子磁性	liang zi ci xing	160
+量子淬火	liang zi cui huo	160
+量子错误校正	liang zi cuo wu jiao zheng	160
+量子导引	liang zi dao yin	160
+量子点	liang zi dian	100
+量子电动力学	liang zi dian dong li xue	100
+量子动力学半群	liang zi dong li xue ban qun	160
+量子度规	liang zi du gui	160
+量子多体伤痕	liang zi duo ti shang hen	160
+量子多体系统	liang zi duo ti xi tong	160
+量子发射	liang zi fa she	100
+量子反馈控制	liang zi fan kui kong zhi	160
+量子反芝诺效应	liang zi fan zhi nuo xiao ying	160
+量子非定域性	liang zi fei ding yu xing	160
+量子非局域性	liang zi fei ju yu xing	160
+量子费舍尔信息	liang zi fei she er xin xi	160
+量子傅里叶变换	liang zi fu li ye bian huan	160
+量子干涉探测器	liang zi gan she tan ce qi	100
+量子固体	liang zi gu ti	100
+量子光学	liang zi guang xue	100
+量子轨迹	liang zi gui ji	160
+量子过程层析	liang zi guo cheng ceng xi	160
+量子互信息	liang zi hu xin xi	160
+量子混沌	liang zi hun dun	160
+量子几何度量	liang zi ji he du liang	160
+量子几何张量	liang zi ji he zhang liang	160
+量子极限	liang zi ji xian	100
+量子近似优化算法	liang zi jin si you hua suan fa	160
+量子阱	liang zi jing	100
+量子精密测量	liang zi jing mi ce liang	160
+量子纠错	liang zi jiu cuo	160
+量子纠错码	liang zi jiu cuo ma	160
+量子克拉美罗界	liang zi ke la mei luo jie	160
+量子临界点	liang zi lin jie dian	160
+量子临界性	liang zi lin jie xing	160
+量子逻辑门	liang zi luo ji men	160
+量子滤波	liang zi lv bo	160
+量子门保真度	liang zi men bao zhen du	160
+量子能级	liang zi neng ji	100
+量子能量	liang zi neng liang	100
+量子逆傅里叶变换	liang zi ni fu li ye bian huan	160
+量子热化	liang zi re hua	160
+量子色动力学	liang zi se dong li xue	160
+量子势阱	liang zi shi jing	100
+量子速度极限	liang zi su du ji xian	160
+量子态	liang zi tai	1000
+量子态保真度	liang zi tai bao zhen du	160
+量子态层析	liang zi tai ceng xi	160
+量子态纯度	liang zi tai chun du	160
+量子态纯化	liang zi tai chun hua	160
+量子态扩散	liang zi tai kuo san	160
+量子态验证	liang zi tai yan zheng	160
+量子条件	liang zi tiao jian	100
+量子跳跃	liang zi tiao yue	160
+量子统计	liang zi tong ji	100
+量子通量密度	liang zi tong liang mi du	100
+量子通信	liang zi tong xin	100
+量子退相干	liang zi tui xiang gan	160
+量子误差缓解	liang zi wu cha huan jie	160
+量子系统	liang zi xi tong	100
+量子线路	liang zi xian lu	160
+量子线性方程组算法	liang zi xian xing fang cheng zu suan fa	160
+量子相变	liang zi xiang bian	160
+量子相对熵	liang zi xiang dui shang	160
+量子相干性	liang zi xiang gan xing	160
+量子相位估计	liang zi xiang wei gu ji	160
+量子效率	liang zi xiao lv	100
+量子效应	liang zi xiao ying	100
+量子信道	liang zi xin dao	160
+量子修正	liang zi xiu zheng	100
+量子液体	liang zi ye ti	100
+量子隐形传态	liang zi yin xing chuan tai	160
+量子优势	liang zi you shi	160
+量子预言机	liang zi yu yan ji	160
+量子跃迁	liang zi yue qian	100
+量子噪声	liang zi zao sheng	100
+量子芝诺效应	liang zi zhi nuo xiao ying	160
+量子主方程	liang zi zhu fang cheng	160
+量子自旋霍尔效应	liang zi zi xuan huo er xiao ying	160
+量子自旋液体	liang zi zi xuan ye ti	160
+量子资源理论	liang zi zi yuan li lun	160
+林德布拉德方程	lin de bu la de fang cheng	160
+临界标度	lin jie biao du	160
+临界能量	lin jie neng liang	100
+临界效应	lin jie xiao ying	100
+临界指数	lin jie zhi shu	160
+零点能	ling dian neng	160
+零点熵	ling dian shang	100
+零电势	ling dian shi	100
+零点涨落	ling dian zhang luo	160
+零模	ling mo	160
+菱形晶格	ling xing jing ge	100
+六方晶格	liu fang jing ge	100
+路径积分	lu jing ji fen	1000
+路径积分量子化	lu jing ji fen liang zi hua	160
+卢瑟福	lu se fu	2230
+伦琴	lun qin	173
+裸电荷	luo dian he	100
+逻辑量子比特	luo ji liang zi bi te	160
+洛伦兹	luo lun zi	10
+洛伦兹变换	luo lun zi bian huan	100
+洛伦兹不变性	luo lun zi bu bian xing	160
+洛伦兹规范	luo lun zi gui fan	160
+洛伦兹协变性	luo lun zi xie bian xing	160
+马尔可夫近似	ma er ke fu jin si	160
+马约拉纳	ma yue la na	100
+马约拉纳费米子	ma yue la na fei mi zi	160
+马约拉纳零模	ma yue la na ling mo	160
+脉冲雷达	mai chong lei da	100
+脉冲双星	mai chong shuang xing	100
+迈克耳孙	mai ke er sun	100
+迈克耳孙干涉仪	mai ke er sun gan she yi	160
+迈克生干涉仪	mai ke sheng gan she yi	100
+麦克斯韦	mai ke si wei	3275
+麦克斯韦方程	mai ke si wei fang cheng	100
+麦克斯韦方程组	mai ke si wei fang cheng zu	1000
+麦克斯韦分布	mai ke si wei fen bu	100
+麦克斯韦理论	mai ke si wei li lun	100
+麦士纳效应	mai shi na xiao ying	100
+迈斯纳效应	mai si na xiao ying	160
+迈特纳	mai te na	2
+慢化中子	man hua zhong zi	100
+漫散射	man san she	100
+密度矩阵	mi du ju zhen	1000
+密度矩阵重整化群	mi du ju zhen chong zheng hua qun	160
+密度算符	mi du suan fu	100
+面积律	mian ji lv	160
+明线光谱	ming xian guang pu	100
+摩擦起电效应	mo ca qi dian xiao ying	100
+末端效应	mo duan xiao ying	100
+母同位素	mu tong wei su	100
+南部阳一郎	nan bu yang yi lang	100
+内磁场	nei ci chang	100
+内光电效应	nei guang dian xiao ying	100
+内光学参数振荡器	nei guang xue can shu zhen dang qi	100
+内建电场	nei jian dian chang	100
+能带反转	neng dai fan zhuan	160
+能带理论	neng dai li lun	100
+能带模型	neng dai mo xing	100
+能带图	neng dai tu	100
+能带隙	neng dai xi	160
+能级间距	neng ji jian ju	160
+能级劈裂	neng ji pi lie	160
+能级统计	neng ji tong ji	160
+能量表象	neng liang biao xiang	100
+能量不灭	neng liang bu mie	100
+能量动量张量	neng liang dong liang zhang liang	160
+能量分布	neng liang fen bu	100
+能量积分	neng liang ji fen	100
+能量密度	neng liang mi du	100
+能量损失	neng liang sun shi	100
+能量退降	neng liang tui jiang	100
+逆参与比	ni can yu bi	160
+逆光电效应	ni guang dian xiao ying	100
+逆康普顿散射	ni kang pu dun san she	100
+逆散射法	ni san she fa	100
+牛顿	niu dun	53542
+偶极分子	ou ji fen zi	100
+偶极矩	ou ji ju	100
+偶极天线	ou ji tian xian	100
+偶极振荡	ou ji zhen dang	100
+欧姆	ou mu	20950
+拍频振荡器	pai pin zhen dang qi	100
+泡利	pao li	100
+配分函数	pei fen han shu	1000
+喷泉效应	pen quan xiao ying	100
+彭罗斯	peng luo si	132
+碰撞电离	peng zhuang dian li	100
+碰撞粒子	peng zhuang li zi	100
+偏迹	pian ji	160
+偏振光度计	pian zhen guang du ji	100
+偏振计	pian zhen ji	100
+偏振片	pian zhen pian	100
+偏振荧光	pian zhen ying guang	100
+屏蔽长度	ping bi chang du	160
+屏蔽电极	ping bi dian ji	100
+平衡态统计物理	ping heng tai tong ji wu li	160
+平均场	ping jun chang	160
+平均场近似	ping jun chang jin si	160
+平均场理论	ping jun chang li lun	160
+平均场论	ping jun chang lun	100
+平均门保真度	ping jun men bao zhen du	160
+平面波基组	ping mian bo ji zu	160
+平面光栅	ping mian guang shan	100
+平面偏振	ping mian pian zhen	100
+平行板电容器	ping xing ban dian rong qi	100
+平行光束	ping xing guang shu	100
+破缺对称性	po que dui chen xing	160
+普朗克	pu lang ke	3995
+普朗克长度	pu lang ke chang du	100
+普朗克常数	pu lang ke chang shu	100
+普朗克分布	pu lang ke fen bu	160
+普朗克辐射定律	pu lang ke fu she ding lv	100
+普朗克时间	pu lang ke shi jian	100
+普适类	pu shi lei	160
+谱线分裂	pu xian fen lie	100
+谱线轮廓	pu xian lun kuo	100
+谱线系	pu xian xi	100
+谱线形状	pu xian xing zhuang	100
+谱线增宽	pu xian zeng kuan	100
+谱形状因子	pu xing zhuang yin zi	160
+期望值	qi wang zhi	38685
+奇异粒子	qi yi li zi	100
+钱德拉塞卡	qian de la sai ka	100
+钱三强	qian san qiang	402
+强电磁场	qiang dian ci chang	100
+强辐射场	qiang fu she chang	100
+强关联	qiang guan lian	160
+强耦合	qiang ou he	160
+强子化	qiang zi hua	160
+强子原子	qiang zi yuan zi	100
+轻同位素	qing tong wei su	100
+氢原子光谱	qing yuan zi guang pu	100
+轻子夸克	qing zi kua ke	100
+轻子数	qing zi shu	100
+取向极化	qu xiang ji hua	100
+全局对称性	quan ju dui chen xing	160
+全同粒子	quan tong li zi	100
+热磁效应	re ci xiao ying	100
+热导体	re dao ti	100
+热导系数	re dao xi shu	100
+热电动势	re dian dong shi	100
+热电离	re dian li	100
+热电效应	re dian xiao ying	100
+热电子	re dian zi	100
+热力学	re li xue	10280
+热力学定律	re li xue ding lv	100
+热力学极限	re li xue ji xian	160
+热力学流	re li xue liu	100
+热力学温标	re li xue wen biao	100
+热膨胀系数	re peng zhang xi shu	100
+热噪声	re zao sheng	100
+热中子束	re zhong zi shu	100
+任意子	ren yi zi	160
+容错量子计算	rong cuo liang zi ji suan	160
+容许跃迁	rong xu yue qian	100
+入射粒子	ru she li zi	100
+入射态	ru she tai	160
+入射线	ru she xian	100
+瑞利散射	rui li san she	160
+弱玻色子	ruo bo se zi	100
+弱测量	ruo ce liang	160
+弱关联	ruo guan lian	160
+弱耦合	ruo ou he	160
+弱耦合极限	ruo ou he ji xian	160
+弱铁磁性	ruo tie ci xing	100
+萨拉姆	sa la mu	1025
+赛贝克效应	sai bei ke xiao ying	100
+塞曼效应	sai man xiao ying	100
+散粒效应	san li xiao ying	100
+散射波	san she bo	100
+散射测量	san she ce liang	100
+散射长度	san she chang du	100
+散射常数	san she chang shu	100
+散射电子	san she dian zi	100
+散射辐射	san she fu she	100
+散射光子	san she guang zi	100
+散射函数	san she han shu	100
+散射角	san she jiao	100
+散射截面	san she jie mian	160
+散射矩阵	san she ju zhen	160
+散射矩阵理论	san she ju zhen li lun	100
+散射理论	san she li lun	100
+散射粒子	san she li zi	100
+散射模拟	san she mo ni	100
+散射室	san she shi	100
+散射算符	san she suan fu	100
+散射态	san she tai	160
+散射体	san she ti	100
+散射系数	san she xi shu	100
+散射相移	san she xiang yi	160
+散射因子	san she yin zi	100
+散射振幅	san she zhen fu	160
+散铁磁性	san tie ci xing	100
+三五族半导体	san wu zu ban dao ti	100
+三相变压器	san xiang bian ya qi	100
+瑟尔热导仪	se er re dao yi	100
+色禁闭	se jin bi	160
+色偏振	se pian zhen	100
+色散电子	se san dian zi	100
+色散关系	se san guan xi	1000
+色散介质	se san jie zhi	100
+铯原子钟	se yuan zi zhong	100
+上夸克	shang kua ke	100
+上临界磁场	shang lin jie ci chang	160
+熵通量	shang tong liang	100
+设备无关认证	she bei wu guan ren zheng	160
+射线检验	she xian jian yan	100
+射线疗法	she xian liao fa	100
+射线速度	she xian su du	100
+射线照相	she xian zhao xiang	100
+生成泛函	sheng cheng fan han	160
+声电效应	sheng dian xiao ying	100
+声共振	sheng gong zhen	100
+声光效应	sheng guang xiao ying	100
+声光学	sheng guang xue	100
+生理效应	sheng li xiao ying	100
+声频振荡器	sheng pin zhen dang qi	100
+升算符	sheng suan fu	160
+生物分子	sheng wu fen zi	100
+生物高分子	sheng wu gao fen zi	100
+声学声子	sheng xue sheng zi	160
+剩余磁场	sheng yu ci chang	100
+剩余磁化强度	sheng yu ci hua qiang du	100
+声折射	sheng zhe she	100
+声子回波	sheng zi hui bo	100
+声子激发	sheng zi ji fa	100
+声子散射	sheng zi san she	100
+声子色散	sheng zi se san	160
+视场光阑	shi chang guang lan	100
+时间反演对称性	shi jian fan yan dui chen xing	160
+时间晶体	shi jian jing ti	160
+事件视界	shi jian shi jie	160
+时间序算符	shi jian xu suan fu	160
+时间演化	shi jian yan hua	1000
+时间演化块抽取	shi jian yan hua kuai chou qu	160
+时间演化算符	shi jian yan hua suan fu	160
+时空点	shi kong dian	100
+时空定律	shi kong ding lv	100
+施里弗	shi li fu	10
+施密特分解	shi mi te fen jie	160
+施密特基	shi mi te ji	160
+施密特谱	shi mi te pu	160
+施密特数	shi mi te shu	160
+施密特系数	shi mi te xi shu	160
+施密特秩	shi mi te zhi	160
+势散射	shi san she	100
+实时间演化	shi shi jian yan hua	160
+世俗近似	shi su jin si	160
+史瓦西半径	shi wa xi ban jing	160
+施温格	shi wen ge	10
+时谐光波	shi xie guang bo	100
+十亿电子伏特	shi yi dian zi fu te	100
+受激电子	shou ji dian zi	100
+受激拉曼散射	shou ji la man san she	100
+受激跃迁	shou ji yue qian	100
+受控非门	shou kong fei men	160
+受控热核反应	shou kong re he fan ying	100
+受控相位门	shou kong xiang wei men	160
+受控酉门	shou kong you men	160
+手征对称性	shou zheng dui chen xing	160
+束缚电荷	shu fu dian he	100
+束缚电子	shu fu dian zi	100
+束缚激子	shu fu ji zi	100
+束缚态	shu fu tai	160
+倏逝波	shu shi bo	160
+数算符	shu suan fu	160
+衰变产物	shuai bian chan wu	100
+衰变常数	shuai bian chang shu	160
+衰变定律	shuai bian ding lv	100
+衰变方式	shuai bian fang shi	100
+衰变链	shuai bian lian	100
+衰变率	shuai bian lv	100
+衰变曲线	shuai bian qu xian	100
+衰变时间	shuai bian shi jian	100
+双次晶格模型	shuang ci jing ge mo xing	100
+双缝干涉	shuang feng gan she	100
+双共振振荡器	shuang gong zhen zhen dang qi	100
+双光子吸收	shuang guang zi xi shou	100
+双光子跃迁	shuang guang zi yue qian	100
+双极晶体管	shuang ji jing ti guan	100
+双康普顿散射	shuang kang pu dun san she	100
+双夸克	shuang kua ke	100
+双能带模型	shuang neng dai mo xing	100
+双狭缝干涉	shuang xia feng gan she	100
+双性半导体	shuang xing ban dao ti	100
+双轴晶体	shuang zhou jing ti	100
+顺磁	shun ci	160
+顺磁共振	shun ci gong zhen	100
+顺磁质	shun ci zhi	100
+瞬发中子	shun fa zhong zi	100
+四波混频	si bo hun pin	160
+四极辐射	si ji fu she	100
+四极共振	si ji gong zhen	100
+斯塔克	si ta ke	3865
+斯特恩	si te en	4020
+四维动量	si wei dong liang	160
+四维时空	si wei shi kong	160
+松原频率	song yuan pin lv	160
+算符	suan fu	2540
+随机基准测试	sui ji ji zhun ce shi	160
+随机薛定谔方程	sui ji xue ding e fang cheng	160
+索利斯	suo li si	10
+索末菲	suo mo fei	100
+态密度	tai mi du	160
+态矢	tai shi	1000
+态矢量	tai shi liang	1000
+太阳光谱	tai yang guang pu	100
+太阳微粒辐射	tai yang wei li fu she	100
+弹性介质	tan xing jie zhi	100
+汤川秀树	tang chuan xiu shu	100
+特斯拉	te si la	1205
+特性辐射	te xing fu she	100
+特征光谱	te zheng guang pu	100
+特征谱线	te zheng pu xian	100
+体边对应	ti bian dui ying	160
+体边对应关系	ti bian dui ying guan xi	160
+体磁化率	ti ci hua lv	100
+体电荷密度	ti dian he mi du	100
+体积律	ti ji lv	160
+体效应	ti xiao ying	100
+体心晶格	ti xin jing ge	100
+体心立方晶格	ti xin li fang jing ge	100
+填隙原子	tian xi yuan zi	100
+条件量子互信息	tiao jian liang zi hu xin xi	160
+跳跃算子	tiao yue suan zi	160
+铁磁共振	tie ci gong zhen	100
+铁磁相	tie ci xiang	100
+铁磁相互作用	tie ci xiang hu zuo yong	160
+铁磁性能带理论	tie ci xing neng dai li lun	100
+铁磁质	tie ci zhi	100
+铁电晶体	tie dian jing ti	100
+铁电相变	tie dian xiang bian	100
+铁心电感	tie xin dian gan	100
+同核分子	tong he fen zi	100
+统计混合	tong ji hun he	160
+统计物理	tong ji wu li	1000
+同位素表	tong wei su biao	100
+同位素分离	tong wei su fen li	100
+同位素分离器	tong wei su fen li qi	100
+同位素群	tong wei su qun	100
+透镜光谱仪	tou jing guang pu yi	100
+透射光栅	tou she guang shan	100
+投影测量	tou ying ce liang	160
+投影纠缠对态	tou ying jiu chan dui tai	160
+投影态密度	tou ying tai mi du	160
+退相干自由子空间	tui xiang gan zi you zi kong jian	160
+拓扑半金属	tuo pu ban jin shu	160
+拓扑边缘态	tuo pu bian yuan tai	160
+拓扑不变量	tuo pu bu bian liang	160
+拓扑超导体	tuo pu chao dao ti	160
+拓扑荷	tuo pu he	160
+拓扑纠缠熵	tuo pu jiu chan shang	160
+拓扑量子数	tuo pu liang zi shu	100
+拓扑相变	tuo pu xiang bian	160
+拓扑序	tuo pu xu	160
+瓦特	wa te	15505
+外电场	wai dian chang	100
+外尔半金属	wai er ban jin shu	160
+外尔节点	wai er jie dian	160
+外来原子	wai lai yuan zi	100
+完备关系	wan bei guan xi	160
+完备基	wan bei ji	160
+完备正交基	wan bei zheng jiao ji	160
+完全正保迹映射	wan quan zheng bao ji ying she	160
+完全正映射	wan quan zheng ying she	160
+王淦昌	wang gan chang	151
+微波辐射	wei bo fu she	100
+微波振荡器	wei bo zhen dang qi	100
+纬度效应	wei du xiao ying	100
+伪厄米	wei e mi	160
+伪厄米性	wei e mi xing	160
+维尔切克	wei er qie ke	100
+微分散射截面	wei fen san she jie mian	160
+维格纳	wei ge na	109
+维格纳函数	wei ge na han shu	160
+维格纳晶格	wei ge na jing ge	100
+微扰理论	wei rao li lun	1000
+位移共振	wei yi gong zhen	100
+微正则系综	wei zheng ze xi zong	160
+位置表象	wei zhi biao xiang	160
+微中子	wei zhong zi	100
+温伯格	wen bo ge	100
+稳定振荡	wen ding zhen dang	100
+稳态纠缠	wen tai jiu chan	160
+无辐射跃迁	wu fu she yue qian	100
+吴健雄	wu jian xiong	105
+物理量子比特	wu li liang zi bi te	160
+无能隙超导体	wu neng xi chao dao ti	100
+吴有训	wu you xun	60
+无阻尼振荡	wu zu ni zhen dang	100
+希尔伯特空间	xi er bo te kong jian	1000
+吸附原子	xi fu yuan zi	100
+希格斯	xi ge si	10
+希格斯玻色子	xi ge si bo se zi	100
+希格斯机制	xi ge si ji zhi	160
+希格斯粒子	xi ge si li zi	100
+吸收光谱仪	xi shou guang pu yi	100
+吸收介质	xi shou jie zhi	100
+吸收谱线	xi shou pu xian	100
+系统环境耦合	xi tong huan jing ou he	160
+细致平衡	xi zhi ping heng	160
+系综	xi zong	160
+系综等价性	xi zong deng jia xing	160
+系综平均	xi zong ping jun	160
+下夸克	xia kua ke	100
+下临界磁场	xia lin jie ci chang	160
+线偏振	xian pian zhen	100
+线偏振波	xian pian zhen bo	100
+线偏振光	xian pian zhen guang	100
+显式对称性破缺	xian shi dui chen xing po que	160
+显微光谱仪	xian wei guang pu yi	100
+线性光学	xian xing guang xue	100
+线性响应	xian xing xiang ying	1000
+线性响应理论	xian xing xiang ying li lun	160
+线性振荡器	xian xing zhen dang qi	100
+相变点	xiang bian dian	100
+相变热	xiang bian re	100
+相变温度	xiang bian wen du	100
+相对介电常数	xiang dui jie dian chang shu	100
+相对论性粒子	xiang dui lun xing li zi	100
+相对论性物理学	xiang dui lun xing wu li xue	100
+相对论性协变量	xiang dui lun xing xie bian liang	100
+相对论性协变式	xiang dui lun xing xie bian shi	100
+相对论性协变性	xiang dui lun xing xie bian xing	100
+相对论性质量	xiang dui lun xing zhi liang	100
+相对论性转换	xiang dui lun xing zhuan huan	100
+相对熵纠缠	xiang dui shang jiu chan	160
+相对折射率	xiang dui zhe she lv	100
+相干长度	xiang gan chang du	160
+相干叠加	xiang gan die jia	160
+相干反斯托克斯拉曼散射	xiang gan fan si tuo ke si la man san she	100
+相干辐射	xiang gan fu she	100
+相干干涉	xiang gan gan she	100
+相干光源	xiang gan guang yuan	100
+相干散射	xiang gan san she	100
+相干时间	xiang gan shi jian	160
+相干态	xiang gan tai	100
+相干探测	xiang gan tan ce	100
+相干效应	xiang gan xiao ying	100
+相干信息	xiang gan xin xi	160
+相干噪声	xiang gan zao sheng	100
+相互无偏基	xiang hu wu pian ji	160
+相互作用绘景	xiang hu zuo yong hui jing	160
+相位估计算法	xiang wei gu ji suan fa	160
+相位匹配	xiang wei pi pei	160
+相位阻尼	xiang wei zu ni	160
+详细平衡	xiang xi ping heng	160
+小角度中子散射	xiao jiao du zhong zi san she	100
+信息光学	xin xi guang xue	100
+星际介质	xing ji jie zhi	100
+星系红移	xing xi hong yi	160
+星系际介质	xing xi ji jie zhi	100
+序参量	xu can liang	160
+虚粒子	xu li zi	100
+虚时演化	xu shi yan hua	160
+虚跃迁	xu yue qian	100
+旋波近似	xuan bo jin si	160
+炫耀光栅	xuan yao guang shan	100
+选择效应	xuan ze xiao ying	100
+薛定谔	xue ding e	1950
+薛定谔方程	xue ding e fang cheng	1000
+薛定谔绘景	xue ding e hui jing	160
+压磁效应	ya ci xiao ying	100
+掩蔽效应	yan bi xiao ying	100
+湮灭算符	yan mie suan fu	1000
+衍射光栅	yan she guang shan	100
+赝势	yan shi	160
+阳极化	yang ji hua	100
+阳极射线	yang ji she xian	100
+杨氏干涉条纹	yang shi gan she tiao wen	100
+杨振宁	yang zhen ning	13755
+幺正	yao zheng	160
+幺正变换	yao zheng bian huan	160
+幺正矩阵	yao zheng ju zhen	160
+幺正算符	yao zheng suan fu	160
+幺正性	yao zheng xing	160
+幺正演化	yao zheng yan hua	160
+夜间辐射	ye jian fu she	100
+一次量子化	yi ci liang zi hua	100
+一级相变	yi ji xiang bian	100
+一阶跃迁	yi jie yue qian	100
+仪器光学	yi qi guang xue	100
+伊辛	yi xin	10
+音叉振荡器	yin cha zhen dang qi	100
+阴极极化	yin ji ji hua	100
+阴极射线示波器	yin ji she xian shi bo qi	100
+引力辐射	yin li fu she	100
+引力质量	yin li zhi liang	100
+荧光光谱	ying guang guang pu	100
+荧光散射	ying guang san she	100
+有机晶体	you ji jing ti	100
+游离辐射	you li fu she	100
+右矢	you shi	1000
+有限尺寸标度	you xian chi cun biao du	160
+有限尺寸效应	you xian chi cun xiao ying	160
+有效波长	you xiao bo chang	100
+有效电荷	you xiao dian he	100
+有效辐射	you xiao fu she	100
+有效哈密顿量	you xiao ha mi dun liang	160
+有效量子数	you xiao liang zi shu	100
+有效能量	you xiao neng liang	100
+有效折射率	you xiao zhe she lv	100
+有效作用量	you xiao zuo yong liang	160
+宇称破缺	yu cheng po que	160
+宇宙尺度	yu zhou chi du	100
+宇宙辐射	yu zhou fu she	100
+宇宙年龄	yu zhou nian ling	100
+宇宙射线通量	yu zhou she xian tong liang	100
+宇宙通讯	yu zhou tong xun	100
+宇宙微波背景	yu zhou wei bo bei jing	160
+宇宙无线电波	yu zhou wu xian dian bo	100
+宇宙弦	yu zhou xian	100
+宇宙学常数	yu zhou xue chang shu	160
+宇宙学红移	yu zhou xue hong yi	160
+宇宙演化	yu zhou yan hua	100
+宇宙噪声	yu zhou zao sheng	100
+元电荷	yuan dian he	100
+原恒星	yuan heng xing	100
+圆偏振	yuan pian zhen	100
+圆偏振光	yuan pian zhen guang	100
+原子尺度	yuan zi chi du	100
+原子磁矩	yuan zi ci ju	100
+原子光谱	yuan zi guang pu	100
+原子激发	yuan zi ji fa	100
+原子极化	yuan zi ji hua	100
+原子极化率	yuan zi ji hua lv	100
+原子假说	yuan zi jia shuo	100
+原子间距	yuan zi jian ju	100
+原子晶格	yuan zi jing ge	100
+原子扩散	yuan zi kuo san	100
+原子力	yuan zi li	100
+原子能级	yuan zi neng ji	100
+原子能量	yuan zi neng liang	100
+原子偶极矩	yuan zi ou ji ju	100
+原子谱线	yuan zi pu xian	100
+原子散射	yuan zi san she	100
+原子散射系数	yuan zi san she xi shu	100
+原子束	yuan zi shu	100
+原子衰变	yuan zi shuai bian	100
+原子探测器	yuan zi tan ce qi	100
+原子探针	yuan zi tan zhen	100
+原子位置	yuan zi wei zhi	100
+原子吸收光谱	yuan zi xi shou guang pu	100
+原子性	yuan zi xing	100
+原子学	yuan zi xue	100
+原子振动	yuan zi zhen dong	100
+约化	yue hua	160
+约化动力学	yue hua dong li xue	160
+约化密度矩阵	yue hua mi du ju zhen	160
+约化密度算子	yue hua mi du suan zi	160
+约化态	yue hua tai	160
+跃迁概率	yue qian gai lv	160
+跃迁过程	yue qian guo cheng	100
+跃迁积分	yue qian ji fen	160
+跃迁截面	yue qian jie mian	100
+跃迁矩阵	yue qian ju zhen	100
+跃迁矩阵元	yue qian ju zhen yuan	160
+跃迁能	yue qian neng	100
+跃迁频率	yue qian pin lv	100
+跃迁时间	yue qian shi jian	100
+跃迁振幅	yue qian zhen fu	160
+约瑟夫森	yue se fu sen	10
+约瑟夫森结	yue se fu sen jie	160
+杂散电容	za san dian rong	100
+杂质半导体	za zhi ban dao ti	100
+杂质散射	za zhi san she	100
+再磁化	zai ci hua	100
+早期宇宙	zao qi yu zhou	100
+张衡	zhang heng	750
+张量网络	zhang liang wang luo	160
+涨落耗散定理	zhang luo hao san ding li	160
+赵忠尧	zhao zhong yao	43
+折射本领	zhe she ben ling	100
+折射波	zhe she bo	100
+折射光学	zhe she guang xue	100
+折射计	zhe she ji	100
+折射率差	zhe she lv cha	100
+折射面	zhe she mian	100
+折射色散	zhe she se san	100
+折射式望远镜	zhe she shi wang yuan jing	100
+折射误差	zhe she wu cha	100
+折射线	zhe she xian	100
+折射异常	zhe she yi chang	100
+振荡宇宙	zhen dang yu zhou	100
+振荡运动	zhen dang yun dong	100
+真电荷	zhen dian he	100
+振幅放大	zhen fu fang da	160
+振幅估计	zhen fu gu ji	160
+振幅阻尼	zhen fu zu ni	160
+真空极化	zhen kong ji hua	100
+真空态	zhen kong tai	160
+针状晶体	zhen zhuang jing ti	100
+正比电离室	zheng bi dian li shi	100
+正常光谱	zheng chang guang pu	100
+正电极	zheng dian ji	100
+正定算符	zheng ding suan fu	160
+正交归一	zheng jiao gui yi	160
+正交归一基	zheng jiao gui yi ji	160
+正交归一性	zheng jiao gui yi xing	160
+整数量子霍尔效应	zheng shu liang zi huo er xiao ying	160
+正则量子化	zheng ze liang zi hua	160
+正则系综	zheng ze xi zong	160
+质子轰击	zhi zi hong ji	100
+质子加速器	zhi zi jia su qi	100
+质子数	zhi zi shu	100
+质子束	zhi zi shu	100
+质子衰变	zhi zi shuai bian	100
+质子自旋共振	zhi zi zi xuan gong zhen	100
+中阶梯光栅	zhong jie ti guang shan	100
+重力透镜效应	zhong li tou jing xiao ying	100
+重轻子	zhong qing zi	100
+重同位素	zhong tong wei su	100
+中微子振荡	zhong wei zi zhen dang	160
+中性粒子	zhong xing li zi	100
+中性原子	zhong xing yuan zi	100
+重原子法	zhong yuan zi fa	100
+中子倍增	zhong zi bei zeng	100
+中子捕获	zhong zi bu huo	100
+中子成像	zhong zi cheng xiang	100
+中子辐射	zhong zi fu she	100
+中子辐照	zhong zi fu zhao	100
+中子共振	zhong zi gong zhen	100
+重子共振	zhong zi gong zhen	100
+中子活化分析	zhong zi huo hua fen xi	100
+中子扩散	zhong zi kuo san	100
+中子密度	zhong zi mi du	100
+中子能量	zhong zi neng liang	100
+中子谱仪	zhong zi pu yi	100
+中子数	zhong zi shu	100
+中子输运理论	zhong zi shu yun li lun	100
+中子探测器	zhong zi tan ce qi	100
+中子吸收	zhong zi xi shou	100
+中子吸收截面	zhong zi xi shou jie mian	100
+中子盈余	zhong zi ying yu	100
+中子源	zhong zi yuan	100
+中子照射	zhong zi zhao she	100
+中子质量	zhong zi zhi liang	100
+周期驱动	zhou qi qu dong	160
+周期性边界条件	zhou qi xing bian jie tiao jian	160
+朱棣文	zhu di wen	692
+主共振频率	zhu gong zhen pin lv	100
+主量子数	zhu liang zi shu	100
+柱状电离	zhu zhuang dian li	100
+转动能谱	zhuan dong neng pu	100
+转动谱线	zhuan dong pu xian	100
+锥形折射	zhui xing zhe she	100
+准动量	zhun dong liang	160
+准厄米	zhun e mi	160
+准经典近似	zhun jing dian jin si	160
+准粒子	zhun li zi	160
+准能量	zhun neng liang	160
+准弹性散射	zhun tan xing san she	100
+准直光束	zhun zhi guang shu	100
+自伴	zi ban	160
+自伴扩张	zi ban kuo zhang	160
+自伴性	zi ban xing	160
+自电离	zi dian li	100
+自发磁化	zi fa ci hua	100
+自发对称性破缺	zi fa dui chen xing po que	160
+自发辐射寿命	zi fa fu she shou ming	160
+自发核反应	zi fa he fan ying	100
+自发极化	zi fa ji hua	100
+自发跃迁	zi fa yue qian	100
+自洽场	zi qia chang	160
+自洽方程	zi qia fang cheng	160
+自洽计算	zi qia ji suan	160
+自洽平均场	zi qia ping jun chang	160
+自生光电效应	zi sheng guang dian xiao ying	100
+紫外发散	zi wai fa san	160
+紫外截断	zi wai jie duan	160
+自旋	zi xuan	5885
+自旋波	zi xuan bo	160
+自旋波共振	zi xuan bo gong zhen	100
+自旋波激发	zi xuan bo ji fa	160
+自旋玻璃	zi xuan bo li	160
+自旋弛豫	zi xuan chi yu	160
+自旋磁化率	zi xuan ci hua lv	100
+自旋磁矩	zi xuan ci ju	100
+自旋磁量子数	zi xuan ci liang zi shu	100
+自旋电子学	zi xuan dian zi xue	100
+自旋动量	zi xuan dong liang	100
+自旋共振	zi xuan gong zhen	100
+自旋共振吸收	zi xuan gong zhen xi shou	100
+自旋关联	zi xuan guan lian	100
+自旋关联函数	zi xuan guan lian han shu	160
+自旋轨道耦合	zi xuan gui dao ou he	160
+自旋轨道相互作用	zi xuan gui dao xiang hu zuo yong	160
+自旋霍尔效应	zi xuan huo er xiao ying	100
+自旋极化	zi xuan ji hua	160
+自旋简并性	zi xuan jian bing xing	100
+自旋角动量	zi xuan jiao dong liang	160
+自旋晶格	zi xuan jing ge	100
+自旋晶格弛豫	zi xuan jing ge chi yu	100
+自旋矩阵	zi xuan ju zhen	100
+自旋扩散	zi xuan kuo san	100
+自旋链	zi xuan lian	160
+自旋量子数	zi xuan liang zi shu	100
+自旋流	zi xuan liu	100
+自旋密度	zi xuan mi du	100
+自旋密度波	zi xuan mi du bo	100
+自旋耦合	zi xuan ou he	100
+自旋取向	zi xuan qu xiang	100
+自旋输运	zi xuan shu yun	160
+自旋态	zi xuan tai	100
+自旋统计定理	zi xuan tong ji ding li	100
+自旋温度	zi xuan wen du	100
+自旋系统	zi xuan xi tong	100
+自旋液体	zi xuan ye ti	160
+自旋涨落	zi xuan zhang luo	100
+自由粒子传播子	zi you li zi chuan bo zi	160
+自由能	zi you neng	1110
+自由振荡	zi you zhen dang	100
+自由中子	zi you zhong zi	100
+纵光学声子	zong guang xue sheng zi	100
+纵向磁化	zong xiang ci hua	100
+纵向极化	zong xiang ji hua	100
+阻尼振荡	zu ni zhen dang	100
+坐标表象	zuo biao biao xiang	160
+左矢	zuo shi	1000

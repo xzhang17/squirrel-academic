@@ -1,0 +1,1987 @@
+# 化学
+# Sources and licenses: Sources.txt in this folder.
+---
+name: chemistry
+version: "1.2"
+sort: by_weight
+use_preset_vocabulary: false
+...
+锕化合物	a hua he wu	100
+暗反应	an fan ying	100
+氨基硅烷	an ji gui wan	100
+氨基甲酸	an ji jia suan	100
+氨基酸残基	an ji suan can ji	100
+氨基乙烷	an ji yi wan	100
+安培滴定	an pei di ding	100
+氨羰基化	an tang ji hua	100
+胺氧化酶	an yang hua mei	100
+胺氧化物	an yang hua wu	100
+螯合萃取	ao he cui qu	100
+螯合滴定法	ao he di ding fa	100
+螯合聚合物	ao he ju he wu	100
+螯键反应	ao jian fan ying	100
+半胺缩醛	ban an suo quan	100
+半电池	ban dian chi	100
+半反应	ban fan ying	100
+半反应法	ban fan ying fa	100
+半胶体	ban jiao ti	100
+半连续聚合	ban lian xu ju he	100
+半椅型构象	ban yi xing gou xiang	100
+棒状聚合物	bang zhuang ju he wu	100
+薄层色谱法	bao ceng se pu fa	100
+饱和聚酯	bao he ju zhi	100
+饱和蒸气	bao he zheng qi	100
+饱和蒸气压	bao he zheng qi ya	100
+保护基策略	bao hu ji ce lve	160
+保护胶体	bao hu jiao ti	100
+鲍林	bao lin	10
+保留因子	bao liu yin zi	160
+薄膜电极	bao mo dian ji	100
+爆炸反应	bao zha fan ying	100
+被滴定物	bei di ding wu	100
+背景电解质	bei jing dian jie zhi	100
+苯胺点	ben an dian	100
+苯胺染料	ben an ran liao	100
+苯并吡喃	ben bing bi nan	100
+苯并吡喃盐	ben bing bi nan yan	100
+苯并哒嗪	ben bing da qin	100
+苯并呋喃	ben bing fu nan	100
+苯并呋喃酮	ben bing fu nan tong	100
+苯并嘧啶	ben bing mi ding	100
+苯并噻吩	ben bing sai fen	100
+苯并噻唑	ben bing sai zuo	100
+苯并三唑	ben bing san zuo	100
+苯酚醚树脂	ben fen mi shu zhi	100
+苯磺酸烷酯	ben huang suan wan zhi	100
+苯基键合相	ben ji jian he xiang	100
+苯甲酸甲酯	ben jia suan jia zhi	100
+苯醌聚合物	ben kun ju he wu	100
+本立德溶液	ben li de rong ye	100
+苯偶姻缩合	ben ou yin suo he	100
+苯炔	ben que	100
+本体聚合	ben ti ju he	100
+苯异丙胺	ben yi bing an	100
+比表面积	bi biao mian ji	160
+吡咯啉酮	bi ge lin tong	100
+铋化合物	bi hua he wu	100
+比热容量	bi re rong liang	100
+避蚊胺	bi wen an	100
+必需氨基酸	bi xu an ji suan	100
+比旋光度	bi xuan guang du	100
+吡唑啉酮	bi zuo lin tong	100
+变压吸附	bian ya xi fu	100
+表观电泳淌度	biao guan dian yong tang du	100
+表观分子量	biao guan fen zi liang	100
+表面电化学	biao mian dian hua xue	100
+表面反应	biao mian fan ying	100
+表面覆盖度	biao mian fu gai du	160
+表面活性	biao mian huo xing	100
+表面晶体学	biao mian jing ti xue	100
+表面吸附	biao mian xi fu	100
+表面吸附物种	biao mian xi fu wu zhong	100
+表面增强拉曼光谱	biao mian zeng qiang la man guang pu	160
+表异构酶	biao yi gou mei	100
+标准电极	biao zhun dian ji	100
+标准沸点	biao zhun fei dian	100
+标准光谱	biao zhun guang pu	100
+标准缓冲溶液	biao zhun huan chong rong ye	100
+标准加入法	biao zhun jia ru fa	160
+标准氢电极	biao zhun qing dian ji	100
+丙二酰脲	bing er xian niao	100
+丙酸甲酯	bing suan jia zhi	100
+丙酮发酵	bing tong fa jiao	100
+丙酮树脂	bing tong shu zhi	100
+丙酮酸激酶	bing tong suan ji mei	100
+冰乙酸	bing yi suan	100
+伯胺	bo an	100
+伯醇	bo chun	100
+铂电极	bo dian ji	100
+玻璃电极	bo li dian ji	100
+玻璃化转变	bo li hua zhuan bian	160
+玻碳电极	bo tan dian ji	100
+不饱和聚酯	bu bao he ju zhi	100
+不饱和酸	bu bao he suan	100
+补偿光谱	bu chang guang pu	100
+不对称催化	bu dui cheng cui hua	160
+不极化电极	bu ji hua dian ji	100
+不可逆吸附	bu ke ni xi fu	100
+不良溶剂	bu liang rong ji	100
+不相合熔点	bu xiang he rong dian	100
+不皂化物	bu zao hua wu	100
+步骤经济性	bu zhou jing ji xing	160
+参比电极	can bi dian ji	100
+参考离子	can kao li zi	100
+插层聚合	cha ceng ju he	100
+差分脉冲伏安法	cha fen mai chong fu an fa	160
+插入反应	cha ru fan ying	100
+插入聚合	cha ru ju he	100
+插烯效应	cha xi xiao ying	100
+产率	chan lv	100
+产物离子	chan wu li zi	100
+掺杂晶体	chan za jing ti	100
+场电离	chang dian li	100
+场解吸	chang jie xi	100
+长寿命络合物	chang shou ming luo he wu	100
+超导聚合物	chao dao ju he wu	100
+超分子化学	chao fen zi hua xue	100
+超分子络合物	chao fen zi luo he wu	100
+超分子自组装	chao fen zi zi zu zhuang	160
+超分子组装	chao fen zi zu zhuang	160
+超高分子	chao gao fen zi	100
+超共轭	chao gong e	100
+超过滤	chao guo lv	100
+超痕量分析	chao hen liang fen xi	160
+超离心法	chao li xin fa	100
+超离心机	chao li xin ji	100
+超离子导体	chao li zi dao ti	100
+超微电极	chao wei dian ji	100
+超氧自由基	chao yang zi you ji	100
+超支化聚合物	chao zhi hua ju he wu	100
+沉淀滴定法	chen dian di ding fa	100
+沉淀法	chen dian fa	100
+沉淀反应	chen dian fan ying	100
+沉淀剂	chen dian ji	100
+沉淀聚合	chen dian ju he	100
+沉淀膜	chen dian mo	100
+沉淀器	chen dian qi	100
+沉淀试验	chen dian shi yan	100
+沉淀吸附浮选	chen dian xi fu fu xuan	100
+沉淀性	chen dian xing	100
+沉淀硬化	chen dian ying hua	100
+沉淀值	chen dian zhi	100
+称量瓶	cheng liang ping	100
+程序升温脱附	cheng xu sheng wen tuo fu	100
+尺寸排阻色谱	chi cun pai zu se pu	160
+赤型异构体	chi xing yi gou ti	100
+持续自由基	chi xu zi you ji	100
+重氮偶合	chong dan ou he	100
+重排反应	chong pai fan ying	100
+臭氧化	chou yang hua	100
+储备溶液	chu bei rong ye	100
+除菌过滤	chu jun guo lv	100
+串级质谱法	chuan ji zhi pu fa	100
+串级质谱仪	chuan ji zhi pu yi	100
+串联反应	chuan lian fan ying	100
+串联质谱	chuan lian zhi pu	160
+醇解	chun jie	100
+醇溶蛋白	chun rong dan bai	100
+醇溶胶	chun rong jiao	100
+醇溶液	chun rong ye	100
+醇氧化酶	chun yang hua mei	100
+纯乙醇	chun yi chun	100
+磁化学	ci hua xue	100
+次级离子	ci ji li zi	100
+磁性聚合物	ci xing ju he wu	100
+从头算方法	cong tou suan fang fa	160
+醋氨酚	cu an fen	100
+簇离子	cu li zi	100
+催化比色法	cui hua bi se fa	100
+催化材料	cui hua cai liao	100
+催化滴定法	cui hua di ding fa	100
+催化电流	cui hua dian liu	100
+催化分解	cui hua fen jie	100
+催化还原	cui hua huan yuan	100
+催化剂毒	cui hua ji du	100
+催化剂失活	cui hua ji shi huo	160
+催化剂选择性	cui hua ji xuan ze xing	100
+催化剂载体	cui hua ji zai ti	160
+催化剂中毒	cui hua ji zhong du	160
+催化聚合	cui hua ju he	100
+催化抗体	cui hua kang ti	100
+催化裂解	cui hua lie jie	100
+催化岐化	cui hua qi hua	100
+催化氢波	cui hua qing bo	100
+催化氢化	cui hua qing hua	100
+催化脱氢	cui hua tuo qing	100
+催化性能	cui hua xing neng	100
+催化循环	cui hua xun huan	100
+催化氧化	cui hua yang hua	100
+催化荧光法	cui hua ying guang fa	100
+催化蒸馏	cui hua zheng liu	100
+催化转化	cui hua zhuan hua	100
+催化转化器	cui hua zhuan hua qi	100
+萃取常数	cui qu chang shu	100
+萃取法	cui qu fa	100
+萃取分光光度法	cui qu fen guang guang du fa	100
+萃取分级	cui qu fen ji	100
+萃取浮选法	cui qu fu xuan fa	100
+萃取剂	cui qu ji	100
+萃取率	cui qu lv	100
+萃取器	cui qu qi	100
+萃取塔	cui qu ta	100
+萃取柱	cui qu zhu	100
+大分子配体	da fen zi pei ti	100
+大环聚合物	da huan ju he wu	100
+大孔聚合物	da kong ju he wu	100
+单电极	dan dian ji	100
+单分散	dan fen san	100
+单分子层吸附	dan fen zi ceng xi fu	100
+单分子分析	dan fen zi fen xi	100
+单分子探测	dan fen zi tan ce	100
+单分子终止	dan fen zi zhong zhi	100
+单核苷酸	dan he gan suan	100
+单核络合物	dan he luo he wu	100
+氮化钢	dan hua gang	100
+氮化合物	dan hua he wu	100
+氮还原反应	dan huan yuan fan ying	160
+单晶电极	dan jing dian ji	100
+丹尼耳电池	dan ni er dian chi	100
+胆酸盐	dan suan yan	100
+单位晶胞	dan wei jing bao	100
+氮烯	dan xi	100
+氮氧化合物	dan yang hua he wu	100
+氮氧自由基	dan yang zi you ji	100
+单原子催化	dan yuan zi cui hua	160
+单原子分子	dan yuan zi fen zi	100
+氮杂冠醚	dan za guan mi	100
+胆甾醇	dan zai chun	100
+氮正离子	dan zheng li zi	100
+当量电导	dang liang dian dao	100
+氘代溶剂	dao dai rong ji	100
+导电聚合物	dao dian ju he wu	100
+道尔顿	dao er dun	2130
+导数极谱	dao shu ji pu	100
+等瓣加成	deng ban jia cheng	100
+等电子离子	deng dian zi li zi	100
+等度洗脱	deng du xi tuo	160
+等分构象	deng fen gou xiang	100
+等离子点	deng li zi dian	100
+等离子解吸	deng li zi jie xi	100
+等温裂解	deng wen lie jie	100
+等温吸附	deng wen xi fu	100
+滴定碘法	di ding dian fa	100
+滴定度	di ding du	100
+滴定分析	di ding fen xi	100
+滴定分析法	di ding fen xi fa	100
+滴定管夹	di ding guan jia	100
+滴定管架	di ding guan jia	100
+滴定剂	di ding ji	100
+滴定热量计	di ding re liang ji	100
+滴定指数	di ding zhi shu	100
+滴定终点	di ding zhong dian	100
+缔合反应	di he fan ying	100
+缔合聚合物	di he ju he wu	100
+低聚反应	di ju fan ying	100
+低聚物	di ju wu	100
+滴流床反应器	di liu chuang fan ying qi	100
+低温聚合	di wen ju he	100
+低氧化物	di yang hua wu	100
+低自旋	di zi xuan	160
+电池槽	dian chi cao	100
+电催化剂	dian cui hua ji	100
+电催化析氢	dian cui hua xi qing	160
+电催化析氧	dian cui hua xi yang	160
+碘代甲烷	dian dai jia wan	100
+电导滴定法	dian dao di ding fa	100
+电导法	dian dao fa	100
+电导分析法	dian dao fen xi fa	100
+电导水	dian dao shui	100
+电滴定	dian di ding	100
+碘滴定法	dian di ding fa	100
+点滴反应	dian di fan ying	100
+碘仿反应	dian fang fan ying	100
+电分析化学	dian fen xi hua xue	100
+电负性	dian fu xing	100
+电荷转移电阻	dian he zhuan yi dian zu	160
+电弧光谱	dian hu guang pu	100
+电化当量	dian hua dang liang	100
+电化电池	dian hua dian chi	100
+电化法	dian hua fa	100
+电化工业	dian hua gong ye	100
+碘化合物	dian hua he wu	100
+电化还原	dian hua huan yuan	100
+电化学腐蚀	dian hua xue fu shi	100
+电化学合成	dian hua xue he cheng	160
+电化学极化	dian hua xue ji hua	100
+电化学检测器	dian hua xue jian ce qi	100
+电化学势	dian hua xue shi	100
+电化学阻抗谱	dian hua xue zu kang pu	160
+电化氧化	dian hua yang hua	100
+电环化反应	dian huan hua fan ying	160
+点火电极	dian huo dian ji	100
+电极电位	dian ji dian wei	100
+电极反应	dian ji fan ying	100
+电极过程动力学	dian ji guo cheng dong li xue	100
+点击化学	dian ji hua xue	160
+电极数组	dian ji shu zu	100
+碘甲烷	dian jia wan	100
+电解沉积	dian jie chen ji	100
+电解电位	dian jie dian wei	100
+电解电压	dian jie dian ya	100
+电解分离	dian jie fen li	100
+电解分析	dian jie fen xi	100
+电解分析装置	dian jie fen xi zhuang zhi	100
+电解工业	dian jie gong ye	100
+电解还原	dian jie huan yuan	100
+电解精炼	dian jie jing lian	100
+电解聚合	dian jie ju he	100
+电解抛光	dian jie pao guang	100
+电解清洗	dian jie qing xi	100
+电解溶液	dian jie rong ye	100
+电解提取	dian jie ti qu	100
+电解氧化	dian jie yang hua	100
+电离常数	dian li chang shu	100
+电离电位	dian li dian wei	100
+电离理论	dian li li lun	100
+电离能	dian li neng	100
+电离异构	dian li yi gou	100
+电流滴定	dian liu di ding	100
+电流滴定法	dian liu di ding fa	100
+电喷雾电离	dian pen wu dian li	160
+碘烷	dian wan	100
+电位滴定	dian wei di ding	100
+电位滴定法	dian wei di ding fa	100
+电位滴定仪	dian wei di ding yi	100
+电泳芯片	dian yong xin pian	100
+电子轨道	dian zi gui dao	100
+叠氮炔环加成	die dan gui huan jia cheng	160
+丁醇发酵	ding chun fa jiao	100
+丁二醇	ding er chun	100
+顶空分析	ding kong fen xi	160
+定量限	ding liang xian	160
+定容摩尔热容	ding rong mo er re rong	100
+丁酸甲酯	ding suan jia zhi	100
+丁烷气	ding wan qi	100
+定向吸附	ding xiang xi fu	100
+定压比热容量	ding ya bi re rong liang	100
+定压摩尔热容	ding ya mo er re rong	100
+动力学光度学	dong li xue guang du xue	100
+动力学溶剂效应	dong li xue rong ji xiao ying	100
+动力学同位素效应	dong li xue tong wei su xiao ying	160
+动力学盐效应	dong li xue yan xiao ying	100
+动态共价化学	dong tai gong jia hua xue	160
+动态质谱仪	dong tai zhi pu yi	100
+端盖电极	duan gai dian ji	100
+端基	duan ji	100
+断裂反应	duan lie fan ying	100
+对苯醌	dui ben kun	100
+对称轨道	dui chen gui dao	100
+对称陀螺分子	dui chen tuo luo fen zi	100
+对数滴定法	dui shu di ding fa	100
+对映体	dui ying ti	100
+对映体过量	dui ying ti guo liang	160
+对映选择性	dui ying xuan ze xing	160
+对峙反应	dui zhi fan ying	100
+钝化基团	dun hua ji tuan	100
+钝化膜	dun hua mo	100
+多参考态方法	duo can kao tai fang fa	160
+多层吸附	duo ceng xi fu	100
+多反应监测	duo fan ying jian ce	160
+多酚类	duo fen lei	100
+多分散性	duo fen san xing	100
+多酚氧化酶	duo fen yang hua mei	100
+多分子层	duo fen zi ceng	100
+多分子层吸附	duo fen zi ceng xi fu	100
+多分子性	duo fen zi xing	100
+多核磁共振	duo he ci gong zhen	100
+多核络合物	duo he luo he wu	100
+多卤离子	duo lu li zi	100
+多面体烷	duo mian ti wan	100
+多面体异构	duo mian ti yi gou	100
+多酸络合物	duo suan luo he wu	100
+多维色谱法	duo wei se pu fa	100
+多烯	duo xi	100
+多相催化	duo xiang cui hua	100
+多相催化动力学	duo xiang cui hua dong li xue	160
+多相反应	duo xiang fan ying	100
+惰性电极	duo xing dian ji	100
+惰性溶剂	duo xing rong ji	100
+多元醇	duo yuan chun	100
+多元聚合物	duo yuan ju he wu	100
+多元络合物	duo yuan luo he wu	100
+多原子离子	duo yuan zi li zi	100
+蒽酮比色法	en tong bi se fa	100
+二齿配位体	er chi pei wei ti	100
+二次电解	er ci dian jie	100
+二次离子质谱	er ci li zi zhi pu	100
+二级胺	er ji an	100
+二级醇	er ji chun	100
+二级反应	er ji fan ying	100
+二级光谱	er ji guang pu	100
+二甲酚橙	er jia fen cheng	100
+二聚离子	er ju li zi	100
+二聚物	er ju wu	100
+二硫缩醛	er liu suo quan	100
+二硫缩酮	er liu suo tong	100
+二茂铁	er mao tie	100
+二氢黄酮	er qing huang tong	100
+二炔	er que	100
+二酮	er tong	100
+二维色谱法	er wei se pu fa	100
+二烯	er xi	100
+二烯烃	er xi ting	100
+二溴甲烷	er xiu jia wan	100
+二氧化碳还原	er yang hua tan huan yuan	160
+二元共聚合	er yuan gong ju he	100
+二元共聚物	er yuan gong ju wu	100
+二元系	er yuan xi	100
+二唑	er zuo	100
+发光材料	fa guang cai liao	100
+发光层	fa guang ceng	100
+发光团	fa guang tuan	100
+法拉第电解定律	fa la di dian jie ding lv	100
+发烟硫酸	fa yan liu suan	100
+发烟硝酸	fa yan xiao suan	100
+反叉构象	fan cha gou xiang	100
+返滴定法	fan di ding fa	100
+反芳香性	fan fang xiang xing	100
+反荷离子	fan he li zi	100
+反射光谱	fan she guang pu	100
+反式加成	fan shi jia cheng	100
+反式聚合物	fan shi ju he wu	100
+范特霍夫	fan te huo fu	10
+反向构象	fan xiang gou xiang	100
+反相胶束萃取	fan xiang jiao shu cui qu	100
+反相色谱	fan xiang se pu	160
+反应步骤	fan ying bu zhou	100
+反应纺丝	fan ying fang si	100
+反应分子数	fan ying fen zi shu	100
+反应焓	fan ying han	100
+反应机理	fan ying ji li	100
+反应级数	fan ying ji shu	160
+反应截面	fan ying jie mian	100
+反应进度	fan ying jin du	100
+反应路径	fan ying lu jing	160
+反应能垒	fan ying neng lei	100
+反应黏合	fan ying nian he	100
+反应区	fan ying qu	100
+反应曲线	fan ying qu xian	100
+反应热	fan ying re	100
+反应色谱	fan ying se pu	100
+反应室	fan ying shi	100
+反应势垒	fan ying shi lei	100
+反应塔	fan ying ta	100
+反应途径	fan ying tu jing	100
+反应网络	fan ying wang luo	100
+反应系数	fan ying xi shu	100
+反应中间体	fan ying zhong jian ti	160
+反应注塑	fan ying zhu su	100
+反应自由能	fan ying zi you neng	160
+反应坐标	fan ying zuo biao	160
+方波伏安法	fang bo fu an fa	160
+方波极谱法	fang bo ji pu fa	100
+方法检出限	fang fa jian chu xian	160
+方法验证	fang fa yan zheng	160
+芳基正离子	fang ji zheng li zi	100
+放射性滴定	fang she xing di ding	100
+放射性胶体	fang she xing jiao ti	100
+仿生化学	fang sheng hua xue	100
+仿生聚合物	fang sheng ju he wu	100
+芳香化合物	fang xiang hua he wu	100
+芳香性	fang xiang xing	100
+芳香族聚醚	fang xiang zu ju mi	100
+芳香族聚酯	fang xiang zu ju zhi	100
+非电解镀层	fei dian jie du ceng	100
+非电解质	fei dian jie zhi	100
+非电解质溶液	fei dian jie zhi rong ye	100
+沸点升高	fei dian sheng gao	100
+非对映体比	fei dui ying ti bi	160
+非对映选择性	fei dui ying xuan ze xing	160
+非对映异构化	fei dui ying yi gou hua	100
+非共价键	fei gong jia jian	100
+非规整聚合物	fei gui zheng ju he wu	100
+非还原糖	fei huan yuan tang	100
+非极性聚合物	fei ji xing ju he wu	100
+非极性溶剂	fei ji xing rong ji	100
+非解离吸附	fei jie li xi fu	100
+非晶体学对称性	fei jing ti xue dui chen xing	100
+非均相反应	fei jun xiang fan ying	100
+非均相聚合	fei jun xiang ju he	100
+非溶剂	fei rong ji	100
+非水滴定法	fei shui di ding fa	100
+非水溶剂	fei shui rong ji	100
+非水溶液	fei shui rong ye	100
+废酸	fei suan	100
+非吸附性载体	fei xi fu xing zai ti	100
+非线性光学晶体	fei xian xing guang xue jing ti	100
+非线性色谱	fei xian xing se pu	100
+飞行时间质谱	fei xing shi jian zhi pu	160
+飞行时间质谱仪	fei xing shi jian zhi pu yi	100
+分步沉淀	fen bu chen dian	100
+分步滴定法	fen bu di ding fa	100
+分步反应	fen bu fan ying	100
+芬顿反应	fen dun fan ying	100
+分光荧光计	fen guang ying guang ji	100
+分级沉淀	fen ji chen dian	100
+分级裂解	fen ji lie jie	100
+分离凝胶	fen li ning jiao	100
+分馏管	fen liu guan	100
+分馏瓶	fen liu ping	100
+分馏柱	fen liu zhu	100
+粉末微电极	fen mo wei dian ji	100
+酚醛塑胶	fen quan su jiao	100
+分散度	fen san du	100
+分散聚合	fen san ju he	100
+分散系	fen san xi	100
+分散系数	fen san xi shu	160
+粉体催化剂	fen ti cui hua ji	100
+分析裂解	fen xi lie jie	100
+分析试剂	fen xi shi ji	100
+酚氧化合物	fen yang hua he wu	100
+分子缔合	fen zi di he	100
+分子动力学	fen zi dong li xue	100
+分子对接	fen zi dui jie	160
+分子反应	fen zi fan ying	100
+分子分离器	fen zi fen li qi	100
+分子轨道法	fen zi gui dao fa	100
+分子核医学	fen zi he yi xue	100
+分子机器	fen zi ji qi	160
+分子间弛豫	fen zi jian chi yu	100
+分子建模	fen zi jian mo	100
+分子间缩合	fen zi jian suo he	100
+分子胶体	fen zi jiao ti	100
+分子开关	fen zi kai guan	100
+分子力场	fen zi li chang	100
+分子量分布	fen zi liang fen bu	160
+分子马达	fen zi ma da	100
+分子模拟	fen zi mo ni	100
+分子内氢键	fen zi nei qing jian	100
+分子平动能	fen zi ping dong neng	100
+分子热力学	fen zi re li xue	100
+分子溶液	fen zi rong ye	100
+分子设计	fen zi she ji	100
+分子实体	fen zi shi ti	100
+分子探针	fen zi tan zhen	100
+分子吸收	fen zi xi shou	100
+分子印迹	fen zi yin ji	160
+分子荧光分析法	fen zi ying guang fen xi fa	100
+分子振动能	fen zi zhen dong neng	100
+分子蒸馏	fen zi zheng liu	100
+分子蒸馏器	fen zi zheng liu qi	100
+分子置换法	fen zi zhi huan fa	100
+分子转动能	fen zi zhuan dong neng	100
+分子自组装	fen zi zi zu zhuang	100
+分子组装	fen zi zu zhuang	100
+峰容量	feng rong liang	160
+蜂窝催化剂	feng wo cui hua ji	100
+峰展宽	feng zhan kuan	160
+伏安法	fu an fa	100
+伏安图	fu an tu	100
+负催化剂	fu cui hua ji	100
+伏打电池	fu da dian chi	100
+复合电极	fu he dian ji	100
+复合反应	fu he fan ying	100
+氟化合物	fu hua he wu	100
+氟化作用	fu hua zuo yong	100
+负晶体	fu jing ti	100
+傅克烷基化	fu ke wan ji hua	160
+傅克酰基化	fu ke xian ji hua	160
+傅里叶变换红外光谱	fu li ye bian huan hong wai guang pu	160
+负离子聚合	fu li zi ju he	100
+负离子质谱	fu li zi zhi pu	100
+负离子转移	fu li zi zhuan yi	100
+氟醚橡胶	fu mi xiang jiao	100
+辐射聚合	fu she ju he	100
+辐射离子聚合	fu she li zi ju he	100
+辐射裂解	fu she lie jie	100
+辐射引发聚合	fu she yin fa ju he	100
+附生晶体生长	fu sheng jing ti sheng zhang	100
+氟树脂	fu shu zhi	100
+氟碳树脂	fu tan shu zhi	100
+负吸附	fu xi fu	100
+辐照后聚合	fu zhao hou ju he	100
+辅助电极	fu zhu dian ji	100
+盖特曼反应	gai te man fan ying	100
+干法反应	gan fa fan ying	100
+感光聚合物	gan guang ju he wu	100
+干式过滤器	gan shi guo lv qi	100
+刚性基质电极	gang xing ji zhi dian ji	100
+高分辨质谱	gao fen bian zhi pu	100
+高分辨质谱法	gao fen bian zhi pu fa	100
+高分子半导体	gao fen zi ban dao ti	100
+高分子表面活性剂	gao fen zi biao mian huo xing ji	100
+高分子晶粒	gao fen zi jing li	100
+高分子晶体	gao fen zi jing ti	100
+高分子膜	gao fen zi mo	100
+高分子试剂	gao fen zi shi ji	100
+高分子絮凝剂	gao fen zi xu ning ji	100
+高分子药物	gao fen zi yao wu	100
+高频滴定法	gao pin di ding fa	100
+高速离心机	gao su li xin ji	100
+高烯丙醇	gao xi bing chun	100
+高吸水性聚合物	gao xi shui xing ju he wu	100
+高压电泳	gao ya dian yong	100
+高压光谱法	gao ya guang pu fa	100
+高自旋	gao zi xuan	160
+铬化合物	ge hua he wu	100
+镉试剂	ge shi ji	100
+给电子基团	gei dian zi ji tuan	100
+庚烷值	geng wan zhi	100
+共沉淀法	gong chen dian fa	100
+汞电池	gong dian chi	100
+共轭分子	gong e fen zi	100
+共轭加成	gong e jia cheng	100
+共轭碱	gong e jian	100
+共轭键	gong e jian	100
+共轭聚合物	gong e ju he wu	100
+共轭溶液	gong e rong ye	100
+共轭系	gong e xi	100
+共沸点	gong fei dian	100
+共沸混合物	gong fei hun he wu	100
+共沸物	gong fei wu	100
+共沸蒸馏	gong fei zheng liu	100
+汞化合物	gong hua he wu	100
+共价有机框架	gong jia you ji kuang jia	160
+共聚单体	gong ju dan ti	100
+共聚合方程	gong ju he fang cheng	100
+共聚甲醛	gong ju jia quan	100
+共聚酯	gong ju zhi	100
+汞膜电极	gong mo dian ji	100
+功能高分子	gong neng gao fen zi	100
+共熔点	gong rong dian	100
+共缩聚	gong suo ju	100
+工业色谱	gong ye se pu	100
+工业色谱仪	gong ye se pu yi	100
+共引发剂	gong yin fa ji	100
+共振光谱	gong zhen guang pu	100
+工作电极	gong zuo dian ji	100
+构象搜索	gou xiang sou suo	100
+构象无序	gou xiang wu xu	100
+构象效应	gou xiang xiao ying	100
+构象异构体	gou xiang yi gou ti	100
+构造异构体	gou zao yi gou ti	100
+固醇类	gu chun lei	100
+固定床反应器	gu ding chuang fan ying qi	100
+骨架催化剂	gu jia cui hua ji	100
+骨架异构化	gu jia yi gou hua	100
+固态离子学	gu tai li zi xue	100
+固体电解质界面	gu ti dian jie zhi jie mian	160
+固相萃取	gu xiang cui qu	100
+固相反应	gu xiang fan ying	100
+固相合成	gu xiang he cheng	160
+固相聚合	gu xiang ju he	100
+固相微萃取	gu xiang wei cui qu	100
+固液萃取	gu ye cui qu	100
+固液平衡	gu ye ping heng	160
+固有溶解度	gu you rong jie du	100
+贯流色谱法	guan liu se pu fa	100
+冠醚	guan mi	100
+官能团转化	guan neng tuan zhuan hua	160
+管状反应器	guan zhuang fan ying qi	100
+冠状构象	guan zhuang gou xiang	100
+光催化降解	guang cui hua jiang jie	100
+光电化学	guang dian hua xue	100
+光度滴定法	guang du di ding fa	100
+光解离	guang jie li	100
+光聚合	guang ju he	100
+光聚合反应	guang ju he fan ying	100
+光聚合物	guang ju he wu	100
+光敏聚合	guang min ju he	100
+光敏聚合物	guang min ju he wu	100
+光谱重叠	guang pu chong die	100
+光谱电化学	guang pu dian hua xue	100
+光谱分布	guang pu fen bu	100
+光谱感光板	guang pu gan guang ban	100
+光谱干扰	guang pu gan rao	100
+光谱红移	guang pu hong yi	100
+光谱缓冲剂	guang pu huan chong ji	100
+光谱回应性	guang pu hui ying xing	100
+光谱蓝移	guang pu lan yi	100
+光谱烧孔	guang pu shao kong	100
+光谱载体	guang pu zai ti	100
+光谱增感剂	guang pu zeng gan ji	100
+光栅光谱仪	guang shan guang pu yi	100
+光声光谱	guang sheng guang pu	100
+光声光谱法	guang sheng guang pu fa	100
+光声光谱仪	guang sheng guang pu yi	100
+光稳定剂	guang wen ding ji	100
+光烯醇化	guang xi chun hua	100
+光学异构体	guang xue yi gou ti	100
+光氧化还原催化	guang yang hua huan yuan cui hua	160
+光引发聚合	guang yin fa ju he	100
+光致电离	guang zhi dian li	100
+轨道磁矩	gui dao ci ju	100
+轨道量子数	gui dao liang zi shu	100
+轨道效应	gui dao xiao ying	100
+轨道指数	gui dao zhi shu	100
+规整聚合物	gui zheng ju he wu	100
+硅正离子	gui zheng li zi	100
+归中反应	gui zhong fan ying	100
+硅自由基	gui zi you ji	100
+过饱和溶解液	guo bao he rong jie ye	100
+过饱和蒸气	guo bao he zheng qi	100
+过程色谱	guo cheng se pu	100
+过程色谱仪	guo cheng se pu yi	100
+过电位	guo dian wei	160
+过渡态	guo du tai	100
+过渡态理论	guo du tai li lun	160
+过滤介质	guo lv jie zhi	100
+过滤瓶	guo lv ping	100
+过滤效率	guo lv xiao lv	100
+过滤性能	guo lv xing neng	100
+过酸	guo suan	100
+过氧化物交联	guo yang hua wu jiao lian	100
+过氧酸酯	guo yang suan zhi	100
+哈伯	ha bo	1
+含氧化合物	han yang hua he wu	100
+核奥弗豪泽效应	he ao fu hao ze xiao ying	160
+褐变反应	he bian fan ying	100
+合成反应	he cheng fan ying	100
+合成聚合物	he cheng ju he wu	100
+核磁共振波谱	he ci gong zhen bo pu	160
+核磁共振谱	he ci gong zhen pu	100
+核化学	he hua xue	100
+核连锁反应	he lian suo fan ying	100
+恒电流充放电	heng dian liu chong fang dian	160
+宏环效应	hong huan xiao ying	160
+红外光谱法	hong wai guang pu fa	100
+红外溶剂	hong wai rong ji	100
+后沉淀	hou chen dian	100
+侯德榜	hou de bang	30
+后硫化	hou liu hua	100
+互变异构化	hu bian yi gou hua	100
+互变异构体	hu bian yi gou ti	100
+互变异构现象	hu bian yi gou xian xiang	100
+互溶度	hu rong du	100
+互溶性	hu rong xing	100
+化学电离	hua xue dian li	100
+化学防腐	hua xue fang fu	100
+化学分离	hua xue fen li	100
+化学活化	hua xue huo hua	100
+化学活性	hua xue huo xing	100
+化学计量法	hua xue ji liang fa	100
+化学计量数	hua xue ji liang shu	100
+化学机械研磨	hua xue ji xie yan mo	100
+化学结构	hua xue jie gou	100
+化学浸蚀	hua xue jin shi	100
+化学净化	hua xue jing hua	100
+化学品安全技术说明书	hua xue pin an quan ji shu shuo ming shu	160
+化学品储存	hua xue pin chu cun	160
+化学气相沉积	hua xue qi xiang chen ji	100
+化学气相输运	hua xue qi xiang shu yun	100
+化学势	hua xue shi	100
+化学蚀刻	hua xue shi ke	100
+化学位移	hua xue wei yi	100
+化学位移各向异性	hua xue wei yi ge xiang yi xing	160
+化学污染	hua xue wu ran	100
+化学物种	hua xue wu zhong	100
+化学吸附	hua xue xi fu	100
+化学选择性	hua xue xuan ze xing	160
+化学振荡	hua xue zhen dang	100
+化学组成	hua xue zu cheng	100
+化学组分	hua xue zu fen	100
+缓冲作用	huan chong zuo yong	100
+环化聚合	huan hua ju he	100
+环加成反应	huan jia cheng fan ying	160
+环加成聚合	huan jia cheng ju he	100
+环聚合	huan ju he	100
+环醚	huan mi	100
+环酮	huan tong	100
+环烷	huan wan	100
+环烯	huan xi	100
+环烯聚合	huan xi ju he	100
+环烯烃	huan xi ting	100
+环形电极	huan xing dian ji	100
+还原胺化	huan yuan an hua	100
+还原半反应	huan yuan ban fan ying	100
+还原电极	huan yuan dian ji	100
+还原裂解	huan yuan lie jie	100
+还原烷基化	huan yuan wan ji hua	100
+还原酰化	huan yuan xian hua	100
+还原消除	huan yuan xiao chu	160
+还原性物质	huan yuan xing wu zhi	160
+还原焰	huan yuan yan	100
+环状化合物	huan zhuang hua he wu	100
+环状聚合物	huan zhuang ju he wu	160
+磺化煤	huang hua mei	100
+磺化器	huang hua qi	100
+磺化油	huang hua you	100
+挥发酸	hui fa suan	100
+汇聚合成	hui ju he cheng	100
+回流比	hui liu bi	100
+回流管	hui liu guan	100
+回收溶剂	hui shou rong ji	100
+混合溶剂	hun he rong ji	100
+混合溶液	hun he rong ye	100
+混合酸	hun he suan	100
+混酸	hun suan	100
+活度系数	huo du xi shu	160
+霍夫曼消除	huo fu man xiao chu	100
+火花光谱	huo hua guang pu	100
+活化焓	huo hua han	160
+活化络合物	huo hua luo he wu	100
+活化熵	huo hua shang	160
+活化吸附	huo hua xi fu	100
+活化自由能	huo hua zi you neng	160
+霍奇金	huo qi jin	208
+活性聚合	huo xing ju he	160
+活性位点	huo xing wei dian	160
+活性氧化铝	huo xing yang hua lv	100
+季铵化合物	ji an hua he wu	100
+基本反应	ji ben fan ying	100
+积分溶解焓	ji fen rong jie han	100
+激光光谱	ji guang guang pu	100
+激光化学	ji guang hua xue	100
+激光诱导荧光	ji guang you dao ying guang	100
+几何异构	ji he yi gou	100
+几何异构体	ji he yi gou ti	100
+极化电极	ji hua dian ji	100
+极谱波	ji pu bo	100
+极谱分析	ji pu fen xi	100
+极谱图	ji pu tu	100
+计时电流法	ji shi dian liu fa	160
+计时电位法	ji shi dian wei fa	160
+计算化学	ji suan hua xue	100
+基团频率	ji tuan pin lv	100
+基线分离	ji xian fen li	160
+极限吸附电流	ji xian xi fu dian liu	100
+机械互锁分子	ji xie hu suo fen zi	160
+极性单体	ji xing dan ti	100
+极性共价键	ji xing gong jia jian	100
+极性化合物	ji xing hua he wu	100
+极性聚合物	ji xing ju he wu	100
+极性溶剂	ji xing rong ji	100
+极性吸附	ji xing xi fu	100
+基元反应	ji yuan fan ying	100
+基质辅助激光解吸电离	ji zhi fu zhu ji guang jie xi dian li	160
+基质效应	ji zhi xiao ying	160
+基准基团	ji zhun ji tuan	100
+基组叠加误差	ji zu die jia wu cha	160
+加标回收率	jia biao hui shou lv	160
+加成二聚	jia cheng er ju	100
+加成法	jia cheng fa	100
+加成聚合	jia cheng ju he	100
+加成消除反应	jia cheng xiao chu fan ying	160
+加合离子	jia he li zi	100
+甲基化合物	jia ji hua he wu	100
+甲基乙胺	jia ji yi an	100
+价键	jia jian	100
+钾碱醇液	jia jian chun ye	100
+价键法	jia jian fa	100
+价键理论	jia jian li lun	100
+加氢装置	jia qing zhuang zhi	100
+甲醛滴定	jia quan di ding	100
+甲醛聚糖	jia quan ju tang	100
+甲醛水	jia quan shui	100
+甲酸丙酯	jia suan bing zhi	100
+甲酸甲酯	jia suan jia zhi	100
+甲酸盐	jia suan yan	100
+甲酸酯	jia suan zhi	100
+价态	jia tai	100
+价态异构	jia tai yi gou	100
+甲烷水合物	jia wan shui he wu	100
+加压过滤	jia ya guo lv	100
+键长	jian chang	100
+检出限	jian chu xian	160
+碱催化剂	jian cui hua ji	100
+间二甲苯	jian er jia ben	100
+间二氯苯	jian er lv ben	100
+键合相色谱	jian he xiang se pu	100
+键合异构	jian he yi gou	100
+间甲苯甲酸	jian jia ben jia suan	100
+碱水解	jian shui jie	100
+间歇聚合	jian xie ju he	100
+碱性聚合	jian xing ju he	100
+碱性蓄电池	jian xing xu dian chi	100
+降解反应	jiang jie fan ying	100
+降解性聚合物	jiang jie xing ju he wu	100
+交叉分子束	jiao cha fen zi shu	100
+交叉偶联	jiao cha ou lian	160
+交叉偶联反应	jiao cha ou lian fan ying	160
+焦化反应	jiao hua fan ying	100
+交换电流密度	jiao huan dian liu mi du	160
+交换反应	jiao huan fan ying	100
+交换树脂	jiao huan shu zhi	100
+交换吸附	jiao huan xi fu	100
+交联度	jiao lian du	100
+交联反应	jiao lian fan ying	100
+交联聚合	jiao lian ju he	100
+交联凝胶	jiao lian ning jiao	100
+角鲨烯	jiao sha xi	100
+胶束电动色谱	jiao shu dian dong se pu	100
+交替共聚物	jiao ti gong ju wu	100
+接触电极	jie chu dian ji	100
+接触过滤	jie chu guo lv	100
+结构异构体	jie gou yi gou ti	100
+结晶点	jie jing dian	100
+结晶动力学	jie jing dong li xue	160
+结晶聚合物	jie jing ju he wu	100
+结晶皿	jie jing min	100
+结晶热	jie jing re	100
+结晶温度	jie jing wen du	100
+结晶紫	jie jing zi	100
+解离常数	jie li chang shu	100
+解离能	jie li neng	100
+解离吸附	jie li xi fu	100
+界面电化学	jie mian dian hua xue	100
+界面聚合	jie mian ju he	100
+接枝共聚合	jie zhi gong ju he	100
+接枝共聚物	jie zhi gong ju wu	160
+介质过滤器	jie zhi guo lv qi	100
+接枝聚合	jie zhi ju he	100
+接枝聚合物	jie zhi ju he wu	100
+近场光谱仪	jin chang guang pu yi	100
+近红外光谱	jin hong wai guang pu	100
+近红外光谱法	jin hong wai guang pu fa	100
+紧密离子对	jin mi li zi dui	100
+金属催化剂	jin shu cui hua ji	100
+金属络合物	jin shu luo he wu	100
+金属硼烷	jin shu peng wan	100
+金属碳硼烷	jin shu tan peng wan	100
+金属有机化学	jin shu you ji hua xue	160
+金属有机框架	jin shu you ji kuang jia	160
+晶格点	jing ge dian	100
+静汞滴电极	jing gong di dian ji	100
+腈硫化物	jing liu hua wu	100
+精密分馏	jing mi fen liu	100
+精密聚合	jing mi ju he	100
+经式异构体	jing shi yi gou ti	100
+静态场质谱仪	jing tai chang zhi pu yi	100
+静态质谱仪	jing tai zhi pu yi	100
+晶体场分裂	jing ti chang fen lie	100
+晶体点阵	jing ti dian zhen	100
+晶体分析	jing ti fen xi	100
+晶体工程	jing ti gong cheng	100
+晶体结构分析	jing ti jie gou fen xi	100
+晶体平面	jing ti ping mian	100
+晶体绕射	jing ti rao she	100
+晶体生成	jing ti sheng cheng	100
+晶体形态学	jing ti xing tai xue	100
+晶体学对称性	jing ti xue dui chen xing	100
+腈氧化物	jing yang hua wu	100
+腈叶立德	jing ye li de	100
+腈正离子	jing zheng li zi	100
+聚氨酯橡胶	ju an zhi xiang jiao	100
+聚苯并咪唑	ju ben bing mi zuo	100
+聚苯并噻唑	ju ben bing sai zuo	100
+聚苯硫醚	ju ben liu mi	100
+聚丙烯酸	ju bing xi suan	100
+聚丙烯酸钠	ju bing xi suan na	100
+聚丙烯酸酯	ju bing xi suan zhi	100
+聚电解质	ju dian jie zhi	100
+聚对亚苯	ju dui ya ben	100
+聚芳砜酰胺	ju fang feng xian an	100
+聚芳酰胺	ju fang xian an	100
+聚氟乙烯	ju fu yi xi	100
+聚合催化剂	ju he cui hua ji	100
+聚合动力学	ju he dong li xue	100
+聚合度分布	ju he du fen bu	160
+聚合加速剂	ju he jia su ji	100
+聚合热力学	ju he re li xue	100
+聚合物共混	ju he wu gong hun	160
+聚合物降解	ju he wu jiang jie	100
+聚合物溶剂	ju he wu rong ji	100
+聚合物溶液	ju he wu rong ye	100
+聚合物刷	ju he wu shua	160
+聚合物形态	ju he wu xing tai	100
+聚合物载体	ju he wu zai ti	100
+聚合现象	ju he xian xiang	100
+聚合型	ju he xing	100
+聚合性	ju he xing	100
+聚合油	ju he you	100
+聚合诱导自组装	ju he you dao zi zu zhuang	160
+聚环戊二烯	ju huan wu er xi	100
+聚环氧丙烷	ju huan yang bing wan	100
+聚环氧乙烷	ju huan yang yi wan	100
+聚加成反应	ju jia cheng fan ying	100
+聚氯丁二烯	ju lv ding er xi	100
+聚醚	ju mi	100
+聚醚氨酯	ju mi an zhi	100
+聚醚醚酮	ju mi mi tong	100
+聚醚酮酮	ju mi tong tong	100
+聚醚酰胺	ju mi xian an	100
+聚脲	ju niao	100
+聚酰胺树脂	ju xian an shu zhi	100
+聚酰胺纤维	ju xian an xian wei	100
+卷积光谱法	juan ji guang pu fa	100
+卷曲构象	juan qu gou xiang	100
+绝对构型	jue dui gou xing	100
+均聚反应	jun ju fan ying	100
+均裂反应	jun lie fan ying	100
+均三甲苯	jun san jia ben	100
+均相催化	jun xiang cui hua	100
+均相催化循环	jun xiang cui hua xun huan	160
+均相萃取	jun xiang cui qu	100
+均相反应	jun xiang fan ying	100
+均相聚合	jun xiang ju he	100
+开环复分解聚合	kai huan fu fen jie ju he	160
+开环共聚合	kai huan gong ju he	100
+开环聚合	kai huan ju he	100
+开环易位聚合	kai huan yi wei ju he	160
+凯库勒	kai ku le	111
+开链化合物	kai lian hua he wu	100
+抗胆碱酯酶	kang dan jian zhi mei	100
+抗衡离子	kang heng li zi	100
+可萃取酸	ke cui qu suan	100
+可萃取物种	ke cui qu wu zhong	100
+克分子量	ke fen zi liang	100
+可控聚合	ke kong ju he	160
+可控自由基聚合	ke kong zi you ji ju he	160
+克莱门森还原	ke lai men sen huan yuan	100
+可逆电池	ke ni dian chi	100
+可逆加成断裂链转移聚合	ke ni jia cheng duan lie lian zhuan yi ju he	160
+可逆凝胶	ke ni ning jiao	100
+可逆吸附	ke ni xi fu	100
+空白溶液	kong bai rong ye	100
+孔径分布	kong jing fen bu	160
+空气过滤	kong qi guo lv	100
+快速色谱法	kuai su se pu fa	100
+喹诺酮	kui nuo tong	100
+拉曼光谱学	la man guang pu xue	100
+拉曼光谱仪	la man guang pu yi	100
+拉瓦锡	la wa xi	1155
+勒克朗谢电池	le ke lang xie dian chi	100
+勒夏特列	le xia te lie	2
+累积多烯	lei ji duo xi	100
+类酶高分子	lei mei gao fen zi	100
+类双自由基	lei shuang zi you ji	100
+冷硫化	leng liu hua	100
+立方晶体	li fang jing ti	100
+离解度	li jie du	160
+锂聚合物电池	li ju he wu dian chi	100
+理论塔板数	li lun ta ban shu	160
+离去基团	li qu ji tuan	100
+立体选择性	li ti xuan ze xing	160
+立体异构体	li ti yi gou ti	100
+立体专一性	li ti zhuan yi xing	160
+离线裂解	li xian lie jie	100
+理想共聚合	li xiang gong ju he	100
+理想溶液	li xiang rong ye	100
+离心萃取器	li xin cui qu qi	100
+离心分离机	li xin fen li ji	100
+离心分离器	li xin fen li qi	100
+离心过滤	li xin guo lv	100
+离心过滤机	li xin guo lv ji	100
+离心脱水机	li xin tuo shui ji	100
+离心雾化	li xin wu hua	100
+李远哲	li yuan zhe	256
+粒状聚合	li zhuang ju he	100
+离子变色	li zi bian se	100
+离子簇	li zi cu	100
+离子催化	li zi cui hua	100
+离子缔合	li zi di he	100
+离子缔合物萃取	li zi di he wu cui qu	100
+离子电导	li zi dian dao	100
+离子电泳	li zi dian yong	100
+粒子电泳	li zi dian yong	100
+离子对聚合	li zi dui ju he	100
+离子氛	li zi fen	100
+离子共聚合	li zi gong ju he	100
+离子化溶剂	li zi hua rong ji	100
+离子积	li zi ji	100
+离子交换反应	li zi jiao huan fan ying	100
+离子交换分离	li zi jiao huan fen li	100
+离子交换膜	li zi jiao huan mo	100
+离子交换平衡	li zi jiao huan ping heng	100
+离子交换软化	li zi jiao huan ruan hua	100
+离子结合	li zi jie he	100
+离子解离	li zi jie li	100
+离子阱	li zi jing	100
+离子晶格	li zi jing ge	100
+离子阱质谱	li zi jing zhi pu	160
+离子聚合	li zi ju he	100
+离子聚合物	li zi ju he wu	100
+离子凝胶	li zi ning jiao	160
+离子取代	li zi qu dai	100
+离子溶剂化	li zi rong ji hua	100
+离子色谱法	li zi se pu fa	100
+离子水合	li zi shui he	100
+离子相互作用	li zi xiang hu zuo yong	100
+离子选择电极	li zi xuan ze dian ji	100
+离子液体	li zi ye ti	100
+离子抑制	li zi yi zhi	160
+离子云	li zi yun	100
+离子注入技术	li zi zhu ru ji shu	100
+连苯三酚	lian ben san fen	100
+链化合物	lian hua he wu	100
+链锁反应	lian suo fan ying	100
+链型聚合物	lian xing ju he wu	100
+连续萃取	lian xu cui qu	100
+连续聚合	lian xu ju he	100
+连续流合成	lian xu liu he cheng	160
+量热滴定曲线	liang re di ding qu xian	100
+量热法	liang re fa	100
+量热学	liang re xue	100
+两相区	liang xiang qu	100
+两性表面活性剂	liang xing biao mian huo xing ji	100
+两性溶剂	liang xing rong ji	100
+量压裂解	liang ya lie jie	100
+量子电化学	liang zi dian hua xue	100
+量子晶体	liang zi jing ti	100
+裂解残留	lie jie can liu	100
+裂解反应	lie jie fan ying	100
+裂解红外光谱	lie jie hong wai guang pu	100
+裂解红外图	lie jie hong wai tu	100
+裂解质谱法	lie jie zhi pu fa	100
+裂解质谱分析	lie jie zhi pu fen xi	100
+邻苯二酚紫	lin ben er fen zi	100
+邻苯酚磺酸	lin ben fen huang suan	100
+邻二甲苯	lin er jia ben	100
+磷光计	lin guang ji	100
+磷光体	lin guang ti	100
+临界分子量	lin jie fen zi liang	100
+磷酸盐缓冲剂	lin suan yan huan chong ji	100
+邻硝基苯酚	lin xiao ji ben fen	100
+邻溴甲苯	lin xiu jia ben	100
+零级反应	ling ji fan ying	100
+流变分子	liu bian fen zi	100
+硫醇化物	liu chun hua wu	100
+硫代酸酯	liu dai suan zhi	100
+流化床反应器	liu hua chuang fan ying qi	100
+锍化合物	liu hua he wu	100
+硫化合物	liu hua he wu	100
+硫化活化剂	liu hua huo hua ji	100
+硫化器	liu hua qi	100
+硫化油	liu hua you	100
+硫化作用	liu hua zuo yong	100
+六氯化苯	liu lv hua ben	100
+硫氰	liu qing	100
+硫氰酸酯	liu qing suan zhi	100
+硫酸根离子	liu suan gen li zi	100
+硫酸酯	liu suan zhi	100
+硫杂冠醚	liu za guan mi	100
+卤仿反应	lu fang fan ying	100
+卤化酰基	lu hua xian ji	100
+卤键	lu jian	160
+卤烷基化	lu wan ji hua	100
+路易斯酸	lu yi si suan	100
+络合滴定法	luo he di ding fa	100
+络合剂	luo he ji	100
+络合色谱法	luo he se pu fa	100
+络合作用	luo he zuo yong	100
+螺旋手性	luo xuan shou xing	100
+络阴离子	luo yin li zi	100
+氯胺	lv an	100
+氯醇	lv chun	100
+氯化合物	lv hua he wu	100
+氯化聚乙烯	lv hua ju yi xi	100
+氯化镍	lv hua nie	100
+氯化亚铜	lv hua ya tong	100
+氯磺酰化	lv huang xian hua	100
+氯甲烷	lv jia wan	100
+氯醚橡胶	lv mi xiang jiao	100
+氯醛	lv quan	100
+绿色合成	lv se he cheng	160
+氯乙酸	lv yi suan	100
+脉冲裂解	mai chong lie jie	100
+迈克尔加成	mai ke er jia cheng	100
+锚定催化剂	mao ding cui hua ji	100
+酶催化剂	mei cui hua ji	100
+镁电池	mei dian chi	100
+酶反应	mei fan ying	100
+煤化学	mei hua xue	100
+酶水解	mei shui jie	100
+门捷列夫	men jie lie fu	87
+咪唑烷酮	mi zuo wan tong	100
+面式异构体	mian shi yi gou ti	100
+免疫电极	mian yi dian ji	100
+敏化荧光	min hua ying guang	100
+摩擦发光	mo ca fa guang	100
+膜催化剂	mo cui hua ji	100
+膜导入质谱法	mo dao ru zhi pu fa	100
+膜电化学	mo dian hua xue	100
+膜电极	mo dian ji	100
+摩尔气体常数	mo er qi ti chang shu	100
+摩尔热容	mo er re rong	100
+摩尔吸光系数	mo er xi guang xi shu	100
+膜反应器	mo fan ying qi	100
+膜进样质谱法	mo jin yang zhi pu fa	100
+模板聚合	mu ban ju he	100
+钼化合物	mu hua he wu	100
+目视滴定法	mu shi di ding fa	100
+钠硫电池	na liu dian chi	100
+纳米电化学	na mi dian hua xue	100
+纳米电极	na mi dian ji	100
+纳米分析化学	na mi fen xi hua xue	100
+耐化学腐蚀	nai hua xue fu shi	100
+内半缩醛	nei ban suo quan	100
+内标法	nei biao fa	160
+内禀反应坐标	nei bing fan ying zuo biao	160
+内电解	nei dian jie	100
+内羟亚胺	nei qiang ya an	100
+内吸附	nei xi fu	100
+内酰亚胺	nei xian ya an	100
+内向配位基	nei xiang pei wei ji	100
+内型异构体	nei xing yi gou ti	100
+内酯化	nei zhi hua	100
+能斯特	neng si te	10
+逆反应	ni fan ying	100
+逆合成分析	ni he cheng fen xi	160
+逆流色谱法	ni liu se pu fa	100
+逆羟醛缩合	ni qiang quan suo he	100
+逆同位素稀释分析	ni tong wei su xi shi fen xi	100
+黏均分子量	nian jun fen zi liang	100
+脲基甲酸酯	niao ji jia suan zhi	100
+镍催化剂	nie cui hua ji	100
+镍镉蓄电池	nie ge xu dian chi	100
+凝胶纺丝	ning jiao fang si	100
+凝胶分散	ning jiao fen san	100
+凝胶过滤	ning jiao guo lv	100
+凝胶剂量	ning jiao ji liang	100
+扭型构象	niu xing gou xiang	100
+浓差电池	nong cha dian chi	100
+浓溶液	nong rong ye	100
+浓盐酸	nong yan suan	100
+诺贝尔	nuo bei er	66780
+偶氮亚胺	ou dan ya an	100
+耦合反应	ou he fan ying	100
+偶极环加成	ou ji huan jia cheng	160
+偶联反应	ou lian fan ying	100
+偶联聚合	ou lian ju he	100
+偶姻缩合	ou yin suo he	100
+偶遇络合物	ou yu luo he wu	100
+排阻色谱法	pai zu se pu fa	100
+配体场理论	pei ti chang li lun	160
+配体交换	pei ti jiao huan	160
+配位不饱和	pei wei bu bao he	160
+配位层	pei wei ceng	100
+配位场	pei wei chang	100
+配位场分裂	pei wei chang fen lie	100
+配位场理论	pei wei chang li lun	100
+配位催化	pei wei cui hua	100
+配位多面体	pei wei duo mian ti	100
+配位反应	pei wei fan ying	100
+配位共价键	pei wei gong jia jian	100
+配位化合物	pei wei hua he wu	100
+配位基	pei wei ji	100
+配位几何	pei wei ji he	160
+配位键	pei wei jian	100
+配位聚合	pei wei ju he	100
+配位聚合物	pei wei ju he wu	160
+配位距离	pei wei ju li	100
+配位式	pei wei shi	100
+配位数	pei wei shu	100
+配位水	pei wei shui	100
+配位异构	pei wei yi gou	100
+配位原子	pei wei yuan zi	100
+配位作用	pei wei zuo yong	100
+盆式构象	pen shi gou xiang	100
+硼硅玻璃	peng gui bo li	100
+硼化物	peng hua wu	100
+彭宁电离	peng ning dian li	100
+硼氢化钠	peng qing hua na	100
+硼砂珠	peng sha zhu	100
+硼酸盐	peng suan yan	100
+硼烷	peng wan	100
+碰撞诱导解离	peng zhuang you dao jie li	160
+皮质酮	pi zhi tong	100
+偏摩尔焓	pian mo er han	160
+偏摩尔量	pian mo er liang	100
+偏摩尔体积	pian mo er ti ji	160
+偏三甲苯	pian san jia ben	100
+偏振光谱	pian zhen guang pu	100
+平衡聚合	ping heng ju he	100
+平衡熔点	ping heng rong dian	100
+平衡同位素效应	ping heng tong wei su xiao ying	160
+平均聚合度	ping jun ju he du	100
+平面色谱	ping mian se pu	100
+平行反应	ping xing fan ying	100
+平行链晶体	ping xing lian jing ti	100
+气固色谱法	qi gu se pu fa	100
+歧化反应	qi hua fan ying	100
+气敏电极	qi min dian ji	100
+气凝胶	qi ning jiao	100
+气体电极	qi ti dian ji	100
+气体离子	qi ti li zi	100
+气相聚合	qi xiang ju he	100
+气相氧化	qi xiang yang hua	100
+气液平衡	qi ye ping heng	160
+气液色谱法	qi ye se pu fa	100
+气质联用	qi zhi lian yong	160
+嵌段共聚合	qian duan gong ju he	100
+嵌段共聚物	qian duan gong ju wu	100
+嵌段聚合	qian duan ju he	100
+嵌入电极	qian ru dian ji	100
+嵌入反应	qian ru fan ying	100
+前手性中心	qian shou xing zhong xin	100
+铅酸蓄电池	qian suan xu dian chi	100
+前体离子	qian ti li zi	100
+前沿色谱法	qian yan se pu fa	100
+迁移插入	qian yi cha ru	160
+羟胺盐酸盐	qiang an yan suan yan	100
+羟基化	qiang ji hua	100
+羟基磷灰石	qiang ji lin hui shi	100
+羟醛缩合	qiang quan suo he	160
+羟酸	qiang suan	100
+羟自由基	qiang zi you ji	100
+桥联配位基	qiao lian pei wei ji	100
+亲电芳香取代	qin dian fang xiang qu dai	160
+亲电加成	qin dian jia cheng	100
+亲电取代	qin dian qu dai	160
+亲电性	qin dian xing	100
+亲核反应	qin he fan ying	100
+亲核芳香取代	qin he fang xiang qu dai	160
+亲核剂	qin he ji	100
+亲核加成	qin he jia cheng	160
+亲核取代	qin he qu dai	100
+亲和色谱法	qin he se pu fa	100
+亲核试剂	qin he shi ji	100
+亲核性	qin he xing	100
+亲水基	qin shui ji	100
+亲水胶体	qin shui jiao ti	100
+亲水聚合物	qin shui ju he wu	100
+亲水相互作用色谱	qin shui xiang hu zuo yong se pu	160
+氰醇	qing chun	100
+氢电极	qing dian ji	100
+氢负离子	qing fu li zi	100
+氢氟碳化物	qing fu tan hua wu	100
+氢化酶	qing hua mei	100
+氢键	qing jian	100
+氢键网络	qing jian wang luo	160
+氢羧基化	qing suo ji hua	100
+氢氧电池	qing yang dian chi	100
+氢氧离子	qing yang li zi	100
+氢转移聚合	qing zhuan yi ju he	100
+球状链晶体	qiu zhuang lian jing ti	100
+区带电泳	qu dai dian yong	100
+取代合金	qu dai he jin	100
+取代缺陷	qu dai que xian	100
+去离子化	qu li zi hua	100
+去溶剂化	qu rong ji hua	100
+区域选择性	qu yu xuan ze xing	160
+醛变位酶	quan bian wei mei	100
+醛醇	quan chun	100
+全二维色谱	quan er wei se pu	100
+全氟碳化物	quan fu tan hua wu	100
+全回流	quan hui liu	100
+全氯乙烯	quan lv yi xi	100
+醛水合物	quan shui he wu	100
+炔醇	que chun	100
+炔酸	que suan	100
+缺陷晶体	que xian jing ti	100
+染料化学	ran liao hua xue	100
+热电池	re dian chi	100
+热分析	re fen xi	100
+热分析法	re fen xi fa	100
+热分析仪	re fen xi yi	100
+热固聚合物	re gu ju he wu	100
+热固性树脂	re gu xing shu zhi	100
+热光谱法	re guang pu fa	100
+热化学法	re hua xue fa	100
+热解光谱	re jie guang pu	100
+热解消除	re jie xiao chu	100
+热晶体管	re jing ti guan	100
+热聚合	re ju he	100
+热力学积分	re li xue ji fen	160
+热离子	re li zi	100
+热硫化	re liu hua	100
+热色谱法	re se pu fa	100
+热塑性树脂	re su xing shu zhi	100
+热脱附	re tuo fu	100
+热脱附谱	re tuo fu pu	100
+热稳定剂	re wen ding ji	100
+热液晶体生长	re ye jing ti sheng zhang	100
+热致发光	re zhi fa guang	100
+溶度积	rong du ji	100
+溶剂萃取	rong ji cui qu	100
+溶剂萃取法	rong ji cui qu fa	100
+溶剂分解	rong ji fen jie	100
+溶剂峰消除技术	rong ji feng xiao chu ji shu	100
+溶剂化	rong ji hua	100
+溶剂化电子	rong ji hua dian zi	100
+溶剂化模型	rong ji hua mo xing	100
+溶剂化质子	rong ji hua zhi zi	100
+溶剂化自由能	rong ji hua zi you neng	160
+溶剂回收	rong ji hui shou	100
+溶剂极性	rong ji ji xing	100
+溶剂极性参数	rong ji ji xing can shu	100
+溶剂解	rong ji jie	100
+溶剂解离	rong ji jie li	100
+溶剂强度	rong ji qiang du	100
+溶剂热处理	rong ji re chu li	100
+溶剂热法	rong ji re fa	100
+溶剂热合成	rong ji re he cheng	100
+溶剂同位素效应	rong ji tong wei su xiao ying	100
+溶剂位移	rong ji wei yi	100
+溶剂效应	rong ji xiao ying	100
+溶剂助分散法	rong ji zhu fen san fa	100
+溶胶化	rong jiao hua	100
+溶胶凝胶法	rong jiao ning jiao fa	100
+溶解金属还原	rong jie jin shu huan yuan	100
+溶解作用	rong jie zuo yong	100
+容量因子	rong liang yin zi	160
+溶液电阻	rong ye dian zu	100
+溶液纺丝	rong ye fang si	100
+溶液化学	rong ye hua xue	100
+溶液聚合	rong ye ju he	100
+乳化沥青	ru hua li qing	100
+乳化器	ru hua qi	100
+乳酸交酯	ru suan jiao zhi	100
+软酸	ruan suan	100
+软硬酸碱理论	ruan ying suan jian li lun	160
+三重峰	san chong feng	100
+三重态	san chong tai	100
+三电极电解池	san dian ji dian jie chi	100
+三分子反应	san fen zi fan ying	100
+三级胺	san ji an	100
+三级反应	san ji fan ying	100
+三甲胺	san jia an	100
+散裂反应	san lie fan ying	100
+三酸甘油酯	san suan gan you zhi	100
+三酰甘油	san xian gan you	100
+三相点	san xiang dian	100
+三元共聚合	san yuan gong ju he	100
+三元共聚物	san yuan gong ju wu	100
+三元络合物	san yuan luo he wu	100
+三元系	san yuan xi	100
+三元相图	san yuan xiang tu	100
+三唑	san zuo	100
+色谱峰	se pu feng	100
+色谱工作站	se pu gong zuo zhan	100
+色谱数据系统	se pu shu ju xi tong	100
+色谱图	se pu tu	100
+色谱柱	se pu zhu	100
+闪发聚合	shan fa ju he	100
+闪光光谱	shan guang guang pu	100
+闪光光谱法	shan guang guang pu fa	100
+烧蚀聚合物	shao shi ju he wu	100
+砷化合物	shen hua he wu	100
+砷酸盐	shen suan yan	100
+伸展链晶体	shen zhan lian jing ti	100
+生成焓	sheng cheng han	100
+声发光	sheng fa guang	100
+升华干燥	sheng hua gan zao	100
+声化学	sheng hua xue	100
+生物催化	sheng wu cui hua	100
+生物大分子	sheng wu da fen zi	100
+生物电池	sheng wu dian chi	100
+生物胶体	sheng wu jiao ti	100
+生物色谱	sheng wu se pu	100
+生物正交化学	sheng wu zheng jiao hua xue	160
+生物质谱法	sheng wu zhi pu fa	100
+声致发光	sheng zhi fa guang	100
+示波滴定法	shi bo di ding fa	100
+示波极谱法	shi bo ji pu fa	100
+湿电池	shi dian chi	100
+湿法反应	shi fa fan ying	100
+实际晶体	shi ji jing ti	100
+石墨酸	shi mo suan	100
+石墨烯	shi mo xi	100
+势能面	shi neng mian	160
+食品化学	shi pin hua xue	100
+实验室废液	shi yan shi fei ye	160
+石油化学工业	shi you hua xue gong ye	100
+石油溶剂	shi you rong ji	100
+时钟反应	shi zhong fan ying	100
+手性拆分	shou xing chai fen	160
+手性放大	shou xing fang da	100
+手性分子	shou xing fen zi	100
+手性辅基	shou xing fu ji	100
+手性高分子	shou xing gao fen zi	100
+手性固定相	shou xing gu ding xiang	100
+手性流动相	shou xing liu dong xiang	100
+手性配合物	shou xing pei he wu	100
+手性色谱	shou xing se pu	100
+手性碳原子	shou xing tan yuan zi	100
+手性选择剂	shou xing xuan ze ji	100
+手性因素	shou xing yin su	100
+手性中心	shou xing zhong xin	100
+叔醇	shu chun	100
+数均分子量	shu jun fen zi liang	160
+疏水胶体	shu shui jiao ti	100
+疏水聚合物	shu shui ju he wu	100
+梳形聚合物	shu xing ju he wu	100
+树脂基体	shu zhi ji ti	100
+疏质子溶剂	shu zhi zi rong ji	100
+双电层电容	shuang dian ceng dian rong	160
+双分子反应	shuang fen zi fan ying	100
+双分子终止	shuang fen zi zhong zhi	100
+双负离子	shuang fu li zi	100
+双金属催化	shuang jin shu cui hua	160
+双烯单体	shuang xi dan ti	100
+双烯聚合物	shuang xi ju he wu	100
+双正离子	shuang zheng li zi	100
+双自由基	shuang zi you ji	100
+水电解	shui dian jie	100
+水合离子	shui he li zi	100
+水胶体	shui jiao ti	100
+水解度	shui jie du	100
+水解降解	shui jie jiang jie	100
+水解酸度	shui jie suan du	100
+水解吸附	shui jie xi fu	100
+水溶胶	shui rong jiao	100
+水溶性树脂	shui rong xing shu zhi	100
+水蒸气压	shui zheng qi ya	100
+水蒸气蒸馏	shui zheng qi zheng liu	100
+顺错构象	shun cuo gou xiang	100
+顺叠构象	shun die gou xiang	100
+顺反异构体	shun fan yi gou ti	100
+顺式聚合物	shun shi ju he wu	100
+顺式异构体	shun shi yi gou ti	100
+瞬态光谱	shun tai guang pu	100
+四苯硼钠	si ben peng na	100
+四重峰	si chong feng	100
+死端聚合	si duan ju he	100
+四极杆质谱	si ji gan zhi pu	160
+四极质谱仪	si ji zhi pu yi	100
+四中心聚合	si zhong xin ju he	100
+速率常数	su lv chang shu	100
+速率决定步骤	su lv jue ding bu zhou	160
+速率控制步骤	su lv kong zhi bu zhou	160
+塑溶胶	su rong jiao	100
+苏型异构体	su xing yi gou ti	100
+酸催化剂	suan cui hua ji	100
+酸度函数	suan du han shu	100
+酸碱催化	suan jian cui hua	100
+酸碱滴定	suan jian di ding	100
+酸碱滴定法	suan jian di ding fa	100
+酸碱对	suan jian dui	100
+酸碱反应	suan jian fan ying	100
+酸解离常数	suan jie li chang shu	100
+酸水解	suan shui jie	100
+酸性反应	suan xing fan ying	100
+酸性树脂	suan xing shu zhi	100
+随机动力学	sui ji dong li xue	100
+碎裂反应	sui lie fan ying	100
+碎片离子	sui pian li zi	100
+缩合反应	suo he fan ying	100
+缩合剂	suo he ji	100
+缩合聚合	suo he ju he	100
+缩合鞣质	suo he rou zhi	100
+缩合物	suo he wu	100
+羧基化	suo ji hua	100
+羧基酶	suo ji mei	100
+缩醛	suo quan	100
+缩醛交换	suo quan jiao huan	100
+缩醛树脂	suo quan shu zhi	100
+缩酮	suo tong	100
+塔板高度	ta ban gao du	160
+碳电极	tan dian ji	100
+碳二亚胺	tan er ya an	100
+碳分子筛	tan fen zi shai	100
+碳氟化合物	tan fu hua he wu	100
+碳负离子	tan fu li zi	100
+碳糊电极	tan hu dian ji	100
+碳化钙	tan hua gai	100
+碳化合物	tan hua he wu	100
+碳化炉	tan hua lu	100
+碳环化合物	tan huan hua he wu	100
+碳链聚合物	tan lian ju he wu	100
+碳氢键活化	tan qing jian huo hua	160
+碳酸酯	tan suan zhi	100
+碳烯	tan xi	100
+碳吸附	tan xi fu	100
+碳锌电池	tan xin dian chi	100
+弹性凝胶	tan xing ning jiao	100
+碳正离子	tan zheng li zi	100
+羰基化合物	tang ji hua he wu	100
+羰基试剂	tang ji shi ji	100
+羰自由基	tang zi you ji	100
+陶瓷膜电极	tao ci mo dian ji	100
+特性吸附	te xing xi fu	100
+特征离子	te zheng li zi	100
+梯度共聚物	ti du gong ju wu	100
+梯度洗脱	ti du xi tuo	160
+体型聚合物	ti xing ju he wu	100
+梯形聚合物	ti xing ju he wu	100
+天然高分子	tian ran gao fen zi	100
+填隙离子	tian xi li zi	100
+铁磁聚合物	tie ci ju he wu	100
+铁电聚合物	tie dian ju he wu	100
+铁化合物	tie hua he wu	100
+烃类树脂	ting lei shu zhi	100
+酮醇	tong chun	100
+酮分解	tong fen jie	100
+同分异构体	tong fen yi gou ti	100
+铜化合物	tong hua he wu	100
+同面反应	tong mian fan ying	100
+酮水合物	tong shui he wu	100
+同位素内标	tong wei su nei biao	160
+同位素稀释法	tong wei su xi shi fa	160
+通用聚合物	tong yong ju he wu	100
+脱氨基	tuo an ji	100
+脱保护反应	tuo bao hu fan ying	160
+脱附	tuo fu	100
+拓扑异构化	tuo pu yi gou hua	100
+脱氢环化	tuo qing huan hua	100
+脱水槽	tuo shui cao	100
+脱水收缩	tuo shui shou suo	100
+脱酸	tuo suan	100
+拖尾因子	tuo wei yin zi	160
+脱酰胺化	tuo xian an hua	100
+外消旋固体溶液	wai xiao xuan gu ti rong ye	100
+外消旋化	wai xiao xuan hua	100
+外型异构体	wai xing yi gou ti	100
+烷基裂解	wan ji lie jie	100
+烷氧	wan yang	100
+微波萃取分离	wei bo cui qu fen li	100
+微萃取	wei cui qu	160
+维蒂希反应	wei di xi fan ying	100
+微电池	wei dian chi	100
+位点选择性	wei dian xuan ze xing	160
+微分脉冲伏安法	wei fen mai chong fu an fa	160
+微分溶解焓	wei fen rong jie han	100
+微观可逆性	wei guan ke ni xing	160
+微孔过滤器	wei kong guo lv qi	100
+微乳液聚合	wei ru ye ju he	100
+危险废物分类	wei xian fei wu fen lei	160
+微型色谱仪	wei xing se pu yi	100
+稳定离子	wen ding li zi	100
+温度滴定法	wen du di ding fa	100
+温控裂解	wen kong lie jie	100
+稳态近似	wen tai jin si	160
+无定形碳	wu ding xing tan	100
+无机合成化学	wu ji he cheng hua xue	100
+无机胶体	wu ji jiao ti	100
+无机聚合物	wu ji ju he wu	100
+无机试剂	wu ji shi ji	100
+无机酸	wu ji suan	100
+物理吸附	wu li xi fu	100
+无热溶液	wu re rong ye	100
+无溶剂反应	wu rong ji fan ying	100
+无水溶剂	wu shui rong ji	100
+钨酸	wu suan	100
+无限稀释	wu xian xi shi	160
+无氧酸	wu yang suan	100
+烯胺	xi an	100
+烯丙重排	xi bing chong pai	100
+烯丙基聚合	xi bing ji ju he	100
+烯丙基树脂	xi bing ji shu zhi	100
+烯醇化	xi chun hua	100
+烯醇化物	xi chun hua wu	100
+吸电子基团	xi dian zi ji tuan	100
+吸附波	xi fu bo	100
+吸附等温线	xi fu deng wen xian	100
+吸附等压线	xi fu deng ya xian	100
+吸附电流	xi fu dian liu	100
+吸附电势	xi fu dian shi	100
+吸附法	xi fu fa	100
+吸附分离法	xi fu fen li fa	100
+吸附分析	xi fu fen xi	100
+吸附共沉淀	xi fu gong chen dian	100
+吸附管	xi fu guan	100
+吸附过滤	xi fu guo lv	100
+吸附活化能	xi fu huo hua neng	100
+吸附聚合	xi fu ju he	100
+吸附离子	xi fu li zi	100
+吸附量	xi fu liang	100
+吸附平衡	xi fu ping heng	100
+吸附气泡分离法	xi fu qi pao fen li fa	100
+吸附热	xi fu re	100
+吸附溶出伏安法	xi fu rong chu fu an fa	100
+吸附容量	xi fu rong liang	100
+吸附势	xi fu shi	100
+吸附水分	xi fu shui fen	100
+吸附速率	xi fu su lv	100
+吸附塔	xi fu ta	100
+吸附脱附等温线	xi fu tuo fu deng wen xian	160
+吸附物	xi fu wu	100
+吸附型缓蚀剂	xi fu xing huan shi ji	100
+吸附质	xi fu zhi	100
+吸附滞后	xi fu zhi hou	100
+吸附指示剂	xi fu zhi shi ji	100
+吸附中心	xi fu zhong xin	100
+吸附柱	xi fu zhu	100
+烯基金属	xi ji jin shu	100
+吸能反应	xi neng fan ying	100
+析氢反应	xi qing fan ying	160
+烯炔	xi que	100
+吸收光谱	xi shou guang pu	100
+烯烃复分解	xi ting fu fen jie	160
+烯烃共聚物	xi ting gong ju wu	100
+烯酮	xi tong	100
+稀土离子	xi tu li zi	100
+洗脱色谱法	xi tuo se pu fa	100
+析氧反应	xi yang fan ying	160
+酰胺化	xian an hua	100
+酰胺键	xian an jian	100
+腺苷三磷酸	xian gan san lin suan	100
+线光谱	xian guang pu	100
+酰基裂解	xian ji lie jie	100
+陷落自由基	xian luo zi you ji	100
+酰氯	xian lv	100
+显色反应	xian se fan ying	100
+显式溶剂模型	xian shi rong ji mo xing	160
+纤维催化剂	xian wei cui hua ji	100
+线性滴定法	xian xing di ding fa	100
+线型分子	xian xing fen zi	100
+线型聚合物	xian xing ju he wu	100
+线性扫描伏安法	xian xing sao miao fu an fa	160
+线性色谱	xian xing se pu	100
+酰亚胺	xian ya an	100
+酰氧基化	xian yang ji hua	100
+限制反应物	xian zhi fan ying wu	100
+线状裂解器	xian zhuang lie jie qi	100
+相变焓	xiang bian han	100
+相分离	xiang fen li	100
+相合熔点	xiang he rong dian	100
+相转化聚合	xiang zhuan hua ju he	100
+相转移催化	xiang zhuan yi cui hua	100
+消除反应	xiao chu fan ying	100
+消除聚合	xiao chu ju he	100
+硝化器	xiao hua qi	100
+硝化纤维素	xiao hua xian wei su	100
+硝基化合物	xiao ji hua he wu	100
+硝酸根离子	xiao suan gen li zi	100
+协同催化	xie tong cui hua	100
+协同萃取	xie tong cui qu	100
+协同反应	xie tong fan ying	100
+芯片电泳	xin pian dian yong	100
+芯片液相色谱	xin pian ye xiang se pu	100
+星形聚合物	xing xing ju he wu	100
+溴化甲烷	xiu hua jia wan	100
+修饰电极	xiu shi dian ji	100
+溴乙烷	xiu yi wan	100
+序列共聚物	xu lie gong ju wu	100
+序列聚合	xu lie ju he	100
+悬浮聚合	xuan fu ju he	100
+悬汞电极	xuan gong dian ji	100
+旋光	xuan guang	100
+旋光光谱仪	xuan guang guang pu yi	100
+旋光色散	xuan guang se san	100
+旋光异构	xuan guang yi gou	100
+选择反应监测	xuan ze fan ying jian ce	160
+选择吸附	xuan ze xi fu	100
+选择性吸附剂	xuan ze xing xi fu ji	100
+选择性因子	xuan ze xing yin zi	160
+旋转滴汞电极	xuan zhuan di gong dian ji	100
+旋转电极	xuan zhuan dian ji	100
+旋转晶体法	xuan zhuan jing ti fa	100
+旋转异构体	xuan zhuan yi gou ti	100
+旋转圆盘电极	xuan zhuan yuan pan dian ji	160
+血胆固醇	xue dan gu chun	100
+血清反应	xue qing fan ying	100
+循环伏安法	xun huan fu an fa	160
+循环色谱法	xun huan se pu fa	100
+压磁晶体	ya ci jing ti	100
+压电聚合物	ya dian ju he wu	100
+亚磺酰化	ya huang xian hua	100
+压晶体管	ya jing ti guan	100
+亚硫酰氯	ya liu xian lv	100
+亚稳峰	ya wen feng	100
+亚稳离子	ya wen li zi	100
+亚硒酸盐	ya xi suan yan	100
+亚硝化	ya xiao hua	100
+亚硝亚胺	ya xiao ya an	100
+亚叶酸	ya ye suan	100
+延迟发光	yan chi fa guang	100
+盐桥	yan qiao	100
+盐效应	yan xiao ying	100
+氧代羧酸	yang dai suo suan	100
+氧化波	yang hua bo	100
+氧化层	yang hua ceng	100
+氧化产物	yang hua chan wu	100
+氧化电极	yang hua dian ji	100
+氧化电位	yang hua dian wei	100
+氧化加成	yang hua jia cheng	160
+氧化降解	yang hua jiang jie	100
+氧化聚合	yang hua ju he	100
+氧化沥青	yang hua li qing	100
+氧化裂解	yang hua lie jie	100
+氧化偶联	yang hua ou lian	100
+氧化数	yang hua shu	100
+氧化缩合	yang hua suo he	100
+氧化态	yang hua tai	100
+氧化脱羧	yang hua tuo suo	100
+氧化性物质	yang hua xing wu zhi	160
+氧化焰	yang hua yan	100
+氧还原反应	yang huan yuan fan ying	160
+阳极反应	yang ji fan ying	100
+阳极氧化	yang ji yang hua	100
+阳离子聚合	yang li zi ju he	100
+阳离子酸	yang li zi suan	100
+样品前处理	yang pin qian chu li	160
+氧炔焰	yang que yan	100
+液固色谱法	ye gu se pu fa	100
+液晶高分子	ye jing gao fen zi	100
+液膜电极	ye mo dian ji	100
+液凝胶	ye ning jiao	100
+液相反应	ye xiang fan ying	100
+液相合成	ye xiang he cheng	160
+液相色谱法	ye xiang se pu fa	100
+液相氧化	ye xiang yang hua	100
+液液萃取	ye ye cui qu	100
+液液平衡	ye ye ping heng	160
+液液色谱法	ye ye se pu fa	100
+液质联用	ye zhi lian yong	160
+一步反应	yi bu fan ying	100
+乙醇酸	yi chun suan	100
+移动床反应器	yi dong chuang fan ying qi	100
+移动界面电泳	yi dong jie mian dian yong	100
+异构合成	yi gou he cheng	100
+异构化聚合	yi gou hua ju he	100
+异构素跃迁	yi gou su yue qian	100
+异构现象	yi gou xian xiang	100
+一锅反应	yi guo fan ying	100
+一级醇	yi ji chun	100
+一级动力学	yi ji dong li xue	100
+一级反应	yi ji fan ying	100
+乙基化	yi ji hua	100
+异裂反应	yi lie fan ying	100
+异面反应	yi mian fan ying	100
+乙内酰脲	yi nei xian niao	100
+乙醛酶	yi quan mei	100
+乙炔化学	yi que hua xue	100
+乙酸甲酯	yi suan jia zhi	100
+易位聚合	yi wei ju he	100
+移位取代	yi wei qu dai	100
+异戊酰胺	yi wu xian an	100
+乙酰胺	yi xian an	100
+乙酰苯胺	yi xian ben an	100
+乙酰丙酮	yi xian bing tong	100
+乙酰氯	yi xian lv	100
+乙酰水杨酸	yi xian shui yang suan	100
+椅型构象	yi xing gou xiang	100
+一元醇	yi yuan chun	100
+抑制反应	yi zhi fan ying	100
+阴极发光	yin ji fa guang	100
+阴极反应	yin ji fan ying	100
+阴极还原	yin ji huan yuan	100
+阴极射线发光	yin ji she xian fa guang	100
+阴离子碱	yin li zi jian	100
+阴离子交换	yin li zi jiao huan	100
+阴离子聚合	yin li zi ju he	100
+阴离子酸	yin li zi suan	100
+茚三酮反应	yin san tong fan ying	100
+隐式溶剂模型	yin shi rong ji mo xing	160
+铟锡氧化物	yin xi yang hua wu	100
+荧光测定	ying guang ce ding	100
+荧光发射	ying guang fa she	100
+荧光发射光谱	ying guang fa she guang pu	100
+荧光分光光度法	ying guang fen guang guang du fa	100
+荧光分析	ying guang fen xi	100
+荧光辐射	ying guang fu she	100
+荧光黄	ying guang huang	100
+荧光计	ying guang ji	100
+荧光激发光谱	ying guang ji fa guang pu	100
+荧光寿命	ying guang shou ming	100
+荧光团	ying guang tuan	100
+诱导反应	you dao fan ying	100
+有机催化	you ji cui hua	160
+有机光催化	you ji guang cui hua	160
+有机硅胺	you ji gui an	100
+有机硅树脂	you ji gui shu zhi	100
+有机金属催化	you ji jin shu cui hua	160
+有机聚合物	you ji ju he wu	100
+有机离子	you ji li zi	100
+有机卤化物	you ji lu hua wu	100
+有机凝胶	you ji ning jiao	100
+有机溶胶	you ji rong jiao	100
+有机质谱	you ji zhi pu	100
+优先吸附	you xian xi fu	100
+右旋晶体	you xuan jing ti	100
+预辐照聚合	yu fu zhao ju he	100
+淤浆聚合	yu jiang ju he	100
+预聚合	yu ju he	100
+预聚合物	yu ju he wu	100
+预平衡近似	yu ping heng jin si	160
+宇宙化学	yu zhou hua xue	100
+远红外光谱	yuan hong wai guang pu	100
+远红外光谱法	yuan hong wai guang pu fa	100
+源内裂解	yuan nei lie jie	100
+元素聚合物	yuan su ju he wu	100
+原位光谱	yuan wei guang pu	160
+原位聚合	yuan wei ju he	100
+原子发射光谱	yuan zi fa she guang pu	100
+原子反应	yuan zi fan ying	100
+原子光谱学	yuan zi guang pu xue	100
+原子轨道	yuan zi gui dao	100
+原子化	yuan zi hua	100
+原子化器	yuan zi hua qi	100
+原子经济性	yuan zi jing ji xing	160
+原子晶体	yuan zi jing ti	100
+原子转移自由基聚合	yuan zi zhuan yi zi you ji ju he	160
+杂环聚合物	za huan ju he wu	100
+杂离子	za li zi	100
+杂链聚合物	za lian ju he wu	100
+再沉淀	zai chen dian	100
+再聚合	zai ju he	100
+再蒸馏	zai zheng liu	100
+皂化当量	zao hua dang liang	100
+增环反应	zeng huan fan ying	100
+折叠链晶体	zhe die lian jing ti	100
+振荡反应	zhen dang fan ying	100
+真胶体	zhen jiao ti	100
+真空管滴定计	zhen kong guan di ding ji	100
+真空蒸馏	zhen kong zheng liu	100
+真实溶液	zhen shi rong ye	100
+正丁烷	zheng ding wan	100
+正规溶液	zheng gui rong ye	100
+正晶体	zheng jing ti	100
+正离子聚合	zheng li zi ju he	100
+蒸馏法	zheng liu fa	100
+蒸馏瓶	zheng liu ping	100
+蒸馏试验	zheng liu shi yan	100
+蒸馏塔	zheng liu ta	100
+蒸馏装置	zheng liu zhuang zhi	100
+蒸气压	zheng qi ya	100
+蒸气压下降	zheng qi ya xia jiang	100
+正戊烷	zheng wu wan	100
+正吸附	zheng xi fu	100
+正向反应	zheng xiang fan ying	100
+正相色谱	zheng xiang se pu	160
+制备色谱法	zhi bei se pu fa	100
+制备色谱仪	zhi bei se pu yi	100
+纸电泳	zhi dian yong	100
+脂肪族聚酯	zhi fang zu ju zhi	100
+支化聚合物	zhi hua ju he wu	100
+置换滴定法	zhi huan di ding fa	100
+脂环化合物	zhi huan hua he wu	100
+置换色谱法	zhi huan se pu fa	100
+酯交换缩聚	zhi jiao huan suo ju	100
+直链反应	zhi lian fan ying	100
+智能聚合物	zhi neng ju he wu	100
+质谱本底	zhi pu ben di	100
+质谱测定法	zhi pu ce ding fa	100
+质谱检测器	zhi pu jian ce qi	100
+质谱图	zhi pu tu	100
+纸色谱法	zhi se pu fa	100
+指示电极	zhi shi dian ji	100
+质子核磁共振	zhi zi he ci gong zhen	100
+质子化分子	zhi zi hua fen zi	100
+质子溶剂	zhi zi rong ji	100
+质子酸	zhi zi suan	100
+质子性溶剂	zhi zi xing rong ji	100
+仲胺	zhong an	100
+仲醇	zhong chun	100
+重氮偶联	zhong dan ou lian	100
+终沸点	zhong fei dian	100
+中和热	zhong he re	100
+中间态	zhong jian tai	100
+中间相	zhong jian xiang	100
+重均分子量	zhong jun fen zi liang	160
+重离子加速器	zhong li zi jia su qi	100
+中心离子	zhong xin li zi	100
+终止反应	zhong zhi fan ying	100
+种子聚合	zhong zi ju he	100
+周环反应	zhou huan fan ying	100
+周期共聚物	zhou qi gong ju wu	100
+轴向手性	zhou xiang shou xing	100
+逐步反应	zhu bu fan ying	100
+逐步增长聚合	zhu bu zeng zhang ju he	100
+主反应	zhu fan ying	100
+主客体化学	zhu ke ti hua xue	160
+主客体识别	zhu ke ti shi bie	160
+主链	zhu lian	100
+铸塑聚合	zhu su ju he	100
+主族	zhu zu	100
+转胺酶	zhuan an mei	100
+转动光谱	zhuan dong guang pu	100
+转甲基化	zhuan jia ji hua	100
+转金属化	zhuan jin shu hua	160
+转醛醇酶	zhuan quan chun mei	100
+转酮醇酶	zhuan tong chun mei	100
+转移氢化	zhuan yi qing hua	100
+转酯基作用	zhuan zhi ji zuo yong	100
+准分子	zhun fen zi	100
+准分子离子	zhun fen zi li zi	100
+准稳态近似	zhun wen tai jin si	160
+自催化	zi cui hua	100
+自催化镀	zi cui hua du	100
+自催化缩聚	zi cui hua suo ju	100
+自发反应	zi fa fan ying	100
+自发聚合	zi fa ju he	100
+自洽场方法	zi qia chang fang fa	160
+自然轨道	zi ran gui dao	100
+自燃性化学品	zi ran xing hua xue pin	160
+紫外光谱	zi wai guang pu	100
+自修复聚合物	zi xiu fu ju he wu	160
+自旋轨道	zi xuan gui dao	100
+自旋交叉	zi xuan jiao cha	160
+自旋自旋耦合	zi xuan zi xuan ou he	160
+自由基反应	zi you ji fan ying	100
+自由基聚合	zi you ji ju he	100
+自由基离子	zi you ji li zi	100
+自由基链降解	zi you ji lian jiang jie	100
+自由基寿命	zi you ji shou ming	100
+自由能面	zi you neng mian	160
+自由能微扰	zi you neng wei rao	160
+总反应	zong fan ying	100
+总酸度	zong suan du	100
+阻隔聚合物	zu ge ju he wu	100
+组合电化学	zu he dian hua xue	100
+组合电极	zu he dian ji	100
+组合化学	zu he hua xue	160
+阻聚剂	zu ju ji	100
+阻转异构体	zu zhuan yi gou ti	100
+左旋晶体	zuo xuan jing ti	100

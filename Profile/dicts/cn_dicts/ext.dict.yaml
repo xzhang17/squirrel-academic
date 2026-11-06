@@ -19,7 +19,6 @@ name: ext
 version: "2026-06-20"
 sort: by_weight
 ...
-# +_+
 啊啊啊啊啊啊	a a a a a a	100
 阿爸父	a ba fu	100
 阿巴拉契亚	a ba la qi ya	100
@@ -16552,6 +16551,7 @@ sort: by_weight
 伯恩安德森	bo en an de sen	100
 伯恩茅斯	bo en mao si	100
 伯恩山犬	bo en shan quan	100
+玻尔	bo er	100
 波尔布特	bo er bu te	100
 玻尔磁子	bo er ci zi	100
 博尔德	bo er de	100
@@ -18068,6 +18068,7 @@ sort: by_weight
 不恶口	bu e kou	100
 不恶心	bu e xin	100
 不恶心的	bu e xin de	100
+布尔	bu er	100
 布尔巴基	bu er ba ji	100
 布尔巴基学派	bu er ba ji xue pai	100
 不二家	bu er jia	100
@@ -27243,7 +27244,6 @@ sort: by_weight
 差多少分	cha duo shao fen	100
 差额投票	cha e tou piao	100
 查尔罗斯	cha er luo si	100
-查尔斯·达尔文	cha er si da er wen	100
 查尔斯·狄更斯	cha er si di geng si	100
 查尔斯·格雷	cha er si ge lei	100
 查尔斯·泽维尔	cha er si ze wei er	100
@@ -46304,6 +46304,7 @@ sort: by_weight
 大而宽	da er kuan	100
 大而美	da er mei	100
 打二十四个结	da er shi si ge jie	100
+达尔文	da er wen	100
 达尔文港	da er wen gang	100
 达尔文奖	da er wen jiang	100
 达尔文系统	da er wen xi tong	100
@@ -68262,7 +68263,6 @@ sort: by_weight
 摁了下去	en le xia qu	100
 嗯了一声	en le yi sheng	100
 摁了一下	en le yi xia	100
-恩里科费米	en li ke fei mi	100
 恩礼有加	en li you jia	100
 恩牛怨李	en niu yuan li	100
 恩培多克勒	en pei duo ke le	100
@@ -76201,6 +76201,7 @@ sort: by_weight
 飞毛腿导弹	fei mao tui dao dan	100
 非贸易创汇	fei mao yi chuang hui	100
 肥猫正传	fei mao zheng zhuan	100
+费米	fei mi	100
 费米悖论	fei mi bei lun	100
 费米谬论	fei mi miu lun	100
 费米子	fei mi zi	100
@@ -133199,6 +133200,7 @@ sort: by_weight
 距离地面的高度	ju li di mian de gao du	100
 据理而争	ju li er zheng	100
 举例发凡	ju li fa fan	100
+居里夫人	ju li fu ren	100
 距离隔不开	ju li ge bu kai	100
 距离关系	ju li guan xi	100
 距离过长	ju li guo chang	100
@@ -134972,7 +134974,6 @@ sort: by_weight
 卡尔德龙	ka er de long	100
 卡尔顿	ka er dun	100
 卡尔加里	ka er jia li	100
-卡尔·林奈	ka er lin nai	100
 卡尔玛	ka er ma	100
 卡尔蜜拉	ka er mi la	100
 卡尔纳罗利	ka er na luo li	100
@@ -138927,7 +138928,6 @@ sort: by_weight
 克兰诗	ke lan shi	100
 克朗代克	ke lang dai ke	100
 克郎球	ke lang qiu	100
-克劳德·香农	ke lao de xiang nong	100
 克劳狄二世	ke lao di er shi	100
 克劳狄一世	ke lao di yi shi	100
 克劳佛	ke lao fo	100
@@ -151162,6 +151162,7 @@ sort: by_weight
 林木茂盛	lin mu mao sheng	100
 林暮奈儿	lin mu nai er	100
 林木森森	lin mu sen sen	100
+林奈	lin nai	100
 林奈奈	lin nai nai	100
 林奈学会	lin nai xue hui	100
 临难不苟	lin nan bu gou	100
@@ -158840,7 +158841,6 @@ sort: by_weight
 玛莉的炼金工房	ma li de lian jin gong fang	100
 马利基	ma li ji	100
 玛莉吉亚	ma li ji ya	100
-玛丽·居里	ma li ju li	100
 马里克	ma li ke	100
 玛丽莲·梦露	ma li lian meng lu	100
 玛力露	ma li lu	100
@@ -176553,7 +176553,6 @@ sort: by_weight
 尼尔岱尔蒙德	ni er dai er meng de	100
 逆耳利行	ni er li xing	100
 逆耳良言	ni er liang yan	100
-尼尔斯·玻尔	ni er si bo er	100
 尼尔斯骑鹅旅行记	ni er si qi e lv xing ji	100
 尼尔逊	ni er xun	100
 尼尔扬	ni er yang	100
@@ -193418,7 +193417,6 @@ sort: by_weight
 翘着屁股	qiao zhe pi gu	100
 翘着腿	qiao zhe tui	100
 乔治班逊	qiao zhi ban xun	100
-乔治·布尔	qiao zhi bu er	100
 乔治城	qiao zhi cheng	100
 乔治城大学	qiao zhi cheng da xue	100
 乔治·戈登·拜伦	qiao zhi ge deng bai lun	100
@@ -240974,7 +240972,6 @@ sort: by_weight
 天然联系	tian ran lian xi	100
 天然煤气	tian ran mei qi	100
 天然鸟	tian ran niao	100
-# 天燃气	tian ran qi	100
 天然漆	tian ran qi	100
 天然气长输管道	tian ran qi chang shu guan dao	100
 天然气地球科学	tian ran qi di qiu ke xue	100
@@ -270293,6 +270290,7 @@ sort: by_weight
 像鸟一样飞	xiang niao yi yang fei	100
 像鸟一样飞翔	xiang niao yi yang fei xiang	100
 向您请罪	xiang nin qing zui	100
+香农	xiang nong	100
 香农熵	xiang nong shang	100
 向暖一枝开	xiang nuan yi zhi kai	100
 相女配夫	xiang nv pei fu	100
@@ -274897,7 +274895,6 @@ sort: by_weight
 写作家	xie zuo jia	100
 写作角度	xie zuo jiao du	100
 写作课	xie zuo ke	100
-# 写作猫	xie zuo mao	100
 写作模式	xie zuo mo shi	100
 协作模式	xie zuo mo shi	100
 写作模板	xie zuo mu ban	100
@@ -314971,7 +314968,6 @@ sort: by_weight
 长一样	zhang yi yang	100
 张易之	zhang yi zhi	100
 章艺子	zhang yi zi	100
-# 张银行	zhang yin hang	100
 长阴毛	zhang yin mao	100
 张英席	zhang ying xi	100
 张勇杰	zhang yong jie	100

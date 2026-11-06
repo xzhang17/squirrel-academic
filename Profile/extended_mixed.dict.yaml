@@ -1,8 +1,13 @@
 ---
 name: extended_mixed
-version: "1.0"
+version: "1.3"
 sort: by_weight
 use_preset_vocabulary: false
 import_tables:
-  - cn_dicts/lookup_mixed
+  - dicts/cn_dicts/lookup_mixed
+  # BEGIN ACADEMIC SUBJECTS
+  - dicts/academic_dicts/physics_mixed
+  - dicts/academic_dicts/mathematics_mixed
+  - dicts/academic_dicts/mechanics_mixed
+  # END ACADEMIC SUBJECTS
 ...

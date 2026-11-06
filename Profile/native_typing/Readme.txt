@@ -7,7 +7,7 @@ Automatic release checking/downloading is disabled for this local build.
 Controls in squirrel.custom.yaml:
   typing/smart_space: Chinese/English spacing
   typing/smart_space_digit: Chinese/number spacing
-Number-aware punctuation remains in academic_pinyin.custom.yaml and preserves
+Number-aware punctuation remains in zenfire_pinyin.custom.yaml and preserves
 separators in examples such as 3.14, 12:00 and 1,000.
 
 Smart spacing inserts spaces within mixed committed text and between the
@@ -26,6 +26,8 @@ Existing dictionaries, local learning, ranking, symbols and shortcuts remain.
 
 The candidate panel is initialized before settings load and lays out its text
 viewport after resizing. The installer uses open -g without hiding the app.
+Menu actions in the saved build have no keyboard shortcuts, so this preference
+does not depend on per-account macOS overrides after reinstalling.
 Focused checks cover mixed-text spacing, continuous typing, expanded editor
 ranges, supplementary Chinese characters, unavailable context, preservation of
 existing spaces/URLs, and ordinary single bracket insertion. Punctuation does
@@ -37,18 +39,18 @@ To rebuild locally with the installed Apple Command Line Tools:
 Build.command uses the bundled source and headers and the matching installed
 nightly frameworks. It downloads nothing, runs the focused checks, and updates
 Squirrel.local and its build record only after success. It does not install.
-The two standalone Swift files are authoritative and replace their packaged
-copies during each build. No previous temporary build directory is required.
+Build.command combines the two standalone Swift files with the other nightly
+sources and headers from source.zip.txt.
 
 Source, executable and build record are included in the profile's manual backup.
 To restore, install the matching nightly first and then run:
   /bin/bash "$HOME/Library/Rime/native_typing/Install.command"
-The installer checks the nightly and engine, stages and verifies the local app,
+The installer checks the Mac's CPU, the nightly and its engine, stages the local app,
 and requests macOS administrator authentication for the system installation.
 An unsuccessful file replacement restores the previous executable and signature.
 It never downloads a release. The executable is for this Mac's arm64 platform.
 
-Untouched original app:
+The installer verifies the original executable in the rollback archive at
   /Library/Application Support/Squirrel Typing/Original-Squirrel.zip
 Installing a different nightly requires rebuilding this extension against it.
 Manual “Sync user data” remains manual.

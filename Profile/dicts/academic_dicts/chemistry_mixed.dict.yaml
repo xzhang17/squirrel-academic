@@ -1,0 +1,70 @@
+# 化学
+# Sources and licenses: Sources.txt in this folder.
+---
+name: chemistry_mixed
+version: "1.2"
+sort: by_weight
+use_preset_vocabulary: false
+...
+ATRP聚合	atrp ju he	160
+BET比表面积	bet bi biao mian ji	100
+BET测试	bet ce shi	160
+BJH孔径	bjh kong jing	160
+Buchwald-Hartwig偶联	buchwald hartwig ou lian	160
+COF合成	cof he cheng	160
+Diels-Alder反应	diels alder fan ying	100
+DLS测试	dls ce shi	160
+DLS粒径	dls li jing	160
+DSC分析	dsc fen xi	100
+EDS元素分析	eds yuan su fen xi	160
+EPR谱	epr pu	160
+ESI电离	esi dian li	160
+ESR谱	esr pu	160
+Friedel-Crafts反应	friedel crafts fan ying	100
+FTIR表征	ftir biao zheng	160
+FTIR光谱	ftir guang pu	100
+GC-MS分析	gc ms fen xi	160
+GC-MS联用	gc ms lian yong	100
+Grignard试剂	grignard shi ji	100
+Heck反应	heck fan ying	100
+HPLC纯度	hplc chun du	160
+HPLC分离	hplc fen li	160
+HPLC分析	hplc fen xi	100
+ICP-MS分析	icp ms fen xi	160
+ICP-OES分析	icp oes fen xi	160
+IR光谱	ir guang pu	100
+LC-MS定量	lc ms ding liang	160
+LC-MS分析	lc ms fen xi	160
+LC-MS联用	lc ms lian yong	100
+MALDI电离	maldi dian li	160
+Michael加成	michael jia cheng	100
+MOF合成	mof he cheng	160
+MS-MS分析	ms ms fen xi	160
+NMR滴定	nmr di ding	160
+NMR分析	nmr fen xi	100
+NMR归属	nmr gui shu	160
+NMR积分	nmr ji fen	160
+NMR谱	nmr pu	100
+NMR谱峰	nmr pu feng	160
+NMR氢谱	nmr qing pu	160
+NMR碳谱	nmr tan pu	160
+pH值	ph zhi	100
+RAFT聚合	raft ju he	160
+Raman光谱	raman guang pu	100
+ROMP聚合	romp ju he	160
+SEM形貌	sem xing mao	160
+Sonogashira偶联	sonogashira ou lian	160
+Suzuki偶联	suzuki ou lian	100
+TEM表征	tem biao zheng	160
+TGA分析	tga fen xi	100
+TOF质谱	tof zhi pu	160
+UPLC分析	uplc fen xi	160
+UV光谱	uv guang pu	100
+Wittig反应	wittig fan ying	160
+XPS分析	xps fen xi	100
+XPS拟合	xps ni he	160
+XPS谱图	xps pu tu	160
+XRD分析	xrd fen xi	100
+XRD精修	xrd jing xiu	160
+XRD衍射	xrd yan she	160
+ZIF材料	zif cai liao	160

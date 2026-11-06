@@ -1,0 +1,768 @@
+# 计算机科学
+# Sources and licenses: Sources.txt in this folder.
+---
+name: computer_science
+version: "1.3"
+sort: by_weight
+use_preset_vocabulary: false
+...
+艾字节	ai zi jie	100
+安全多方计算	an quan duo fang ji suan	160
+安全聚合	an quan ju he	160
+安全散列标准	an quan san lie biao zhun	100
+拜占庭将军问题	bai zhan ting jiang jun wen ti	160
+拜占庭容错	bai zhan ting rong cuo	160
+被动查询	bei dong cha xun	100
+贝尔曼方程	bei er man fang cheng	100
+悲观并发控制	bei guan bing fa kong zhi	160
+背压机制	bei ya ji zhi	160
+贝叶斯神经网络	bei ye si shen jing wang luo	100
+贝叶斯优化	bei ye si you hua	100
+崩溃恢复	beng kui hui fu	160
+闭包性质	bi bao xing zhi	100
+比较并交换	bi jiao bing jiao huan	160
+变分自编码器	bian fen zi bian ma qi	100
+编辑距离算法	bian ji ju li suan fa	160
+边界框	bian jie kuang	100
+边界模型	bian jie mo xing	100
+变量重要性	bian liang zhong yao xing	100
+变异测试	bian yi ce shi	160
+编译机	bian yi ji	100
+编译器速率	bian yi qi su lv	100
+编译指示	bian yi zhi shi	100
+表函数	biao han shu	100
+标签类型	biao qian lei xing	100
+并发垃圾回收	bing fa la ji hui shou	160
+并发连接	bing fa lian jie	100
+病态问题	bing tai wen ti	160
+并行效率	bing xing xiao lv	160
+布尔函数	bu er han shu	100
+布尔可满足性	bu er ke man zu xing	160
+部分函数	bu fen han shu	100
+布谷鸟哈希	bu gu niao ha xi	160
+不完全分解	bu wan quan fen jie	160
+采样偏差	cai yang pian cha	100
+残差范数	can cha fan shu	160
+参数分片	can shu fen pian	160
+参数服务器	can shu fu wu qi	100
+参数高效微调	can shu gao xiao wei diao	160
+参数更新	can shu geng xin	100
+参数化复杂性	can shu hua fu za xing	160
+舱壁隔离	cang bi ge li	160
+操作系统技术	cao zuo xi tong ji shu	100
+操作系统内核	cao zuo xi tong nei he	160
+测量数据库	ce liang shu ju ku	100
+策略模型	ce lve mo xing	100
+策略梯度算法	ce lve ti du suan fa	160
+测试集	ce shi ji	100
+测试时计算	ce shi shi ji suan	160
+测试损失	ce shi sun shi	100
+测试替身	ce shi ti shen	160
+侧信道攻击	ce xin dao gong ji	160
+层次可导航小世界图	ceng ci ke dao hang xiao shi jie tu	160
+差分测试	cha fen ce shi	160
+差分隐私	cha fen yin si	160
+查询重写	cha xun chong xie	160
+查询机	cha xun ji	100
+查询计划	cha xun ji hua	160
+长短期记忆	chang duan qi ji yi	100
+常量传播	chang liang chuan bo	160
+常数时间算法	chang shu shi jian suan fa	160
+超标量处理器	chao biao liang chu li qi	160
+超参数	chao can shu	100
+超文本传输协议	chao wen ben chuan shu xie yi	100
+超文件系统	chao wen jian xi tong	100
+成分句法分析	cheng fen ju fa fen xi	100
+乘积量化	cheng ji liang hua	160
+程序编译	cheng xu bian yi	100
+程序切片	cheng xu qie pian	160
+程序中断	cheng xu zhong duan	100
+成员推断攻击	cheng yuan tui duan gong ji	160
+持久化数据结构	chi jiu hua shu ju jie gou	160
+持续部署	chi xu bu shu	160
+重启迭代	chong qi die dai	160
+稠密检索	chou mi jian suo	160
+抽象机	chou xiang ji	100
+抽象解释	chou xiang jie shi	160
+抽象语法树	chou xiang yu fa shu	160
+处理器一致性模型	chu li qi yi zhi xing mo xing	100
+处理器元件	chu li qi yuan jian	100
+处理器中断	chu li qi zhong duan	100
+处理器周期	chu li qi zhou qi	100
+处理器状态	chu li qi zhuang tai	100
+纯函数	chun han shu	100
+词法扫描	ci fa sao miao	100
+词嵌入	ci qian ru	100
+错误中断	cuo wu zhong duan	100
+大语言模型	da yu yan mo xing	160
+代价模型	dai jia mo xing	160
+带宽瓶颈	dai kuan ping jing	160
+代数多重网格	dai shu duo chong wang ge	160
+袋外评估	dai wai ping gu	100
+单向加密	dan xiang jia mi	100
+单向语言模型	dan xiang yu yan mo xing	100
+导出类型	dao chu lei xing	100
+倒排文件	dao pai wen jian	160
+等待自由	deng dai zi you	160
+等效编译器	deng xiao bian yi qi	100
+低比特量化	di bi te liang hua	160
+地址空间随机化	di zhi kong jian sui ji hua	160
+低秩适配	di zhi shi pei	160
+低秩适应	di zhi shi ying	160
+地址转换	di zhi zhuan huan	160
+低秩自适应	di zhi zi shi ying	100
+电力电容器	dian li dian rong qi	100
+电位梯度	dian wei ti du	100
+调度系统	diao du xi tong	100
+定理证明	ding li zheng ming	160
+定理证明程序	ding li zheng ming cheng xu	160
+动态处理器分配	dong tai chu li qi fen pei	100
+动态服务器页面	dong tai fu wu qi ye mian	100
+动态散列	dong tai san lie	100
+动态应用安全测试	dong tai ying yong an quan ce shi	160
+动态主机配置协议	dong tai zhu ji pei zhi xie yi	100
+独立同分布	du li tong fen bu	100
+读屏障	du ping zhang	160
+独热编码	du re bian ma	100
+读已提交	du yi ti jiao	160
+段页式存储	duan ye shi cun chu	160
+对比学习	dui bi xue xi	160
+对称处理器	dui chen chu li qi	100
+对抗样本	dui kang yang ben	160
+对数几率	dui shu ji lv	100
+对数损失函数	dui shu sun shi han shu	100
+对象链接与嵌入	dui xiang lian jie yu qian ru	100
+多版本并发控制	duo ban ben bing fa kong zhi	160
+多边协议	duo bian xie yi	100
+多查询注意力	duo cha xun zhu yi li	160
+多重分派	duo chong fen pai	160
+多处理器分配	duo chu li qi fen pei	100
+多处理器计算机	duo chu li qi ji suan ji	100
+多处理器计算机复合系统	duo chu li qi ji suan ji fu he xi tong	100
+多核处理器	duo he chu li qi	100
+多类别分类	duo lei bie fen lei	100
+多类别逻辑回归	duo lei bie luo ji hui gui	100
+多模态表示	duo mo tai biao shi	160
+多模态模型	duo mo tai mo xing	100
+多模态融合	duo mo tai rong he	160
+多头注意力	duo tou zhu yi li	160
+多头自注意力	duo tou zi zhu yi li	100
+多项回归	duo xiang hui gui	100
+多项式时间算法	duo xiang shi shi jian suan fa	100
+多智能体协作	duo zhi neng ti xie zuo	100
+二次散列	er ci san lie	100
+二进制编码	er jin zhi bian ma	100
+二进制码	er jin zhi ma	100
+二进制输出	er jin zhi shu chu	100
+二进制数字系统	er jin zhi shu zi xi tong	100
+二进制算术	er jin zhi suan shu	100
+二进制小数点	er jin zhi xiao shu dian	100
+二元分类	er yuan fen lei	100
+反变向量	fan bian xiang liang	100
+泛函数	fan han shu	100
+反向模式自动微分	fan xiang mo shi zi dong wei fen	160
+反向自动微分	fan xiang zi dong wei fen	160
+仿射类型	fang she lei xing	160
+非监督式机器学习	fei jian du shi ji qi xue xi	100
+非确定型图灵机	fei que ding xing tu ling ji	160
+非确定有限自动机	fei que ding you xian zi dong ji	160
+非易失性内存	fei yi shi xing nei cun	100
+分辨带宽	fen bian dai kuan	100
+分布式拒绝服务	fen bu shi ju jue fu wu	100
+分布式快照	fen bu shi kuai zhao	160
+分布式散列表	fen bu shi san lie biao	160
+分布式训练	fen bu shi xun lian	160
+分布式一致性	fen bu shi yi zhi xing	160
+分布式追踪	fen bu shi zhui zong	160
+分布外检测	fen bu wai jian ce	160
+分代回收	fen dai hui shou	160
+分代垃圾回收	fen dai la ji hui shou	160
+分类器	fen lei qi	100
+分类阈值	fen lei yu zhi	100
+分区裁剪	fen qu cai jian	160
+分数匹配	fen shu pi pei	160
+分位数分桶	fen wei shu fen tong	100
+分支定界	fen zhi ding jie	160
+分支预测器	fen zhi yu ce qi	160
+分组查询注意力	fen zu cha xun zhu yi li	160
+负采样	fu cai yang	100
+浮点处理器	fu dian chu li qi	100
+浮点上溢	fu dian shang yi	160
+浮点下溢	fu dian xia yi	160
+浮点指令集	fu dian zhi ling ji	100
+覆盖偏差	fu gai pian cha	100
+服务等级协议	fu wu deng ji xie yi	100
+服务器端请求伪造	fu wu qi duan qing qiu wei zao	160
+服务器运维	fu wu qi yun wei	100
+服务网格	fu wu wang ge	160
+服务虚拟机	fu wu xu ni ji	100
+服务中断	fu wu zhong duan	100
+辅助损失	fu zhu sun shi	100
+概率回归模型	gai lv hui gui mo xing	100
+概念漂移	gai nian piao yi	100
+高德纳	gao de na	10
+高阶自动微分	gao jie zi dong wei fen	160
+高速缓冲存储器	gao su huan chong cun chu qi	100
+高速计算机	gao su ji suan ji	100
+高速内存	gao su nei cun	100
+公共子表达式消除	gong gong zi biao da shi xiao chu	160
+公开源代码	gong kai yuan dai ma	100
+共识算法	gong shi suan fa	160
+共识协议	gong shi xie yi	160
+公钥密码学	gong yao mi ma xue	160
+工业控制计算机	gong ye kong zhi ji suan ji	100
+工作集模型	gong zuo ji mo xing	160
+工作窃取	gong zuo qie qu	160
+故障检测器	gu zhang jian ce qi	160
+管理器虚拟机	guan li qi xu ni ji	100
+归约证明	gui yue zheng ming	160
+滚动更新	gun dong geng xin	160
+过采样	guo cai yang	100
+过程奖励模型	guo cheng jiang li mo xing	160
+过程页表	guo cheng ye biao	100
+哈希技术	ha xi ji shu	100
+哈希碰撞	ha xi peng zhuang	160
+行式存储	hang shi cun chu	160
+航位推算法	hang wei tui suan fa	100
+合成特征	he cheng te zheng	100
+核心指令集	he xin zhi ling ji	100
+合页损失函数	he ye sun shi han shu	100
+黑盒模型	hei he mo xing	100
+后向稳定性	hou xiang wen ding xing	160
+候选采样	hou xuan cai yang	100
+互联网协议地址	hu lian wang xie yi di zhi	100
+滑动窗口注意力	hua dong chuang kou zhu yi li	160
+缓存池	huan cun chi	100
+缓存行对齐	huan cun hang dui qi	160
+缓存局部性	huan cun ju bu xing	160
+缓存失效	huan cun shi xiao	160
+缓存未命中	huan cun wei ming zhong	160
+缓存一致性	huan cun yi zhi xing	160
+缓存一致性协议	huan cun yi zhi xing xie yi	160
+回放缓冲区	hui fang huan chong qu	100
+回归模型	hui gui mo xing	100
+回归曲线	hui gui qu xian	100
+会话一致性	hui hua yi zhi xing	160
+回溯搜索	hui su sou suo	160
+混合检索	hun he jian suo	160
+混合精度计算	hun he jing du ji suan	160
+混合精度训练	hun he jing du xun lian	160
+混合专家	hun he zhuan jia	100
+活动服务器网	huo dong fu wu qi wang	100
+活跃变量分析	huo yue bian liang fen xi	160
+基本数据库	ji ben shu ju ku	100
+基本指令集	ji ben zhi ling ji	100
+继承属性	ji cheng shu xing	100
+基础模型	ji chu mo xing	100
+基础设施即代码	ji chu she shi ji dai ma	160
+寄存器分配	ji cun qi fen pei	160
+几何特征	ji he te zheng	100
+集合通信	ji he tong xin	160
+激活重计算	ji huo zhong ji suan	160
+机器指令处理器	ji qi zhi ling chu li qi	100
+即时编译	ji shi bian yi	160
+基数估计	ji shu gu ji	160
+计算机代数	ji suan ji dai shu	100
+计算机工业	ji suan ji gong ye	100
+计算机科学系	ji suan ji ke xue xi	100
+计算机模拟	ji suan ji mo ni	100
+计算机模式	ji suan ji mo shi	100
+计算机模型	ji suan ji mo xing	100
+计算机体系结构	ji suan ji ti xi jie gou	100
+计算机指令集	ji suan ji zhi ling ji	100
+计算模型	ji suan mo xing	100
+计算瓶颈	ji suan ping jing	160
+计算图	ji suan tu	160
+计算图优化	ji suan tu you hua	160
+基于角色的访问控制	ji yu jue se de fang wen kong zhi	160
+基于属性的访问控制	ji yu shu xing de fang wen kong zhi	160
+机载计算机	ji zai ji suan ji	100
+加密器	jia mi qi	100
+加密散列函数	jia mi san lie han shu	100
+监督式机器学习	jian du shi ji qi xue xi	100
+渐近复杂度	jian jin fu za du	160
+健康检查	jian kang jian cha	160
+建立模型	jian li mo xing	100
+检索增强生成	jian suo zeng qiang sheng cheng	160
+剪枝策略	jian zhi ce lve	160
+键值缓存	jian zhi huan cun	160
+键值数据库	jian zhi shu ju ku	100
+交并比	jiao bing bi	100
+交叉熵	jiao cha shang	100
+交叉熵损失	jiao cha shang sun shi	160
+结构风险最小化	jie gou feng xian zui xiao hua	100
+解密高手	jie mi gao shou	100
+接收缓冲区	jie shou huan chong qu	100
+接收中断	jie shou zhong duan	100
+借用检查	jie yong jian cha	160
+近似比	jin si bi	160
+金丝雀发布	jin si que fa bu	160
+近似最近邻	jin si zui jin lin	160
+近似最近邻搜索	jin si zui jin lin sou suo	160
+精确率与召回率曲线	jing que lv yu zhao hui lv qu xian	100
+精确中断	jing que zhong duan	100
+静态处理器分配	jing tai chu li qi fen pei	100
+静态单赋值形式	jing tai dan fu zhi xing shi	160
+静态随机存储器	jing tai sui ji cun chu qi	100
+静态应用安全测试	jing tai ying yong an quan ce shi	160
+经验风险最小化	jing yan feng xian zui xiao hua	100
+经验回放	jing yan hui fang	100
+具体语法树	ju ti yu fa shu	160
+矩阵自由方法	ju zhen zi you fang fa	160
+卷积层	juan ji ceng	100
+卷积滤波器	juan ji lv bo qi	100
+卷积码	juan ji ma	100
+卷积运算	juan ji yun suan	100
+决策边界	jue ce bian jie	100
+决策森林	jue ce sen lin	100
+决策树分类器	jue ce shu fen lei qi	100
+决策树模型	jue ce shu mo xing	160
+决策阈值	jue ce yu zhi	100
+均方根误差	jun fang gen wu cha	100
+均匀散列	jun yun san lie	100
+均匀散列函数	jun yun san lie han shu	100
+开放源代码促进会	kai fang yuan dai ma cu jin hui	100
+可采纳启发式	ke cai na qi fa shi	160
+可串行化隔离	ke chuan xing hua ge li	160
+可达性分析	ke da xing fen xi	160
+可复现构建	ke fu xian gou jian	160
+可观测性	ke guan ce xing	160
+客户服务器	ke hu fu wu qi	100
+可计算性	ke ji suan xing	160
+可解释性	ke jie shi xing	100
+克里洛夫子空间	ke li luo fu zi kong jian	160
+可判定性	ke pan ding xing	160
+可微分编程	ke wei fen bian cheng	160
+可微分模拟	ke wei fen mo ni	160
+可微分渲染	ke wei fen xuan ran	160
+空密码	kong mi ma	100
+控制流图	kong zhi liu tu	160
+库存模型	ku cun mo xing	100
+跨站请求伪造	kua zhan qing qiu wei zao	160
+快速傅里叶变换算法	kuai su fu li ye bian huan suan fa	160
+块稀疏矩阵	kuai xi shu ju zhen	160
+快照测试	kuai zhao ce shi	160
+快照隔离	kuai zhao ge li	160
+扩散模型	kuo san mo xing	160
+垃圾回收停顿	la ji hui shou ting dun	160
+蓝绿部署	lan lv bu shu	160
+乐观并发控制	le guan bing fa kong zhi	160
+类型稳定性	lei xing wen ding xing	160
+理论计算机科学	li lun ji suan ji ke xue	100
+离群值检测	li qun zhi jian ce	100
+离散编译器	li san bian yi qi	100
+离散特征	li san te zheng	100
+离线推理	li xian tui li	100
+联邦学习	lian bang xue xi	160
+联合学习	lian he xue xi	100
+连接顺序	lian jie shun xu	160
+连接算法	lian jie suan fa	160
+连续批处理	lian xu pi chu li	160
+连续特征	lian xu te zheng	100
+量化感知训练	liang hua gan zhi xun lian	160
+两阶段提交	liang jie duan ti jiao	160
+领导者选举	ling dao zhe xuan ju	160
+令牌桶	ling pai tong	160
+零信任架构	ling xin ren jia gou	160
+零样本提示	ling yang ben ti shi	100
+零样本学习	ling yang ben xue xi	100
+六边形架构	liu bian xing jia gou	160
+流密码	liu mi ma	100
+流匹配	liu pi pei	160
+流式算法	liu shi suan fa	160
+流水线并行	liu shui xian bing xing	160
+流水线冒险	liu shui xian mao xian	160
+流水线气泡	liu shui xian qi pao	160
+漏桶算法	lou tong suan fa	160
+路由器代理	lu you qi dai li	100
+路由验证	lu you yan zheng	100
+逻辑回归	luo ji hui gui	100
+逻辑时钟	luo ji shi zhong	160
+马尔可夫决策过程	ma er ke fu jue ce guo cheng	100
+马尔可夫性质	ma er ke fu xing zhi	100
+幂等操作	mi deng cao zuo	160
+幂等键	mi deng jian	160
+密度梯度	mi du ti du	100
+密集层	mi ji ceng	100
+密集特征	mi ji te zheng	100
+密码哈希函数	mi ma ha xi han shu	160
+密码卡	mi ma ka	100
+密码散列函数	mi ma san lie han shu	100
+密码学安全随机数	mi ma xue an quan sui ji shu	160
+密钥轮换	mi yao lun huan	160
+敏感属性	min gan shu xing	100
+命令查询职责分离	ming ling cha xun zhi ze fen li	160
+模糊测试	mo hu ce shi	160
+模糊检查点	mo hu jian cha dian	160
+模型辨识	mo xing bian shi	100
+模型并行	mo xing bing xing	160
+模型并行处理	mo xing bing xing chu li	100
+模型反演	mo xing fan yan	160
+模型化	mo xing hua	100
+模型级联	mo xing ji lian	100
+模型检测	mo xing jian ce	160
+模型校准	mo xing jiao zhun	160
+模型结构	mo xing jie gou	100
+模型空间	mo xing kong jian	100
+模型理论	mo xing li lun	100
+模型路由器	mo xing lu you qi	100
+模型设计	mo xing she ji	100
+目标网络	mu biao wang luo	100
+目录散列	mu lu san lie	100
+脑裂防护	nao lie fang hu	160
+内存池	nei cun chi	100
+内存存储	nei cun cun chu	100
+内存顺序	nei cun shun xu	160
+内存序	nei cun xu	160
+内存页	nei cun ye	100
+内核旁路	nei he pang lu	160
+内核融合	nei he rong he	160
+内联展开	nei lian zhan kai	160
+内容模型	nei rong mo xing	100
+匿名化	ni ming hua	100
+凝聚式层次聚类	ning ju shi ceng ci ju lei	100
+排列变量重要性	pai lie bian liang zhong yao xing	100
+判别器	pan bie qi	100
+配置漂移	pei zhi piao yi	160
+批次归一化	pi ci gui yi hua	100
+批量矩阵乘法	pi liang ju zhen cheng fa	160
+批量推理	pi liang tui li	100
+平方合页损失函数	ping fang he ye sun shi han shu	100
+平方损失函数	ping fang sun shi han shu	100
+平均时间复杂度	ping jun shi jian fu za du	160
+平行虚拟机	ping xing xu ni ji	100
+平移不变性	ping yi bu bian xing	100
+契约测试	qi yue ce shi	160
+恰好一次语义	qia hao yi ci yu yi	160
+欠采样	qian cai yang	100
+前馈神经网络	qian kui shen jing wang luo	100
+欠拟合	qian ni he	100
+嵌入层	qian ru ceng	100
+嵌入空间	qian ru kong jian	100
+嵌入向量	qian ru xiang liang	100
+前向模式自动微分	qian xiang mo shi zi dong wei fen	160
+潜在空间	qian zai kong jian	100
+千兆字节	qian zhao zi jie	100
+前缀缓存	qian zhui huan cun	160
+千字节	qian zi jie	100
+强扩展性	qiang kuo zhan xing	160
+轻客户端	qing ke hu duan	100
+去重窗口	qu chong chuang kou	160
+全称闭包	quan cheng bi bao	100
+全归约	quan gui yue	160
+全连接层	quan lian jie ceng	100
+全收集	quan shou ji	160
+全同态加密	quan tong tai jia mi	100
+权向量	quan xiang liang	100
+确定性自动机	que ding xing zi dong ji	100
+确定有限自动机	que ding you xian zi dong ji	160
+确认偏差	que ren pian cha	100
+缺页异常	que ye yi chang	160
+热点分析	re dian fen xi	160
+热梯度	re ti du	100
+人工通用智能	ren gong tong yong zhi neng	100
+人类反馈强化学习	ren lei fan kui qiang hua xue xi	160
+任务并行	ren wu bing xing	160
+任意精度计算	ren yi jing du ji suan	160
+认证申请	ren zheng shen qing	100
+认证系统	ren zheng xi tong	100
+日志复制	ri zhi fu zhi	160
+日志结构合并树	ri zhi jie gou he bing shu	160
+容错机制	rong cuo ji zhi	160
+熔断机制	rong duan ji zhi	160
+容器编排	rong qi bian pai	160
+软件成分分析	ruan jian cheng fen fen xi	160
+软件供应链	ruan jian gong ying lian	160
+软件供应链安全	ruan jian gong ying lian an quan	160
+软件物料清单	ruan jian wu liao qing dan	160
+弱扩展性	ruo kuo zhan xing	160
+弱内存模型	ruo nei cun mo xing	160
+三阶段提交	san jie duan ti jiao	160
+散列编码	san lie bian ma	100
+散列桶	san lie tong	100
+散列向量	san lie xiang liang	100
+上下文窗口	shang xia wen chuang kou	100
+上下文无关文法	shang xia wen wu guan wen fa	160
+上下文学习	shang xia wen xue xi	100
+商业模型	shang ye mo xing	100
+少量样本学习	shao liang yang ben xue xi	100
+少样本提示	shao yang ben ti shi	100
+设备类型	she bei lei xing	100
+深度机器学习	shen du ji qi xue xi	100
+深度可分离卷积神经网络	shen du ke fen li juan ji shen jing wang luo	100
+神经架构搜索	shen jing jia gou sou suo	100
+生产者消费者问题	sheng chan zhe xiao fei zhe wen ti	160
+生成对抗网络	sheng cheng dui kang wang luo	100
+声明式配置	sheng ming shi pei zhi	160
+释放获取语义	shi fang huo qu yu yi	160
+事件类型	shi jian lei xing	100
+事件溯源	shi jian su yuan	160
+世界模型	shi jie mo xing	100
+视觉语言模型	shi jue yu yan mo xing	160
+实向量空间	shi xiang liang kong jian	100
+使用权限	shi yong quan xian	100
+时钟中断	shi zhong zhong duan	100
+瘦客户端	shou ke hu duan	100
+授权码	shou quan ma	100
+收缩顺序	shou suo shun xu	160
+数据并行	shu ju bing xing	160
+数据并行处理	shu ju bing xing chu li	100
+数据湖	shu ju hu	100
+数据库程序	shu ju ku cheng xu	100
+数据库链接	shu ju ku lian jie	100
+数据漂移	shu ju piao yi	160
+数据投毒	shu ju tou du	160
+数据增强	shu ju zeng qiang	100
+数据中断	shu ju zhong duan	100
+书目数据库	shu mu shu ju ku	100
+属性测试	shu xing ce shi	160
+数值梯度检查	shu zhi ti du jian cha	160
+数值稳定性	shu zhi wen ding xing	160
+数值线性代数	shu zhi xian xing dai shu	160
+双处理器系统	shuang chu li qi xi tong	100
+双核处理器	shuang he chu li qi	100
+双频路由器	shuang pin lu you qi	100
+双向语言模型	shuang xiang yu yan mo xing	100
+顺序一致性	shun xu yi zhi xing	160
+算法模型	suan fa mo xing	100
+算术强度	suan shu qiang du	160
+算子融合	suan zi rong he	160
+随机存取内存模块	sui ji cun qu nei cun mo kuai	100
+随机模型	sui ji mo xing	100
+随机梯度下降法	sui ji ti du xia jiang fa	100
+损失曲面	sun shi qu mian	100
+损失曲线	sun shi qu xian	100
+损失缩放	sun shi suo fang	160
+缩放不变性	suo fang bu bian xing	100
+索引分配	suo yin fen pei	100
+索引卡	suo yin ka	100
+索引搜索	suo yin sou suo	100
+索引值	suo yin zhi	100
+所有权类型	suo you quan lei xing	160
+锁自由	suo zi you	160
+钽电容器	tan dian rong qi	100
+摊还分析	tan huan fen xi	160
+贪婪策略	tan lan ce lve	100
+逃逸分析	tao yi fen xi	160
+特性开关	te xing kai guan	160
+特征集	te zheng ji	100
+特征量	te zheng liang	100
+特征重要性	te zheng zhong yao xing	100
+梯度爆炸	ti du bao zha	160
+梯度裁剪	ti du cai jian	160
+梯度检查点	ti du jian cha dian	160
+梯度累积	ti du lei ji	100
+梯度缩放	ti du suo fang	160
+梯度提升	ti du ti sheng	100
+梯度同步	ti du tong bu	160
+梯度消失	ti du xiao shi	160
+提前编译	ti qian bian yi	160
+提示工程	ti shi gong cheng	100
+同态加密	tong tai jia mi	160
+通信计算重叠	tong xin ji suan chong die	160
+通信开销	tong xin kai xiao	160
+通用编译器	tong yong bian yi qi	100
+通用指令集	tong yong zhi ling ji	100
+投机解码	tou ji jie ma	160
+图表类型	tu biao lei xing	100
+图的连通性	tu de lian tong xing	160
+图卷积网络	tu juan ji wang luo	160
+图灵	tu ling	9999
+图灵归约	tu ling gui yue	100
+图灵可计算性	tu ling ke ji suan xing	160
+图神经网络	tu shen jing wang luo	160
+图像向量	tu xiang xiang liang	100
+图注意力网络	tu zhu yi li wang luo	160
+图着色问题	tu zhuo se wen ti	160
+退避重试	tui bi zhong shi	160
+推测解码	tui ce jie ma	160
+推理路径	tui li lu jing	100
+推理时计算	tui li shi ji suan	160
+托管协议	tuo guan xie yi	100
+椭圆曲线密码	tuo yuan qu xian mi ma	160
+外存算法	wai cun suan fa	160
+网间网操作系统	wang jian wang cao zuo xi tong	100
+网络流算法	wang luo liu suan fa	160
+网络通讯协议	wang luo tong xun xie yi	100
+网状数据库	wang zhuang shu ju ku	100
+谓词下推	wei ci xia tui	160
+尾调用优化	wei diao yong you hua	160
+伪共享	wei gong xiang	160
+微观经济模型	wei guan jing ji mo xing	100
+微码编译器	wei ma bian yi qi	100
+微码指令集	wei ma zhi ling ji	100
+伪随机	wei sui ji	100
+位置编码	wei zhi bian ma	160
+文件转换处理器	wen jian zhuan huan chu li qi	100
+无标签样本	wu biao qian yang ben	100
+无等待算法	wu deng dai suan fa	160
+污点分析	wu dian fen xi	160
+无服务器计算	wu fu wu qi ji suan	100
+无锁数据结构	wu suo shu ju jie gou	160
+无锁算法	wu suo suan fa	160
+稀疏检索	xi shu jian suo	160
+稀疏矩阵乘法	xi shu ju zhen cheng fa	160
+稀疏矩阵存储	xi shu ju zhen cun chu	160
+稀疏特征	xi shu te zheng	100
+稀疏向量	xi shu xiang liang	100
+系统处理器	xi tong chu li qi	100
+系统调用表	xi tong diao yong biao	160
+系统页表	xi tong ye biao	100
+下采样	xia cai yang	100
+线程局部存储	xian cheng ju bu cun chu	160
+线程切换	xian cheng qie huan	100
+先进加密标准	xian jin jia mi biao zhun	100
+限流算法	xian liu suan fa	160
+线性化一致性	xian xing hua yi zhi xing	160
+线性类型	xian xing lei xing	160
+线性散列	xian xing san lie	100
+线性向量函数	xian xing xiang liang han shu	100
+线性一致性	xian xing yi zhi xing	160
+线性有界自动机	xian xing you jie zi dong ji	100
+先验信念	xian yan xin nian	100
+向后误差	xiang hou wu cha	160
+向量乘法	xiang liang cheng fa	100
+向量化计算	xiang liang hua ji suan	160
+向量化执行	xiang liang hua zhi xing	160
+向量时钟	xiang liang shi zhong	160
+向量数据库	xiang liang shu ju ku	160
+向量图	xiang liang tu	100
+向量图像	xiang liang tu xiang	100
+向量雅可比积	xiang liang ya ke bi ji	160
+向量指令集	xiang liang zhi ling ji	100
+香农	xiang nong	1730
+向前误差	xiang qian wu cha	160
+小端字节序	xiao duan zi jie xu	160
+小批次随机梯度下降法	xiao pi ci sui ji ti du xia jiang fa	100
+消息重放	xiao xi chong fang	160
+消息认证码	xiao xi ren zheng ma	160
+消息摘要算法	xiao xi zhai yao suan fa	160
+协程调度	xie cheng diao du	160
+写偏斜	xie pian xie	160
+写屏障	xie ping zhang	160
+行动空间	xing dong kong jian	100
+性能剖析	xing neng pou xi	160
+形式化验证	xing shi hua yan zheng	160
+形式模型	xing shi mo xing	100
+形态函数	xing tai han shu	100
+修正线性单元	xiu zheng xian xing dan yuan	100
+序列并行	xu lie bing xing	160
+序列模型	xu lie mo xing	100
+虚拟地址空间	xu ni di zhi kong jian	160
+虚拟机器	xu ni ji qi	100
+选主算法	xuan zhu suan fa	160
+旋转不变性	xuan zhuan bu bian xing	100
+旋转位置编码	xuan zhuan wei zhi bian ma	160
+学习算法	xue xi suan fa	100
+循环不变代码外提	xun huan bu bian dai ma wai ti	160
+循环分块	xun huan fen kuai	160
+循环向量化	xun huan xiang liang hua	160
+训练后量化	xun lian hou liang hua	160
+训练集	xun lian ji	100
+训练时间	xun lian shi jian	100
+训练损失	xun lian sun shi	100
+雅可比向量积	ya ke bi xiang liang ji	160
+压缩稀疏行	ya suo xi shu hang	160
+压缩稀疏列	ya suo xi shu lie	160
+掩码建模	yan ma jian mo	160
+掩码语言模型	yan ma yu yan mo xing	100
+验证集	yan zheng ji	100
+验证损失	yan zheng sun shi	100
+页表目录	ye biao mu lu	100
+页缓存	ye huan cun	160
+页面回收	ye mian hui shou	160
+页面置换算法	ye mian zhi huan suan fa	160
+异步计算机	yi bu ji suan ji	100
+异步执行	yi bu zhi xing	160
+异常值检测	yi chang zhi jian ce	100
+依赖混淆	yi lai hun xiao	160
+依赖类型	yi lai lei xing	160
+已知漏洞	yi zhi lou dong	100
+一致性模型	yi zhi xing mo xing	160
+因果一致性	yin guo yi zhi xing	160
+因果语言模型	yin guo yu yan mo xing	100
+隐私计算	yin si ji suan	160
+因特网报文存取协议	yin te wang bao wen cun qu xie yi	100
+影像数据库	ying xiang shu ju ku	100
+用户态内核态	yong hu tai nei he tai	160
+用户态线程	yong hu tai xian cheng	160
+有标签样本	you biao qian yang ben	100
+优化器分片	you hua qi fen pian	160
+优雅关闭	you ya guan bi	160
+与操作	yu cao zuo	100
+预测性机器学习	yu ce xing ji qi xue xi	100
+语法处理器	yu fa chu li qi	100
+语法分析器	yu fa fen xi qi	160
+域关系演算	yu guan xi yan suan	100
+预授权	yu shou quan	100
+预条件器	yu tiao jian qi	160
+预写式日志	yu xie shi ri zhi	160
+预训练	yu xun lian	100
+预训练模型	yu xun lian mo xing	100
+语言处理器	yu yan chu li qi	100
+元学习	yuan xue xi	100
+原子读改写	yuan zi du gai xie	160
+约束求解	yue shu qiu jie	160
+运行时系统	yun xing shi xi tong	160
+灾难性消减	zai nan xing xiao jian	160
+在线推理	zai xian tui li	100
+脏写	zang xie	160
+早停法	zao ting fa	100
+增量视图维护	zeng liang shi tu wei hu	160
+张量并行	zhang liang bing xing	160
+张量乘法	zhang liang cheng fa	100
+张量乘积	zhang liang cheng ji	100
+张量处理单元	zhang liang chu li dan yuan	100
+张量磁导率	zhang liang ci dao lv	100
+张量分解	zhang liang fen jie	160
+张量收缩	zhang liang shou suo	160
+张量形状	zhang liang xing zhuang	100
+兆字节	zhao zi jie	100
+真实内存	zhen shi nei cun	100
+正规算法	zheng gui suan fa	100
+正交向量	zheng jiao xiang liang	100
+至多一次语义	zhi duo yi ci yu yi	160
+直接偏好优化	zhi jie pian hao you hua	160
+指令集处理器	zhi ling ji chu li qi	100
+智能体编排	zhi neng ti bian pai	100
+智能体工作流	zhi neng ti gong zuo liu	100
+支配树	zhi pei shu	160
+至少一次语义	zhi shao yi ci yu yi	160
+知识蒸馏	zhi shi zheng liu	160
+置信度校准	zhi xin du jiao zhun	160
+仲裁机制	zhong cai ji zhi	160
+中断程序	zhong duan cheng xu	100
+中断禁止	zhong duan jin zhi	100
+中断源	zhong duan yuan	100
+中断状态	zhong duan zhuang tai	100
+中间表示	zhong jian biao shi	160
+重排序模型	zhong pai xu mo xing	160
+轴向量	zhou xiang liang	100
+主动学习	zhu dong xue xi	100
+主节点	zhu jie dian	100
+主内存	zhu nei cun	100
+主数据库	zhu shu ju ku	100
+注意力机制	zhu yi li ji zhi	160
+专家并行	zhuan jia bing xing	160
+状态队列	zhuang tai dui lie	100
+状态机代理	zhuang tai ji dai li	100
+状态机复制	zhuang tai ji fu zhi	160
+自动编码器	zi dong bian ma qi	100
+自动机理论	zi dong ji li lun	160
+自动评估	zi dong ping gu	100
+自动微分	zi dong wei fen	160
+自回归	zi hui gui	100
+自回归模型	zi hui gui mo xing	160
+自监督学习	zi jian du xue xi	160
+字节对编码	zi jie dui bian ma	160
+子路径	zi lu jing	100
+子网络	zi wang luo	100
+自训练	zi xun lian	100
+自注意力	zi zhu yi li	100
+自注意力机制	zi zhu yi li ji zhi	160
+自主智能体	zi zhu zhi neng ti	100
+总带宽	zong dai kuan	100
+最坏时间复杂度	zui huai shi jian fu za du	160
+最小二乘回归	zui xiao er cheng hui gui	100
+最小权限原则	zui xiao quan xian yuan ze	160
+最终一致性	zui zhong yi zhi xing	160

@@ -1,0 +1,108 @@
+# encoding: utf-8
+# Simplified Chinese. Each entry is one word or term, followed by full pinyin.
+# Add explicit first-choice codes to word_shortcuts.txt if desired.
+---
+name: daily_words
+version: "1.1"
+sort: by_weight
+use_preset_vocabulary: false
+...
+安排	an pai	1001610
+办法	ban fa	1016694
+抱歉	bao qian	193205
+不客气	bu ke qi	850000
+超市	chao shi	768640
+车站	che zhan	463150
+出门	chu men	400990
+出租车	chu zu che	250770
+但是	dan shi	1181918
+当然	dang ran	1177677
+地铁	di tie	453400
+地址	di zhi	1004502
+电话	dian hua	1140276
+电脑	dian nao	1001902
+电梯	dian ti	538000
+多少	duo shao	1049151
+方便	fang bian	969579
+分钟	fen zhong	1058158
+附近	fu jin	1000818
+刚才	gang cai	1000582
+公交车	gong jiao che	134790
+工作	gong zuo	1189462
+好的	hao de	500784
+后天	hou tian	149186
+回家	hui jia	1032891
+会议	hui yi	1001718
+机场	ji chang	1000598
+教室	jiao shi	548228
+今天	jin tian	1177989
+觉得	jue de	1177131
+可能	ke neng	1178661
+可以	ke yi	1188663
+快递	kuai di	394487
+楼下	lou xia	349190
+麻烦	ma fan	910552
+马上	ma shang	1057530
+买菜	mai cai	26335
+没关系	mei guan xi	850000
+明天	ming tian	1043688
+哪个	na ge	866400
+那里	na li	1132578
+哪里	na li	950043
+能力	neng li	1477245
+你好	ni hao	665770
+您好	nin hao	568092
+请问	qing wen	944955
+然后	ran hou	1178896
+如果	ru guo	1187662
+商店	shang dian	610520
+上午	shang wu	851948
+什么	shen me	1180800
+什么时候	shen me shi hou	410000
+时间	shi jian	1185991
+收到	shou dao	1000976
+手机	shou ji	1002992
+所以	suo yi	1181827
+态势	tai shi	213880
+天气	tian qi	985710
+同事	tong shi	835580
+图书馆	tu shu guan	799185
+晚饭	wan fan	151450
+晚上	wan shang	1034419
+网络	wang luo	1097758
+为什么	wei shen me	1177131
+位置	wei zhi	1002054
+文件	wen jian	1003244
+问题	wen ti	1185718
+午饭	wu fan	84670
+喜欢	xi huan	1177442
+下午	xia wu	1001292
+下雨	xia yu	160030
+下载	xia zai	760223
+下周	xia zhou	48860
+现在	xian zai	1182478
+小时	xiao shi	1075714
+消息	xiao xi	1016559
+谢谢	xie xie	1176962
+需要	xu yao	1182894
+学校	xue xiao	1047638
+以后	yi hou	1025826
+已经	yi jing	1181474
+一起	yi qi	1177131
+以前	yi qian	1089952
+医院	yi yuan	1160872
+因为	yin wei	1182074
+应该	ying gai	1177599
+邮件	you jian	973528
+再见	zai jian	291148
+早饭	zao fan	79070
+早上	zao shang	741000
+怎么	zen me	1177383
+照片	zhao pian	1001258
+这里	zhe li	1178071
+知道	zhi dao	1177949
+中午	zhong wu	654330
+周末	zhou mo	593000
+准备	zhun bei	1177169
+最近	zui jin	1001330
+昨天	zuo tian	1000750

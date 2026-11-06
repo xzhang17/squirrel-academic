@@ -1,0 +1,137 @@
+# 生命科学与医学
+# Sources and licenses: Sources.txt in this folder.
+---
+name: biology_mixed
+version: "1.3"
+sort: by_weight
+use_preset_vocabulary: false
+...
+A型血	a xing xue	100
+A血型	a xue xing	100
+AB型	ab xing	100
+AB型血	ab xing xue	100
+AB血型	ab xue xing	100
+ABO血型系统	abo xue xing xi tong	100
+ADP核糖基化	adp he tang ji hua	100
+AlphaFold预测	alphafold yu ce	160
+ATAC测序	atac ce xu	100
+ATAC测序分析	atac ce xu fen xi	160
+ATAC文库	atac wen ku	160
+ATP合酶	atp he mei	100
+ATP水解	atp shui jie	100
+B超	b chao	100
+B淋巴细胞	b lin ba xi bao	100
+B细胞	b xi bao	100
+B细胞克隆	b xi bao ke long	160
+B细胞受体	b xi bao shou ti	100
+B型超声波	b xing chao sheng bo	100
+B型血	b xing xue	100
+B血型	b xue xing	100
+BCR测序	bcr ce xu	160
+CAR-T细胞	car t xi bao	100
+Cas蛋白	cas dan bai	160
+Cas核酸酶	cas he suan mei	160
+Cas切割	cas qie ge	160
+ChIP测序	chip ce xu	100
+ChIP测序分析	chip ce xu fen xi	160
+ChIP文库	chip wen ku	160
+CNV检测	cnv jian ce	160
+CRISPR编辑	crispr bian ji	100
+CRISPR干扰	crispr gan rao	160
+CRISPR激活	crispr ji huo	160
+CRISPR基因编辑	crispr ji yin bian ji	160
+CRISPR筛选	crispr shai xuan	100
+CT检查	ct jian cha	100
+ddPCR检测	ddpcr jian ce	160
+DNA测序	dna ce xu	100
+DNA重测序	dna chong ce xu	160
+DNA复制	dna fu zhi	100
+DNA复制起始	dna fu zhi qi shi	160
+DNA甲基化	dna jia ji hua	100
+DNA甲基转移酶	dna jia ji zhuan yi mei	160
+DNA检测	dna jian ce	100
+DNA结合蛋白	dna jie he dan bai	160
+DNA可及性	dna ke ji xing	160
+DNA双链断裂	dna shuang lian duan lie	100
+DNA损伤	dna sun shang	100
+DNA损伤修复	dna sun shang xiu fu	160
+DNA条形码	dna tiao xing ma	160
+DNA修复	dna xiu fu	100
+ELISA定量	elisa ding liang	160
+ELISA检测	elisa jian ce	100
+eQTL定位	eqtl ding wei	160
+eQTL分析	eqtl fen xi	160
+FACS分选	facs fen xuan	160
+FISH检测	fish jian ce	100
+GFP标记	gfp biao ji	100
+GO富集	go fu ji	160
+GSEA分析	gsea fen xi	160
+GWAS分析	gwas fen xi	160
+GWAS信号	gwas xin hao	160
+Hi-C分析	hi c fen xi	160
+Hi-C互作	hi c hu zuo	160
+Hi-C数据	hi c shu ju	160
+环境RNA污染	huan jing rna wu ran	160
+NK细胞	nk xi bao	100
+Northern印迹	northern yin ji	100
+O型	o xing	100
+O型血	o xing xue	100
+O血型	o xue xing	100
+PCA降维	pca jiang wei	160
+PCR产物	pcr chan wu	100
+PCR扩增	pcr kuo zeng	100
+PCR引物	pcr yin wu	160
+qPCR定量	qpcr ding liang	160
+qPCR检测	qpcr jian ce	100
+QTL定位	qtl ding wei	160
+Rh血型系统	rh xue xing xi tong	100
+Rh阳性血	rh yang xing xue	100
+Rh阳性血型	rh yang xing xue xing	100
+Rh阴性血	rh yin xing xue	100
+Rh阴性血型	rh yin xing xue xing	100
+RNA编辑	rna bian ji	100
+RNA测序	rna ce xu	100
+RNA测序分析	rna ce xu fen xi	160
+RNA干扰	rna gan rao	100
+RNA剪接	rna jian jie	100
+RNA降解	rna jiang jie	160
+RNA结合蛋白	rna jie he dan bai	100
+RNA聚合酶	rna ju he mei	100
+RNA速度	rna su du	160
+RNA稳定性	rna wen ding xing	160
+RNA修饰	rna xiu shi	160
+RT-PCR检测	rt pcr jian ce	160
+Scanpy分析	scanpy fen xi	160
+Seurat分析	seurat fen xi	160
+SNP分型	snp fen xing	160
+SNP位点	snp wei dian	160
+Southern印迹	southern yin ji	100
+T淋巴细胞	t lin ba xi bao	100
+t-SNE降维	t sne jiang wei	160
+T细胞	t xi bao	100
+T细胞耗竭	t xi bao hao jie	100
+T细胞克隆	t xi bao ke long	160
+T细胞受体	t xi bao shou ti	100
+TCR测序	tcr ce xu	160
+TCR克隆型	tcr ke long xing	160
+UMAP降维	umap jiang wei	160
+UMI计数	umi ji shu	160
+UMI去重	umi qu chong	160
+维A	wei a	100
+维A酸	wei a suan	100
+维B	wei b	100
+维C	wei c	100
+维D	wei d	100
+维E	wei e	100
+维K	wei k	100
+维生素A	wei sheng su a	100
+维生素B	wei sheng su b	100
+维生素C	wei sheng su c	100
+维生素D	wei sheng su d	100
+维生素E	wei sheng su e	100
+维生素K	wei sheng su k	100
+Western印迹	western yin ji	100
+X刀	x dao	100
+X染色体	x ran se ti	100
+Y染色体	y ran se ti	100
+异维A酸	yi wei a suan	100

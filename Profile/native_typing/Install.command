@@ -7,10 +7,17 @@ typing_work=$(mktemp -d /private/tmp/squirrel-typing-install.XXXXXXXX)
 trap 'rm -rf -- "$typing_work"' EXIT
 typing_target='/Library/Input Methods/Squirrel.app'
 
-python3 - "$typing_assets" "$typing_target" <<'PY'
+typing_arch=x86_64
+if [[ $(/usr/sbin/sysctl -n hw.optional.arm64 2>/dev/null) == 1 ]]; then typing_arch=arm64; fi
+if ! /usr/bin/lipo "$typing_assets/Squirrel.local" -verify_arch "$typing_arch"; then
+  printf 'The saved Squirrel executable does not support this Mac (%s).\n' "$typing_arch" >&2
+  exit 1
+fi
+
+typing_original_sha=$(python3 -I - "$typing_assets" "$typing_target" "$typing_work" <<'PY'
 import hashlib,json,plistlib,sys
 from pathlib import Path
-assets,app=map(Path,sys.argv[1:])
+assets,app,work=map(Path,sys.argv[1:])
 base=json.loads((assets/'nightly-base.txt').read_text())
 info=plistlib.loads((app/'Contents/Info.plist').read_bytes())
 actual=hashlib.sha256((app/'Contents/MacOS/Squirrel').read_bytes()).hexdigest()
@@ -18,13 +25,17 @@ assert info['CFBundleIdentifier']=='im.rime.inputmethod.Squirrel'
 assert info['CFBundleVersion']==base['bundle_version'], 'A different Squirrel version is installed.'
 assert actual in [base['original_sha256'],base['modified_sha256']] or info.get('AcademicTypingBase')==base['revision'], 'The installed nightly has changed; rebuild the local extension first.'
 assert hashlib.sha256((app/'Contents/Frameworks/librime.1.dylib').read_bytes()).hexdigest()==base['librime_sha256'], 'The Rime engine has changed; rebuild first.'
-assert hashlib.sha256((assets/'Squirrel.local').read_bytes()).hexdigest()==base['modified_sha256'], 'Local executable does not match its build record.'
+executable=(assets/'Squirrel.local').read_bytes()
+assert hashlib.sha256(executable).hexdigest()==base['modified_sha256'], 'Local executable does not match its build record.'
+(work/'verified-Squirrel').write_bytes(executable)
+print(base['original_sha256'])
 PY
+)
 
 /usr/bin/ditto "$typing_target" "$typing_work/Squirrel.app"
-/bin/cp "$typing_assets/Squirrel.local" "$typing_work/Squirrel.app/Contents/MacOS/Squirrel"
+/bin/cp "$typing_work/verified-Squirrel" "$typing_work/Squirrel.app/Contents/MacOS/Squirrel"
 /bin/chmod 755 "$typing_work/Squirrel.app/Contents/MacOS/Squirrel"
-python3 - "$typing_work/Squirrel.app/Contents/Info.plist" <<'PY'
+python3 -I - "$typing_work/Squirrel.app/Contents/Info.plist" <<'PY'
 import plistlib,sys
 from pathlib import Path
 p=Path(sys.argv[1]); info=plistlib.loads(p.read_bytes())
@@ -43,16 +54,38 @@ cat > "$typing_work/install-root.sh" <<'ROOT'
 #!/bin/bash
 set -euo pipefail
 source_app=$1
+original_sha=$2
 target='/Library/Input Methods/Squirrel.app'
 backup='/Library/Application Support/Squirrel Typing/Original-Squirrel.zip'
 [[ -d "$source_app" && -d "$target" && ! -L "$target" ]]
 /usr/bin/codesign --verify --deep --strict "$source_app"
 /usr/bin/install -d -m 755 '/Library/Application Support/Squirrel Typing'
-if [[ ! -e "$backup" ]]; then
-  /usr/bin/ditto -c -k --sequesterRsrc --keepParent "$target" "$backup"
+if [[ ! -e "$backup" && ! -L "$backup" ]]; then
+  installed_sha=$(/usr/bin/shasum -a 256 "$target/Contents/MacOS/Squirrel")
+  if [[ ${installed_sha%% *} != "$original_sha" ]]; then
+    printf '%s\n' 'Restore the original archive or reinstall the matching unmodified nightly first.' >&2
+    exit 1
+  fi
+  (
+    tmp=$(/usr/bin/mktemp -d "${backup%/*}/.original.XXXXXXXX")
+    trap '/bin/rm -rf -- "$tmp"' EXIT
+    /usr/bin/ditto -c -k --sequesterRsrc --keepParent "$target" "$tmp/original.zip"
+    /usr/bin/unzip -tq "$tmp/original.zip"
+    /bin/ln "$tmp/original.zip" "$backup" || [[ -f "$backup" ]]
+  )
+else
+  [[ -f "$backup" && ! -L "$backup" ]]
   /usr/bin/unzip -tq "$backup"
 fi
+[[ -f "$backup" && ! -L "$backup" ]]
+# Existing archives may store the bundle as Original-Squirrel.app.
+archived_sha=$(/usr/bin/unzip -p "$backup" '*.app/Contents/MacOS/Squirrel' | /usr/bin/shasum -a 256)
+if [[ ${archived_sha%% *} != "$original_sha" ]]; then
+  printf '%s\n' 'The rollback archive does not contain the original matching Squirrel executable.' >&2
+  exit 1
+fi
 stage=$(/usr/bin/mktemp -d '/Library/Input Methods/.Squirrel-typing.XXXXXXXX')
+trap '/bin/rm -rf -- "$stage"' EXIT
 /usr/bin/ditto "$source_app" "$stage/Squirrel.app"
 /usr/sbin/chown -R root:wheel "$stage/Squirrel.app"
 /usr/bin/codesign --verify --deep --strict "$stage/Squirrel.app"
@@ -86,9 +119,9 @@ trap 'exit 143' HUP TERM
 /usr/bin/codesign --verify --deep --strict "$target"
 ROOT
 
-/usr/bin/osascript - "$typing_work/install-root.sh" "$typing_work/Squirrel.app" <<'APPLESCRIPT'
+/usr/bin/osascript - "$typing_work/install-root.sh" "$typing_work/Squirrel.app" "$typing_original_sha" <<'APPLESCRIPT'
 on run argv
-  do shell script "/bin/bash " & quoted form of item 1 of argv & " " & quoted form of item 2 of argv with administrator privileges
+  do shell script "/bin/bash " & quoted form of item 1 of argv & " " & quoted form of item 2 of argv & " " & quoted form of item 3 of argv with administrator privileges
 end run
 APPLESCRIPT
 

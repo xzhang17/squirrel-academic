@@ -1,0 +1,16 @@
+# Select academic subjects for ordinary typing and extended lookup.
+# true = enabled; false = kept on disk for later use.
+# After editing: /usr/bin/ruby ~/Library/Rime/dicts/rebuild_academic.rb
+# Then choose Deploy in Squirrel. Backups remain manual.
+subjects:
+  physics: true  # 物理学
+  mathematics: true  # 数学
+  mechanics: true  # 力学
+  mechanics_extra: false  # 力学扩展：新增词条，暂不启用
+  research: true  # 科研与写作
+  biology: false  # 生命科学与医学
+  computer_science: false  # 计算机科学
+  engineering: false  # 工程技术
+  geology: false  # 地质与地球科学
+  history: false  # 历史学
+  chemistry: false  # 化学

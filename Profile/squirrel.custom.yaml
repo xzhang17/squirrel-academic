@@ -8,12 +8,16 @@ patch:
   style/color_scheme_dark: mac_green
   style/inline_preedit: true
   style/inline_candidate: false
-  # macOS can host an administrator prompt in a separate authentication process.
-  app_options/com.apple.SecurityAgent/ascii_mode: true
-  app_options/com.apple.LocalAuthentication.UIAgent/ascii_mode: true
-  app_options/com.apple.LocalAuthenticationRemoteService/ascii_mode: true
-  app_options/com.apple.authorizationhost/ascii_mode: true
-  app_options/com.apple.osascript/ascii_mode: true
+  # Keep the nightly's editor display workarounds. The scheme and Shift control language.
+  app_options:
+    com.apple.Terminal: {no_inline: true}
+    com.googlecode.iterm2: {no_inline: true}
+    org.vim.MacVim: {no_inline: true}
+    org.gnu.Emacs: {no_inline: true}
+    org.alacritty: {force_marked_text_for_direct_commit: true}
+    com.google.Chrome: {inline: true}
+    com.microsoft.edgemac: {inline: true}
+    ru.keepcoder.Telegram: {inline: true}
   preset_color_schemes/mac_green:
     name: MacGreen
     color_space: srgb
@@ -41,3 +45,78 @@ patch:
     hilited_candidate_text_color: 0xFFFFFF
     hilited_candidate_label_color: 0xFFFFFF
     hilited_comment_text_color: 0x999999
+
+  # Optional skins from Mintimate/oh-my-rime (squirrel.yaml, cb4f7dda).
+  preset_color_schemes/mint_light_blue:
+    name: "蓝水鸭／Mint Light Blue"
+    author: Mintimate <"Mintimate's Blog">
+    translucency: true
+    mutual_exclusive: false
+    shadow_size: 0
+    line_spacing: 5
+    alpha: 1
+    spacing: 10
+    back_color: 0xefefef
+    hilited_candidate_back_color: 0xed9564
+    label_color: 0xcac9c8
+    hilited_candidate_label_color: 0xefefef
+    candidate_text_color: 0x424242
+    hilited_candidate_text_color: 0xefefef
+    comment_text_color: 0xcac9c8
+    hilited_comment_text_color: 0xefefef
+    text_color: 0x6495ed
+    hilited_text_color: 0xed9564
+
+  preset_color_schemes/mint_dark_blue:
+    name: 黑水鸭／Mint Dark Blue
+    author: Mintimate <"Mintimate's Blog">
+    translucency: true
+    mutual_exclusive: false
+    shadow_size: 0
+    line_spacing: 5
+    alpha: 1
+    spacing: 10
+    back_color: 0x424242
+    hilited_candidate_back_color: 0xc6c01a
+    label_color: 0xefefef
+    hilited_candidate_label_color: 0xefefef
+    candidate_text_color: 0xefefef
+    hilited_candidate_text_color: 0xefefef
+    comment_text_color: 0xefefef
+    hilited_comment_text_color: 0xffffff
+    text_color: 0x6495ed
+    hilited_text_color: 0xc6c01a
+
+  preset_color_schemes/mint_light_green:
+    name: "碧皓青／Mint Light Green"
+    author: Mintimate <"Mintimate's Blog">
+    translucency: true
+    mutual_exclusive: false
+    color_space: srgb
+    back_color: 0xEFEFEF
+    candidate_text_color: 0x323232
+    comment_text_color: 0x878787
+    label_color: 0x323232
+    hilited_candidate_back_color: 0x7BAE4F
+    hilited_candidate_text_color: 0xFFFFFF
+    hilited_comment_text_color: 0xDFF0EE
+    hilited_candidate_label_color: 0xEFEFEF
+    text_color: 0x7BAE4F
+    hilited_text_color: 0xed9564
+
+  preset_color_schemes/mint_dark_green:
+    name: "碧月青／Mint Dark Green"
+    author: Mintimate <"Mintimate's Blog">
+    translucency: true
+    mutual_exclusive: false
+    color_space: srgb
+    back_color: 0x323232
+    candidate_text_color: 0xE8E8E8
+    comment_text_color: 0xBEBEBE
+    label_color: 0xB0B0B0
+    hilited_candidate_back_color: 0x83C81C
+    hilited_candidate_text_color: 0xEFEFEF
+    hilited_comment_text_color: 0xF4FAF8
+    hilited_candidate_label_color: 0xEFEFEF
+    text_color: 0x83C81C
+    hilited_text_color: 0xed9564

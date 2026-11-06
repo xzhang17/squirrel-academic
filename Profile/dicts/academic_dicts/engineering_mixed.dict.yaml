@@ -1,0 +1,76 @@
+# 工程技术
+# Sources and licenses: Sources.txt in this folder.
+---
+name: engineering_mixed
+version: "1.2"
+sort: by_weight
+use_preset_vocabulary: false
+...
+ADC采样	adc cai yang	100
+ADRC控制	adrc kong zhi	160
+BIM建模	bim jian mo	100
+BIM模型	bim mo xing	160
+BIM协同	bim xie tong	160
+BMS管理	bms guan li	160
+CAD建模	cad jian mo	100
+CAD设计	cad she ji	160
+CAE分析	cae fen xi	100
+CAM编程	cam bian cheng	160
+CAM加工	cam jia gong	100
+CMM测量	cmm ce liang	160
+CMOS工艺	cmos gong yi	100
+CNC编程	cnc bian cheng	100
+CNC插补	cnc cha bu	160
+CNC加工	cnc jia gong	100
+DAC输出	dac shu chu	100
+DCS控制	dcs kong zhi	160
+DED沉积	ded chen ji	160
+DFA分析	dfa fen xi	160
+DFM分析	dfm fen xi	160
+DSP处理	dsp chu li	100
+EBM成形	ebm cheng xing	160
+EMC测试	emc ce shi	160
+EMI滤波	emi lv bo	160
+FDM成形	fdm cheng xing	160
+FMEA分析	fmea fen xi	160
+FPGA设计	fpga she ji	100
+FTA分析	fta fen xi	160
+GaN器件	gan qi jian	160
+GIS建模	gis jian mo	160
+GNSS定位	gnss ding wei	160
+HMI界面	hmi jie mian	160
+IGBT模块	igbt mo kuai	100
+IMU标定	imu biao ding	160
+LLC谐振	llc xie zhen	160
+LQR控制	lqr kong zhi	160
+MEMS传感器	mems chuan gan qi	100
+MOSFET器件	mosfet qi jian	100
+MOSFET驱动	mosfet qu dong	160
+MPC控制	mpc kong zhi	160
+MPPT控制	mppt kong zhi	160
+MTBF评估	mtbf ping gu	160
+MTTR评估	mttr ping gu	160
+OPC-UA通信	opc ua tong xin	160
+PCB布线	pcb bu xian	160
+PCB叠层	pcb die ceng	160
+PCB设计	pcb she ji	100
+PFC电路	pfc dian lu	160
+PID参数	pid can shu	160
+PID控制	pid kong zhi	100
+PID整定	pid zheng ding	160
+PLC程序	plc cheng xu	160
+PLC控制	plc kong zhi	100
+PWM调制	pwm tiao zhi	100
+ROS节点	ros jie dian	160
+RTK定位	rtk ding wei	160
+3D打印	san d da yin	100
+SCADA监控	scada jian kong	160
+SiC器件	sic qi jian	160
+SLA成形	sla cheng xing	160
+SLM成形	slm cheng xing	160
+SLS成形	sls cheng xing	160
+SMT贴片	smt tie pian	100
+SOC估计	soc gu ji	160
+SOH估计	soh gu ji	160
+SVPWM调制	svpwm tiao zhi	160
+VSG控制	vsg kong zhi	160

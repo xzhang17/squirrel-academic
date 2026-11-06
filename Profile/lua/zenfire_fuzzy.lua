@@ -3,6 +3,11 @@
 local M = {}
 local characters
 
+function M.is_han(cp)
+  return (cp >= 0x3400 and cp <= 0x9fff) or (cp >= 0x20000 and cp <= 0x323af)
+      or (cp >= 0xf900 and cp <= 0xfaff)
+end
+
 function M.pattern(reading)
   if not reading or not reading:match("^[a-z]+[a-z ]*$") then return nil end
   local parts = {}
@@ -13,21 +18,24 @@ function M.pattern(reading)
 end
 
 local function load_characters()
-  if characters then return end
-  characters = {}
-  local f = io.open(rime_api.get_user_data_dir() .. "/cn_dicts/8105.dict.yaml", "r")
+  if characters then return characters end
+  local f = io.open(rime_api.get_user_data_dir() .. "/dicts/cn_dicts/8105.dict.yaml", "r")
   if not f then return end
+  local readings = {}
   local body = false
   for line in f:lines() do
     if body then
       local word, code = line:match("^([^#\t]+)\t([a-z]+)\t")
       if word and utf8.len(word) == 1 then
-        characters[word] = characters[word] or {}
-        characters[word][#characters[word]+1] = code
+        readings[word] = readings[word] or {}
+        readings[word][#readings[word]+1] = code
       end
-    elseif line == "..." then body = true end
+    elseif line:match("^%.%.%.%s*$") then body = true end
   end
   f:close()
+  -- An empty or incomplete dictionary may be replaced during deployment.
+  if next(readings) then characters = readings end
+  return characters
 end
 
 local function variants(syllable)
@@ -54,7 +62,8 @@ end
 -- Older four-column snapshots have no syllable boundaries. Recover those
 -- boundaries using the selected Chinese characters, not a blind n/ng rewrite.
 function M.infer(input, word)
-  load_characters()
+  local readings = load_characters()
+  if not readings then return nil end
   local chars = {}
   for _, cp in utf8.codes(word) do chars[#chars+1] = utf8.char(cp) end
   local failed = {}
@@ -65,7 +74,7 @@ function M.infer(input, word)
     if index > #chars then return pos == #input + 1 and {} or nil end
     local key = index .. ":" .. pos
     if failed[key] then return nil end
-    for _, syllable in ipairs(characters[chars[index]] or {}) do
+    for _, syllable in ipairs(readings[chars[index]] or {}) do
       for _, form in ipairs(variants(syllable)) do
         if input:sub(pos, pos + #form[1] - 1) == form[1] then
           local rest = visit(index + 1, pos + #form[1])

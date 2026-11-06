@@ -1,0 +1,1024 @@
+# 生命科学与医学
+# Sources and licenses: Sources.txt in this folder.
+---
+name: biology
+version: "1.3"
+sort: by_weight
+use_preset_vocabulary: false
+...
+氨化作用	an hua zuo yong	100
+靶点发现	ba dian fa xian	160
+靶点验证	ba dian yan zheng	160
+巴甫洛夫	ba fu luo fu	2845
+巴斯德	ba si de	5175
+靶向代谢组学	ba xiang dai xie zu xue	160
+白血病	bai xue bing	100
+败血性休克	bai xue xing xiu ke	100
+半保留复制	ban bao liu fu zhi	100
+伴侣介导的自噬	ban lv jie dao de zi shi	160
+伴细胞	ban xi bao	100
+薄壁细胞	bao bi xi bao	100
+孢粉学	bao fen xue	100
+饱和突变	bao he tu bian	160
+饱和脂肪	bao he zhi fang	100
+胞噬作用	bao shi zuo yong	100
+胞吞作用	bao tun zuo yong	100
+保育生物学	bao yu sheng wu xue	100
+胞质分裂	bao zhi fen lie	100
+孢子虫	bao zi chong	100
+孢子减数分裂	bao zi jian shu fen lie	100
+孢子母细胞	bao zi mu xi bao	100
+孢子囊群	bao zi nang qun	100
+孢子叶	bao zi ye	100
+杯状细胞	bei zhuang xi bao	100
+比较基因组学	bi jiao ji yin zu xue	160
+变构调节	bian gou tiao jie	160
+变构效应	bian gou xiao ying	100
+变位酶	bian wei mei	100
+变异检测	bian yi jian ce	160
+变异频率	bian yi pin lv	160
+变异注释	bian yi zhu shi	160
+表达数量性状位点	biao da shu liang xing zhuang wei dian	160
+表观基因组	biao guan ji yin zu	160
+表观遗传	biao guan yi chuan	100
+表观遗传重编程	biao guan yi chuan chong bian cheng	160
+表观遗传时钟	biao guan yi chuan shi zhong	160
+表观遗传学	biao guan yi chuan xue	160
+病毒蛋白	bing du dan bai	100
+病毒分离	bing du fen li	100
+病毒颗粒	bing du ke li	100
+病毒抑制	bing du yi zhi	100
+病原相关分子模式	bing yuan xiang guan fen zi mo shi	160
+不定根	bu ding gen	100
+不定根形成	bu ding gen xing cheng	160
+不动孢子	bu dong bao zi	100
+部分显性	bu fen xian xing	100
+不全抗原	bu quan kang yuan	100
+捕食者猎物模型	bu shi zhe lie wu mo xing	160
+补体级联	bu ti ji lian	160
+不完全菌	bu wan quan jun	100
+不完全谱系排序	bu wan quan pu xi pai xu	160
+参考基因体	can kao ji yin ti	100
+参考基因组	can kao ji yin zu	160
+侧根发育	ce gen fa yu	160
+测序覆盖度	ce xu fu gai du	160
+测序深度	ce xu shen du	160
+测序质量控制	ce xu zhi liang kong zhi	160
+差异表达分析	cha yi biao da fen xi	160
+差异表达基因	cha yi biao da ji yin	160
+差异丰度分析	cha yi feng du fen xi	160
+产雄孤雌生殖	chan xiong gu ci sheng zhi	100
+产氧光合作用	chan yang guang he zuo yong	100
+肠病毒	chang bing du	100
+肠道菌群	chang dao jun qun	160
+肠道微生物组	chang dao wei sheng wu zu	160
+长读长测序	chang du chang ce xu	160
+超级增强子	chao ji zeng qiang zi	160
+成体干细胞	cheng ti gan xi bao	100
+程序性坏死	cheng xu xing huai si	160
+赤霉素信号	chi mei su xin hao	160
+重组酶	chong zu mei	100
+传播压力	chuan bo ya li	160
+传粉者	chuan fen zhe	100
+串联重复	chuan lian chong fu	160
+次级代谢物	ci ji dai xie wu	100
+次级生产力	ci ji sheng chan li	160
+雌配子体	ci pei zi ti	100
+次生分生组织	ci sheng fen sheng zu zhi	100
+次生细胞壁合成	ci sheng xi bao bi he cheng	160
+次要等位基因频率	ci yao deng wei ji yin pin lv	160
+从头组装	cong tou zu zhuang	160
+粗肌丝	cu ji si	100
+达尔文	da er wen	29832
+大型浮游生物	da xing fu you sheng wu	100
+代谢重编程	dai xie chong bian cheng	160
+代谢反应	dai xie fan ying	100
+代谢调节	dai xie tiao jie	100
+代谢通量分析	dai xie tong liang fen xi	160
+代谢途径	dai xie tu jing	100
+代谢网络重建	dai xie wang luo chong jian	160
+代谢组学	dai xie zu xue	160
+蛋白合成	dan bai he cheng	100
+蛋白酶体降解	dan bai mei ti jiang jie	160
+蛋白质变性	dan bai zhi bian xing	100
+蛋白质从头设计	dan bai zhi cong tou she ji	160
+蛋白质翻译	dan bai zhi fan yi	160
+蛋白质翻译后修饰	dan bai zhi fan yi hou xiu shi	160
+蛋白质构象变化	dan bai zhi gou xiang bian hua	160
+蛋白质互作	dan bai zhi hu zuo	160
+蛋白质互作网络	dan bai zhi hu zuo wang luo	160
+蛋白质降解	dan bai zhi jiang jie	160
+蛋白质结构	dan bai zhi jie gou	100
+蛋白质结构比对	dan bai zhi jie gou bi dui	160
+蛋白质结构预测	dan bai zhi jie gou yu ce	160
+蛋白质聚集	dan bai zhi ju ji	160
+蛋白质稳态	dan bai zhi wen tai	160
+蛋白质相分离	dan bai zhi xiang fen li	160
+蛋白质语言模型	dan bai zhi yu yan mo xing	160
+蛋白质折叠	dan bai zhi zhe die	160
+蛋白质质量控制	dan bai zhi zhi liang kong zhi	160
+单倍型分型	dan bei xing fen xing	160
+单倍型组装	dan bei xing zu zhuang	160
+氮沉降	dan chen jiang	160
+单分子测序	dan fen zi ce xu	160
+氮固定	dan gu ding	160
+单核苷酸变异	dan he gan suan bian yi	160
+单核苷酸多态性	dan he gan suan duo tai xing	160
+单核转录组	dan he zhuan lu zu	160
+单链断裂	dan lian duan lie	160
+氮素利用效率	dan su li yong xiao lv	160
+单体蛋白	dan ti dan bai	100
+单通道记录	dan tong dao ji lu	160
+单系	dan xi	100
+单细胞表观组	dan xi bao biao guan zu	160
+单细胞测序	dan xi bao ce xu	160
+单细胞代谢组	dan xi bao dai xie zu	160
+单细胞蛋白质组	dan xi bao dan bai zhi zu	160
+单细胞多组学	dan xi bao duo zu xue	160
+单细胞转录组	dan xi bao zhuan lu zu	160
+单细胞转录组测序	dan xi bao zhuan lu zu ce xu	160
+氮循环	dan xun huan	100
+单子叶植物纲	dan zi ye zhi wu gang	100
+倒生胚珠	dao sheng pei zhu	100
+等位基因频率	deng wei ji yin pin lv	160
+等位基因特异性表达	deng wei ji yin te yi xing biao da	160
+低钾血症	di jia xue zheng	100
+底栖生物	di qi sheng wu	100
+低血压	di xue ya	100
+电生理记录	dian sheng li ji lu	160
+凋亡小体	diao wang xiao ti	100
+定点突变	ding dian tu bian	160
+顶端分生组织	ding duan fen sheng zu zhi	100
+顶生孢子	ding sheng bao zi	100
+动纤毛	dong xian mao	100
+动作电位发放	dong zuo dian wei fa fang	160
+短读长测序	duan du chang ce xu	160
+端粒长度	duan li chang du	160
+端粒酶活性	duan li mei huo xing	160
+端粒维持	duan li wei chi	160
+短时程可塑性	duan shi cheng ke su xing	160
+多蛋白复合体	duo dan bai fu he ti	100
+多电极阵列	duo dian ji zhen lie	160
+多基因风险评分	duo ji yin feng xian ping fen	160
+多基因性表征	duo ji yin xing biao zheng	100
+多基因遗传	duo ji yin yi chuan	100
+多肽激素	duo tai ji su	100
+多系	duo xi	100
+多效性	duo xiao xing	160
+多序列比对	duo xu lie bi dui	160
+恶性贫血	e xing pin xue	100
+二名法	er ming fa	100
+耳蜗神经	er wo shen jing	100
+法布尔	fa bu er	1500
+反刍类	fan chu lei	100
+泛基因组	fan ji yin zu	160
+反式调控因子	fan shi tiao kong yin zi	160
+反式脂肪酸	fan shi zhi fang suan	100
+泛素蛋白酶体系统	fan su dan bai mei ti xi tong	160
+泛素化	fan su hua	160
+泛素连接酶	fan su lian jie mei	160
+反硝化作用	fan xiao hua zuo yong	160
+翻译起始	fan yi qi shi	160
+翻译延伸	fan yi yan shen	160
+翻译抑制	fan yi yi zhi	160
+翻译终止	fan yi zhong zhi	160
+繁殖体	fan zhi ti	100
+反足细胞	fan zu xi bao	100
+非靶向代谢组学	fei ba xiang dai xie zu xue	160
+非编码核糖核酸	fei bian ma he tang he suan	160
+非光化学猝灭	fei guang hua xue cu mie	160
+非连锁基因	fei lian suo ji yin	100
+肥胖基因	fei pang ji yin	100
+非同源末端连接	fei tong yuan mo duan lian jie	160
+非同源染色体	fei tong yuan ran se ti	100
+非循环电子传递	fei xun huan dian zi chuan di	160
+粉管受精	fen guan shou jing	100
+分节基因	fen jie ji yin	100
+分裂期	fen lie qi	100
+分泌酶	fen mi mei	100
+分泌期	fen mi qi	100
+分歧进化	fen qi jin hua	160
+分生孢子梗	fen sheng bao zi geng	100
+分支点	fen zhi dian	160
+分支轨迹	fen zhi gui ji	160
+分子伴侣	fen zi ban lv	160
+分子趋同	fen zi qu tong	160
+分子系统发育	fen zi xi tong fa yu	160
+分子系统学	fen zi xi tong xue	160
+分子钟	fen zi zhong	100
+复等位基因	fu deng wei ji yin	100
+复合蛋白质	fu he dan bai zhi	100
+复合脂质	fu he zhi zhi	100
+辅基	fu ji	100
+弗莱明	fu lai ming	10
+负密度制约	fu mi du zhi yue	160
+腹神经索	fu shen jing suo	100
+腐生生物	fu sheng sheng wu	100
+副卫细胞	fu wei xi bao	100
+福西	fu xi	5
+浮游生物学	fu you sheng wu xue	100
+复制叉停滞	fu zhi cha ting zhi	160
+复制体	fu zhi ti	100
+复制性衰老	fu zhi xing shuai lao	160
+复制压力	fu zhi ya li	160
+辅助病毒	fu zhu bing du	100
+辅助细胞	fu zhu xi bao	100
+钙成像	gai cheng xiang	160
+感觉编码	gan jue bian ma	160
+感觉适应	gan jue shi ying	160
+干细胞分化	gan xi bao fen hua	160
+高内涵筛选	gao nei han shai xuan	160
+高通量测序	gao tong liang ce xu	160
+高通量筛选	gao tong liang shai xuan	160
+革兰染色	ge lan ran se	100
+革兰阳性菌	ge lan yang xing jun	100
+革兰阴性菌	ge lan yin xing jun	100
+根际微生物	gen ji wei sheng wu	160
+根际效应	gen ji xiao ying	160
+根瘤共生	gen liu gong sheng	160
+根系分泌物	gen xi fen mi wu	160
+根系构型	gen xi gou xing	160
+共表达网络	gong biao da wang luo	160
+共聚焦成像	gong ju jiao cheng xiang	160
+功能多样性	gong neng duo yang xing	160
+功能富集分析	gong neng fu ji fen xi	160
+功能宏基因组学	gong neng hong ji yin zu xue	160
+功能注释	gong neng zhu shi	160
+共生关系	gong sheng guan xi	100
+共同刺激分子	gong tong ci ji fen zi	160
+共祖理论	gong zu li lun	160
+固氮作用	gu dan zuo yong	100
+古道尔	gu dao er	5
+骨骼组织	gu ge zu zhi	100
+谷胱甘肽循环	gu guang gan tai xun huan	160
+孤雄发育	gu xiong fa yu	100
+固有淋巴样细胞	gu you lin ba yang xi bao	160
+寡肽	gua tai	100
+光保护机制	guang bao hu ji zhi	160
+光合电子传递链	guang he dian zi chuan di lian	160
+光合色素	guang he se su	100
+光合碳同化	guang he tan tong hua	160
+光呼吸途径	guang hu xi tu jing	160
+光受体	guang shou ti	100
+光系统	guang xi tong	100
+光系统反应中心	guang xi tong fan ying zhong xin	160
+光形态建成	guang xing tai jian cheng	160
+光遗传学	guang yi chuan xue	160
+光抑制	guang yi zhi	160
+光周期反应	guang zhou qi fan ying	160
+轨迹推断	gui ji tui duan	160
+海马回	hai ma hui	100
+含氮碱基	han dan jian ji	100
+旱生演替系列	han sheng yan ti xi lie	100
+好氧菌	hao yang jun	100
+好氧生物	hao yang sheng wu	100
+合成致死	he cheng zhi si	160
+核苷酶	he gan mei	100
+核苷酸切除修复	he gan suan qie chu xiu fu	160
+核仁形成	he ren xing cheng	160
+核酸构象	he suan gou xiang	100
+核酸结构	he suan jie gou	100
+核酸探针	he suan tan zhen	100
+核酸序列	he suan xu lie	100
+核糖体测序	he tang ti ce xu	160
+核糖体生物发生	he tang ti sheng wu fa sheng	160
+核糖体停滞	he tang ti ting zhi	160
+核小体定位	he xiao ti ding wei	160
+核心蛋白	he xin dan bai	100
+核心基因组	he xin ji yin zu	160
+核型分析	he xing fen xi	100
+赫胥黎	he xu li	159
+宏蛋白质组	hong dan bai zhi zu	160
+宏蛋白质组学	hong dan bai zhi zu xue	160
+宏观基因体	hong guan ji yin ti	100
+宏基因组测序	hong ji yin zu ce xu	160
+宏转录组	hong zhuan lu zu	160
+宏转录组学	hong zhuan lu zu xue	160
+厚壁细胞	hou bi xi bao	100
+后鞭毛生物	hou bian mao sheng wu	100
+互利共生	hu li gong sheng	100
+互利共生网络	hu li gong sheng wang luo	160
+呼吸链	hu xi lian	100
+花粉管	hua fen guan	100
+花粉块	hua fen kuai	100
+花粉粒	hua fen li	100
+花粉囊	hua fen nang	100
+花粉内壁	hua fen nei bi	100
+花粉热	hua fen re	100
+花器官发育	hua qi guan fa yu	160
+化学突触	hua xue tu chu	100
+化学遗传学	hua xue yi chuan xue	160
+坏死性凋亡	huai si xing diao wang	160
+环境变异	huan jing bian yi	100
+环境过滤	huan jing guo lv	160
+环境核酸	huan jing he suan	160
+环境核糖核酸	huan jing he tang he suan	160
+环境适应性	huan jing shi ying xing	160
+环路示踪	huan lu shi zong	160
+还原应激	huan yuan ying ji	160
+环状核糖核酸	huan zhuang he tang he suan	160
+黄病毒	huang bing du	100
+混合神经	hun he shen jing	100
+活性氧清除	huo xing yang qing chu	160
+疾病生态学	ji bing sheng tai xue	160
+肌醇磷脂	ji chun lin zhi	100
+集合管	ji he guan	100
+肌肉萎缩症	ji rou wei suo zheng	100
+肌肉细胞	ji rou xi bao	100
+寄生物	ji sheng wu	100
+技术重复	ji shu chong fu	160
+肌丝	ji si	100
+基因本体	ji yin ben ti	160
+基因编辑	ji yin bian ji	100
+基因表达调控	ji yin biao da tiao kong	160
+基因表达噪声	ji yin biao da zao sheng	160
+基因池	ji yin chi	100
+基因蛋白	ji yin dan bai	100
+基因多样性	ji yin duo yang xing	100
+基因复制	ji yin fu zhi	100
+基因环境互作	ji yin huan jing hu zuo	160
+基因活化	ji yin huo hua	100
+基因集富集分析	ji yin ji fu ji fen xi	160
+基因家族扩张	ji yin jia zu kuo zhang	160
+基因疗法	ji yin liao fa	100
+基因流动	ji yin liu dong	160
+基因敲除	ji yin qiao chu	160
+基因敲入	ji yin qiao ru	160
+基因缺失	ji yin que shi	100
+基因渗入	ji yin shen ru	160
+基因数量效应	ji yin shu liang xiao ying	100
+基因体	ji yin ti	100
+基因体编辑	ji yin ti bian ji	100
+基因剔除小鼠	ji yin ti chu xiao shu	100
+基因调控	ji yin tiao kong	100
+基因调控网络	ji yin tiao kong wang luo	160
+基因抑制	ji yin yi zhi	100
+基因置换	ji yin zhi huan	100
+基因组编辑	ji yin zu bian ji	160
+基因组分型	ji yin zu fen xing	160
+基因组共线性	ji yin zu gong xian xing	160
+基因组稳定性	ji yin zu wen ding xing	160
+基因组注释	ji yin zu zhu shi	160
+基因组组装	ji yin zu zu zhuang	160
+肌原细胞	ji yuan xi bao	100
+基质金属蛋白酶	ji zhi jin shu dan bai mei	100
+基质类囊体	ji zhi lei nang ti	100
+加帽蛋白	jia mao dan bai	100
+假体腔	jia ti qiang	100
+甲烷氧化	jia wan yang hua	160
+碱基编辑	jian ji bian ji	160
+碱基切除修复	jian ji qie chu xiu fu	160
+碱基序列	jian ji xu lie	100
+碱基质量	jian ji zhi liang	160
+碱血症	jian xue zheng	100
+间叶组织	jian ye zu zhi	100
+间质细胞	jian zhi xi bao	100
+奖励预测误差	jiang li yu ce wu cha	160
+交叉呈递	jiao cha cheng di	160
+交感神经节	jiao gan shen jing jie	100
+酵母菌株	jiao mu jun zhu	100
+焦亡	jiao wang	160
+结构变异	jie gou bian yi	160
+拮抗肌	jie kang ji	100
+进化变异	jin hua bian yi	100
+净初级生产力	jing chu ji sheng chan li	160
+经典补体途径	jing dian bu ti tu jing	160
+景观连通性	jing guan lian tong xing	160
+景观生态学	jing guan sheng tai xue	160
+竞争排斥原理	jing zheng pai chi yuan li	160
+竞争性内源核糖核酸	jing zheng xing nei yuan he tang he suan	160
+精子器	jing zi qi	100
+精子生成	jing zi sheng cheng	100
+聚合果	ju he guo	100
+聚核糖体	ju he tang ti	100
+巨噬细胞极化	ju shi xi bao ji hua	160
+巨噬细胞吞噬	ju shi xi bao tun shi	160
+菌根共生	jun gen gong sheng	160
+菌群定植	jun qun ding zhi	160
+菌株分辨率	jun zhu fen bian lv	160
+抗坏血酸	kang huai xue suan	100
+抗体类别转换	kang ti lei bie zhuan huan	160
+抗体亲和力成熟	kang ti qin he li cheng shu	160
+抗体受体	kang ti shou ti	100
+抗体依赖性吞噬	kang ti yi lai xing tun shi	160
+抗体依赖性细胞毒性	kang ti yi lai xing xi bao du xing	160
+抗体应答	kang ti ying da	100
+抗性基因	kang xing ji yin	160
+抗血清	kang xue qing	100
+抗原变异	kang yuan bian yi	100
+抗原递呈	kang yuan di cheng	160
+抗原交叉呈递	kang yuan jiao cha cheng di	160
+抗组织胺	kang zu zhi an	100
+拷贝数变异	kao bei shu bian yi	160
+可变多聚腺苷酸化	ke bian duo ju xian gan suan hua	160
+可变加尾	ke bian jia wei	160
+可变剪接分析	ke bian jian jie fen xi	160
+科恩伯格	ke en bo ge	44
+科赫	ke he	111
+科里	ke li	10
+克里克	ke li ke	3155
+颗粒酶	ke li mei	100
+克隆分析	ke long fen xi	100
+克隆扩增	ke long kuo zeng	160
+克隆示踪	ke long shi zong	160
+空间蛋白质组	kong jian dan bai zhi zu	160
+空间多组学	kong jian duo zu xue	160
+空间记忆	kong jian ji yi	160
+空间邻域分析	kong jian lin yu fen xi	160
+空间转录组	kong jian zhuan lu zu	160
+空载体对照	kong zai ti dui zhao	160
+跨膜蛋白	kua mo dan bai	160
+拉马克	la ma ke	1020
+蓝菌	lan jun	100
+类囊体膜	lei nang ti mo	100
+类器官	lei qi guan	100
+类器官培养	lei qi guan pei yang	160
+冷冻电镜结构	leng dong dian jing jie gou	160
+冷冻电子断层扫描	leng dong dian zi duan ceng sao miao	160
+李时珍	li shi zhen	13965
+林奈	lin nai	999
+磷酸戊糖途径	lin suan wu tang tu jing	160
+磷脂双层	lin zhi shuang ceng	100
+磷脂酸	lin zhi suan	100
+流式细胞分选	liu shi xi bao fen xuan	160
+六碳糖	liu tan tang	100
+罗莎琳·富兰克林	luo sha lin fu lan ke lin	10
+滤泡刺激素	lv pao ci ji su	100
+滤泡细胞	lv pao xi bao	100
+麦克林托克	mai ke lin tuo ke	10
+毛细胞	mao xi bao	100
+酶催化	mei cui hua	100
+酶动力学	mei dong li xue	100
+酶解作用	mei jie zuo yong	100
+酶稳定性	mei wen ding xing	100
+酶抑制	mei yi zhi	100
+酶抑制物	mei yi zhi wu	100
+酶作用	mei zuo yong	100
+孟德尔	meng de er	4210
+孟德尔随机化	meng de er sui ji hua	160
+嘧啶代谢	mi ding dai xie	160
+密码子	mi ma zi	100
+密码子偏好	mi ma zi pian hao	160
+米氏常数	mi shi chang shu	160
+免疫不全	mian yi bu quan	100
+免疫代谢	mian yi dai xie	160
+免疫检查点	mian yi jian cha dian	160
+免疫检查点抑制剂	mian yi jian cha dian yi zhi ji	160
+免疫逃逸	mian yi tao yi	160
+免疫突触	mian yi tu chu	160
+免疫细胞浸润	mian yi xi bao jin run	160
+免疫作用	mian yi zuo yong	100
+摩尔根	mo er gen	1757
+茉莉酸信号	mo li suan xin hao	160
+膜片钳记录	mo pian qian ji lu	160
+模式触发免疫	mo shi chu fa mian yi	160
+模式生物	mo shi sheng wu	100
+模式识别受体	mo shi shi bie shou ti	160
+膜通道	mo tong dao	100
+膜主体蛋白	mo zhu ti dan bai	100
+木质素生物合成	mu zhi su sheng wu he cheng	160
+纳米孔测序	na mi kong ce xu	160
+脑神经核	nao shen jing he	100
+内共生	nei gong sheng	100
+内果皮	nei guo pi	100
+内含子保留	nei han zi bao liu	160
+内寄生物	nei ji sheng wu	100
+内收蛋白	nei shou dan bai	100
+内收肌	nei shou ji	100
+内细胞团	nei xi bao tuan	100
+内在无序蛋白	nei zai wu xu dan bai	160
+内质网应激	nei zhi wang ying ji	160
+内种皮	nei zhong pi	100
+拟时序分析	ni shi xu fen xi	160
+黏蛋白	nian dan bai	100
+黏膜肌层	nian mo ji ceng	100
+黏液蛋白	nian ye dan bai	100
+黏液细胞	nian ye xi bao	100
+尿素酶	niao su mei	100
+凝固酶	ning gu mei	100
+凝集素途径	ning ji su tu jing	160
+凝血酶原	ning xue mei yuan	100
+农杆菌	nong gan jun	100
+偶线期	ou xian qi	100
+旁系同源基因	pang xi tong yuan ji yin	160
+胚胎着床	pei tai zhuo chuang	100
+配体受体互作	pei ti shou ti hu zuo	160
+配子囊	pei zi nang	100
+配子形成	pei zi xing cheng	100
+皮层可塑性	pi ceng ke su xing	160
+批次效应校正	pi ci xiao ying jiao zheng	160
+皮亚杰	pi ya jie	4180
+嘌呤代谢	piao ling dai xie	160
+平板培养	ping ban pei yang	100
+平衡细胞	ping heng xi bao	100
+谱系重建	pu xi chong jian	160
+谱系示踪	pu xi shi zong	160
+脐带血	qi dai xue	100
+器官系统	qi guan xi tong	100
+器官形成	qi guan xing cheng	100
+气孔导度	qi kong dao du	160
+气孔运动	qi kong yun dong	160
+起始密码子	qi shi mi ma zi	100
+嵌合突变	qian he tu bian	160
+千碱基对	qian jian ji dui	100
+钱永健	qian yong jian	10
+前中期	qian zhong qi	100
+强啡肽	qiang fei tai	100
+亲和力选择	qin he li xuan ze	160
+亲缘系数	qin yuan xi shu	100
+氢离子泵	qing li zi beng	100
+球状蛋白	qiu zhuang dan bai	100
+去饱和酶	qu bao he mei	100
+趋化因子受体	qu hua yin zi shou ti	160
+趋化作用	qu hua zuo yong	100
+曲生胚珠	qu sheng pei zhu	100
+趋同进化	qu tong jin hua	160
+去氧核糖核酸	qu yang he tang he suan	100
+全基因组关联分析	quan ji yin zu guan lian fen xi	160
+全酶	quan mei	100
+全细胞记录	quan xi bao ji lu	160
+全细胞膜片钳	quan xi bao mo pian qian	160
+群落构建	qun luo gou jian	160
+群落演替	qun luo yan ti	160
+群体编码	qun ti bian ma	160
+群体结构	qun ti jie gou	160
+群体免疫	qun ti mian yi	100
+染色体变异	ran se ti bian yi	100
+染色体复制	ran se ti fu zhi	100
+染色体数目	ran se ti shu mu	100
+染色体学	ran se ti xue	100
+染色体易位	ran se ti yi wei	160
+染色质重塑	ran se zhi chong su	160
+染色质构象	ran se zhi gou xiang	160
+染色质构象捕获	ran se zhi gou xiang bu huo	160
+染色质环	ran se zhi huan	160
+染色质可及性	ran se zhi ke ji xing	160
+染色质可及性测序	ran se zhi ke ji xing ce xu	160
+染色质丝	ran se zhi si	100
+人类基因体计划	ren lei ji yin ti ji hua	100
+韧皮部	ren pi bu	100
+溶胞产物	rong bao chan wu	100
+融合蛋白	rong he dan bai	100
+融合遗传	rong he yi chuan	100
+溶酶体降解	rong mei ti jiang jie	160
+溶酶体酸化	rong mei ti suan hua	160
+溶血素	rong xue su	100
+乳白蛋白	ru bai dan bai	100
+三胚层动物	san pei ceng dong wu	100
+三肽	san tai	100
+三维基因组	san wei ji yin zu	160
+三维细胞培养	san wei xi bao pei yang	160
+桑格	sang ge	10
+桑椹胚	sang shen pei	100
+色素细胞	se su xi bao	100
+山中伸弥	shan zhong shen mi	294
+上位基因	shang wei ji yin	100
+上位子房	shang wei zi fang	100
+深度突变扫描	shen du tu bian sao miao	160
+神经编码	shen jing bian ma	160
+神经传导	shen jing chuan dao	100
+神经传递	shen jing chuan di	100
+神经蛋白	shen jing dan bai	100
+神经发生	shen jing fa sheng	160
+神经干细胞龛	shen jing gan xi bao kan	160
+神经环路	shen jing huan lu	160
+神经索	shen jing suo	100
+神经调质	shen jing tiao zhi	160
+神经抑制	shen jing yi zhi	100
+肾素	shen su	100
+伸展蛋白	shen zhan dan bai	100
+生发中心反应	sheng fa zhong xin fan ying	160
+生境破碎化	sheng jing po sui hua	160
+生境异质性	sheng jing yi zhi xing	160
+生态变异	sheng tai bian yi	100
+生态化学计量学	sheng tai hua xue ji liang xue	160
+生态技术	sheng tai ji shu	100
+生态结构	sheng tai jie gou	100
+生态区位	sheng tai qu wei	100
+生态塔	sheng tai ta	100
+生态网络	sheng tai wang luo	160
+生态位	sheng tai wei	160
+生态位分化	sheng tai wei fen hua	160
+生态位宽度	sheng tai wei kuan du	160
+生态系统服务	sheng tai xi tong fu wu	160
+生态系统韧性	sheng tai xi tong ren xing	160
+生态系统稳定性	sheng tai xi tong wen ding xing	160
+生态修复	sheng tai xiu fu	100
+生态演替	sheng tai yan ti	100
+生态足迹	sheng tai zu ji	100
+生物胺	sheng wu an	100
+生物测定学	sheng wu ce ding xue	100
+生物带	sheng wu dai	100
+生物地理区	sheng wu di li qu	100
+生物地理学	sheng wu di li xue	160
+生物地球化学循环	sheng wu di qiu hua xue xun huan	160
+生物地质化学	sheng wu di zhi hua xue	100
+生物发光	sheng wu fa guang	100
+生物分布学	sheng wu fen bu xue	100
+生物分子凝聚体	sheng wu fen zi ning ju ti	160
+生物富集	sheng wu fu ji	100
+生物监测	sheng wu jian ce	100
+生物检定	sheng wu jian ding	100
+生物净化	sheng wu jing hua	100
+生物累积	sheng wu lei ji	100
+生物平衡	sheng wu ping heng	100
+生物潜能	sheng wu qian neng	100
+生物侵蚀	sheng wu qin shi	100
+生物区	sheng wu qu	100
+生物群系	sheng wu qun xi	100
+生物时钟	sheng wu shi zhong	100
+生物碎屑	sheng wu sui xie	100
+生物脱氮	sheng wu tuo dan	100
+生物系统	sheng wu xi tong	100
+生物相	sheng wu xiang	100
+生物型	sheng wu xing	100
+生物学重复	sheng wu xue chong fu	160
+生长素极性运输	sheng zhang su ji xing yun shu	160
+生长素运输	sheng zhang su yun shu	160
+生殖隔离	sheng zhi ge li	100
+生殖率	sheng zhi lv	100
+生殖潜能	sheng zhi qian neng	100
+生殖生长	sheng zhi sheng zhang	100
+生殖学	sheng zhi xue	100
+生殖周期	sheng zhi zhou qi	100
+释放激素	shi fang ji su	100
+嗜铬细胞	shi ge xi bao	100
+施莱登	shi lai deng	142
+嗜冷生物	shi leng sheng wu	100
+嗜酸菌	shi suan jun	100
+施旺细胞	shi wang xi bao	100
+食物网	shi wu wang	160
+食物网结构	shi wu wang jie gou	160
+嗜银细胞	shi yin xi bao	100
+适应性辐射	shi ying xing fu she	160
+适应性免疫	shi ying xing mian yi	160
+授粉者	shou fen zhe	100
+受精囊	shou jing nang	100
+受体蛋白	shou ti dan bai	100
+受体酪氨酸激酶	shou ti lao an suan ji mei	160
+数量遗传	shu liang yi chuan	100
+树突整合	shu tu zheng he	160
+树突状细胞成熟	shu tu zhuang xi bao cheng shu	160
+树突状细胞迁移	shu tu zhuang xi bao qian yi	160
+衰老相关分泌表型	shuai lao xiang guan fen mi biao xing	160
+双二倍体	shuang er bei ti	100
+双二倍性	shuang er bei xing	100
+双光子成像	shuang guang zi cheng xiang	160
+双极神经元	shuang ji shen jing yuan	100
+双链断裂	shuang lian duan lie	160
+双糖酶	shuang tang mei	100
+双细胞检测	shuang xi bao jian ce	160
+双线期	shuang xian qi	100
+双性蛋白质	shuang xing dan bai zhi	100
+水分利用效率	shui fen li yong xiao lv	160
+水平基因转移	shui ping ji yin zhuan yi	160
+水生生物学	shui sheng sheng wu xue	100
+水杨酸信号	shui yang suan xin hao	160
+顺式调控元件	shun shi tiao kong yuan jian	160
+四分孢子	si fen bao zi	100
+宿主寄生关系	su zhu ji sheng guan xi	160
+宿主细胞	su zhu xi bao	100
+酸血症	suan xue zheng	100
+髓鞘形成	sui qiao xing cheng	160
+髓源抑制性细胞	sui yuan yi zhi xing xi bao	160
+损伤相关分子模式	sun shang xiang guan fen zi mo shi	160
+肽激素	tai ji su	100
+碳氮代谢	tan dan dai xie	160
+碳氮循环	tan dan xun huan	160
+碳浓缩机制	tan nong suo ji zhi	160
+碳循环反馈	tan xun huan fan kui	160
+糖基化修饰	tang ji hua xiu shi	160
+糖酵解通量	tang jiao jie tong liang	160
+替代补体途径	ti dai bu ti tu jing	160
+体内受精	ti nei shou jing	100
+体外培养	ti wai pei yang	100
+体细胞超突变	ti xi bao chao tu bian	100
+体细胞高频突变	ti xi bao gao pin tu bian	160
+体抑素	ti yi su	100
+条件性敲除	tiao jian xing qiao chu	160
+调节基因	tiao jie ji yin	100
+调节性转录因子	tiao jie xing zhuan lu yin zi	100
+调控元件	tiao kong yuan jian	160
+铁死亡	tie si wang	160
+听觉区	ting jue qu	100
+通道蛋白	tong dao dan bai	100
+童第周	tong di zhou	69
+同功酶	tong gong mei	100
+同化效率	tong hua xiao lv	100
+通量平衡分析	tong liang ping heng fen xi	160
+通路富集分析	tong lu fu ji fen xi	160
+通气组织	tong qi zu zhi	100
+酮体代谢	tong ti dai xie	160
+同形孢子	tong xing bao zi	100
+同义突变	tong yi tu bian	100
+同源重组	tong yuan chong zu	160
+同源蛋白质	tong yuan dan bai zhi	100
+同源定向修复	tong yuan ding xiang xiu fu	160
+同源基因	tong yuan ji yin	100
+同源序列	tong yuan xu lie	100
+突变蛋白	tu bian dan bai	100
+突变图谱	tu bian tu pu	100
+突变株	tu bian zhu	100
+突触间隙	tu chu jian xi	100
+突触囊泡	tu chu nang pao	100
+图基因组	tu ji yin zu	160
+土壤微生物群落	tu rang wei sheng wu qun luo	160
+屠呦呦	tu you you	10
+褪黑激素	tui hei ji su	100
+吞噬体	tun shi ti	100
+脱落酸信号	tuo luo suan xin hao	160
+拓扑关联结构域	tuo pu guan lian jie gou yu	160
+外寄生物	wai ji sheng wu	100
+外泌体生物发生	wai mi ti sheng wu fa sheng	160
+外胚乳	wai pei ru	100
+外生菌根	wai sheng jun gen	100
+外显子跳跃	wai xian zi tiao yue	160
+外展肌	wai zhan ji	100
+外周耐受	wai zhou nai shou	160
+完全显性	wan quan xian xing	100
+维管组织分化	wei guan zu zhi fen hua	160
+微生物互作	wei sheng wu hu zuo	160
+微生物群落	wei sheng wu qun luo	160
+微生物群落组装	wei sheng wu qun luo zu zhuang	160
+微卫星不稳定性	wei wei xing bu wen ding xing	160
+卫星细胞	wei xing xi bao	100
+微血管	wei xue guan	100
+未折叠蛋白反应	wei zhe die dan bai fan ying	160
+稳定同位素示踪	wen ding tong wei su shi zong	160
+沃森	wo sen	6420
+无孢子生殖	wu bao zi sheng zhi	100
+无核精子	wu he jing zi	100
+无膜细胞器	wu mo xi bao qi	160
+无模板对照	wu mu ban dui zhao	160
+无配子生殖	wu pei zi sheng zhi	100
+无融合生殖	wu rong he sheng zhi	100
+无融合生殖体	wu rong he sheng zhi ti	100
+无丝分裂	wu si fen lie	100
+污损生物	wu sun sheng wu	100
+五碳糖	wu tan tang	100
+无序结构域	wu xu jie gou yu	160
+无义介导降解	wu yi jie dao jiang jie	160
+物种分布模型	wu zhong fen bu mo xing	160
+物种分化	wu zhong fen hua	160
+物种扩散	wu zhong kuo san	160
+物种形成机制	wu zhong xing cheng ji zhi	160
+细胞变异	xi bao bian yi	100
+细胞更新	xi bao geng xin	100
+细胞骨架重塑	xi bao gu jia chong su	160
+细胞呼吸	xi bao hu xi	100
+细胞活化	xi bao huo hua	100
+细胞极化	xi bao ji hua	160
+细胞激活	xi bao ji huo	100
+细胞极性	xi bao ji xing	100
+细胞间通讯	xi bao jian tong xun	160
+细胞间隙	xi bao jian xi	100
+细胞焦亡	xi bao jiao wang	160
+细胞竞争	xi bao jing zheng	160
+细胞可塑性	xi bao ke su xing	160
+细胞类型注释	xi bao lei xing zhu shi	160
+细胞命运	xi bao ming yun	160
+细胞命运决定	xi bao ming yun jue ding	160
+细胞命运转换	xi bao ming yun zhuan huan	160
+细胞内液	xi bao nei ye	100
+细胞谱系追踪	xi bao pu xi zhui zong	160
+细胞去卷积	xi bao qu juan ji	160
+细胞身份	xi bao shen fen	160
+细胞受体	xi bao shou ti	100
+细胞双联体	xi bao shuang lian ti	160
+细胞通讯分析	xi bao tong xun fen xi	160
+细胞图谱	xi bao tu pu	160
+细胞外基质重塑	xi bao wai ji zhi chong su	160
+细胞外囊泡	xi bao wai nang pao	160
+细胞修复	xi bao xiu fu	100
+细胞异质性	xi bao yi zhi xing	160
+细胞因子风暴	xi bao yin zi feng bao	160
+细胞增殖	xi bao zeng zhi	100
+细胞周期检查点	xi bao zhou qi jian cha dian	160
+细胞周期调控系统	xi bao zhou qi tiao kong xi tong	100
+细胞状态	xi bao zhuang tai	160
+细胞状态转变	xi bao zhuang tai zhuan bian	160
+细胞自噬	xi bao zi shi	160
+希波克拉底	xi bo ke la di	216
+烯醇酶	xi chun mei	100
+细肌丝	xi ji si	100
+细菌染色体	xi jun ran se ti	100
+细菌细胞	xi jun xi bao	100
+系统发生树	xi tong fa sheng shu	160
+系统发育多样性	xi tong fa yu duo yang xing	160
+系统发育基因组学	xi tong fa yu ji yin zu xue	160
+系统发育树	xi tong fa yu shu	160
+系统获得性抗性	xi tong huo de xing kang xing	160
+夏孢子堆	xia bao zi dui	100
+下胚轴	xia pei zhou	100
+下位基因	xia wei ji yin	100
+下位子房	xia wei zi fang	100
+酰胺酶	xian an mei	100
+线粒体基因组	xian li ti ji yin zu	160
+线粒体膜电位	xian li ti mo dian wei	160
+线粒体自噬	xian li ti zi shi	160
+纤毛动力蛋白	xian mao dong li dan bai	100
+先天免疫记忆	xian tian mian yi ji yi	160
+纤维素合成酶	xian wei su he cheng mei	160
+显性等位基因	xian xing deng wei ji yin	100
+限制酶	xian zhi mei	100
+限制酶切	xian zhi mei qie	100
+限制性相似	xian zhi xing xiang si	160
+小配子体	xiao pei zi ti	100
+效应细胞	xiao ying xi bao	100
+效应子触发免疫	xiao ying zi chu fa mian yi	160
+信号受体	xin hao shou ti	100
+信号肽切除	xin hao tai qie chu	160
+信号通路	xin hao tong lu	160
+心肌梗塞	xin ji geng se	100
+信使核糖核酸	xin shi he tang he suan	160
+性联遗传	xing lian yi chuan	100
+雄母细胞	xiong mu xi bao	100
+雄配子	xiong pei zi	100
+雄配子体	xiong pei zi ti	100
+雄原细胞	xiong yuan xi bao	100
+锈孢子	xiu bao zi	100
+休眠孢子	xiu mian bao zi	100
+嗅球	xiu qiu	100
+徐光启	xu guang qi	3625
+序列比对	xu lie bi dui	160
+需氧菌	xu yang jun	100
+需氧生物	xu yang sheng wu	100
+选择扫荡	xuan ze sao dang	160
+选择性翻译	xuan ze xing fan yi	160
+选择性自噬	xuan ze xing zi shi	160
+血管收缩	xue guan shou suo	100
+血管舒张	xue guan shu zhang	100
+血红蛋白	xue hong dan bai	100
+血红素	xue hong su	100
+血浆蛋白	xue jiang dan bai	100
+血淋巴	xue lin ba	100
+血脑屏障	xue nao ping zhang	100
+血脑屏障通透性	xue nao ping zhang tong tou xing	160
+血凝块	xue ning kuai	100
+血清素	xue qing su	100
+血栓形成	xue shuan xing cheng	100
+血压计	xue ya ji	100
+血液透析	xue ye tou xi	100
+血友病	xue you bing	100
+循环电子传递	xun huan dian zi chuan di	160
+训练性免疫	xun lian xing mian yi	160
+芽孢	ya bao	100
+颜面神经	yan mian shen jing	100
+厌氧氨氧化	yan yang an yang hua	160
+炎症小体	yan zheng xiao ti	160
+氧合血红蛋白	yang he xue hong dan bai	100
+氧化还原稳态	yang hua huan yuan wen tai	160
+阳性对照	yang xing dui zhao	160
+药物重定位	yao wu chong ding wei	160
+叶肉细胞	ye rou xi bao	100
+液液相分离	ye ye xiang fen li	160
+遗传表达	yi chuan biao da	100
+遗传表征	yi chuan biao zheng	100
+遗传重组	yi chuan chong zu	100
+遗传传递	yi chuan chuan di	100
+遗传多样性	yi chuan duo yang xing	100
+遗传分离	yi chuan fen li	100
+遗传分析	yi chuan fen xi	100
+遗传负荷	yi chuan fu he	100
+遗传复制	yi chuan fu zhi	100
+遗传连锁	yi chuan lian suo	100
+遗传平衡	yi chuan ping heng	100
+遗传倾向	yi chuan qing xiang	100
+胰岛素原	yi dao su yuan	100
+胰高血糖素	yi gao xue tang su	100
+异构酶	yi gou mei	100
+异染色体	yi ran se ti	100
+乙酸激酶	yi suan ji mei	100
+一碳代谢	yi tan dai xie	160
+异体受精	yi ti shou jing	100
+乙烯信号	yi xi xin hao	160
+异形孢子	yi xing bao zi	100
+异源多倍性	yi yuan duo bei xing	100
+异源联会	yi yuan lian hui	100
+抑制蛋白	yi zhi dan bai	100
+抑制性突触	yi zhi xing tu chu	100
+引导编辑	yin dao bian ji	160
+隐性等位基因	yin xing deng wei ji yin	100
+阴性对照	yin xing dui zhao	160
+引子酶	yin zi mei	100
+荧光活细胞成像	ying guang huo xi bao cheng xiang	160
+荧光抗体	ying guang kang ti	100
+荧光素酶	ying guang su mei	100
+应激颗粒	ying ji ke li	160
+营养繁殖	ying yang fan zhi	100
+营养级联	ying yang ji lian	160
+营养器官	ying yang qi guan	100
+油菜素内酯信号	you cai su nei zhi xin hao	160
+诱导系统抗性	you dao xi tong kang xing	160
+有花植物	you hua zhi wu	100
+幼体发育	you ti fa yu	100
+有效群体大小	you xiao qun ti da xiao	160
+有效种群大小	you xiao zhong qun da xiao	160
+有氧代谢	you yang dai xie	100
+游泳生物	you yong sheng wu	100
+元胞自动机	yuan bao zi dong ji	100
+原表皮层	yuan biao pi ceng	100
+原病毒	yuan bing du	100
+原肠胚	yuan chang pei	100
+原代培养	yuan dai pei yang	100
+原核生物界	yuan he sheng wu jie	100
+源库关系	yuan ku guan xi	160
+袁隆平	yuan long ping	8258
+原生生物	yuan sheng sheng wu	100
+原生质膜	yuan sheng zhi mo	100
+原噬菌体	yuan shi jun ti	100
+原叶体	yuan ye ti	100
+元种群动态	yuan zhong qun dong tai	160
+运输蛋白	yun shu dan bai	100
+运输细胞	yun shu xi bao	100
+杂合体	za he ti	100
+在体成像	zai ti cheng xiang	160
+载体蛋白	zai ti dan bai	100
+再吸收	zai xi shou	100
+藻菌类	zao jun lei	100
+增强子劫持	zeng qiang zi jie chi	160
+增强子启动子互作	zeng qiang zi qi dong zi hu zuo	160
+占域模型	zhan yu mo xing	160
+长时程抑制	zhang shi cheng yi zhi	160
+张仲景	zhang zhong jing	7900
+真核生物域	zhen he sheng wu yu	100
+真双子叶植物	zhen shuang zi ye zhi wu	100
+正密度制约	zheng mi du zhi yue	160
+致癌病毒	zhi ai bing du	100
+支持组织	zhi chi zu zhi	100
+脂肪酸氧化	zhi fang suan yang hua	160
+支架蛋白	zhi jia dan bai	100
+脂联素	zhi lian su	100
+脂双层	zhi shuang ceng	100
+致死突变	zhi si tu bian	100
+致突变原	zhi tu bian yuan	100
+植物病原互作	zhi wu bing yuan hu zuo	160
+植物激素信号	zhi wu ji su xin hao	160
+植物菌质体	zhi wu jun zhi ti	100
+植物免疫	zhi wu mian yi	160
+植物免疫系统	zhi wu mian yi xi tong	160
+植物细胞	zhi wu xi bao	100
+直系同源基因	zhi xi tong yuan ji yin	160
+脂质过氧化	zhi zhi guo yang hua	160
+脂质纳米颗粒	zhi zhi na mi ke li	100
+脂质组学	zhi zhi zu xue	160
+种间竞争	zhong jian jing zheng	100
+中胶层	zhong jiao ceng	100
+肿瘤浸润淋巴细胞	zhong liu jin run lin ba xi bao	160
+肿瘤免疫微环境	zhong liu mian yi wei huan jing	160
+肿瘤微环境	zhong liu wei huan jing	160
+肿瘤相关巨噬细胞	zhong liu xiang guan ju shi xi bao	160
+种内竞争	zhong nei jing zheng	160
+种群遗传结构	zhong qun yi chuan jie gou	160
+中枢耐受	zhong shu nai shou	160
+种系突变	zhong xi tu bian	160
+中性理论	zhong xing li lun	160
+中性粒细胞胞外诱捕网	zhong xing li xi bao bao wai you bu wang	160
+中性脂肪	zhong xing zhi fang	100
+轴根系	zhou gen xi	100
+周期蛋白	zhou qi dan bai	100
+轴突再生	zhou tu zai sheng	160
+珠孔受精	zhu kong shou jing	100
+转录爆发	zhuan lu bao fa	160
+转录本	zhuan lu ben	100
+转录本定量	zhuan lu ben ding liang	160
+转录本组装	zhuan lu ben zu zhuang	160
+转录单位	zhuan lu dan wei	100
+转录后调控	zhuan lu hou tiao kong	160
+转录后修饰	zhuan lu hou xiu shi	160
+转录起始	zhuan lu qi shi	160
+转录起始位点	zhuan lu qi shi wei dian	160
+转录调控	zhuan lu tiao kong	100
+转录延伸	zhuan lu yan shen	160
+转录抑制蛋白	zhuan lu yi zhi dan bai	100
+转录因子活性	zhuan lu yin zi huo xing	160
+转录终止	zhuan lu zhong zhi	160
+转录终止位点	zhuan lu zhong zhi wei dian	160
+转录组学	zhuan lu zu xue	160
+转录作用	zhuan lu zuo yong	100
+转酰基酶	zhuan xian ji mei	100
+专性寄生	zhuan xing ji sheng	100
+专性寄生物	zhuan xing ji sheng wu	100
+专性厌氧菌	zhuan xing yan yang jun	100
+转乙酰酶	zhuan yi xian mei	100
+转运核糖核酸	zhuan yun he tang he suan	160
+转运囊泡	zhuan yun nang pao	100
+转运细胞	zhuan yun xi bao	100
+自发突变	zi fa tu bian	100
+自花授粉	zi hua shou fen	100
+子囊菌	zi nang jun	100
+子染色体	zi ran se ti	100
+自然演替	zi ran yan ti	100
+自噬体形成	zi shi ti xing cheng	160
+自噬通量	zi shi tong liang	160
+自体免疫疾病	zi ti mian yi ji bing	100
+子细胞	zi xi bao	100
+总初级生产力	zong chu ji sheng chan li	160
+组蛋白变体	zu dan bai bian ti	160
+组蛋白甲基化	zu dan bai jia ji hua	160
+组蛋白去乙酰化	zu dan bai qu yi xian hua	160
+组蛋白修饰	zu dan bai xiu shi	160
+组蛋白乙酰化	zu dan bai yi xian hua	160
+祖先成分	zu xian cheng fen	160
+祖先序列重建	zu xian xu lie chong jian	160
+组织驻留记忆细胞	zu zhi zhu liu ji yi xi bao	160

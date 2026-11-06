@@ -1,8 +1,8 @@
 # encoding: utf-8
 schema:
-  schema_id: academic_pinyin
+  schema_id: zenfire_pinyin
   name: 学术拼音
-  version: "0.20.2"
+  version: "0.21.1"
   dependencies: [extended_lookup, extended_mixed]
 
 switches:
@@ -17,11 +17,11 @@ engine:
   processors:
     # Let the native composer track Shift taps before shortcuts pass through.
     - ascii_composer
-    - lua_processor@*academic_first*shortcut_guard
+    - lua_processor@*zenfire_first*shortcut_guard
     - lua_processor@*symbol_suggestions*processor
     - lua_processor@*extended_lookup*processor
     - lua_processor@*learning_limit*processor
-    - lua_processor@*academic_first*processor
+    - lua_processor@*zenfire_first*processor
     - recognizer
     - key_binder
     - speller
@@ -38,22 +38,35 @@ engine:
     - script_translator
     - script_translator@extended_lookup
     - script_translator@extended_mixed
-  # Reserve symbol positions before emoji counts the remaining page slots.
-  filters: [lua_filter@*learning_limit, lua_filter@*english_order, lua_filter@*english_context, lua_filter@*academic_first*filter, lua_filter@*extended_lookup*filter, lua_filter@*symbol_suggestions, lua_filter@*emoji_suggestions, uniquifier]
+  # Symbols set the default order; explicit Chinese choices then take priority.
+  filters: [lua_filter@*learning_limit, lua_filter@*english_order, lua_filter@*english_context, lua_filter@*extended_lookup*filter, lua_filter@*symbol_suggestions, lua_filter@*zenfire_first*filter, lua_filter@*emoji_suggestions, uniquifier]
 
 speller:
   alphabet: zyxwvutsrqponmlkjihgfedcba
   delimiter: " '"
   algebra:
     __patch:
-      - academic_fuzzy:/personal_fuzzy
+      - zenfire_pinyin_fuzzy:/personal_fuzzy
       - pinyin:/abbreviation
       - pinyin:/spelling_correction
-      - pinyin:/key_correction
+
+# Octagram scores word combinations within the current pinyin composition.
+grammar:
+  language: wanxiang-lts-zh-hans
+  collocation_max_length: 6
+  collocation_min_length: 2
+  collocation_penalty: -14
+  non_collocation_penalty: -6
+  weak_collocation_penalty: -100
+  rear_penalty: -18
 
 translator:
-  dictionary: academic_pinyin
-  prism: academic_pinyin
+  dictionary: zenfire_pinyin
+  prism: zenfire_pinyin
+  max_homophones: 2
+  contextual_suggestions: false
+  # Use the same name for local learning and its manual snapshot.
+  user_dict: zenfire_pinyin
   enable_user_dict: true
   # Native combination limit; learning_limit also blocks oversized components.
   max_word_length: 8
@@ -62,9 +75,12 @@ translator:
     - xform/([nl])ue/$1üe/
     - xform/([jqxy])v/$1u/
 
-# Two deliberate Chinese choices promote a word to second, then first place.
+# A new manual choice gets one second-place trial; usage then determines rank.
 chinese_learning:
   max_chars: 8
+  score_decay: 0.995
+  min_lead: 2
+  lead_ratio: 1.2
 
 extended_lookup:
   tag: extended_lookup
@@ -104,7 +120,7 @@ custom_phrase:
 
 english_words:
   dictionary: ""
-  user_dict: en_dicts/english_words
+  user_dict: dicts/en_dicts/english_words
   db_class: stabledb
   enable_completion: false
   enable_sentence: false
@@ -119,16 +135,9 @@ english_first:
   usb: USB
   wifi: Wi-Fi
 
-punctuator:
-  __include: symbols:/punctuator
-
 recognizer:
   import_preset: default
-  patterns:
-    punct: '^/([0-9]0?|[A-Za-z]+)$'
 
 key_binder:
   import_preset: default
 
-__patch:
-  - academic_pinyin.custom:/patch?

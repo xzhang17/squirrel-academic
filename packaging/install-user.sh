@@ -12,8 +12,8 @@ hans='im.rime.inputmethod.Squirrel.Hans'
 /usr/bin/ruby "$setup/Install.command" --package-profile
 cd -- "$profile"
 "$app/Contents/MacOS/rime_deployer" --build "$profile" "$app/Contents/SharedSupport" "$profile/build"
-[[ -s "$profile/build/academic_pinyin.schema.yaml" && -s "$profile/build/academic_pinyin.table.bin" ]] ||
-  { echo 'The academic dictionary did not deploy.' >&2; exit 1; }
+[[ -s "$profile/build/zenfire_pinyin.schema.yaml" && -s "$profile/build/zenfire_pinyin.table.bin" ]] ||
+  { echo 'The 学术拼音 dictionary did not deploy.' >&2; exit 1; }
 
 "$sq" --register-input-source
 /usr/bin/open -g "$app"

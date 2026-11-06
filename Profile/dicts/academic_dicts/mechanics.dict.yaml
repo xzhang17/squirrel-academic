@@ -1,0 +1,435 @@
+# 力学
+# Sources and licenses: Sources.txt in this folder.
+---
+name: mechanics
+version: "1.0"
+sort: by_weight
+use_preset_vocabulary: false
+...
+摆线齿轮	bai xian chi lun	100
+薄壁管	bao bi guan	100
+薄壳理论	bao ke li lun	100
+薄膜应力	bao mo ying li	100
+包辛格效应	bao xin ge xiao ying	100
+本构关系	ben gou guan xi	160
+比冲量	bi chong liang	100
+比黏度	bi nian du	100
+边界层分离	bian jie ceng fen li	160
+边界层控制	bian jie ceng kong zhi	100
+边界层理论	bian jie ceng li lun	100
+边界层稳定	bian jie ceng wen ding	100
+变形率	bian xing lv	100
+表面应力	biao mian ying li	100
+波动方程	bo dong fang cheng	1000
+波动力学	bo dong li xue	100
+伯努利方程	bo nu li fang cheng	160
+泊松比	bo song bi	160
+不可压缩流体	bu ke ya suo liu ti	160
+残留应力	can liu ying li	100
+残余变形	can yu bian xing	100
+残余应变	can yu ying bian	100
+残余应力	can yu ying li	160
+残余应力场	can yu ying li chang	100
+层流边界层	ceng liu bian jie ceng	100
+齿轮比	chi lun bi	100
+冲击荷载	chong ji he zai	100
+冲击应力	chong ji ying li	100
+冲击载荷	chong ji zai he	100
+冲击振动	chong ji zhen dong	100
+初始应变	chu shi ying bian	100
+初始应力	chu shi ying li	100
+纯弯曲	chun wan qu	100
+磁雷诺数	ci lei nuo shu	100
+磁阻尼	ci zu ni	100
+次阻尼振动	ci zu ni zhen dong	100
+达朗贝尔原理	da lang bei er yuan li	160
+单元刚度矩阵	dan yuan gang du ju zhen	160
+单轴向应力	dan zhou xiang ying li	100
+等效刚度	deng xiao gang du	100
+等效惯性矩	deng xiao guan xing ju	100
+等效荷载	deng xiao he zai	100
+等效塑性应变	deng xiao su xing ying bian	100
+等效应力	deng xiao ying li	160
+动力荷载	dong li he zai	100
+动力黏度	dong li nian du	100
+动量矩	dong liang ju	100
+动量算子	dong liang suan zi	100
+动摩擦系数	dong mo ca xi shu	100
+动能	dong neng	28800
+动态应变	dong tai ying bian	100
+动态应力	dong tai ying li	100
+动态阻力	dong tai zu li	100
+动阻力	dong zu li	100
+断裂面	duan lie mian	100
+断裂模数	duan lie mo shu	100
+断裂韧性	duan lie ren xing	160
+断裂应力	duan lie ying li	100
+对称模态	dui chen mo tai	100
+多轴应力	duo zhou ying li	100
+二次应变	er ci ying bian	100
+二维边界层	er wei bian jie ceng	100
+二维涡流	er wei wo liu	100
+法向力	fa xiang li	100
+法向速度	fa xiang su du	100
+法向应变	fa xiang ying bian	100
+法向应力	fa xiang ying li	100
+反对称模态	fan dui chen mo tai	100
+非弹性屈曲	fei tan xing qu qu	100
+非弹性应变	fei tan xing ying bian	100
+非线性扭转	fei xian xing niu zhuan	100
+非线性应力	fei xian xing ying li	100
+非谐振动	fei xie zhen dong	100
+分子振动	fen zi zhen dong	100
+复合应力	fu he ying li	100
+附加质量	fu jia zhi liang	100
+干摩擦	gan mo ca	100
+刚度矩阵	gang du ju zhen	160
+刚体动力学	gang ti dong li xue	100
+刚体力学	gang ti li xue	100
+刚体模态	gang ti mo tai	100
+刚体振动	gang ti zhen dong	100
+刚体转动	gang ti zhuan dong	160
+工程应力	gong cheng ying li	100
+共振振动	gong zhen zhen dong	100
+工作应力	gong zuo ying li	100
+惯性参考坐标系	guan xing can kao zuo biao xi	100
+惯性导航系统	guan xing dao hang xi tong	100
+惯性积	guan xing ji	100
+惯性力矩	guan xing li ju	100
+惯性力偶	guan xing li ou	100
+惯性扭矩	guan xing niu ju	100
+惯性系	guan xing xi	100
+惯性载荷	guan xing zai he	100
+惯性张量	guan xing zhang liang	100
+惯性轴	guan xing zhou	100
+惯性阻力	guan xing zu li	100
+广义动量	guang yi dong liang	1000
+广义力	guang yi li	160
+广义坐标	guang yi zuo biao	1000
+滚动阻力	gun dong zu li	100
+郭永怀	guo yong huai	100
+哈密顿方程	ha mi dun fang cheng	1000
+哈密顿量	ha mi dun liang	1000
+合成应力	he cheng ying li	100
+合力矩	he li ju	100
+横向刚度	heng xiang gang du	100
+横向荷载	heng xiang he zai	100
+横向振动	heng xiang zhen dong	100
+胡克	hu ke	111
+滑动阻力	hua dong zu li	100
+混合模态	hun he mo tai	100
+基本模态	ji ben mo tai	100
+基本振动	ji ben zhen dong	100
+极惯性矩	ji guan xing ju	100
+计算流体力学	ji suan liu ti li xue	160
+极限应变	ji xian ying bian	100
+极限应力	ji xian ying li	100
+剪力模态	jian li mo tai	100
+剪力图	jian li tu	100
+剪切变形	jian qie bian xing	100
+剪切刚度	jian qie gang du	100
+剪切流	jian qie liu	160
+剪切模量	jian qie mo liang	160
+剪切应变	jian qie ying bian	100
+剪切应力	jian qie ying li	100
+剪应变	jian ying bian	100
+交变应力	jiao bian ying li	100
+交变载荷	jiao bian zai he	100
+角冲量	jiao chong liang	100
+接触疲劳	jie chu pi lao	100
+接触应力	jie chu ying li	100
+结构刚度	jie gou gang du	100
+静摩擦系数	jing mo ca xi shu	100
+静水压力	jing shui ya li	160
+静态阻力	jing tai zu li	100
+径向应变	jing xiang ying bian	100
+径向应力	jing xiang ying li	100
+局部屈曲	ju bu qu qu	100
+局部应力	ju bu ying li	100
+绝对黏度	jue dui nian du	100
+均匀变形	jun yun bian xing	100
+抗扭刚度	kang niu gang du	100
+柯西应力张量	ke xi ying li zhang liang	160
+可压缩流体	ke ya suo liu ti	160
+空化现象	kong hua xian xiang	160
+拉格朗日方程	la ge lang ri fang cheng	1000
+拉格朗日函数	la ge lang ri han shu	100
+拉格朗日量	la ge lang ri liang	1000
+拉应力	la ying li	100
+雷诺数	lei nuo shu	160
+力矩分配法	li ju fen pei fa	100
+理想流体	li xiang liu ti	100
+连续介质力学	lian xu jie zhi li xue	160
+连续性方程	lian xu xing fang cheng	160
+裂纹尖端	lie wen jian duan	160
+临界荷载	lin jie he zai	100
+临界雷诺数	lin jie lei nuo shu	100
+临界应力	lin jie ying li	100
+临界载荷	lin jie zai he	160
+临界阻尼	lin jie zu ni	100
+流函数	liu han shu	160
+流体化	liu ti hua	100
+流体静力学	liu ti jing li xue	100
+流体摩擦	liu ti mo ca	100
+流体弹性力学	liu ti tan xing li xue	100
+流体性质	liu ti xing zhi	100
+流体压力	liu ti ya li	100
+流体质点	liu ti zhi dian	100
+流线型体	liu xian xing ti	100
+摩擦传动	mo ca chuan dong	100
+摩擦轮	mo ca lun	100
+摩擦热	mo ca re	100
+摩擦因数	mo ca yin shu	100
+模态分析	mo tai fen xi	160
+模态转换	mo tai zhuan huan	100
+模态阻尼比	mo tai zu ni bi	100
+纳维斯托克斯方程	na wei si tuo ke si fang cheng	160
+内齿轮	nei chi lun	100
+内摩擦	nei mo ca	100
+黏弹性	nian tan xing	160
+黏弹性材料	nian tan xing cai liao	160
+黏弹性定律	nian tan xing ding lv	100
+黏弹性力学	nian tan xing li xue	100
+黏弹性模式	nian tan xing mo shi	100
+黏弹性算子	nian tan xing suan zi	100
+黏弹性弹簧	nian tan xing tan huang	100
+黏弹性体	nian tan xing ti	100
+黏弹性效应	nian tan xing xiao ying	100
+黏性流体	nian xing liu ti	100
+黏性阻力	nian xing zu li	100
+黏性阻尼	nian xing zu ni	100
+牛顿流体	niu dun liu ti	100
+扭转波	niu zhuan bo	100
+扭转常数	niu zhuan chang shu	100
+扭转刚度	niu zhuan gang du	100
+扭转角	niu zhuan jiao	100
+扭转力矩	niu zhuan li ju	100
+扭转屈曲	niu zhuan qu qu	100
+扭转系统	niu zhuan xi tong	100
+扭转应变	niu zhuan ying bian	100
+扭转应力	niu zhuan ying li	100
+扭转振动	niu zhuan zhen dong	100
+扭转中心	niu zhuan zhong xin	100
+耦合振动	ou he zhen dong	160
+膨胀应力	peng zhang ying li	100
+疲劳荷载	pi lao he zai	100
+疲劳裂纹扩展	pi lao lie wen kuo zhan	160
+疲劳破坏	pi lao po huai	100
+疲劳蠕变	pi lao ru bian	100
+疲劳应力	pi lao ying li	100
+疲劳载荷	pi lao zai he	100
+平均应变	ping jun ying bian	100
+平均应变率	ping jun ying bian lv	100
+平均应力	ping jun ying li	100
+平面变形	ping mian bian xing	100
+平面刚架	ping mian gang jia	100
+平面应变	ping mian ying bian	160
+平面应力	ping mian ying li	160
+破裂应力	po lie ying li	100
+泊松括号	po song kuo hao	1000
+钱伟长	qian wei chang	390
+钱学森	qian xue sen	9850
+强迫振动	qiang po zhen dong	100
+切向应力	qie xiang ying li	100
+倾覆力矩	qing fu li ju	100
+屈服准则	qu fu zhun ze	160
+屈曲失稳	qu qu shi wen	160
+热边界层	re bian jie ceng	100
+热变形	re bian xing	100
+热疲劳	re pi lao	100
+热蠕变	re ru bian	100
+热应力	re ying li	100
+热振动	re zhen dong	100
+容许应力	rong xu ying li	100
+蠕变变形	ru bian bian xing	160
+伞齿轮	san chi lun	100
+三维边界层	san wei bian jie ceng	100
+升力系数	sheng li xi shu	100
+势能	shi neng	9860
+视黏度	shi nian du	100
+守恒量	shou heng liang	1000
+输出扭矩	shu chu niu ju	100
+双轴向应变	shuang zhou xiang ying bian	100
+双轴应力	shuang zhou ying li	100
+水动力学	shui dong li xue	160
+水击现象	shui ji xian xiang	160
+瞬时屈曲	shun shi qu qu	100
+瞬态振动	shun tai zhen dong	100
+斯托克斯	si tuo ke si	10
+速度边界层	su du bian jie ceng	100
+速度势	su du shi	100
+塑性冲击	su xing chong ji	100
+塑性断裂	su xing duan lie	100
+塑性范围	su xing fan wei	100
+塑性分析	su xing fen xi	100
+塑性铰	su xing jiao	100
+塑性力学	su xing li xue	100
+塑性流	su xing liu	100
+塑性流动	su xing liu dong	100
+塑性流体	su xing liu ti	100
+塑性平衡	su xing ping heng	100
+塑性区	su xing qu	100
+塑性屈服	su xing qu fu	100
+塑性区修正	su xing qu xiu zheng	100
+塑性势	su xing shi	100
+塑性失稳	su xing shi wen	100
+塑性弯曲	su xing wan qu	100
+塑性稳定	su xing wen ding	100
+塑性应变	su xing ying bian	160
+塑性指数	su xing zhi shu	100
+随机振动	sui ji zhen dong	100
+弹塑性本构模型	tan su xing ben gou mo xing	160
+弹性刚度	tan xing gang du	100
+弹性力学	tan xing li xue	100
+弹性能	tan xing neng	100
+弹性屈曲	tan xing qu qu	160
+弹性曲线	tan xing qu xian	100
+弹性设计	tan xing she ji	100
+弹性伸长	tan xing shen chang	100
+弹性失稳	tan xing shi wen	100
+弹性限度	tan xing xian du	100
+弹性响应	tan xing xiang ying	100
+弹性应变	tan xing ying bian	100
+弹性应力	tan xing ying li	100
+弹性振动	tan xing zhen dong	100
+弹性支座	tan xing zhi zuo	100
+弹性阻力	tan xing zu li	100
+特性黏弹性参数	te xing nian tan xing can shu	100
+体积模量	ti ji mo liang	160
+湍流边界层	tuan liu bian jie ceng	160
+湍流模型	tuan liu mo xing	160
+湍流阻力	tuan liu zu li	100
+外部荷载	wai bu he zai	100
+外部载荷	wai bu zai he	100
+外齿轮	wai chi lun	100
+弯矩平面	wan ju ping mian	100
+弯矩图	wan ju tu	100
+弯曲变形	wan qu bian xing	100
+弯曲刚度	wan qu gang du	100
+弯曲力矩	wan qu li ju	100
+弯曲应变	wan qu ying bian	100
+弯曲应力	wan qu ying li	100
+弯曲振动	wan qu zhen dong	100
+弯曲中心	wan qu zhong xin	100
+温度边界层	wen du bian jie ceng	100
+稳态振动	wen tai zhen dong	100
+涡度	wo du	160
+涡度理论	wo du li lun	100
+涡度张量	wo du zhang liang	100
+涡量	wo liang	160
+涡流扩散	wo liu kuo san	100
+涡流扩散系数	wo liu kuo san xi shu	100
+无量纲参数	wu liang gang can shu	160
+线性应变	xian xing ying bian	100
+相对黏度	xiang dui nian du	100
+橡胶弹性	xiang jiao tan xing	100
+相空间	xiang kong jian	1000
+虚功原理	xu gong yuan li	160
+旋转涡流	xuan zhuan wo liu	100
+循环应力	xun huan ying li	100
+循环载荷	xun huan zai he	100
+压应力	ya ying li	100
+液体动力学	ye ti dong li xue	100
+应变分布	ying bian fen bu	100
+应变计	ying bian ji	100
+应变矩阵	ying bian ju zhen	100
+应变空间	ying bian kong jian	100
+应变控制	ying bian kong zhi	100
+应变路径	ying bian lu jing	100
+应变率	ying bian lv	100
+应变率张量	ying bian lv zhang liang	100
+应变能密度	ying bian neng mi du	160
+应变软化	ying bian ruan hua	100
+应变位移关系	ying bian wei yi guan xi	100
+应变硬化	ying bian ying hua	100
+应变硬化参数	ying bian ying hua can shu	100
+应变张量	ying bian zhang liang	160
+应变转换	ying bian zhuan huan	100
+应力比	ying li bi	100
+应力波	ying li bo	100
+应力范围	ying li fan wei	100
+应力腐蚀	ying li fu shi	100
+应力函数	ying li han shu	100
+应力计	ying li ji	100
+应力集中	ying li ji zhong	160
+应力矩阵	ying li ju zhen	100
+应力空间	ying li kong jian	100
+应力控制	ying li kong zhi	100
+应力路径	ying li lu jing	100
+应力强度	ying li qiang du	100
+应力强度比	ying li qiang du bi	100
+应力强度因数	ying li qiang du yin shu	100
+应力强度因子	ying li qiang du yin zi	160
+应力松弛	ying li song chi	160
+应力梯度	ying li ti du	100
+应力应变关系	ying li ying bian guan xi	160
+应力应变曲线	ying li ying bian qu xian	100
+应力应变图	ying li ying bian tu	100
+应力张量	ying li zhang liang	160
+应力转换	ying li zhuan huan	100
+应力状态	ying li zhuang tai	100
+永久变形	yong jiu bian xing	100
+有限应变	you xian ying bian	100
+有限元离散	you xian yuan li san	160
+有效应力	you xiao ying li	100
+运动黏度	yun dong nian du	100
+振动分析	zhen dong fen xi	100
+振动荷载	zhen dong he zai	100
+振动量子数	zhen dong liang zi shu	100
+振动模态	zhen dong mo tai	100
+振动能量	zhen dong neng liang	100
+振动配分函数	zhen dong pei fen han shu	100
+振动疲劳	zhen dong pi lao	100
+振动频谱	zhen dong pin pu	100
+振动平面	zhen dong ping mian	100
+振动位移	zhen dong wei yi	100
+振动应力	zhen dong ying li	100
+振动载荷	zhen dong zai he	100
+振动周期	zhen dong zhou qi	100
+正齿轮	zheng chi lun	100
+正应变	zheng ying bian	100
+正则变换	zheng ze bian huan	1000
+质点力学	zhi dian li xue	100
+质点运动	zhi dian yun dong	100
+质量惯性矩	zhi liang guan xing ju	100
+质心系	zhi xin xi	100
+轴对称应变	zhou dui chen ying bian	100
+轴对称应力	zhou dui chen ying li	100
+周培源	zhou pei yuan	133
+周期涡流	zhou qi wo liu	100
+轴向变形	zhou xiang bian xing	100
+轴向断裂	zhou xiang duan lie	100
+轴向刚度	zhou xiang gang du	100
+轴向力	zhou xiang li	100
+轴向应变	zhou xiang ying bian	100
+轴向应力	zhou xiang ying li	100
+轴向载荷	zhou xiang zai he	100
+轴向振动	zhou xiang zhen dong	100
+主惯性矩	zhu guan xing ju	100
+主应变	zhu ying bian	160
+主应力	zhu ying li	160
+转动能	zhuan dong neng	100
+自由边界层	zi you bian jie ceng	100
+自由流动	zi you liu dong	100
+自由涡流	zi you wo liu	100
+自由振动	zi you zhen dong	100
+自由振动模态	zi you zhen dong mo tai	100
+纵向变形	zong xiang bian xing	100
+纵向应力	zong xiang ying li	100
+纵向载荷	zong xiang zai he	100
+纵向振动	zong xiang zhen dong	100
+阻力系数	zu li xi shu	100
+阻尼比	zu ni bi	100
+阻尼波	zu ni bo	100
+阻尼力	zu ni li	100
+阻尼强迫振动	zu ni qiang po zhen dong	100
+阻尼系数	zu ni xi shu	100
+阻尼谐动	zu ni xie dong	100
+阻尼自由振动	zu ni zi you zhen dong	100
+最大法向应力理论	zui da fa xiang ying li li lun	100
+最大应变理论	zui da ying bian li lun	100
+最大应力理论	zui da ying li li lun	100
+最大主应变	zui da zhu ying bian	100
+最大主应力	zui da zhu ying li	100
+最小势能原理	zui xiao shi neng yuan li	160
+作用量	zuo yong liang	1000

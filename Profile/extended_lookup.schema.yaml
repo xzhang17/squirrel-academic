@@ -9,7 +9,7 @@ speller:
   delimiter: " '"
   algebra:
     __patch:
-      - academic_fuzzy:/personal_fuzzy
+      - zenfire_pinyin_fuzzy:/personal_fuzzy
       - pinyin:/abbreviation
 
 translator:

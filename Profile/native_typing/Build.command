@@ -2,10 +2,10 @@
 # Rebuild the matching local nightly without downloads or installation.
 set -euo pipefail
 cd -- "$(dirname -- "$0")"
-python3 - <<'PY'
+python3 -I - <<'PY'
 from pathlib import Path
 from zipfile import ZipFile
-import hashlib, json, os, plistlib, shutil, subprocess, tempfile
+import fcntl, hashlib, json, os, plistlib, shutil, subprocess, tempfile
 
 assets = Path.cwd()
 app = Path('/Library/Input Methods/Squirrel.app')
@@ -66,10 +66,28 @@ with tempfile.TemporaryDirectory(prefix='squirrel-local-build-', dir='/private/t
     command += [str(p) for p in sorted((work/'sources').glob('*.swift'))]
     subprocess.run(command + ['-o', str(work/'Squirrel')], check=True)
     base['modified_sha256'] = hashlib.sha256((work/'Squirrel').read_bytes()).hexdigest()
-    # Publish only after both the focused tests and the full build pass.
-    shutil.copy2(work/'Squirrel', assets/'Squirrel.local.new')
-    os.replace(assets/'Squirrel.local.new', assets/'Squirrel.local')
-    (assets/'nightly-base.txt.new').write_text(json.dumps(base, indent=2)+'\n')
-    os.replace(assets/'nightly-base.txt.new', assets/'nightly-base.txt')
+    # Stage both files on the destination volume before publishing the pair.
+    with tempfile.TemporaryDirectory(prefix='.zenfire-build-', dir=assets) as folder:
+        release = Path(folder)
+        executable = assets/'Squirrel.local'
+        shutil.copy2(work/'Squirrel', release/'Squirrel.local')
+        (release/'nightly-base.txt').write_text(json.dumps(base, indent=2)+'\n')
+        directory = os.open(assets, os.O_RDONLY)
+        try:
+            fcntl.flock(directory, fcntl.LOCK_EX)
+            previous = release/'previous'
+            if executable.exists():
+                os.link(executable, previous)
+            os.replace(release/'Squirrel.local', executable)
+            try:
+                os.replace(release/'nightly-base.txt', assets/'nightly-base.txt')
+            except BaseException:
+                if previous.exists():
+                    os.replace(previous, executable)
+                else:
+                    executable.unlink()
+                raise
+        finally:
+            os.close(directory)
 print('Built and checked local nightly '+base['revision']+'. Run Install.command to apply it.')
 PY

@@ -1,23 +1,44 @@
-Squirrel academic profile and custom nightly on macOS
+学术拼音：手动备份与恢复
 
-This public snapshot targets Squirrel nightly d220b92 with Rime 1.17.0 and the arm64 smart-spacing extension 1.2. The v1.1.1 profile release links to both the customized app archive and the matching original nightly installer from v1.1.0.
+The public installer provides the shared Zenfire configuration and a clean
+learning profile. It contains no author's private phrases or learned data.
+Core features and installation instructions:
+https://github.com/xzhang17/squirrel-academic-config
 
-On a new Apple silicon Mac with macOS 13 or later, open Squirrel-Academic-v1.2.0-macOS-arm64.pkg from release v1.2.0, click Continue and Install, and approve macOS authentication. The package installs the customized app, academic profile and clickable indicator, and requests activation of Squirrel - Simplified.
+Manual backup
 
-For a manual installation from the separate profile ZIP, open Install.command from that ZIP. Then run:
-  /bin/bash "$HOME/Library/Rime/native_typing/Install.command"
-Complete the macOS administrator prompt. This installs the saved custom executable without downloading a different release. Choose Squirrel - Simplified and Deploy. The menu indicator can be restored with Mode-Indicator/Restore.command from the release.
+1. After changing nested dictionaries, scripts or the native customization,
+   refresh the resource archive:
+     /bin/bash "$HOME/Library/Rime/zenfire_profile.txt" prepare
+2. Choose Squirrel > Sync user data. This also exports native learned words
+   and saves zenfire_preferences.txt, including candidate usage and ordering.
+3. A new installation uses ~/Squirrel-Backup/sync. Existing installations keep
+   their sync_dir from installation.yaml. Keep this folder somewhere trusted;
+   the private backup includes personal data. No backup schedule is installed.
 
-New sessions start in English; Shift alone switches Chinese/English. The candidate menu has seven places, with - and = for paging. While composing, [ opens extended lookup and ] returns. Tab moves one syllable forward. Special modifier-key shortcuts are disabled. Full-width mode and automatic bracket completion are absent. In Chinese mode, shifted braces and pipe insert {, }, and | directly; unshifted brackets insert 【 and 】.
+Restore on a new Mac
 
-Smart spacing supports Chinese/English and Chinese/number boundaries when the editor provides the necessary text context. It does not move the cursor. Number punctuation preserves separators such as 3.14, 12:00 and 1,000.
+1. Install the complete 学术拼音 package. The matching d220b92 nightly app,
+   smart spacing, model and shared dictionaries are included.
+2. In your private sync folder, locate the device directory containing
+   zenfire_profile.txt, zenfire_profile_files.txt and zenfire_assets.zip.txt.
+3. Restore into a NEW directory under an existing parent:
+     /bin/bash "/path/to/sync/DEVICE/zenfire_profile.txt" restore "$HOME/Library"
+   The helper prints the restored directory. It also imports a native user
+   dictionary snapshot when present. Do not point restoration at a live profile.
+4. Quit Squirrel before replacing ~/Library/Rime with the restored directory.
+   Keep the displaced folder until the restored profile works.
+5. Keep the new Mac's installation.yaml/device identity. Set sync_dir to your
+   intended backup folder; do not copy another Mac's device identity.
+6. Start Squirrel, choose Deploy, and test a previously learned word.
 
-Normal local Chinese learning is limited to eight characters. Deliberate choices promote phrases to second, then first place. The native learned dictionary is academic_pinyin.userdb; additional selection preferences are in academic_preferences.txt. academic_pref_guard.userdb provides the writer lock. These private records and custom_phrase.txt are not published in this repository.
+The internal schema ID is zenfire_pinyin; the public display name is 学术拼音.
+The native dictionary stores learned frequencies. zenfire_preferences.txt
+stores explicit preferences and the stable Chinese ranking rule. Both matter
+when restoring your own candidate order. Never publish either to a public repo.
 
-Add words to the plain dictionaries and shared spellings to word_shortcuts.txt. Keep private phrases in custom_phrase.txt. Choose Deploy after edits. Before manually syncing changed nested resources, run:
-  /bin/bash "$HOME/Library/Rime/academic_profile.txt" prepare
-Then choose Sync user data. A fresh public installation uses ~/Squirrel-Backup/sync; existing installations retain their own destination. Backups remain manual.
+Academic subjects are selected in dicts/academic_dicts/subjects.yaml. After
+editing, run /usr/bin/ruby "$HOME/Library/Rime/dicts/rebuild_academic.rb" and
+choose Deploy. Source and license details are in that directory's Sources.txt.
 
-To restore a private backup, run academic_profile.txt restore "$HOME/Library" from its device folder. With Squirrel stopped, keep the current profile aside and put the restored profile at ~/Library/Rime. Reapply native_typing/Install.command to the matching nightly and restore the indicator. The private backup supplies learned vocabulary and private phrases omitted by the public release.
-
-See native_typing/Readme.txt for the saved executable, rebuild command, original-app rollback archive and smart-spacing behavior.
+Bracket auto completion and full-width mode are disabled. Backups stay manual.

@@ -1,19 +1,46 @@
--- Pinyin names and exact English Greek names offer symbols from slot two.
--- Keep ordinary ranking except for named anchors and catalog keywords.
-local fuzzy = require("academic_fuzzy")
+-- Symbols normally start in slot two; the next filter applies personal ranks.
+local fuzzy = require("zenfire_fuzzy")
 local M = {}
 
 -- This profile has one punctuation mode. Reject stale saved/app overrides
 -- as well as explicit attempts to enable Rime's automatic width conversion.
 local processor = {}
+
+local function format_number_separator(ctx, replacements)
+  local key = ctx.input:sub(1, 1)
+  local replacement = replacements[key]
+  if not replacement or ctx:get_option("ascii_mode") or ctx:get_option("ascii_punct") then return end
+  local segments = ctx.composition:toSegmentation()
+  if segments.size < 2 then return end
+  local first, following = segments:get_at(0), segments:get_at(1)
+  if not first:has_tag("punct_number") or first._end ~= 1 or following.start ~= 1 then return end
+  local word = following:get_selected_candidate()
+  if not word or word.text == "" or not fuzzy.is_han(utf8.codepoint(word.text)) then return end
+  local punct = first:get_selected_candidate()
+  if punct and punct.text == key then
+    local genuine = punct:get_genuine()
+    if genuine.type == "punct" then genuine.text = replacement end
+  end
+end
+
 function processor.init(env)
   local ctx = env.engine.context
   ctx:set_option("full_shape", false)
   env.width_guard = ctx.option_update_notifier:connect(function(context, name)
     if name == "full_shape" and context:get_option(name) then context:set_option(name, false) end
   end)
+  local config, replacements = env.engine.schema.config, {}
+  for key in (config:get_string("punctuator/digit_separators") or ""):gmatch(".") do
+    replacements[key] = config:get_string("punctuator/half_shape/" .. key .. "/commit")
+  end
+  -- Rime owns decimal, time and list handling. Its pending separator can be
+  -- changed only once the following candidate is known, before text is sent.
+  env.number_separator = ctx.commit_notifier:connect(function(context)
+    format_number_separator(context, replacements)
+  end, -1)
 end
 function processor.fini(env)
+  env.number_separator:disconnect()
   env.width_guard:disconnect()
 end
 function processor.func()

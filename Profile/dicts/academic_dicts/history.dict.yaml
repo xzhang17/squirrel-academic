@@ -1,0 +1,415 @@
+# 历史学
+# Sources and licenses: Sources.txt in this folder.
+---
+name: history
+version: "1.1"
+sort: by_weight
+use_preset_vocabulary: false
+...
+阿契美尼德帝国	a qi mei ni de di guo	160
+爱琴文明	ai qin wen ming	160
+白银货币化	bai yin huo bi hua	160
+白银流入	bai yin liu ru	160
+版本目录学	ban ben mu lu xue	160
+版本源流	ban ben yuan liu	160
+保甲法	bao jia fa	160
+保甲制度	bao jia zhi du	160
+碑刻史料	bei ke shi liao	160
+北魏孝文帝改革	bei wei xiao wen di gai ge	160
+闭关锁国政策	bi guan suo guo zheng ce	160
+比较史	bi jiao shi	160
+比较史学	bi jiao shi xue	160
+边疆史	bian jiang shi	160
+柏林危机	bo lin wei ji	160
+布雷顿森林体系	bu lei dun sen lin ti xi	160
+采邑制度	cai yi zhi du	160
+财政军事国家	cai zheng jun shi guo jia	160
+财政史	cai zheng shi	160
+漕运制度	cao yun zhi du	160
+册封体制	ce feng ti zhi	160
+察举制	cha ju zhi	160
+察举制度	cha ju zhi du	160
+茶马互市	cha ma hu shi	160
+长时段	chang shi duan	160
+朝贡体系	chao gong ti xi	160
+城邦政治	cheng bang zheng zhi	160
+城邦制度	cheng bang zhi du	160
+城市起源	cheng shi qi yuan	160
+城市史	cheng shi shi	160
+城市自治	cheng shi zi zhi	160
+出土简牍	chu tu jian du	160
+出土文献	chu tu wen xian	160
+传世文献	chuan shi wen xian	160
+刺史制度	ci shi zhi du	160
+大分流	da fen liu	160
+大西洋贸易	da xi yang mao yi	160
+打制石器	da zhi shi qi	160
+大众政治	da zhong zheng zhi	160
+代议制度	dai yi zhi du	160
+档案史料	dang an shi liao	160
+等级君主制	deng ji jun zhu zhi	160
+地层叠压关系	di ceng die ya guan xi	160
+地层关系	di ceng guan xi	160
+第二次工业革命	di er ci gong ye ge ming	160
+第二手史料	di er shou shi liao	160
+地方性知识	di fang xing zhi shi	160
+帝国主义扩张	di guo zhu yi kuo zhang	160
+帝国主义殖民体系	di guo zhu yi zhi min ti xi	160
+敌后抗日根据地	di hou kang ri gen ju di	160
+第一次工业革命	di yi ci gong ye ge ming	160
+第一手史料	di yi shou shi liao	160
+嫡长子继承制	di zhang zi ji cheng zhi	160
+嫡长子制	di zhang zi zhi	160
+电气时代	dian qi shi dai	160
+定居农业	ding ju nong ye	160
+动物考古	dong wu kao gu	160
+杜鲁门主义	du lu men zhu yi	160
+短时段	duan shi duan	160
+堆积单位	dui ji dan wei	160
+敦煌文书	dun huang wen shu	160
+敦煌文献	dun huang wen xian	160
+多重因果	duo chong yin guo	160
+多极化趋势	duo ji hua qu shi	160
+二重证据法	er chong zheng ju fa	160
+二里头文化	er li tou wen hua	160
+二手史料	er shou shi liao	160
+凡尔赛华盛顿体系	fan er sai hua sheng dun ti xi	160
+凡尔赛体系	fan er sai ti xi	160
+反法西斯同盟	fan fa xi si tong meng	160
+反宗教改革	fan zong jiao gai ge	160
+方田均税法	fang tian jun shui fa	160
+方志学	fang zhi xue	160
+废除不平等条约	fei chu bu ping deng tiao yue	160
+废奴运动	fei nu yun dong	160
+非殖民化	fei zhi min hua	160
+分封制度	fen feng zhi du	160
+封国制度	feng guo zhi du	160
+封建契约	feng jian qi yue	160
+封建专制	feng jian zhuan zhi	100
+封建庄园	feng jian zhuang yuan	160
+封君封臣制	feng jun feng chen zhi	160
+封君封臣制度	feng jun feng chen zhi du	160
+府兵制度	fu bing zhi du	160
+复合国家	fu he guo jia	160
+赋税制度	fu shui zhi du	160
+赋役制度	fu yi zhi du	160
+概念史	gai nian shi	160
+哥伦布大交换	ge lun bu da jiao huan	160
+个人所得税制	ge ren suo de shui zhi	100
+工厂制度	gong chang zhi du	160
+宫殿经济	gong dian jing ji	160
+公共史学	gong gong shi xue	160
+公民社会	gong min she hui	160
+工业考古	gong ye kao gu	160
+工业文明	gong ye wen ming	100
+工业资本主义	gong ye zi ben zhu yi	160
+公众史学	gong zhong shi xue	160
+古埃及文明	gu ai ji wen ming	160
+古代埃及文明	gu dai ai ji wen ming	160
+古典文明	gu dian wen ming	160
+古印度文明	gu yin du wen ming	160
+孤证不立	gu zheng bu li	160
+观念史	guan nian shi	160
+关税主权	guan shui zhu quan	160
+关税自主	guan shui zi zhu	160
+官营手工业	guan ying shou gong ye	160
+广州十三行	guang zhou shi san hang	160
+国别体	guo bie ti	160
+国际政治格局	guo ji zheng zhi ge ju	160
+国家建构	guo jia jian gou	160
+国家形成	guo jia xing cheng	160
+国民党政权	guo min dang zheng quan	100
+国族认同	guo zu ren tong	160
+海禁政策	hai jin zheng ce	160
+海上丝绸之路	hai shang si chou zhi lu	160
+海外殖民扩张	hai wai zhi min kuo zhang	160
+海洋史	hai yang shi	160
+汉代察举制	han dai cha ju zhi	160
+汉匈关系	han xiong guan xi	160
+行会制度	hang hui zhi du	160
+赫梯帝国	he ti di guo	160
+黑奴贸易	hei nu mao yi	160
+互市贸易	hu shi mao yi	160
+华盛顿体系	hua sheng dun ti xi	160
+环境考古	huan jing kao gu	160
+环境史	huan jing shi	160
+黄册制度	huang ce zhi du	160
+皇帝制度	huang di zhi du	160
+黄老之学	huang lao zhi xue	160
+皇权与相权	huang quan yu xiang quan	160
+会馆组织	hui guan zu zhi	160
+活字印刷术	huo zi yin shua shu	160
+疾病史	ji bing shi	160
+计量史学	ji liang shi xue	160
+羁縻府州	ji mi fu zhou	160
+羁縻制度	ji mi zhi du	160
+集体安全	ji ti an quan	160
+集体记忆	ji ti ji yi	160
+记忆史	ji yi shi	160
+价格革命	jia ge ge ming	160
+甲骨卜辞	jia gu bu ci	160
+家国情怀	jia guo qing huai	160
+甲午中日战争	jia wu zhong ri zhan zheng	100
+简牍文献	jian du wen xian	160
+简牍学	jian du xue	160
+间接史料	jian jie shi liao	160
+校雠学	jiao chou xue	160
+近代化探索	jin dai hua tan suo	160
+近代转型	jin dai zhuan xing	160
+经济社会史	jing ji she hui shi	160
+井田制度	jing tian zhi du	160
+聚落考古	ju luo kao gu	160
+聚落形态	ju luo xing tai	160
+绝对年代	jue dui nian dai	160
+郡国并行制	jun guo bing xing zhi	160
+均田制度	jun tian zhi du	160
+郡县制度	jun xian zhi du	160
+考古地层学	kao gu di ceng xue	160
+考古类型学	kao gu lei xing xue	160
+考古学	kao gu xue	100
+考古学文化	kao gu xue wen hua	160
+考古资料	kao gu zi liao	100
+科技考古	ke ji kao gu	160
+科举取士	ke ju qu shi	160
+科举社会	ke ju she hui	160
+克里特文明	ke li te wen ming	160
+空间生产	kong jian sheng chan	160
+空间转向	kong jian zhuan xiang	160
+口述历史	kou shu li shi	160
+口述史	kou shu shi	160
+口述史料	kou shu shi liao	160
+口述史学	kou shu shi xue	160
+跨国史	kua guo shi	160
+劳动史	lao dong shi	160
+冷战格局	leng zhan ge ju	160
+冷战时期	leng zhan shi qi	100
+里甲制度	li jia zhi du	160
+历史本体论	li shi ben ti lun	160
+历史比较法	li shi bi jiao fa	160
+历史必然性	li shi bi ran xing	160
+历史变迁	li shi bian qian	160
+历史编纂学	li shi bian zuan xue	160
+历史地理学	li shi di li xue	160
+历史地图集	li shi di tu ji	160
+历史断裂	li shi duan lie	160
+历史方法论	li shi fang fa lun	160
+历史分期	li shi fen qi	160
+历史记忆	li shi ji yi	160
+历史解释	li shi jie shi	160
+历史连续性	li shi lian xu xing	160
+历史年表	li shi nian biao	160
+历史偶然性	li shi ou ran xing	160
+历史人类学	li shi ren lei xue	160
+历史认识论	li shi ren shi lun	160
+历史社会学	li shi she hui xue	160
+历史时序	li shi shi xu	160
+历史文献学	li shi wen xian xue	160
+历史叙事	li shi xu shi	160
+历史因果性	li shi yin guo xing	160
+历史语境	li shi yu jing	160
+历史转折	li shi zhuan zhe	160
+里耶秦简	li ye qin jian	160
+礼乐制度	li yue zhi du	160
+连通史	lian tong shi	160
+连坐制度	lian zuo zhi du	100
+两河流域文明	liang he liu yu wen ming	160
+两极格局	liang ji ge ju	160
+路府州县	lu fu zhou xian	160
+路径依赖	lu jing yi lai	160
+罗马法体系	luo ma fa ti xi	160
+罗马共和制	luo ma gong he zhi	160
+罗马公民权	luo ma gong min quan	160
+罗马元老院	luo ma yuan lao yuan	160
+迈锡尼文明	mai xi ni wen ming	160
+门阀政治	men fa zheng zhi	160
+密折制度	mi zhe zhi du	160
+民间手工业	min jian shou gong ye	160
+民族交融	min zu jiao rong	160
+民族认同	min zu ren tong	160
+民族危机	min zu wei ji	160
+民族政权	min zu zheng quan	100
+磨制石器	mo zhi shi qi	160
+募兵制度	mu bing zhi du	160
+慕尼黑协定	mu ni hei xie ding	160
+募役法	mu yi fa	160
+墓葬形制	mu zang xing zhi	160
+南北问题	nan bei wen ti	160
+内阁制度	nei ge zhi du	160
+年代测定	nian dai ce ding	160
+年代序列	nian dai xu lie	160
+年鉴学派	nian jian xue pai	160
+农耕文明	nong geng wen ming	160
+农田水利法	nong tian shui li fa	160
+农业起源	nong ye qi yuan	160
+农业文明	nong ye wen ming	100
+奴隶制经济	nu li zhi jing ji	160
+欧洲一体化	ou zhou yi ti hua	160
+片面最惠国待遇	pian mian zui hui guo dai yu	160
+起居注	qi ju zhu	160
+器物组合	qi wu zu he	160
+契约劳工	qi yue lao gong	160
+情感史	qing gan shi	160
+清末新政	qing mo xin zheng	160
+青铜器铭文	qing tong qi ming wen	160
+青铜时代崩溃	qing tong shi dai beng kui	160
+青铜时代晚期	qing tong shi dai wan qi	160
+区域社会史	qu yu she hui shi	160
+区域市场	qu yu shi chang	160
+去殖民化	qu zhi min hua	160
+权力分立	quan li fen li	160
+全民族抗战	quan min zu kang zhan	160
+全球贸易网络	quan qiu mao yi wang luo	160
+全球史	quan qiu shi	160
+榷场贸易	que chang mao yi	160
+人口史	ren kou shi	160
+人民政权	ren min zheng quan	100
+人文主义思潮	ren wen zhu yi si chao	160
+人文主义运动	ren wen zhu yi yun dong	160
+日常生活史	ri chang sheng huo shi	160
+儒学复兴	ru xue fu xing	160
+三公九卿制	san gong jiu qing zhi	160
+三省六部制	san sheng liu bu zhi	160
+商帮网络	shang bang wang luo	160
+商品经济发展	shang pin jing ji fa zhan	160
+商业革命	shang ye ge ming	160
+商周青铜器	shang zhou qing tong qi	160
+社会经济史	she hui jing ji shi	160
+社会文化史	she hui wen hua shi	160
+身体史	shen ti shi	160
+生物考古	sheng wu kao gu	160
+十二铜表法	shi er tong biao fa	160
+时间意识	shi jian yi shi	160
+世界经济体系	shi jie jing ji ti xi	160
+世界市场形成	shi jie shi chang xing cheng	160
+世界体系理论	shi jie ti xi li lun	160
+时空观念	shi kong guan nian	160
+史料辨析	shi liao bian xi	160
+史料互证	shi liao hu zheng	160
+史料考证	shi liao kao zheng	160
+史料批判	shi liao pi pan	160
+史料实证	shi liao shi zheng	160
+史料学	shi liao xue	160
+史料研究	shi liao yan jiu	100
+世卿世禄制	shi qing shi lu zhi	160
+士绅社会	shi shen she hui	160
+实物史料	shi wu shi liao	160
+史学传统	shi xue chuan tong	160
+史学方法	shi xue fang fa	160
+史学理论	shi xue li lun	160
+史学批评	shi xue pi ping	160
+实业救国	shi ye jiu guo	160
+市易法	shi yi fa	160
+史源学	shi yuan xue	160
+市镇经济	shi zhen jing ji	160
+实证史学	shi zheng shi xue	160
+士族门阀	shi zu men fa	160
+士族社会	shi zu she hui	160
+数字史学	shu zi shi xue	160
+睡虎地秦简	shui hu di qin jian	160
+水下考古	shui xia kao gu	160
+丝绸之路贸易	si chou zhi lu mao yi	160
+岁币制度	sui bi zhi du	160
+台谏制度	tai jian zhi du	160
+碳十四测年	tan shi si ce nian	160
+条约体系	tiao yue ti xi	160
+铁犁牛耕	tie li niu geng	160
+统购统销制度	tong gou tong xiao zhi du	160
+统一多民族国家	tong yi duo min zu guo jia	160
+土司制度	tu si zhi du	160
+图像史料	tu xiang shi liao	160
+推恩令	tui en ling	160
+晚明思想启蒙	wan ming si xiang qi meng	160
+王安石变法	wang an shi bian fa	160
+王朝国家	wang chao guo jia	160
+微观史	wei guan shi	160
+魏晋玄学	wei jin xuan xue	160
+卫所制度	wei suo zhi du	160
+维也纳体系	wei ye na ti xi	160
+文化记忆	wen hua ji yi	160
+文化认同	wen hua ren tong	160
+文化转向	wen hua zhuan xiang	160
+文明交流	wen ming jiao liu	160
+文明起源	wen ming qi yuan	160
+文献辨伪	wen xian bian wei	160
+文献考据	wen xian kao ju	160
+文献考证	wen xian kao zheng	160
+文献史料	wen xian shi liao	160
+文艺复兴运动	wen yi fu xing yun dong	160
+五四爱国运动	wu si ai guo yun dong	100
+物质文化史	wu zhi wen hua shi	160
+希腊城邦	xi la cheng bang	160
+希腊化时代	xi la hua shi dai	160
+希腊化世界	xi la hua shi jie	160
+宪政体制	xian zheng ti zhi	160
+乡村史	xiang cun shi	160
+相对年代	xiang dui nian dai	160
+乡里制度	xiang li zhi du	160
+乡约制度	xiang yue zhi du	160
+小分流	xiao fen liu	160
+协定关税	xie ding guan shui	160
+新巴比伦王国	xin ba bi lun wang guo	160
+新航路开辟	xin hang lu kai pi	160
+新史学	xin shi xue	160
+心态史	xin tai shi	160
+性别史	xing bie shi	160
+行省制度	xing sheng zhi du	160
+选举权扩展	xuan ju quan kuo zhan	160
+宣政院制度	xuan zheng yuan zhi du	160
+雅典民主政治	ya dian min zhu zheng zhi	160
+雅尔塔体系	ya er ta ti xi	160
+盐铁官营	yan tie guan ying	160
+盐铁专卖	yan tie zhuan mai	160
+盐引制度	yan yin zhi du	160
+议会君主制	yi hui jun zhu zhi	160
+议会主权	yi hui zhu quan	160
+遗迹单位	yi ji dan wei	160
+医疗史	yi liao shi	160
+移民史	yi min shi	160
+移民网络	yi min wang luo	160
+一手史料	yi shou shi liao	160
+印度河文明	yin du he wen ming	160
+游牧文明	you mu wen ming	160
+语境化	yu jing hua	160
+鱼鳞图册	yu lin tu ce	160
+语言转向	yu yan zhuan xiang	160
+原工业化	yuan gong ye hua	160
+原始史料	yuan shi shi liao	160
+葬式	zang shi	160
+葬俗	zang su	160
+早期国家	zao qi guo jia	160
+战场考古	zhan chang kao gu	160
+战间期	zhan jian qi	160
+战时动员	zhan shi dong yuan	160
+征辟制度	zheng bi zhi du	160
+蒸汽时代	zheng qi shi dai	160
+政权更迭	zheng quan geng die	100
+政治参与	zheng zhi can yu	160
+政治动员	zheng zhi dong yuan	160
+政治文化史	zheng zhi wen hua shi	160
+政治制度史	zheng zhi zhi du shi	160
+制度史	zhi du shi	160
+直接史料	zhi jie shi liao	160
+殖民地社会	zhi min di she hui	160
+殖民经济	zhi min jing ji	160
+殖民扩张	zhi min kuo zhang	100
+殖民史	zhi min shi	160
+殖民体系	zhi min ti xi	100
+殖民知识	zhi min zhi shi	160
+知识史	zhi shi shi	160
+植物考古	zhi wu kao gu	160
+中古欧洲	zhong gu ou zhou	160
+中国制度史	zhong guo zhi du shi	160
+中华文明	zhong hua wen ming	100
+中时段	zhong shi duan	160
+中世纪城市	zhong shi ji cheng shi	160
+中外交流史	zhong wai jiao liu shi	160
+中央集权制	zhong yang ji quan zhi	160
+轴心时代	zhou xin shi dai	160
+诸侯争霸	zhu hou zheng ba	160
+庄园经济	zhuang yuan jing ji	160
+宗教宽容	zong jiao kuan rong	160
+宗教社会史	zong jiao she hui shi	160
+总体战	zong ti zhan	160
+宗族组织	zong zu zu zhi	160
+租界制度	zu jie zhi du	160
+租庸调制	zu yong diao zhi	160

@@ -1,0 +1,36 @@
+# 地质与地球科学混合词汇
+# Sources and licenses: Sources.txt in this folder.
+---
+name: geology_mixed
+version: "1.0"
+sort: by_weight
+use_preset_vocabulary: false
+...
+Ar-Ar定年	ar ar ding nian	160
+C同位素	c tong wei su	160
+DEM地形	dem di xing	160
+EBSD组构	ebsd zu gou	160
+EPMA分析	epma fen xi	160
+GIS分析	gis fen xi	160
+GIS制图	gis zhi tu	160
+GNSS形变	gnss xing bian	160
+Hf同位素	hf tong wei su	160
+InSAR监测	insar jian ce	160
+InSAR形变	insar xing bian	160
+K-Ar定年	k ar ding nian	160
+LA-ICP-MS定年	la icp ms ding nian	160
+LA-ICP-MS分析	la icp ms fen xi	160
+LiDAR点云	lidar dian yun	160
+Lu-Hf同位素	lu hf tong wei su	160
+O同位素	o tong wei su	160
+Rb-Sr定年	rb sr ding nian	160
+Re-Os定年	re os ding nian	160
+S同位素	s tong wei su	160
+SEM矿物分析	sem kuang wu fen xi	160
+SHRIMP定年	shrimp ding nian	160
+SIMS分析	sims fen xi	160
+Sm-Nd定年	sm nd ding nian	160
+Sr-Nd同位素	sr nd tong wei su	160
+TIMS定年	tims ding nian	160
+U-Pb定年	u pb ding nian	160
+XRD矿物分析	xrd kuang wu fen xi	160

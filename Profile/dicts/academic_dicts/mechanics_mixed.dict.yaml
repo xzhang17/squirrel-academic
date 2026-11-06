@@ -1,0 +1,11 @@
+# 力学
+# Sources and licenses: Sources.txt in this folder.
+---
+name: mechanics_mixed
+version: "1.0"
+sort: by_weight
+use_preset_vocabulary: false
+...
+P波	p bo	100
+S波	s bo	100
+U形管	u xing guan	100

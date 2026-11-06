@@ -51,6 +51,30 @@ function filter.tags_match(seg)
   return seg:has_tag(tag)
 end
 
+-- Rime's mixed spelling index also generates fuzzy spellings for Latin runs.
+-- Accept their literal letters or the initials available in extended lookup.
+local function latin_matches(candidate, input)
+  local word = candidate.text
+  if not word:find("[A-Za-z]") then return true end
+  local phrase = candidate:get_genuine():to_phrase()
+  if not phrase or phrase.lang_name ~= "extended_mixed" then return true end
+  local vertices = phrase:spans().vertices
+  local slot, previous = 1, 1
+  for start, letters, after in word:gmatch("()([A-Za-z]+)()") do
+    -- Spaces, dots, hyphens and middle dots have no syllable in the source.
+    local preceding = word:sub(previous, start - 1):gsub("[%.%s%-]", ""):gsub("·", "")
+    slot = slot + utf8.len(preceding)
+    local left, right = vertices[slot], vertices[slot + 1]
+    if not left or not right then return false end
+    local typed = input:sub(left + 1, right):gsub("'", "")
+    local literal = letters:lower()
+    if typed ~= literal and typed ~= literal:sub(1, 1)
+        and not (typed:match("^[zcs]h$") and typed == literal:sub(1, 2)) then return false end
+    slot, previous = slot + 1, after
+  end
+  return true
+end
+
 function filter.func(translation, env)
   local ctx = env.engine.context
   local seg = ctx.composition:back()
@@ -58,7 +82,7 @@ function filter.func(translation, env)
     -- 8105 is only there to pronounce Tencent's words. Ignore its single
     -- characters, incomplete matches, and sentences assembled by the engine.
     if cand.start == seg.start and cand._end == #ctx.input and cand:get_genuine().type == "phrase" and
-        utf8.len(cand.text) > 1 then
+        utf8.len(cand.text) > 1 and latin_matches(cand, ctx.input) then
       seg.prompt = "〔扩展词库〕"
       yield(cand)
     end

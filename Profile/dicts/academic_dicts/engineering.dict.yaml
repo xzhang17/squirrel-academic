@@ -1,0 +1,1066 @@
+# 工程技术
+# Sources and licenses: Sources.txt in this folder.
+---
+name: engineering
+version: "1.2"
+sort: by_weight
+use_preset_vocabulary: false
+...
+氨氮去除	an dan qu chu	160
+氨气压缩机	an qi ya suo ji	100
+安全仪表系统	an quan yi biao xi tong	160
+半波整流	ban bo zheng liu	100
+半导体晶圆	ban dao ti jing yuan	100
+瓣阀	ban fa	100
+板式热交换器	ban shi re jiao huan qi	100
+薄膜太阳能电池	bao mo tai yang neng dian chi	100
+爆破电路	bao po dian lu	100
+包容要求	bao rong yao qiu	160
+宝石轴承	bao shi zhou cheng	100
+爆炸成形	bao zha cheng xing	100
+贝克曼温度计	bei ke man wen du ji	100
+背压阀	bei ya fa	100
+背压式汽轮机	bei ya shi qi lun ji	100
+备用泵	bei yong beng	100
+本质安全	ben zhi an quan	160
+泵流量	beng liu liang	100
+闭环系统	bi huan xi tong	100
+边界润滑	bian jie run hua	100
+变流器控制	bian liu qi kong zhi	160
+边坡稳定性	bian po wen ding xing	160
+变位齿轮	bian wei chi lun	100
+变循环发动机	bian xun huan fa dong ji	100
+表面粗糙	biao mian cu cao	100
+表面腐蚀	biao mian fu shi	100
+表面强化	biao mian qiang hua	160
+表面渗碳	biao mian shen tan	100
+表面完整性	biao mian wan zheng xing	160
+表面纹理	biao mian wen li	160
+表面织构	biao mian zhi gou	160
+并网逆变器	bing wang ni bian qi	160
+铂电阻温度计	bo dian zu wen du ji	100
+波纹管式减压阀	bo wen guan shi jian ya fa	100
+部分故障	bu fen gu zhang	100
+部分失效	bu fen shi xiao	100
+材料挤出	cai liao ji chu	160
+采样保持	cai yang bao chi	160
+参数辨识	can shu bian shi	160
+残余应力测试	can yu ying li ce shi	160
+残余应力控制	can yu ying li kong zhi	160
+操纵阀	cao zong fa	100
+操作故障	cao zuo gu zhang	100
+层间绝缘	ceng jian jue yuan	100
+柴电机车	chai dian ji che	100
+柴油机车	chai you ji che	100
+产品生命周期管理	chan pin sheng ming zhou qi guan li	160
+超导电机	chao dao dian ji	100
+超高性能混凝土	chao gao xing neng hun ning tu	160
+超级电容	chao ji dian rong	100
+超精密加工	chao jing mi jia gong	160
+超声加工	chao sheng jia gong	160
+超声相控阵检测	chao sheng xiang kong zhen jian ce	160
+车辆故障	che liang gu zhang	100
+车螺纹	che luo wen	100
+沉淀强化	chen dian qiang hua	160
+成形法	cheng xing fa	100
+成型方法	cheng xing fang fa	100
+成形机	cheng xing ji	100
+成型件	cheng xing jian	100
+成型模	cheng xing mo	100
+成型模具	cheng xing mu ju	100
+成形性	cheng xing xing	100
+成型装置	cheng xing zhuang zhi	100
+尺寸链	chi cun lian	100
+尺寸链分析	chi cun lian fen xi	160
+齿轮油泵	chi lun you beng	100
+齿轮轴	chi lun zhou	100
+冲击腐蚀	chong ji fu shi	100
+充气阀	chong qi fa	100
+充气压力	chong qi ya li	100
+冲洗泵	chong xi beng	100
+冲压力	chong ya li	100
+充氧压铸	chong yang ya zhu	100
+充油电缆	chong you dian lan	100
+抽气阀	chou qi fa	100
+抽水泵	chou shui beng	100
+出口阀	chu kou fa	100
+储能变流器	chu neng bian liu qi	160
+储能系统	chu neng xi tong	100
+出油阀	chu you fa	100
+传动轮	chuan dong lun	100
+传动效率	chuan dong xiao lv	100
+传动元件	chuan dong yuan jian	100
+磁电阻效应	ci dian zu xiao ying	100
+磁放大器	ci fang da qi	100
+磁粉检测	ci fen jian ce	160
+磁石发电机	ci shi fa dian ji	100
+磁性过滤器	ci xing guo lv qi	100
+粗糙度系数	cu cao du xi shu	100
+粗过滤器	cu guo lv qi	100
+粗牙螺纹	cu ya luo wen	100
+催化反应器	cui hua fan ying qi	100
+淬火钢	cui huo gang	100
+淬火炉	cui huo lu	100
+淬火硬化	cui huo ying hua	100
+淬火应力	cui huo ying li	100
+淬火油	cui huo you	100
+大地电阻	da di dian zu	100
+大端轴承	da duan zhou cheng	100
+大螺栓	da luo shuan	100
+单动泵	dan dong beng	100
+氮化镓功率器件	dan hua jia gong lv qi jian	160
+氮化镓器件	dan hua jia qi jian	160
+单级泵	dan ji beng	100
+单级离心泵	dan ji li xin beng	100
+单螺杆泵	dan luo gan beng	100
+单相变压器	dan xiang bian ya qi	100
+单相电动机	dan xiang dian dong ji	100
+单向阀门	dan xiang fa men	100
+单相感应电动机	dan xiang gan ying dian dong ji	100
+单向节流阀	dan xiang jie liu fa	100
+单向离合器	dan xiang li he qi	100
+单芯电缆	dan xin dian lan	100
+挡土墙	dang tu qiang	100
+导波检测	dao bo jian ce	160
+倒挡齿轮	dao dang chi lun	100
+导电涂层	dao dian tu ceng	100
+导阀	dao fa	100
+刀具路径	dao ju lu jing	160
+刀具磨损	dao ju mo sun	160
+刀具寿命	dao ju shou ming	160
+导螺杆	dao luo gan	100
+导纳控制	dao na kong zhi	160
+导通损耗	dao tong sun hao	160
+等离子喷涂	deng li zi pen tu	160
+等温退火	deng wen tui huo	100
+等效电感	deng xiao dian gan	100
+低电压穿越	di dian ya chuan yue	160
+底阀	di fa	100
+地基处理	di ji chu li	160
+地基强度	di ji qiang du	100
+底脚螺栓	di jiao luo shuan	100
+低热水泥	di re shui ni	100
+低温阀	di wen fa	100
+低温回火	di wen hui huo	100
+低温退火	di wen tui huo	100
+地下电缆	di xia dian lan	100
+低压泵	di ya beng	100
+低压电缆	di ya dian lan	100
+低压电路	di ya dian lu	100
+低压阀	di ya fa	100
+低压锅炉	di ya guo lu	100
+低压压缩机	di ya ya suo ji	100
+低压铸造	di ya zhu zao	100
+低噪声放大器	di zao sheng fang da qi	100
+电池管理系统	dian chi guan li xi tong	160
+电池均衡	dian chi jun heng	160
+电池热管理	dian chi re guan li	160
+电磁泵	dian ci beng	100
+电磁接触器	dian ci jie chu qi	100
+电磁离合器	dian ci li he qi	100
+电感元件	dian gan yuan jian	100
+电感值	dian gan zhi	100
+点焊机器人	dian han ji qi ren	100
+点焊接	dian han jie	100
+电弧灯	dian hu deng	100
+电弧焊机	dian hu han ji	100
+电化学加工	dian hua xue jia gong	160
+电火花加工	dian huo hua jia gong	160
+电机参数辨识	dian ji can shu bian shi	160
+电机工程师	dian ji gong cheng shi	100
+电解加工	dian jie jia gong	160
+电缆敷设	dian lan fu she	100
+电缆沟	dian lan gou	100
+电缆管道	dian lan guan dao	100
+电缆护套	dian lan hu tao	100
+电缆夹	dian lan jia	100
+电缆架	dian lan jia	100
+电缆接头	dian lan jie tou	100
+电缆卷盘	dian lan juan pan	100
+电缆盘	dian lan pan	100
+电缆箱	dian lan xiang	100
+电力变压器	dian li bian ya qi	100
+电力布线	dian li bu xian	100
+电力潮流	dian li chao liu	100
+电力电路	dian li dian lu	100
+电力电子变换器	dian li dian zi bian huan qi	160
+电力牵引	dian li qian yin	100
+电力驱动	dian li qu dong	100
+电力输送	dian li shu song	100
+电力推进	dian li tui jin	100
+电流继电器	dian liu ji dian qi	100
+电路元件	dian lu yuan jian	100
+电气绝缘	dian qi jue yuan	100
+电容表	dian rong biao	100
+电容器纸	dian rong qi zhi	100
+电容系数	dian rong xi shu	100
+电容元件	dian rong yuan jian	100
+电容值	dian rong zhi	100
+电芯一致性	dian xin yi zhi xing	160
+点阵结构	dian zhen jie gou	160
+电子束焊接	dian zi shu han jie	160
+电子束熔化	dian zi shu rong hua	160
+电子束熔融	dian zi shu rong rong	160
+电阻对焊	dian zu dui han	100
+电阻分量	dian zu fen liang	100
+电阻焊机	dian zu han ji	100
+电阻抗	dian zu kang	100
+电阻炉	dian zu lu	100
+电阻温度系数	dian zu wen du xi shu	100
+电阻线	dian zu xian	100
+蝶形阀	die xing fa	100
+定位桩	ding wei zhuang	100
+定向能量沉积	ding xiang neng liang chen ji	160
+动力泵	dong li beng	100
+独立原则	du li yuan ze	160
+镀锌螺栓	du xin luo shuan	100
+锻炼者	duan lian zhe	100
+断裂韧性测试	duan lie ren xing ce shi	160
+短路保护	duan lu bao hu	100
+断路开关	duan lu kai guan	100
+短路开关	duan lu kai guan	100
+锻铝合金	duan lv he jin	100
+断油阀	duan you fa	100
+锻造件	duan zao jian	100
+对称三相电路	dui chen san xiang dian lu	100
+盾构隧道	dun gou sui dao	160
+多材料打印	duo cai liao da yin	160
+多程热交换器	duo cheng re jiao huan qi	100
+多重故障	duo chong gu zhang	100
+多传感器融合	duo chuan gan qi rong he	160
+多电平逆变器	duo dian ping ni bian qi	160
+多极电机	duo ji dian ji	100
+多孔陶瓷	duo kong tao ci	100
+多能互补	duo neng hu bu	160
+多效蒸发器	duo xiao zheng fa qi	100
+多芯电缆	duo xin dian lan	100
+多智能体控制	duo zhi neng ti kong zhi	160
+二阶电路	er jie dian lu	100
+发电机端	fa dian ji duan	100
+发电机转子	fa dian ji zhuan zi	100
+阀控制	fa kong zhi	100
+反步控制	fan bu kong zhi	160
+反馈线性化	fan kui xian xing hua	160
+防积分饱和	fang ji fen bao he	160
+放气阀	fang qi fa	100
+防水处理	fang shui chu li	100
+防水混凝土	fang shui hun ning tu	160
+防松螺栓	fang song luo shuan	100
+方头螺栓	fang tou luo shuan	100
+放泄阀	fang xie fa	100
+废气阀	fei qi fa	100
+分布钢筋	fen bu gang jin	100
+分立电路	fen li dian lu	100
+分流阀	fen liu fa	100
+粉末成形	fen mo cheng xing	100
+粉末床熔融	fen mo chuang rong rong	160
+粉末涂层	fen mo tu ceng	100
+风力发电厂	feng li fa dian chang	100
+风力发电机	feng li fa dian ji	100
+负电阻	fu dian zu	100
+浮动式球阀	fu dong shi qiu fa	100
+浮阀	fu fa	100
+复合成型	fu he cheng xing	100
+复合电路	fu he dian lu	100
+符合电路	fu he dian lu	100
+复合陶瓷	fu he tao ci	100
+复合涂层	fu he tu ceng	100
+腐蚀斑	fu shi ban	100
+腐蚀材料	fu shi cai liao	100
+腐蚀电池	fu shi dian chi	100
+腐蚀电位	fu shi dian wei	100
+复式发动机	fu shi fa dong ji	100
+腐蚀环境	fu shi huan jing	100
+腐蚀控制	fu shi kong zhi	100
+腐蚀磨损	fu shi mo sun	100
+腐蚀疲劳	fu shi pi lao	100
+腐蚀深度	fu shi shen du	100
+腐蚀速率	fu shi su lv	100
+腐蚀损坏	fu shi sun huai	100
+腐蚀损伤	fu shi sun shang	100
+腐蚀系统	fu shi xi tong	100
+腐蚀效应	fu shi xiao ying	100
+腐蚀性质	fu shi xing zhi	100
+辅助泵	fu zhu beng	100
+辅助阀	fu zhu fa	100
+辅助继电器	fu zhu ji dian qi	100
+浮子流量计	fu zi liu liang ji	100
+干式离合器	gan shi li he qi	100
+干湿球温度计	gan shi qiu wen du ji	100
+感应电路	gan ying dian lu	100
+钢板桩	gang ban zhuang	100
+杠杆式安全阀	gang gan shi an quan fa	100
+杠杆式减压阀	gang gan shi jian ya fa	100
+钢混组合结构	gang hun zu he jie gou	160
+钢结构连接	gang jie gou lian jie	160
+钢铸造	gang zhu zao	100
+高铬铸铁	gao ge zhu tie	100
+高硅铸铁	gao gui zhu tie	100
+高速齿轮	gao su chi lun	100
+高速断路器	gao su duan lu qi	100
+高速发动机	gao su fa dong ji	100
+高温腐蚀	gao wen fu shi	100
+高温回火	gao wen hui huo	100
+高性能混凝土	gao xing neng hun ning tu	160
+高压电缆	gao ya dian lan	100
+高压阀	gao ya fa	100
+隔断阀	ge duan fa	100
+隔离阀	ge li fa	100
+隔震	ge zhen	100
+隔震支座	ge zhen zhi zuo	160
+跟网型逆变器	gen wang xing ni bian qi	160
+公差带	gong cha dai	160
+公差分析	gong cha fen xi	160
+公差等级	gong chai deng ji	100
+公差值	gong chai zhi	100
+汞弧整流器	gong hu zheng liu qi	100
+供给泵	gong ji beng	100
+共晶焊接	gong jing han jie	100
+共晶铸铁	gong jing zhu tie	100
+功率半导体	gong lv ban dao ti	160
+功率因数修正	gong lv yin shu xiu zheng	100
+功能安全	gong neng an quan	160
+功能材料	gong neng cai liao	100
+功能梯度材料	gong neng ti du cai liao	160
+供水泵	gong shui beng	100
+工业物联网	gong ye wu lian wang	160
+工业以太网	gong ye yi tai wang	160
+供油泵	gong you beng	100
+共振电路	gong zhen dian lu	100
+公制螺纹	gong zhi luo wen	100
+构网型逆变器	gou wang xing ni bian qi	160
+固定螺栓	gu ding luo shuan	100
+固定式球阀	gu ding shi qiu fa	100
+固定轴承	gu ding zhou cheng	100
+固溶处理	gu rong chu li	160
+固体火箭发动机	gu ti huo jian fa dong ji	100
+故障代码	gu zhang dai ma	100
+故障灯	gu zhang deng	100
+故障电流	gu zhang dian liu	100
+故障监测	gu zhang jian ce	100
+故障频度	gu zhang pin du	100
+故障线路	gu zhang xian lu	100
+故障预测	gu zhang yu ce	160
+灌浆泵	guan jiang beng	100
+管螺纹	guan luo wen	100
+管式反应器	guan shi fan ying qi	100
+光泵磁强计	guang beng ci qiang ji	100
+光伏电池	guang fu dian chi	100
+光固化成形	guang gu hua cheng xing	160
+光纤传感器	guang xian chuan gan qi	100
+轨迹跟踪	gui ji gen zong	160
+轨迹规划	gui ji gui hua	160
+硅太阳能电池	gui tai yang neng dian chi	100
+硅整流器	gui zheng liu qi	100
+过渡配合	guo du pei he	100
+锅炉本体	guo lu ben ti	100
+锅炉管	guo lu guan	100
+锅炉给水泵	guo lu ji shui beng	100
+锅炉热效率	guo lu re xiao lv	100
+锅炉容量	guo lu rong liang	100
+锅炉受热面	guo lu shou re mian	100
+锅炉水处理	guo lu shui chu li	100
+锅炉烟道	guo lu yan dao	100
+过滤泵	guo lv beng	100
+海水泵	hai shui beng	100
+海洋腐蚀	hai yang fu shi	100
+焊后热处理	han hou re chu li	100
+焊接钢	han jie gang	100
+焊接夹具	han jie jia ju	100
+焊接区	han jie qu	100
+好氧颗粒污泥	hao yang ke li wu ni	160
+荷电状态	he dian zhuang tai	160
+荷电状态估计	he dian zhuang tai gu ji	160
+后轴承	hou zhou cheng	100
+滑动齿轮	hua dong chi lun	100
+滑阀箱	hua fa xiang	100
+滑模控制	hua mo kong zhi	160
+环面蜗杆	huan mian wo gan	100
+换向阀	huan xiang fa	100
+环形齿轮	huan xing chi lun	100
+环形电路	huan xing dian lu	100
+环形燃烧室	huan xing ran shao shi	100
+回火脆性	hui huo cui xing	100
+回火炉	hui huo lu	100
+回火碳	hui huo tan	100
+回火温度	hui huo wen du	100
+灰口铸铁	hui kou zhu tie	100
+回流阀	hui liu fa	100
+回授电路	hui shou dian lu	100
+混合阀	hun he fa	100
+混流泵	hun liu beng	100
+混凝土板	hun ning tu ban	100
+混凝土工事	hun ning tu gong shi	100
+混凝土管	hun ning tu guan	100
+混凝土梁	hun ning tu liang	100
+混凝土桥	hun ning tu qiao	100
+混凝土枕	hun ning tu zhen	100
+混凝土柱	hun ning tu zhu	100
+混凝土桩	hun ning tu zhuang	100
+混烧锅炉	hun shao guo lu	100
+火管锅炉	huo guan guo lu	100
+活化烧结	huo hua shao jie	100
+活节螺栓	huo jie luo shuan	100
+活塞泵	huo sai beng	100
+活塞顶	huo sai ding	100
+活塞环槽	huo sai huan cao	100
+活塞裙部	huo sai qun bu	100
+活塞式减压阀	huo sai shi jian ya fa	100
+活塞式压缩机	huo sai shi ya suo ji	100
+活塞行程	huo sai xing cheng	100
+活性污泥法	huo xing wu ni fa	160
+激磁电路	ji ci dian lu	100
+继电器控制	ji dian qi kong zhi	100
+机动泵	ji dong beng	100
+积分电路	ji fen dian lu	100
+激光冲击强化	ji guang chong ji qiang hua	160
+激光粉末床熔融	ji guang fen mo chuang rong rong	160
+激光雷达定位	ji guang lei da ding wei	160
+激光熔覆	ji guang rong fu	160
+几何公差	ji he gong cha	160
+基坑支护	ji keng zhi hu	160
+计量阀	ji liang fa	100
+机器人动力学	ji qi ren dong li xue	160
+机器人化	ji qi ren hua	100
+机器人运动学	ji qi ren yun dong xue	160
+集散控制系统	ji san kong zhi xi tong	160
+寄生电感	ji sheng dian gan	100
+计时电路	ji shi dian lu	100
+计算机集成制造	ji suan ji ji cheng zhi zao	160
+积体电路	ji ti dian lu	100
+积屑瘤	ji xie liu	160
+挤压成型	ji ya cheng xing	100
+极压润滑	ji ya run hua	100
+机油过滤器	ji you guo lv qi	100
+基于状态的维护	ji yu zhuang tai de wei hu	160
+基准体系	ji zhun ti xi	160
+基准要素	ji zhun yao su	160
+夹紧螺栓	jia jin luo shuan	100
+加速泵	jia su beng	100
+加速寿命试验	jia su shou ming shi yan	160
+键槽铣刀	jian cao xi dao	100
+健康状态	jian kang zhuang tai	160
+健康状态估计	jian kang zhuang tai gu ji	160
+减速率	jian su lv	100
+减速伞	jian su san	100
+间歇故障	jian xie gu zhang	100
+减震垫	jian zhen dian	100
+搅拌摩擦焊	jiao ban mo ca han	160
+角阀	jiao fa	100
+交流电力	jiao liu dian li	100
+交流配电	jiao liu pei dian	100
+浇铸成型	jiao zhu cheng xing	100
+接触腐蚀	jie chu fu shi	100
+接地板	jie di ban	100
+接地垫	jie di dian	100
+接地电路	jie di dian lu	100
+接地端	jie di duan	100
+接地回路	jie di hui lu	100
+介电陶瓷	jie dian tao ci	100
+截断阀	jie duan fa	100
+结构健康监测	jie gou jian kang jian ce	160
+节气阀	jie qi fa	100
+接头螺栓	jie tou luo shuan	100
+紧固螺栓	jin gu luo shuan	100
+进给速度	jin ji su du	160
+进料阀	jin liao fa	100
+进气阀	jin qi fa	100
+进气凸轮轴	jin qi tu lun zhou	100
+进气压力	jin qi ya li	100
+金属基复合材料	jin shu ji fu he cai liao	160
+金属涂层	jin shu tu ceng	100
+金属增材制造	jin shu zeng cai zhi zao	160
+静电容	jing dian rong	100
+静电容量	jing dian rong liang	100
+精密模锻	jing mi mo duan	100
+径向滑动轴承	jing xiang hua dong zhou cheng	100
+径向轴承	jing xiang zhou cheng	100
+酒精温度计	jiu jing wen du ji	100
+局部腐蚀	ju bu fu shi	100
+聚合物基复合材料	ju he wu ji fu he cai liao	160
+绝缘板	jue yuan ban	100
+绝缘带	jue yuan dai	100
+绝缘导体	jue yuan dao ti	100
+绝缘管	jue yuan guan	100
+绝缘接头	jue yuan jie tou	100
+绝缘膜	jue yuan mo	100
+绝缘试验	jue yuan shi yan	100
+绝缘套管	jue yuan tao guan	100
+绝缘物	jue yuan wu	100
+绝缘线	jue yuan xian	100
+绝缘栅双极晶体管	jue yuan zha shuang ji jing ti guan	160
+均匀腐蚀	jun yun fu shi	100
+开关磁阻电机	kai guan ci zu dian ji	160
+开关损耗	kai guan sun hao	160
+开环	kai huan	100
+抗饱和补偿	kang bao he bu chang	160
+抗混叠滤波器	kang hun die lv bo qi	100
+抗震强度	kang zhen qiang du	100
+抗震设防	kang zhen she fang	160
+抗震试验	kang zhen shi yan	100
+可锻性	ke duan xing	100
+可靠性框图	ke kao xing kuang tu	160
+可靠性试验	ke kao xing shi yan	100
+可逆变化	ke ni bian hua	100
+可逆变换	ke ni bian huan	100
+可调螺栓	ke tiao luo shuan	100
+可制造性设计	ke zhi zao xing she ji	160
+可装配性设计	ke zhuang pei xing she ji	160
+空间滤波	kong jian lv bo	100
+空间矢量调制	kong jian shi liang tiao zhi	160
+空气泵	kong qi beng	100
+空气阀	kong qi fa	100
+空气压力	kong qi ya li	100
+空调故障	kong tiao gu zhang	100
+控制泵	kong zhi beng	100
+控制分配	kong zhi fen pei	160
+控制继电器	kong zhi ji dian qi	100
+控制律	kong zhi lv	100
+快凝水泥	kuai ning shui ni	100
+快速控制原型	kuai su kong zhi yuan xing	160
+快硬水泥	kuai ying shui ni	100
+宽禁带半导体	kuan jin dai ban dao ti	160
+扩散泵	kuo san beng	100
+扩散退火	kuo san tui huo	100
+扩张状态观测器	kuo zhang zhuang tai guan ce qi	160
+拉紧螺栓	la jin luo shuan	100
+拉伸成型	la shen cheng xing	100
+拉伸成形	la shen cheng xing	100
+拉伸试验	la shen shi yan	100
+老化故障	lao hua gu zhang	100
+老化失效	lao hua shi xiao	100
+冷却泵	leng que beng	100
+冷却水泵	leng que shui beng	100
+离合器总泵	li he qi zong beng	100
+离散时间控制	li san shi jian kong zhi	160
+立式锅炉	li shi guo lu	100
+立式铣床	li shi xi chuang	100
+立体光刻	li ti guang ke	160
+力位混合控制	li wei hun he kong zhi	160
+离心式压缩机	li xin shi ya suo ji	100
+离心压缩机	li xin ya suo ji	100
+离子发动机	li zi fa dong ji	100
+连杆衬套	lian gan chen tao	100
+连杆大端	lian gan da duan	100
+连杆机构	lian gan ji gou	100
+联锁保护	lian suo bao hu	160
+零电流开关	ling dian liu kai guan	160
+零电压开关	ling dian ya kai guan	160
+零阶保持	ling jie bao chi	160
+流程泵	liu cheng beng	100
+流量阀	liu liang fa	100
+露点腐蚀	lu dian fu shi	100
+轮廓度	lun kuo du	160
+裸电缆	luo dian lan	100
+螺栓杆	luo shuan gan	100
+螺栓孔	luo shuan kong	100
+螺纹车床	luo wen che chuang	100
+螺纹环规	luo wen huan gui	100
+螺纹连接	luo wen lian jie	100
+螺纹塞规	luo wen sai gui	100
+螺纹铣刀	luo wen xi dao	100
+螺纹牙型	luo wen ya xing	100
+螺纹烟管	luo wen yan guan	100
+螺纹直径	luo wen zhi jing	100
+铝合金压铸	lv he jin ya zhu	100
+铆钉连接	mao ding lian jie	100
+茅以升	mao yi sheng	428
+密封垫圈	mi feng dian quan	100
+密封阀	mi feng fa	100
+密封面	mi feng mian	100
+密封腔	mi feng qiang	100
+密封试验压力	mi feng shi yan ya li	100
+密封涂层	mi feng tu ceng	100
+密封泄漏	mi feng xie lou	100
+密封元件	mi feng yuan jian	100
+面向增材制造设计	mian xiang zeng cai zhi zao she ji	160
+摩擦腐蚀	mo ca fu shi	100
+摩擦焊	mo ca han	100
+模锻件	mo duan jian	100
+膜盒气压表	mo he qi ya biao	100
+磨料磨损	mo liao mo sun	100
+膜生物反应器	mo sheng wu fan ying qi	100
+磨损量	mo sun liang	100
+膜污染	mo wu ran	160
+模型预测控制	mo xing yu ce kong zhi	160
+耐电弧性	nai dian hu xing	100
+耐久性设计	nai jiu xing she ji	160
+耐磨涂层	nai mo tu ceng	100
+耐蚀铸铁	nai shi zhu tie	100
+能量回收	neng liang hui shou	100
+逆向运动学	ni xiang yun dong xue	160
+逆运动学	ni yun dong xue	160
+粘结剂喷射	nian jie ji pen she	160
+耦合电路	ou he dian lu	100
+排出阀	pai chu fa	100
+排放阀	pai fang fa	100
+排气凸轮	pai qi tu lun	100
+排气压力	pai qi ya li	100
+盘形凸轮	pan xing tu lun	100
+配电板	pei dian ban	100
+配电干线	pei dian gan xian	100
+配电器	pei dian qi	100
+配电线	pei dian xian	100
+配合等级	pei he deng ji	100
+喷水泵	pen shui beng	100
+膨胀机	peng zhang ji	100
+疲劳腐蚀	pi lao fu shi	100
+疲劳失效	pi lao shi xiao	100
+疲劳寿命预测	pi lao shou ming yu ce	160
+匹配电路	pi pei dian lu	100
+偏压电路	pian ya dian lu	100
+平板阀	ping ban fa	100
+屏蔽泵	ping bi beng	100
+平带传动	ping dai chuan dong	100
+平均故障间隔时间	ping jun gu zhang jian ge shi jian	160
+平头螺栓	ping tou luo shuan	100
+普通螺栓	pu tong luo shuan	100
+气动扳手	qi dong ban shou	100
+气动回路	qi dong hui lu	100
+气动活塞	qi dong huo sai	100
+气动夹具	qi dong jia ju	100
+气动马达	qi dong ma da	100
+气动输送	qi dong shu song	100
+气动输送机	qi dong shu song ji	100
+气动闸门	qi dong zha men	100
+气缸衬套	qi gang chen tao	100
+气缸垫	qi gang dian	100
+气缸容积	qi gang rong ji	100
+气缸体	qi gang ti	100
+气缸压力	qi gang ya li	100
+气体腐蚀	qi ti fu shi	100
+气体渗氮	qi ti shen dan	100
+气体渗碳	qi ti shen tan	100
+气压变化	qi ya bian hua	100
+气压波	qi ya bo	100
+气压沉箱基础	qi ya chen xiang ji chu	100
+气压传动	qi ya chuan dong	100
+气压法	qi ya fa	100
+气压阀	qi ya fa	100
+气压缸	qi ya gang	100
+气压高度	qi ya gao du	100
+气压试验	qi ya shi yan	100
+气压梯度	qi ya ti du	100
+气压系统	qi ya xi tong	100
+奇异位形	qi yi wei xing	160
+前级真空泵	qian ji zhen kong beng	100
+强制循环锅炉	qiang zhi xun huan guo lu	100
+桥式整流器	qiao shi zheng liu qi	100
+切削热	qie xiao re	100
+切削性	qie xiao xing	100
+轻量化设计	qing liang hua she ji	160
+清水泵	qing shui beng	100
+氢氧焊接	qing yang han jie	100
+轻质混凝土	qing zhi hun ning tu	100
+球化退火	qiu hua tui huo	100
+驱动轴	qu dong zhou	100
+去耦电容	qu ou dian rong	100
+曲轴车床	qu zhou che chuang	100
+曲轴齿轮	qu zhou chi lun	100
+曲轴轴承	qu zhou zhou cheng	100
+全波整流	quan bo zheng liu	100
+全波整流器	quan bo zheng liu qi	100
+全螺纹	quan luo wen	100
+全面腐蚀	quan mian fu shi	100
+全跳动	quan tiao dong	160
+扰动观测器	rao dong guan ce qi	160
+热泵循环	re beng xun huan	160
+热成型	re cheng xing	100
+热处理工艺	re chu li gong yi	160
+热等静压	re deng jing ya	160
+热电阻器	re dian zu qi	100
+热回收效率	re hui shou xiao lv	160
+热绝缘	re jue yuan	100
+热绝缘体	re jue yuan ti	100
+热失控	re shi kong	160
+热水泵	re shui beng	100
+热退火	re tui huo	100
+容积式泵	rong ji shi beng	100
+熔融沉积成型	rong rong chen ji cheng xing	160
+熔融沉积成形	rong rong chen ji cheng xing	160
+冗余机械臂	rong yu ji xie bi	160
+柔顺控制	rou shun kong zhi	160
+柔性制造系统	rou xing zhi zao xi tong	160
+蠕动泵	ru dong beng	100
+乳化液泵	ru hua ye beng	100
+软件在环仿真	ruan jian zai huan fang zhen	160
+软开关	ruan kai guan	160
+润滑膏	run hua gao	100
+润滑环	run hua huan	100
+润滑膜	run hua mo	100
+润滑油膜	run hua you mo	100
+塞阀	sai fa	100
+三绕组变压器	san rao zu bian ya qi	100
+三通阀	san tong fa	100
+三相电动机	san xiang dian dong ji	100
+三相电机	san xiang dian ji	100
+三相电路	san xiang dian lu	100
+三相发电机	san xiang fa dian ji	100
+三芯电缆	san xin dian lan	100
+栅极电阻	shan ji dian zu	100
+扇形齿轮	shan xing chi lun	100
+上偏差	shang pian cha	100
+烧结法	shao jie fa	100
+烧结炉	shao jie lu	100
+烧结温度	shao jie wen du	100
+设计故障	she ji gu zhang	100
+设计失效	she ji shi xiao	100
+射线检测	she xian jian ce	160
+渗氮	shen dan	100
+渗流稳定性	shen liu wen ding xing	160
+渗碳剂	shen tan ji	100
+渗透检测	shen tou jian ce	160
+声发射检测	sheng fa she jian ce	160
+声反馈	sheng fan kui	100
+生化反应器	sheng hua fan ying qi	100
+生物腐蚀	sheng wu fu shi	100
+生物膜法	sheng wu mo fa	160
+升压变压器	sheng ya bian ya qi	100
+升压电路	sheng ya dian lu	100
+剩余使用寿命	sheng yu shi yong shou ming	160
+施工监测	shi gong jian ce	160
+事件触发控制	shi jian chu fa kong zhi	160
+时间敏感网络	shi jian min gan wang luo	160
+视觉伺服	shi jue ci fu	160
+视觉里程计	shi jue li cheng ji	160
+湿式离合器	shi shi li he qi	100
+时效处理	shi xiao chu li	100
+失效机制	shi xiao ji zhi	100
+失效类型	shi xiao lei xing	100
+失效模式与影响分析	shi xiao mo shi yu ying xiang fen xi	160
+时效强化	shi xiao qiang hua	160
+失效问题	shi xiao wen ti	100
+失效原因	shi xiao yuan yin	100
+石英振荡器	shi ying zhen dang qi	100
+手动泵	shou dong beng	100
+手动阀	shou dong fa	100
+手眼标定	shou yan biao ding	160
+手摇泵	shou yao beng	100
+手摇发电机	shou yao fa dian ji	100
+输电干线	shu dian gan xian	100
+数控插补	shu kong cha bu	160
+输送泵	shu song beng	100
+输送阀	shu song fa	100
+数字孪生	shu zi luan sheng	160
+数字孪生车间	shu zi luan sheng che jian	160
+数字主线	shu zi zhu xian	160
+双缸发动机	shuang gang fa dong ji	100
+双连杆	shuang lian gan	100
+双螺杆挤出机	shuang luo gan ji chu ji	100
+双向变换器	shuang xiang bian huan qi	160
+双相不锈钢	shuang xiang bu xiu gang	100
+双芯电缆	shuang xin dian lan	100
+水淬火	shui cui huo	100
+水底电缆	shui di dian lan	100
+水环式真空泵	shui huan shi zhen kong beng	100
+水冷却塔	shui leng que ta	100
+水力发电机	shui li fa dian ji	100
+水力发动机	shui li fa dong ji	100
+水力停留时间	shui li ting liu shi jian	160
+水力压缩机	shui li ya suo ji	100
+水泥船	shui ni chuan	100
+水泥管	shui ni guan	100
+水泥灌浆	shui ni guan jiang	100
+水泥含量	shui ni han liang	100
+水泥浆泵	shui ni jiang beng	100
+水泥磨机	shui ni mo ji	100
+水泥砂	shui ni sha	100
+水泥水化	shui ni shui hua	100
+水泥原料	shui ni yuan liao	100
+水银温度计	shui yin wen du ji	100
+水银整流器	shui yin zheng liu qi	100
+水硬水泥	shui ying shui ni	100
+顺序阀	shun xu fa	100
+伺服电动机	si fu dian dong ji	100
+伺服电路	si fu dian lu	100
+伺服阀	si fu fa	100
+伺服控制器	si fu kong zhi qi	100
+伺服驱动	si fu qu dong	100
+四连杆	si lian gan	100
+死区时间	si qu shi jian	160
+速凝水泥	su ning shui ni	100
+隧道测量	sui dao ce liang	100
+隧道衬砌	sui dao chen qi	160
+隧道工程	sui dao gong cheng	100
+隧道式	sui dao shi	100
+锁紧螺栓	suo jin luo shuan	100
+碳化硅功率器件	tan hua gui gong lv qi jian	160
+碳化硅器件	tan hua gui qi jian	160
+弹簧式安全阀	tan huang shi an quan fa	100
+弹性联轴器	tan xing lian zhou qi	100
+陶瓷材料	tao ci cai liao	100
+陶瓷刀具	tao ci dao ju	100
+陶瓷坩埚	tao ci gan guo	100
+陶瓷基板	tao ci ji ban	100
+陶瓷基复合材料	tao ci ji fu he cai liao	160
+陶瓷球	tao ci qiu	100
+陶瓷釉	tao ci you	100
+梯形螺纹	ti xing luo wen	100
+填料式旋塞阀	tian liao shi xuan sai fa	100
+天然水泥	tian ran shui ni	100
+天线电路	tian xian dian lu	100
+调速阀	tiao su fa	100
+调压阀	tiao ya fa	100
+铁电陶瓷	tie dian tao ci	100
+同步整流	tong bu zheng liu	160
+同时定位与建图	tong shi ding wei yu jian tu	160
+同心度	tong xin du	100
+同轴度	tong zhou du	100
+涂层处理	tu ceng chu li	100
+涂层刀具	tu ceng dao ju	100
+涂层系统	tu ceng xi tong	100
+涂层织物	tu ceng zhi wu	100
+凸轮传动	tu lun chuan dong	100
+凸轮机构	tu lun ji gou	100
+凸轮轮廓	tu lun lun kuo	100
+土木工程师	tu mu gong cheng shi	100
+突然失效	tu ran shi xiao	100
+土壤腐蚀	tu rang fu shi	100
+土体固结	tu ti gu jie	160
+土压力	tu ya li	100
+退火处理	tui huo chu li	100
+退火温度	tui huo wen du	100
+退火窑	tui huo yao	100
+退火状态	tui huo zhuang tai	100
+拓扑优化	tuo pu you hua	160
+完全故障	wan quan gu zhang	100
+往复式压缩机	wang fu shi ya suo ji	100
+网络化控制	wang luo hua kong zhi	160
+位错强化	wei cuo qiang hua	160
+微电路	wei dian lu	100
+微量润滑	wei liang run hua	160
+尾喷管	wei pen guan	100
+微生物腐蚀	wei sheng wu fu shi	100
+微细加工	wei xi jia gong	160
+微压力计	wei ya li ji	100
+蜗杆螺纹	wo gan luo wen	100
+涡流检测	wo liu jian ce	160
+涡轮泵	wo lun beng	100
+涡轮迟滞	wo lun chi zhi	100
+蜗轮传动	wo lun chuan dong	100
+卧式泵	wo shi beng	100
+卧式铣床	wo shi xi chuang	100
+无传感器控制	wu chuan gan qi kong zhi	160
+污泥龄	wu ni ling	160
+无油压缩机	wu you ya suo ji	100
+无源电路	wu yuan dian lu	100
+五轴加工	wu zhou jia gong	160
+五轴联动加工	wu zhou lian dong jia gong	160
+细晶强化	xi jing qiang hua	160
+吸泥泵	xi ni beng	100
+吸气阀	xi qi fa	100
+吸入泵	xi ru beng	100
+吸入阀	xi ru fa	100
+吸水阀	xi shui fa	100
+铣削加工	xi xiao jia gong	100
+细牙螺纹	xi ya luo wen	100
+下偏差	xia pian cha	100
+先导式安全阀	xian dao shi an quan fa	100
+先导式减压阀	xian dao shi jian ya fa	100
+纤维增强混凝土	xian wei zeng qiang hun ning tu	160
+线性电动机	xian xing dian dong ji	100
+线性放大器	xian xing fang da qi	100
+线性滤波器	xian xing lv bo qi	100
+线性稳压器	xian xing wen ya qi	100
+相变储热	xiang bian chu re	160
+橡胶减震器	xiang jiao jian zhen qi	100
+橡胶密封	xiang jiao mi feng	100
+橡胶轴承	xiang jiao zhou cheng	100
+箱形梁桥	xiang xing liang qiao	100
+消能减震	xiao neng jian zhen	160
+泄水阀	xie shui fa	100
+泄压阀	xie ya fa	100
+卸载阀	xie zai fa	100
+谐振变压器	xie zhen bian ya qi	100
+谐振电路	xie zhen dian lu	100
+协作机器人	xie zuo ji qi ren	160
+新拌混凝土	xin ban hun ning tu	100
+信号阀	xin hao fa	100
+行星齿轮传动	xing xing chi lun chuan dong	100
+行星齿轮组	xing xing chi lun zu	100
+虚拟调试	xu ni tiao shi	160
+虚拟同步机	xu ni tong bu ji	160
+选区激光熔化	xuan qu ji guang rong hua	160
+选区激光烧结	xuan qu ji guang shao jie	160
+旋涡泵	xuan wo beng	100
+旋压锻造	xuan ya duan zao	100
+选择阀	xuan ze fa	100
+选择腐蚀	xuan ze fu shi	100
+旋转泵	xuan zhuan beng	100
+旋转电机	xuan zhuan dian ji	100
+旋转阀	xuan zhuan fa	100
+旋转式压缩机	xuan zhuan shi ya suo ji	100
+旋转钻头	xuan zhuan zuan tou	100
+循环润滑	xun huan run hua	100
+循迹控制系统	xun ji kong zhi xi tong	100
+压电电阻器	ya dian dian zu qi	100
+压紧螺栓	ya jin luo shuan	100
+雅可比矩阵	ya ke bi ju zhen	160
+压力阀	ya li fa	100
+压力式温度计	ya li shi wen du ji	100
+压缩机油	ya suo ji you	100
+压缩机组	ya suo ji zu	100
+压制成型	ya zhi cheng xing	100
+压铸成型	ya zhu cheng xing	100
+压桩机	ya zhuang ji	100
+延时电路	yan shi dian lu	100
+堰式流量计	yan shi liu liang ji	100
+岩土参数	yan tu can shu	160
+岩心钻头	yan xin zuan tou	100
+厌氧腐蚀	yan yang fu shi	100
+厌氧消化	yan yang xiao hua	160
+盐浴淬火	yan yu cui huo	100
+严重故障	yan zhong gu zhang	100
+氧化腐蚀	yang hua fu shi	100
+阳极腐蚀	yang ji fu shi	100
+液冷式发动机	ye leng shi fa dong ji	100
+液冷系统	ye leng xi tong	160
+叶轮轴	ye lun zhou	100
+液体压力计	ye ti ya li ji	100
+液相反应器	ye xiang fan ying qi	100
+液相烧结	ye xiang shao jie	100
+液压管	ye ya guan	100
+液压继动阀	ye ya ji dong fa	100
+液压夹具	ye ya jia ju	100
+液压剪	ye ya jian	100
+液压减震器	ye ya jian zhen qi	100
+液压绞车	ye ya jiao che	100
+液压绞盘	ye ya jiao pan	100
+液压接头	ye ya jie tou	100
+液压挺杆	ye ya ting gan	100
+液压油箱	ye ya you xiang	100
+液压转向	ye ya zhuan xiang	100
+一阶电路	yi jie dian lu	100
+易切削钢	yi qie xiao gang	100
+阴螺纹	yin luo wen	100
+硬件在环仿真	ying jian zai huan fang zhen	160
+硬开关	ying kai guan	160
+永磁同步电机	yong ci tong bu dian ji	160
+油淬火	you cui huo	100
+油电容器	you dian rong qi	100
+油环轴承	you huan zhou cheng	100
+油减震器	you jian zhen qi	100
+油浸变压器	you jin bian ya qi	100
+油膜润滑	you mo run hua	100
+油膜轴承	you mo zhou cheng	100
+油润滑	you run hua	100
+油雾润滑	you wu run hua	100
+有限控制集预测控制	you xian kong zhi ji yu ce kong zhi	160
+有效电阻	you xiao dian zu	100
+右旋螺纹	you xuan luo wen	100
+有源功率因数校正	you yuan gong lv yin shu jiao zheng	160
+有源滤波器	you yuan lv bo qi	100
+预测性维护	yu ce xing wei hu	160
+余热回收	yu re hui shou	160
+鱼尾钻头	yu wei zuan tou	100
+预应力混凝土	yu ying li hun ning tu	160
+预制混凝土	yu zhi hun ning tu	100
+预制桩	yu zhi zhuang	100
+圆盘阀	yuan pan fa	100
+圆跳动	yuan tiao dong	160
+圆头螺栓	yuan tou luo shuan	100
+圆头铆钉	yuan tou mao ding	100
+源网荷储	yuan wang he chu	160
+圆柱滚子轴承	yuan zhu gun zi zhou cheng	100
+圆柱螺纹	yuan zhu luo wen	100
+圆柱蜗杆	yuan zhu wo gan	100
+运动规划	yun dong gui hua	160
+在线辨识	zai xian bian shi	160
+再循环泵	zai xun huan beng	100
+早期失效	zao qi shi xiao	100
+增材制造	zeng cai zhi zao	160
+增益调度	zeng yi diao du	160
+詹天佑	zhan tian you	6610
+照明电路	zhao ming dian lu	100
+爪形离合器	zhao xing li he qi	100
+真空成型	zhen kong cheng xing	100
+真空阀	zhen kong fa	100
+真空钎焊	zhen kong qian han	160
+真空退火	zhen kong tui huo	100
+整流板	zheng liu ban	100
+整流变压器	zheng liu bian ya qi	100
+整流管	zheng liu guan	100
+整流片	zheng liu pian	100
+整流子	zheng liu zi	100
+正排量泵	zheng pai liang beng	100
+蒸汽阀	zheng qi fa	100
+蒸气压力	zheng qi ya li	100
+正向运动学	zheng xiang yun dong xue	160
+正运动学	zheng yun dong xue	160
+制动阀	zhi dong fa	100
+制动失效	zhi dong shi xiao	100
+直接传动	zhi jie chuan dong	100
+直接转矩控制	zhi jie zhuan ju kong zhi	160
+直流变压器	zhi liu bian ya qi	100
+直流电弧	zhi liu dian hu	100
+直流电路	zhi liu dian lu	100
+直流微电网	zhi liu wei dian wang	160
+致命故障	zhi ming gu zhang	100
+智能电网	zhi neng dian wang	100
+制造故障	zhi zao gu zhang	100
+重力铸造	zhong li zhu zao	100
+中温回火	zhong wen hui huo	100
+中效过滤器	zhong xiao guo lv qi	100
+重型发动机	zhong xing fa dong ji	100
+中压阀	zhong ya fa	100
+轴承衬垫	zhou cheng chen dian	100
+轴承垫圈	zhou cheng dian quan	100
+轴承负载	zhou cheng fu zai	100
+轴承盖	zhou cheng gai	100
+轴承壳	zhou cheng ke	100
+轴承内径	zhou cheng nei jing	100
+轴承支座	zhou cheng zhi zuo	100
+轴端密封	zhou duan mi feng	100
+轴颈轴承	zhou jing zhou cheng	100
+轴流叶轮	zhou liu ye lun	100
+轴密封	zhou mi feng	100
+主传动	zhu chuan dong	100
+主电动机	zhu dian dong ji	100
+主发电机	zhu fa dian ji	100
+主缸活塞	zhu gang huo sai	100
+主钢筋	zhu gang jin	100
+竹节钢筋	zhu jie gang jin	100
+主热交换器	zhu re jiao huan qi	100
+注射泵	zhu she beng	100
+主循环泵	zhu xun huan beng	100
+主油泵	zhu you beng	100
+铸造机	zhu zao ji	100
+铸造件	zhu zao jian	100
+铸造应力	zhu zao ying li	100
+主轴承	zhu zhou cheng	100
+转化涂层	zhuan hua tu ceng	100
+转换阀	zhuan huan fa	100
+转向泵	zhuan xiang beng	100
+转向齿轮	zhuan xiang chi lun	100
+转子泵	zhuan zi beng	100
+桩基承载力	zhuang ji cheng zai li	160
+装甲电缆	zhuang jia dian lan	100
+装配式建筑	zhuang pei shi jian zhu	160
+状态观测器	zhuang tai guan ce qi	160
+状态监测	zhuang tai jian ce	100
+锥孔轴承	zhui kong zhou cheng	100
+锥形阀	zhui xing fa	100
+锥形螺栓	zhui xing luo shuan	100
+锥形轴承	zhui xing zhou cheng	100
+自备发电机	zi bei fa dian ji	100
+自动导引车	zi dong dao yin che	160
+自动阀	zi dong fa	100
+自动空调	zi dong kong tiao	100
+自动润滑	zi dong run hua	100
+自激电路	zi ji dian lu	100
+自记温度计	zi ji wen du ji	100
+自冷式变压器	zi leng shi bian ya qi	100
+自耦变压器	zi ou bian ya qi	100
+自然通风冷却塔	zi ran tong feng leng que ta	100
+自润滑	zi run hua	100
+自润轴承	zi run zhou cheng	100
+姿态控制发动机	zi tai kong zhi fa dong ji	100
+自修复材料	zi xiu fu cai liao	160
+自主移动机器人	zi zhu yi dong ji qi ren	160
+综合能源系统	zong he neng yuan xi tong	160
+阻抗控制	zu kang kong zhi	160
+最大功率点跟踪	zui da gong lv dian gen zong	160
+最大实体要求	zui da shi ti yao qiu	160
+最小切削厚度	zui xiao qie xiao hou du	160
+最小实体要求	zui xiao shi ti yao qiu	160
+左螺纹	zuo luo wen	100

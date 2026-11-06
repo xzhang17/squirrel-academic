@@ -1,0 +1,1202 @@
+# 数学
+# Sources and licenses: Sources.txt in this folder.
+---
+name: mathematics
+version: "1.2"
+sort: by_weight
+use_preset_vocabulary: false
+...
+阿贝尔	a bei er	100
+阿贝尔簇	a bei er cu	100
+阿贝尔群	a bei er qun	100
+阿基米德	a ji mi de	5735
+埃尔米特	ai er mi te	100
+鞍点定理	an dian ding li	100
+鞍点问题	an dian wen ti	160
+凹多面体	ao duo mian ti	100
+凹函数	ao han shu	100
+凹算子	ao suan zi	100
+巴拿赫空间	ba na he kong jian	160
+半单代数	ban dan dai shu	100
+半单李代数	ban dan li dai shu	160
+半迭代法	ban die dai fa	100
+半定矩阵	ban ding ju zhen	100
+半范数	ban fan shu	100
+半负定	ban fu ding	160
+半负定矩阵	ban fu ding ju zhen	160
+半离散法	ban li san fa	100
+半群环	ban qun huan	100
+半双线性	ban shuang xian xing	160
+半双线性型	ban shuang xian xing xing	160
+伴随表示	ban sui biao shi	160
+伴随矩阵	ban sui ju zhen	100
+伴随算子	ban sui suan zi	100
+半正定	ban zheng ding	160
+半正定规划	ban zheng ding gui hua	160
+半正定矩阵	ban zheng ding ju zhen	160
+保测变换	bao ce bian huan	100
+报酬函数	bao chou han shu	100
+包络代数	bao luo dai shu	100
+保辛	bao xin	160
+保序函数	bao xu han shu	100
+保序映射	bao xu ying she	100
+贝尔函数	bei er han shu	100
+贝塞尔函数	bei sai er han shu	100
+贝叶斯	bei ye si	10
+本性奇点	ben xing qi dian	160
+本质谱	ben zhi pu	160
+本质上确界	ben zhi shang que jie	160
+本质下确界	ben zhi xia que jie	160
+毕达哥拉斯	bi da ge la si	3035
+比估计	bi gu ji	100
+逼近函数	bi jin han shu	100
+比例常数	bi li chang shu	100
+闭流形	bi liu xing	100
+闭路空间	bi lu kong jian	100
+闭曲面	bi qu mian	100
+闭曲线	bi qu xian	100
+闭算子	bi suan zi	100
+闭映射	bi ying she	100
+闭子流形	bi zi liu xing	100
+闭子群	bi zi qun	100
+变分不等式	bian fen bu deng shi	160
+变分导数	bian fen dao shu	160
+变分方程	bian fen fang cheng	100
+变函数	bian han shu	100
+边界估计	bian jie gu ji	100
+边界曲线	bian jie qu xian	100
+边界条件	bian jie tiao jian	4133
+遍历定理	bian li ding li	100
+变量变换	bian liang bian huan	100
+边缘分布	bian yuan fen bu	100
+表示空间	biao shi kong jian	100
+表示论	biao shi lun	160
+病态方程	bing tai fang cheng	100
+病态矩阵	bing tai ju zhen	100
+伯努利	bo nu li	10
+泊松方程	bo song fang cheng	100
+不变测度	bu bian ce du	100
+不变估计	bu bian gu ji	100
+不变流形	bu bian liu xing	100
+不定矩阵	bu ding ju zhen	100
+不动点	bu dong dian	160
+不动点定理	bu dong dian ding li	160
+布尔	bu er	36240
+不可对角化	bu ke dui jiao hua	160
+不可积	bu ke ji	160
+不可约表示	bu ke yue biao shi	160
+测地曲率	ce di qu lv	100
+测度卷积	ce du juan ji	100
+测度空间	ce du kong jian	160
+测度论	ce du lun	160
+策略空间	ce lve kong jian	100
+差分算子	cha fen suan zi	100
+插值函数	cha zhi han shu	100
+插值空间	cha zhi kong jian	100
+常分布	chang fen bu	100
+常数层	chang shu ceng	100
+常数函子	chang shu han zi	100
+常微分方程	chang wei fen fang cheng	3530
+超函数	chao han shu	100
+超切向量	chao qie xiang liang	100
+超曲面	chao qu mian	100
+超越方程	chao yue fang cheng	100
+陈景润	chen jing run	5645
+陈省身	chen xing shen	100
+乘法群	cheng fa qun	100
+乘积测度	cheng ji ce du	160
+乘性同余	cheng xing tong yu	100
+乘性序列	cheng xing xu lie	100
+乘性子集	cheng xing zi ji	100
+冲击函数	chong ji han shu	100
+冲激函数	chong ji han shu	100
+稠密定义算子	chou mi ding yi suan zi	160
+稠密子集	chou mi zi ji	160
+稠密子空间	chou mi zi kong jian	160
+抽样比	chou yang bi	100
+抽样框	chou yang kuang	100
+抽样论	chou yang lun	100
+抽样效率	chou yang xiao lv	100
+初等矩阵	chu deng ju zhen	100
+初始分布	chu shi fen bu	100
+初始流形	chu shi liu xing	100
+初始条件	chu shi tiao jian	1000
+除数函数	chu shu han shu	100
+出向量	chu xiang liang	100
+垂足曲线	chui zu qu xian	100
+次模函数	ci mo han shu	100
+次梯度	ci ti du	160
+次微分	ci wei fen	160
+次序公理	ci xu gong li	100
+丛映射	cong ying she	100
+大偏差原理	da pian cha yuan li	160
+带边流形	dai bian liu xing	100
+殆复流形	dai fu liu xing	100
+代数闭包	dai shu bi bao	100
+代数闭域	dai shu bi yu	100
+代数重数	dai shu chong shu	160
+代数的根	dai shu de gen	100
+代数等价	dai shu deng jia	100
+代数集	dai shu ji	100
+代数扩张	dai shu kuo zhang	100
+代数论	dai shu lun	100
+代数码	dai shu ma	100
+代数曲线	dai shu qu xian	100
+代数群	dai shu qun	100
+代数数论	dai shu shu lun	100
+代数同构	dai shu tong gou	100
+代数系统	dai shu xi tong	100
+代数元	dai shu yuan	100
+代数整数	dai shu zheng shu	100
+带状矩阵	dai zhuang ju zhen	100
+单侧曲面	dan ce qu mian	100
+单调收敛定理	dan diao shou lian ding li	160
+单调算子	dan diao suan zi	100
+单峰函数	dan feng han shu	100
+单李群	dan li qun	100
+单连通	dan lian tong	160
+单零点	dan ling dian	100
+单射	dan she	160
+单射映射	dan she ying she	160
+淡收敛	dan shou lian	100
+单同态	dan tong tai	100
+单位群	dan wei qun	100
+单位算子	dan wei suan zi	100
+单位张量	dan wei zhang liang	100
+单演函数	dan yan han shu	100
+单叶函数	dan ye han shu	100
+导出代数	dao chu dai shu	100
+道路空间	dao lu kong jian	100
+道路连通	dao lu lian tong	160
+等度连续	deng du lian xu	160
+等价范数	deng jia fan shu	160
+等价矩阵	deng jia ju zhen	100
+等距嵌入	deng ju qian ru	160
+等距曲线	deng ju qu xian	100
+等距算子	deng ju suan zi	100
+等距同构	deng ju tong gou	100
+笛卡尔	di ka er	7035
+底空间	di kong jian	100
+第一积分	di yi ji fen	160
+低秩分解	di zhi fen jie	160
+低秩近似	di zhi jin si	160
+电报方程	dian bao fang cheng	100
+点估计	dian gu ji	100
+点函数	dian han shu	100
+点谱	dian pu	160
+典型群	dian xing qun	100
+定额抽样	ding e chou yang	100
+定倾曲线	ding qing qu xian	100
+定向流形	ding xiang liu xing	100
+度规函数	du gui han shu	100
+度规张量	du gui zhang liang	1000
+对称变换	dui chen bian huan	100
+对称代数	dui chen dai shu	100
+对称群	dui chen qun	100
+对称算子	dui chen suan zi	100
+对称张量	dui chen zhang liang	100
+对合	dui he	160
+对合代数	dui he dai shu	100
+对合矩阵	dui he ju zhen	160
+对偶变量	dui ou bian liang	100
+对偶代数	dui ou dai shu	100
+对偶对象	dui ou dui xiang	100
+对偶范畴	dui ou fan chou	100
+对偶函子	dui ou han zi	100
+对偶基	dui ou ji	100
+对偶解	dui ou jie	100
+对偶空间	dui ou kong jian	160
+对偶模	dui ou mo	100
+对偶算子	dui ou suan zi	100
+对偶同构	dui ou tong gou	100
+对偶同态	dui ou tong tai	100
+对偶投影	dui ou tou ying	100
+对偶向量	dui ou xiang liang	100
+对偶约束	dui ou yue shu	100
+对偶锥	dui ou zhui	100
+对射变换	dui she bian huan	100
+对数积分	dui shu ji fen	100
+多重积分	duo chong ji fen	100
+多重级数	duo chong ji shu	100
+多峰分布	duo feng fen bu	100
+多面体群	duo mian ti qun	100
+多项分布	duo xiang fen bu	100
+多项式环	duo xiang shi huan	160
+二次变差	er ci bian cha	160
+二次变换	er ci bian huan	100
+二次空间	er ci kong jian	100
+二次型	er ci xing	160
+二次映射	er ci ying she	100
+二面体群	er mian ti qun	100
+法曲率	fa qu lv	100
+发展方程	fa zhan fang cheng	100
+反变张量	fan bian zhang liang	100
+反常积分	fan chang ji fen	100
+泛代数	fan dai shu	100
+泛函导数	fan han dao shu	160
+反身空间	fan shen kong jian	160
+范数等价	fan shu deng jia	160
+范数收敛	fan shu shou lian	160
+泛同态	fan tong tai	100
+反线性	fan xian xing	160
+泛映射	fan ying she	100
+反自同构	fan zi tong gou	100
+放回抽样	fang hui chou yang	100
+仿紧空间	fang jin kong jian	100
+仿射包	fang she bao	100
+仿射等价	fang she deng jia	100
+仿射集	fang she ji	100
+仿射联络	fang she lian luo	100
+仿射平面	fang she ping mian	100
+仿射曲率	fang she qu lv	100
+仿射曲线	fang she qu xian	100
+仿射群	fang she qun	100
+仿射性质	fang she xing zhi	100
+仿射映射	fang she ying she	100
+仿射直线	fang she zhi xian	100
+仿射中心	fang she zhong xin	100
+仿射坐标	fang she zuo biao	100
+非阿贝尔	fei a bei er	160
+非阿贝尔群	fei a bei er qun	160
+非本原群	fei ben yuan qun	100
+斐波那契	fei bo na qi	1625
+非交换环	fei jiao huan huan	100
+非交换群	fei jiao huan qun	100
+非可积	fei ke ji	160
+非可积系统	fei ke ji xi tong	160
+非齐次	fei qi ci	160
+非齐次方程	fei qi ci fang cheng	160
+非齐次线性方程	fei qi ci xian xing fang cheng	160
+非凸规划	fei tu gui hua	100
+非凸优化	fei tu you hua	160
+非退化	fei tui hua	160
+非退化双线性型	fei tui hua shuang xian xing xing	160
+费用函数	fei yong han shu	100
+分布导数	fen bu dao shu	160
+分布解	fen bu jie	100
+分拆函数	fen chai han shu	100
+分次代数	fen ci dai shu	100
+分解群	fen jie qun	100
+分离凸集	fen li tu ji	100
+分歧群	fen qi qun	100
+冯·诺伊曼	feng nuo yi man	1
+风险函数	feng xian han shu	100
+复变数	fu bian shu	100
+覆叠空间	fu die kong jian	100
+覆叠映射	fu die ying she	100
+负定	fu ding	160
+负定矩阵	fu ding ju zhen	100
+赋范代数	fu fan dai shu	100
+赋范空间	fu fan kong jian	160
+负范数	fu fan shu	100
+复合代数	fu he dai shu	100
+复合群	fu he qun	100
+复合映射	fu he ying she	100
+富克斯群	fu ke si qun	100
+弗雷歇导数	fu lei xie dao shu	160
+傅里叶	fu li ye	2365
+傅里叶变换	fu li ye bian huan	1850
+傅里叶级数	fu li ye ji shu	1000
+复流形	fu liu xing	100
+弗罗贝尼乌斯范数	fu luo bei ni wu si fan shu	160
+复数域	fu shu yu	100
+复正交群	fu zheng jiao qun	100
+伽罗瓦群	ga luo wa qun	160
+伽马函数	ga ma han shu	100
+概括公理	gai kuo gong li	100
+概率测度	gai lv ce du	160
+概率抽样	gai lv chou yang	100
+概率分布	gai lv fen bu	5103
+概率空间	gai lv kong jian	100
+概率逻辑	gai lv luo ji	100
+高阶微分	gao jie wei fen	100
+高斯	gao si	21
+高斯测度	gao si ce du	100
+高斯曲率	gao si qu lv	100
+高斯映射	gao si ying she	100
+哥德尔	ge de er	10
+格拉姆施密特正交化	ge la mu shi mi te zheng jiao hua	160
+格林公式	ge lin gong shi	160
+格林函数	ge lin han shu	1000
+格罗滕迪克	ge luo teng di ke	100
+割圆曲线	ge yuan qu xian	100
+根子空间	gen zi kong jian	100
+更新函数	geng xin han shu	100
+共变张量	gong bian zhang liang	100
+共轭对称	gong e dui cheng	160
+共轭函数	gong e han shu	100
+共轭级数	gong e ji shu	100
+共轭矩阵	gong e ju zhen	100
+共轭线性	gong e xian xing	160
+共轭转置	gong e zhuan zhi	160
+共轭子群	gong e zi qun	100
+公理方法	gong li fang fa	100
+公理学	gong li xue	100
+共尾子集	gong wei zi ji	100
+共形几何	gong xing ji he	100
+共形空间	gong xing kong jian	100
+共形映射	gong xing ying she	100
+古典概率	gu dian gai lv	100
+估计器	gu ji qi	100
+孤立奇点	gu li qi dian	160
+关联公理	guan lian gong li	100
+光滑函数	guang hua han shu	100
+光滑流形	guang hua liu xing	100
+广义函数	guang yi han shu	160
+广义极限	guang yi ji xian	100
+广义逆矩阵	guang yi ni ju zhen	160
+广义特征向量	guang yi te zheng xiang liang	160
+轨道稳定子定理	gui dao wen ding zi ding li	160
+规范群	gui fan qun	100
+归纳极限	gui na ji xian	100
+归一化	gui yi hua	9568
+哈尔测度	ha er ce du	160
+函数代数	han shu dai shu	100
+函数方程	han shu fang cheng	100
+函数符号	han shu fu hao	100
+函数空间	han shu kong jian	100
+函数无关	han shu wu guan	100
+函数相关	han shu xiang guan	100
+函数域	han shu yu	100
+函数转换	han shu zhuan huan	100
+行空间	hang kong jian	160
+行满秩	hang man zhi	160
+豪斯多夫	hao si duo fu	100
+核范数	he fan shu	160
+核迹	he ji	160
+核空间	he kong jian	160
+核型算子	he xing suan zi	100
+黑塞矩阵	hei sai ju zhen	100
+恒等函数	heng deng han shu	100
+恒同映射	heng tong ying she	100
+后继函数	hou ji han shu	100
+后验分布	hou yan fen bu	100
+互反方程	hu fan fang cheng	100
+华罗庚	hua luo geng	7505
+环面群	huan mian qun	100
+环同构	huan tong gou	100
+环同态	huan tong tai	100
+换位子群	huan wei zi qun	100
+缓增分布	huan zeng fen bu	160
+缓增广义函数	huan zeng guang yi han shu	160
+回归估计	hui gui gu ji	100
+回归函数	hui gui han shu	100
+混合分布	hun he fen bu	100
+混合张量	hun he zhang liang	100
+霍普夫分岔	huo pu fu fen cha	160
+基本函数	ji ben han shu	100
+基本空间	ji ben kong jian	100
+基本群	ji ben qun	100
+基本张量	ji ben zhang liang	100
+基变换	ji bian huan	100
+积测度	ji ce du	100
+极大子群	ji da zi qun	100
+迹定理	ji ding li	160
+迹范数	ji fan shu	100
+积分流形	ji fen liu xing	100
+积分路径	ji fen lu jing	100
+积分曲面	ji fen qu mian	100
+积分曲线	ji fen qu xian	100
+积分上限	ji fen shang xian	100
+积分算子	ji fen suan zi	100
+积分下限	ji fen xia xian	100
+积分域	ji fen yu	100
+积分直和	ji fen zhi he	100
+集函数	ji han shu	100
+几何重数	ji he chong shu	100
+集合度规	ji he du gui	100
+几何概率	ji he gai lv	100
+几何格	ji he ge	100
+几何规划	ji he gui hua	100
+几何亏格	ji he kui ge	100
+几何约束	ji he yue shu	100
+几乎必然收敛	ji hu bi ran shou lian	160
+几乎处处	ji hu chu chu	160
+几乎处处收敛	ji hu chu chu shou lian	160
+急降函数	ji jiang han shu	160
+积空间	ji kong jian	100
+迹空间	ji kong jian	100
+迹类算子	ji lei suan zi	160
+级数的和	ji shu de he	100
+计数函数	ji shu han shu	100
+级数求和	ji shu qiu he	100
+积拓扑	ji tuo pu	100
+极限策略	ji xian ce lve	100
+极限点	ji xian dian	100
+极限定理	ji xian ding li	100
+极限函数	ji xian han shu	100
+极限环	ji xian huan	100
+极限序数	ji xian xu shu	100
+极限鞅	ji xian yang	100
+极小曲面	ji xiao qu mian	100
+极小向量	ji xiao xiang liang	100
+极值场	ji zhi chang	100
+极值长度	ji zhi chang du	100
+极值曲线	ji zhi qu xian	100
+极值原理	ji zhi yuan li	100
+检测概率	jian ce gai lv	100
+减函数	jian han shu	100
+简化方程	jian hua fang cheng	100
+渐近方向	jian jin fang xiang	100
+渐近级数	jian jin ji shu	100
+渐近路径	jian jin lu jing	100
+渐近切线	jian jin qie xian	100
+渐近收敛	jian jin shou lian	100
+渐近展开	jian jin zhan kai	100
+渐近值	jian jin zhi	100
+检验函数	jian yan han shu	100
+交错代数	jiao cuo dai shu	100
+交换代数	jiao huan dai shu	160
+交换环	jiao huan huan	100
+交换群	jiao huan qun	160
+交替方向乘子法	jiao ti fang xiang cheng zi fa	160
+阶乘函数	jie cheng han shu	100
+截断奇异值分解	jie duan qi yi zhi fen jie	160
+结构常数	jie gou chang shu	100
+结构函数	jie gou han shu	100
+结构空间	jie gou kong jian	100
+结构群	jie gou qun	100
+结合代数	jie he dai shu	100
+截尾分布	jie wei fen bu	100
+解析半群	jie xi ban qun	100
+解析集	jie xi ji	100
+解析空间	jie xi kong jian	100
+解析流形	jie xi liu xing	100
+解析群	jie xi qun	100
+解析数论	jie xi shu lun	100
+解析同构	jie xi tong gou	100
+解析同胚	jie xi tong pei	100
+解析同态	jie xi tong tai	100
+解析性	jie xi xing	100
+解析延拓	jie xi yan tuo	100
+近端算子	jin duan suan zi	160
+近端梯度法	jin duan ti du fa	160
+紧嵌入	jin qian ru	160
+紧算子	jin suan zi	160
+紧拓扑群	jin tuo pu qun	100
+紧性方法	jin xing fang fa	160
+紧支撑	jin zhi cheng	160
+紧致空间	jin zhi kong jian	160
+紧致性	jin zhi xing	160
+径向量	jing xiang liang	100
+经验累积分布函数	jing yan lei ji fen bu han shu	100
+经验曲线	jing yan qu xian	100
+局部紧群	ju bu jin qun	100
+局部紧致	ju bu jin zhi	160
+局部紧致空间	ju bu jin zhi kong jian	160
+局部同构	ju bu tong gou	100
+局部同态	ju bu tong tai	100
+局部凸	ju bu tu	100
+局部一致收敛	ju bu yi zhi shou lian	160
+矩母函数	ju mu han shu	100
+矩阵表示	ju zhen biao shi	100
+矩阵的迹	ju zhen de ji	100
+矩阵的逆	ju zhen de ni	100
+矩阵的谱	ju zhen de pu	100
+矩阵对数	ju zhen dui shu	160
+矩阵范数	ju zhen fan shu	160
+矩阵函数	ju zhen han shu	160
+矩阵平方根	ju zhen ping fang gen	160
+矩阵求逆	ju zhen qiu ni	100
+矩阵群	ju zhen qun	100
+矩阵微扰理论	ju zhen wei rao li lun	160
+矩阵指数	ju zhen zhi shu	160
+卷积算子	juan ji suan zi	100
+决策向量	jue ce xiang liang	100
+绝对几何	jue dui ji he	100
+绝对连续	jue dui lian xu	160
+绝对连续性	jue dui lian xu xing	160
+绝对收敛	jue dui shou lian	100
+均方收敛	jun fang shou lian	100
+均值向量	jun zhi xiang liang	100
+开关曲面	kai guan qu mian	100
+开映射	kai ying she	100
+开子群	kai zi qun	100
+康托尔	kang tuo er	10
+可闭算子	ke bi suan zi	100
+可测变换	ke ce bian huan	100
+可测函数	ke ce han shu	160
+可测空间	ke ce kong jian	100
+可除代数	ke chu dai shu	100
+可除群	ke chu qun	100
+可对角化	ke dui jiao hua	160
+可分代数	ke fen dai shu	100
+可分空间	ke fen kong jian	160
+可分张量	ke fen zhang liang	100
+可积	ke ji	160
+可积系统	ke ji xi tong	160
+可解群	ke jie qun	100
+克莱因群	ke lai yin qun	100
+克利福德	ke li fu de	100
+克罗内克	ke luo nei ke	10
+可逆模	ke ni mo	100
+可逆算子	ke ni suan zi	100
+可逆系统	ke ni xi tong	100
+可去奇点	ke qu qi dian	160
+可缩空间	ke suo kong jian	100
+可微算子	ke wei suan zi	100
+柯西	ke xi	10
+柯西分布	ke xi fen bu	100
+空间群	kong jian qun	100
+空间坐标	kong jian zuo biao	100
+扩散方程	kuo san fang cheng	100
+扩散算子	kuo san suan zi	100
+拉盖尔	la gai er	100
+拉格朗日	la ge lang ri	1470
+拉格朗日对偶	la ge lang ri dui ou	160
+拉克斯	la ke si	1260
+拉马努金	la ma nu jin	100
+拉普拉斯	la pu la si	29
+拉普拉斯逆变换	la pu la si ni bian huan	160
+拉普拉斯算子	la pu la si suan zi	1000
+莱布尼茨	lai bu ni ci	3580
+勒贝格	le bei ge	10
+勒贝格测度	le bei ge ce du	160
+勒贝格积分	le bei ge ji fen	160
+勒让德	le rang de	100
+累次积分	lei ci ji fen	100
+类方程	lei fang cheng	100
+类算子	lei suan zi	100
+棱道群	leng dao qun	100
+李代数	li dai shu	160
+李代数同态	li dai shu tong tai	160
+李导数	li dao shu	160
+李括号	li kuo hao	160
+黎曼	li man	111
+黎曼函数	li man han shu	100
+黎曼积分	li man ji fen	160
+黎曼空间	li man kong jian	100
+黎曼流形	li man liu xing	160
+黎曼曲率张量	li man qu lv zhang liang	160
+里奇曲率	li qi qu lv	100
+李群	li qun	160
+李群表示	li qun biao shi	160
+李群同态	li qun tong tai	160
+离散逼近	li san bi jin	100
+离散分布	li san fen bu	100
+离散赋值	li san fu zhi	100
+离散规划	li san gui hua	100
+离散集	li san ji	100
+离散空间	li san kong jian	100
+离散模拟	li san mo ni	100
+离散模型	li san mo xing	100
+离散谱	li san pu	100
+离散拓扑	li san tuo pu	100
+隶属函数	li shu han shu	100
+理想类群	li xiang lei qun	160
+李雅普诺夫函数	li ya pu nuo fu han shu	160
+联合分布	lian he fen bu	100
+连接同态	lian jie tong tai	100
+连通空间	lian tong kong jian	100
+链同伦	lian tong lun	100
+连续分布	lian xu fen bu	100
+连续几何	lian xu ji he	100
+连续谱	lian xu pu	160
+连续嵌入	lian xu qian ru	160
+连续统	lian xu tong	100
+连续同态	lian xu tong tai	100
+连续映射	lian xu ying she	100
+链映射	lian ying she	100
+两点分布	liang dian fen bu	100
+量子概率	liang zi gai lv	100
+量子群	liang zi qun	100
+列紧	lie jin	160
+列空间	lie kong jian	160
+列满秩	lie man zhi	160
+邻近空间	lin jin kong jian	100
+零变换	ling bian huan	100
+零点的阶	ling dian de jie	100
+零化子	ling hua zi	160
+零空间	ling kong jian	100
+龙格	long ge	1390
+洛朗级数	luo lang ji shu	100
+洛伦兹群	luo lun zi qun	100
+罗素	luo su	1024
+马尔可夫	ma er ke fu	10
+满同态	man tong tai	100
+满秩	man zhi	160
+幂等矩阵	mi deng ju zhen	100
+密度估计	mi du gu ji	100
+幂零	mi ling	160
+幂零代数	mi ling dai shu	100
+幂零矩阵	mi ling ju zhen	100
+幂零群	mi ling qun	100
+幂零算子	mi ling suan zi	100
+迷向向量	mi xiang xiang liang	100
+闵可夫斯基	min ke fu si ji	10
+命题代数	ming ti dai shu	100
+命题函数	ming ti han shu	100
+模函数	mo han shu	100
+模空间	mo kong jian	160
+模论	mo lun	160
+模曲线	mo qu xian	100
+模型拟合	mo xing ni he	100
+模自同构	mo zi tong gou	100
+目标空间	mu biao kong jian	100
+母曲线	mu qu xian	100
+纳什	na shi	6
+挠率张量	nao lv zhang liang	100
+内测度	nei ce du	100
+内积空间	nei ji kong jian	160
+内自同构	nei zi tong gou	100
+能量方程	neng liang fang cheng	100
+拟范数	ni fan shu	100
+拟合模型	ni he mo xing	100
+拟合优度	ni he you du	100
+逆算子	ni suan zi	100
+牛顿级数	niu dun ji shu	100
+纽结群	niu jie qun	100
+诺特	nuo te	3455
+欧几里得	ou ji li de	10
+欧拉	ou la	5050
+欧拉变换	ou la bian huan	100
+欧拉常数	ou la chang shu	100
+欧拉拉格朗日方程	ou la la ge lang ri fang cheng	160
+欧拉示性数	ou la shi xing shu	160
+帕斯卡	pa si ka	2825
+排队空间	pai dui kong jian	100
+庞加莱	pang jia lai	570
+庞加莱不等式	pang jia lai bu deng shi	160
+抛物子群	pao wu zi qun	100
+陪集码	pei ji ma	100
+皮亚诺	pi ya nuo	106
+偏导数	pian dao shu	1000
+偏微分方程	pian wei fen fang cheng	2590
+平凡子群	ping fan zi qun	100
+平方可积函数	ping fang ke ji han shu	100
+平衡测度	ping heng ce du	100
+平衡方程	ping heng fang cheng	100
+平衡分布	ping heng fen bu	100
+平均绝对误差	ping jun jue dui wu cha	100
+平坦空间	ping tan kong jian	100
+平稳过程	ping wen guo cheng	100
+平稳函数	ping wen han shu	100
+平稳曲线	ping wen qu xian	100
+平行公理	ping xing gong li	100
+平行移动	ping xing yi dong	160
+平移群	ping yi qun	100
+谱半径	pu ban jing	160
+谱测度	pu ce du	100
+谱定理	pu ding li	160
+谱分布	pu fen bu	100
+谱分解	pu fen jie	160
+谱估计	pu gu ji	100
+谱积分	pu ji fen	100
+谱间隙	pu jian xi	160
+谱算子	pu suan zi	100
+谱投影	pu tou ying	160
+谱隙	pu xi	160
+谱序列	pu xu lie	100
+谱映射定理	pu ying she ding li	160
+齐性空间	qi xing kong jian	100
+奇异积分	qi yi ji fen	100
+奇异同调	qi yi tong diao	100
+嵌入算子	qian ru suan zi	100
+强对偶性	qiang dui ou xing	160
+强连续半群	qiang lian xu ban qun	160
+强收敛	qiang shou lian	160
+强算子拓扑	qiang suan zi tuo pu	160
+强凸性	qiang tu xing	160
+强拓扑	qiang tuo pu	100
+切触变换	qie chu bian huan	100
+切丛	qie cong	160
+切空间	qie kong jian	160
+秦九韶	qin jiu shao	8
+丘成桐	qiu cheng tong	340
+球面定理	qiu mian ding li	100
+曲多面体	qu duo mian ti	100
+区间函数	qu jian han shu	100
+曲率线	qu lv xian	100
+曲率圆	qu lv yuan	100
+曲率张量	qu lv zhang liang	100
+曲率中心	qu lv zhong xin	100
+曲面嵌入	qu mian qian ru	100
+曲线边界	qu xian bian jie	100
+曲线回归	qu xian hui gui	100
+曲线网格	qu xian wang ge	100
+曲线修匀	qu xian xiu yun	100
+曲线坐标	qu xian zuo biao	100
+全纯	quan chun	160
+全纯函数	quan chun han shu	100
+全纯映射	quan chun ying she	100
+全等变换	quan deng bian huan	100
+全等公理	quan deng gong li	100
+圈矩阵	quan ju zhen	100
+全空间	quan kong jian	100
+全微分	quan wei fen	100
+全有界	quan you jie	160
+权重分布	quan zhong fen bu	100
+缺项级数	que xiang ji shu	100
+群代数	qun dai shu	100
+群行列式	qun hang lie shi	100
+群同构	qun tong gou	160
+群同态	qun tong tai	160
+群作用	qun zuo yong	160
+容量分布	rong liang fen bu	100
+容许函数	rong xu han shu	100
+容许子群	rong xu zi qun	100
+入向量	ru xiang liang	100
+弱导数	ruo dao shu	160
+弱极值	ruo ji zhi	100
+弱收敛	ruo shou lian	160
+弱算子拓扑	ruo suan zi tuo pu	160
+弱拓扑	ruo tuo pu	100
+弱形式	ruo xing shi	160
+弱星收敛	ruo xing shou lian	160
+三次曲面	san ci qu mian	100
+散度	san du	1000
+三角级数	san jiao ji shu	100
+三线性元	san xian xing yuan	100
+三项方程	san xiang fang cheng	100
+扫除算子	sao chu suan zi	100
+色多项式	se duo xiang shi	100
+商代数	shang dai shu	100
+商范数	shang fan shu	160
+熵函数	shang han shu	100
+上极限	shang ji xian	100
+商空间	shang kong jian	160
+商群	shang qun	160
+上升算子	shang sheng suan zi	100
+上同调	shang tong diao	100
+上同调环	shang tong diao huan	100
+上同调类	shang tong diao lei	100
+上同调群	shang tong diao qun	160
+设计矩阵	she ji ju zhen	100
+射影表示	she ying biao shi	160
+射影空间	she ying kong jian	100
+射影曲线	she ying qu xian	100
+射影辛群	she ying xin qun	100
+射影映射	she ying ying she	100
+射影酉群	she ying you qun	100
+生成矩阵	sheng cheng ju zhen	100
+生成空间	sheng cheng kong jian	100
+生成元	sheng cheng yuan	100
+剩余谱	sheng yu pu	160
+实变函数	shi bian han shu	100
+势函数	shi han shu	100
+实矩阵	shi ju zhen	100
+施密特正交化	shi mi te zheng jiao hua	160
+实数域	shi shu yu	100
+试验函数	shi yan han shu	160
+实值函数	shi zhi han shu	100
+首次积分	shou ci ji fen	100
+收敛半径	shou lian ban jing	100
+收敛阶	shou lian jie	100
+收敛速率	shou lian su lv	100
+收敛因子	shou lian yin zi	100
+收敛圆	shou lian yuan	100
+收敛轴	shou lian zhou	100
+收缩变换	shou suo bian huan	100
+收缩映射	shou suo ying she	100
+输出向量	shu chu xiang liang	100
+舒尔变换	shu er bian huan	160
+舒尔分解	shu er fen jie	160
+数量曲率	shu liang qu lv	100
+数列空间	shu lie kong jian	100
+输入向量	shu ru xiang liang	100
+数值代数	shu zhi dai shu	100
+数值微分	shu zhi wei fen	100
+双侧曲面	shuang ce qu mian	100
+双重抽样	shuang chong chou yang	100
+双对偶空间	shuang dui ou kong jian	160
+双陪集	shuang pei ji	100
+双曲空间	shuang qu kong jian	100
+双曲流形	shuang qu liu xing	100
+双射	shuang she	160
+双射映射	shuang she ying she	160
+双线性型	shuang xian xing xing	100
+双线性映射	shuang xian xing ying she	160
+四次曲线	si ci qu xian	100
+四元群	si yuan qun	100
+苏步青	su bu qing	191
+速端曲线	su duan qu xian	100
+素函数	su han shu	100
+素数定理	su shu ding li	100
+素数分布	su shu fen bu	100
+算子半群	suan zi ban qun	160
+算子代数	suan zi dai shu	160
+算子范数	suan zi fan shu	160
+算子方程	suan zi fang cheng	100
+算子谱	suan zi pu	160
+算子同构	suan zi tong gou	100
+算子同态	suan zi tong tai	100
+算子演算	suan zi yan suan	100
+随机编码	sui ji bian ma	100
+随机测度	sui ji ce du	100
+随机场	sui ji chang	100
+随机分析	sui ji fen xi	100
+随机干扰	sui ji gan rao	100
+随机规划	sui ji gui hua	100
+随机过程生成元	sui ji guo cheng sheng cheng yuan	160
+随机集	sui ji ji	100
+随机积分	sui ji ji fen	100
+随机接入	sui ji jie ru	100
+随机控制	sui ji kong zhi	100
+随机流	sui ji liu	100
+随机密码	sui ji mi ma	100
+随机输入	sui ji shu ru	100
+随机搜索	sui ji sou suo	100
+随机微分方程	sui ji wei fen fang cheng	160
+随机现象	sui ji xian xiang	100
+随机向量	sui ji xiang liang	100
+随机序列	sui ji xu lie	100
+随机游动	sui ji you dong	100
+随机阵	sui ji zhen	100
+索伯列夫不等式	suo bo lie fu bu deng shi	160
+索伯列夫空间	suo bo lie fu kong jian	160
+泰勒	tai le	5804
+特殊酉群	te shu you qun	100
+特征多项式	te zheng duo xiang shi	160
+特征流形	te zheng liu xing	100
+特征曲面	te zheng qu mian	100
+特征曲线	te zheng qu xian	100
+特征向量	te zheng xiang liang	7327
+特征值	te zheng zhi	5320
+特征值扰动	te zheng zhi rao dong	160
+特征子空间	te zheng zi kong jian	160
+特征子群	te zheng zi qun	100
+梯度	ti du	30635
+梯度流	ti du liu	160
+梯度映射	ti du ying she	100
+调和测度	tiao he ce du	100
+调和函数	tiao he han shu	100
+调和数列	tiao he shu lie	100
+条件分布	tiao jian fen bu	100
+条件概率密度	tiao jian gai lv mi du	160
+条件期望	tiao jian qi wang	160
+条件收敛	tiao jian shou lian	160
+停时	ting shi	160
+同变估计	tong bian gu ji	100
+同调代数	tong diao dai shu	100
+同调等价	tong diao deng jia	100
+同调环	tong diao huan	100
+同调类	tong diao lei	100
+同调流形	tong diao liu xing	100
+同调论	tong diao lun	100
+同调模	tong diao mo	100
+同调群	tong diao qun	160
+同方差性	tong fang cha xing	100
+统计函数	tong ji han shu	100
+统计空间	tong ji kong jian	100
+同伦	tong lun	160
+同伦不变性	tong lun bu bian xing	160
+同伦等价	tong lun deng jia	100
+同伦扩张	tong lun kuo zhang	100
+同伦类	tong lun lei	100
+同伦球面	tong lun qiu mian	100
+同伦群	tong lun qun	100
+同伦算子	tong lun suan zi	100
+同胚映射	tong pei ying she	160
+同态的核	tong tai de he	100
+通用函数	tong yong han shu	100
+同余关系	tong yu guan xi	100
+透镜空间	tou jing kong jian	100
+透视映射	tou shi ying she	100
+投影算子	tou ying suan zi	100
+投影梯度法	tou ying ti du fa	160
+凸包	tu bao	160
+凸对偶	tu dui ou	100
+凸多面锥	tu duo mian zhui	100
+凸泛函	tu fan han	100
+凸分析	tu fen xi	100
+凸共轭	tu gong e	160
+凸规划	tu gui hua	100
+凸函数	tu han shu	100
+凸区域	tu qu yu	100
+凸松弛	tu song chi	160
+凸算子	tu suan zi	100
+图同胚	tu tong pei	100
+凸性系数	tu xing xi shu	100
+凸序列	tu xu lie	100
+凸组合	tu zu he	100
+退化分布	tui hua fen bu	100
+退化矩阵	tui hua ju zhen	100
+推前测度	tui qian ce du	160
+推移变换	tui yi bian huan	100
+拓扑等价	tuo pu deng jia	100
+拓扑方法	tuo pu fang fa	100
+拓扑格	tuo pu ge	100
+拓扑和	tuo pu he	100
+拓扑空间	tuo pu kong jian	160
+拓扑流形	tuo pu liu xing	160
+拓扑群	tuo pu qun	100
+拓扑型	tuo pu xing	100
+拓扑映射	tuo pu ying she	100
+椭圆积分	tuo yuan ji fen	100
+椭圆空间	tuo yuan kong jian	100
+外尔	wai er	10
+外微分	wai wei fen	160
+完备空间	wan bei kong jian	160
+完满群	wan man qun	100
+完全积分	wan quan ji fen	100
+完全可积	wan quan ke ji	160
+完全有界	wan quan you jie	160
+围道积分	wei dao ji fen	160
+伪度量	wei du liang	160
+伪度量空间	wei du liang kong jian	160
+微分包含	wei fen bao han	100
+微分层	wei fen ceng	100
+微分代数	wei fen dai shu	100
+微分对策	wei fen dui ce	100
+微分方程	wei fen fang cheng	6135
+微分环	wei fen huan	100
+微分结构	wei fen jie gou	100
+微分理想	wei fen li xiang	100
+微分流形	wei fen liu xing	160
+微分同胚	wei fen tong pei	100
+微分拓扑	wei fen tuo pu	100
+微分形式	wei fen xing shi	160
+微分映射	wei fen ying she	100
+维纳	wei na	5455
+位似变换	wei si bian huan	100
+伪随机码	wei sui ji ma	100
+伪随机数	wei sui ji shu	100
+稳定分布	wen ding fen bu	100
+稳定矩阵	wen ding ju zhen	100
+稳定子群	wen ding zi qun	100
+误差分布	wu cha fen bu	100
+误差曲线	wu cha qu xian	100
+无界算子	wu jie suan zi	160
+吴文俊	wu wen jun	278
+无限群	wu xian qun	100
+希尔伯特	xi er bo te	351
+希尔伯特施密特内积	xi er bo te shi mi te nei ji	160
+希尔伯特施密特算子	xi er bo te shi mi te suan zi	160
+稀疏逼近	xi shu bi jin	160
+系数群	xi shu qun	100
+系统抽样	xi tong chou yang	100
+系统矩阵	xi tong ju zhen	100
+下极限	xia ji xian	100
+下降算子	xia jiang suan zi	100
+纤维丛	xian wei cong	160
+纤维空间	xian wei kong jian	100
+纤维映射	xian wei ying she	100
+线性包	xian xing bao	160
+线性逼近	xian xing bi jin	100
+线性代数	xian xing dai shu	20935
+线性泛函	xian xing fan han	100
+线性估计	xian xing gu ji	100
+线性空间	xian xing kong jian	100
+线性码	xian xing ma	100
+线性群	xian xing qun	100
+线性收敛	xian xing shou lian	100
+线性算子	xian xing suan zi	100
+线性无关	xian xing wu guan	100
+线性型	xian xing xing	100
+线性映射	xian xing ying she	100
+线性约束	xian xing yue shu	100
+线性张成	xian xing zhang cheng	160
+先验分布	xian yan fen bu	100
+先验估计	xian yan gu ji	100
+限制映射	xian zhi ying she	100
+相对极值	xiang dui ji zhi	100
+相对紧致	xiang dui jin zhi	160
+相对同伦	xiang dui tong lun	100
+相对拓扑	xiang dui tuo pu	100
+项泛代数	xiang fan dai shu	100
+相合估计	xiang he gu ji	100
+像空间	xiang kong jian	160
+向量场	xiang liang chang	100
+向量丛	xiang liang cong	100
+相似变换	xiang si bian huan	100
+相似对角化	xiang si dui jiao hua	160
+相似矩阵	xiang si ju zhen	100
+响应曲线	xiang ying qu xian	100
+协变导数	xie bian dao shu	160
+斜导算子	xie dao suan zi	100
+协方差阵	xie fang cha zhen	100
+辛变换	xin bian huan	100
+辛几何	xin ji he	160
+辛矩阵	xin ju zhen	160
+信赖域方法	xin lai yu fang fa	160
+辛流形	xin liu xing	160
+辛群	xin qun	160
+信息几何	xin xi ji he	100
+辛形式	xin xing shi	160
+行矩阵	xing ju zhen	100
+形式群	xing shi qun	100
+形状算子	xing zhuang suan zi	100
+序列紧致	xu lie jin zhi	160
+序同构	xu tong gou	100
+旋度	xuan du	1000
+旋量群	xuan liang qun	100
+选择公理	xuan ze gong li	100
+选择函数	xuan ze han shu	100
+旋转群	xuan zhuan qun	100
+循环代数	xun huan dai shu	100
+循环方程	xun huan fang cheng	100
+循环群	xun huan qun	100
+亚纯	ya chun	160
+亚纯函数	ya chun han shu	160
+雅各布·伯努利	ya ge bu bo nu li	10
+雅可比	ya ke bi	10
+压缩映射	ya suo ying she	160
+压缩映射原理	ya suo ying she yuan li	160
+亚循环群	ya xun huan qun	100
+样本方差	yang ben fang cha	100
+样本函数	yang ben han shu	100
+鞅测度	yang ce du	100
+杨辉	yang hui	3090
+鞅收敛定理	yang shou lian ding li	160
+幺半群	yao ban qun	100
+一般方程	yi ban fang cheng	100
+依测度收敛	yi ce du shou lian	160
+异方差性	yi fang cha xing	100
+依分布收敛	yi fen bu shou lian	160
+依概率收敛	yi gai lv shou lian	160
+伊藤公式	yi teng gong shi	160
+伊藤积分	yi teng ji fen	160
+伊藤清	yi teng qing	10
+移位算子	yi wei suan zi	100
+一致分布	yi zhi fen bu	100
+一致可积	yi zhi ke ji	160
+一致空间	yi zhi kong jian	100
+一致连续	yi zhi lian xu	160
+一致收敛	yi zhi shou lian	160
+一致同构	yi zhi tong gou	100
+一致有界	yi zhi you jie	160
+映射度	ying she du	100
+映射空间	ying she kong jian	100
+映射柱	ying she zhu	100
+映射锥	ying she zhui	100
+影响函数	ying xiang han shu	100
+酉变换	you bian huan	100
+酉表示	you biao shi	160
+诱导同态	you dao tong tai	100
+诱导拓扑	you dao tuo pu	100
+酉等价	you deng jia	160
+酉对角化	you dui jiao hua	160
+右极限	you ji xian	100
+有界变差	you jie bian cha	160
+有界变差函数	you jie bian cha han shu	160
+有界线性算子	you jie xian xing suan zi	160
+酉矩阵	you ju zhen	100
+酉空间	you kong jian	100
+有理点群	you li dian qun	100
+有理曲线	you li qu xian	100
+有理同态	you li tong tai	100
+有理映射	you li ying she	100
+右陪集	you pei ji	100
+酉群	you qun	160
+酉算子	you suan zi	100
+有限几何	you xian ji he	100
+有限群	you xian qun	100
+有效估计	you xiao gu ji	100
+余代数	yu dai shu	100
+预解集	yu jie ji	160
+预解算子	yu jie suan zi	160
+余切丛	yu qie cong	160
+余切空间	yu qie kong jian	160
+余切向量	yu qie xiang liang	100
+预希尔伯特空间	yu xi er bo te kong jian	160
+余弦定律	yu xian ding lv	100
+余弦积分	yu xian ji fen	100
+余子矩阵	yu zi ju zhen	100
+约束资格条件	yue shu zi ge tiao jian	160
+运动积分	yun dong ji fen	160
+运动群	yun dong qun	100
+再抽样	zai chou yang	100
+张量	zhang liang	1000
+张量表示	zhang liang biao shi	100
+张量代数	zhang liang dai shu	100
+张量的权	zhang liang de quan	100
+张量分析	zhang liang fen xi	100
+张量函数	zhang liang han shu	100
+张量积	zhang liang ji	160
+张量积表示	zhang liang ji biao shi	160
+张量空间	zhang liang kong jian	100
+张量幂	zhang liang mi	100
+真子空间	zhen zi kong jian	100
+真子群	zhen zi qun	100
+正定二次型	zheng ding er ci xing	160
+正定矩阵	zheng ding ju zhen	100
+正定内积	zheng ding nei ji	100
+正规变换	zheng gui bian huan	100
+正规函数	zheng gui han shu	100
+正规矩阵	zheng gui ju zhen	100
+正规空间	zheng gui kong jian	100
+正规算子	zheng gui suan zi	100
+正规子群	zheng gui zi qun	160
+整函数	zheng han shu	100
+正交补	zheng jiao bu	100
+正交补空间	zheng jiao bu kong jian	160
+正交对角化	zheng jiao dui jiao hua	160
+正交关系	zheng jiao guan xi	100
+正交和	zheng jiao he	100
+正交化	zheng jiao hua	100
+正交基	zheng jiao ji	1000
+正交矩阵	zheng jiao ju zhen	100
+正交码	zheng jiao ma	100
+正交投影	zheng jiao tou ying	160
+正交信号	zheng jiao xin hao	100
+正交坐标	zheng jiao zuo biao	100
+正切定律	zheng qie ding lv	100
+正弦定律	zheng xian ding lv	100
+正弦积分	zheng xian ji fen	100
+正项级数	zheng xiang ji shu	100
+正则测度	zheng ze ce du	100
+正则函数	zheng ze han shu	100
+正则空间	zheng ze kong jian	100
+正则嵌入	zheng ze qian ru	160
+正则序列	zheng ze xu lie	100
+正则映射	zheng ze ying she	100
+支撑函数	zhi cheng han shu	100
+支撑集	zhi cheng ji	160
+支付函数	zhi fu han shu	100
+支付向量	zhi fu xiang liang	100
+直和	zhi he	160
+直和分解	zhi he fen jie	160
+置换矩阵	zhi huan ju zhen	100
+直积	zhi ji	160
+直积代数	zhi ji dai shu	100
+直积分解	zhi ji fen jie	160
+秩亏	zhi kui	160
+秩亏矩阵	zhi kui ju zhen	160
+支配收敛定理	zhi pei shou lian ding li	160
+直射变换	zhi she bian huan	100
+指示函数	zhi shi han shu	100
+指数积分	zhi shu ji fen	100
+指数映射	zhi shu ying she	100
+置信概率	zhi xin gai lv	100
+中间空间	zhong jian kong jian	100
+中曲率	zhong qu lv	100
+中心同构	zhong xin tong gou	100
+周期群	zhou qi qun	100
+柱测度	zhu ce du	100
+逐点收敛	zhu dian shou lian	160
+主理想	zhu li xiang	100
+主曲率	zhu qu lv	100
+逐项积分	zhu xiang ji fen	100
+逐项微分	zhu xiang wei fen	100
+柱形代数	zhu xing dai shu	100
+转移概率	zhuan yi gai lv	100
+转移函数	zhuan yi han shu	100
+转置方程	zhuan zhi fang cheng	100
+状态估计	zhuang tai gu ji	100
+状态向量	zhuang tai xiang liang	100
+追踪曲线	zhui zong qu xian	100
+自伴算子	zi ban suan zi	160
+子代数	zi dai shu	100
+自反函数	zi fan han shu	100
+子矩阵	zi ju zhen	100
+子空间	zi kong jian	100
+子流形	zi liu xing	100
+自然变换	zi ran bian huan	100
+自然同态	zi ran tong tai	100
+自然映射	zi ran ying she	100
+自守函数	zi shou han shu	100
+自同构	zi tong gou	100
+自同构群	zi tong gou qun	100
+自同态	zi tong tai	100
+自由半群	zi you ban qun	100
+自由代数	zi you dai shu	100
+自由群	zi you qun	100
+总体分布	zong ti fen bu	100
+祖冲之	zu chong zhi	171
+组合流形	zu he liu xing	100
+最小多项式	zui xiao duo xiang shi	160
+最优性条件	zui you xing tiao jian	160
+坐标曲线	zuo biao qu xian	100
+坐标算子	zuo biao suan zi	100
+左极限	zuo ji xian	100
+左陪集	zuo pei ji	100

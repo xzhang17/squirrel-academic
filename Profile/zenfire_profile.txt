@@ -1,16 +1,16 @@
 #!/bin/bash
-# Copy this helper and academic_profile_files.txt to the profile before release.
+# Copy this helper and zenfire_profile_files.txt to the profile before release.
 # Prepare in the profile, then use Squirrel's “Sync user data”.
-#   /bin/bash academic_profile.txt prepare
+#   /bin/bash zenfire_profile.txt prepare
 # Restore from the device backup into a new directory under an existing parent.
-#   /bin/bash academic_profile.txt restore "/path/to/parent"
+#   /bin/bash zenfire_profile.txt restore "/path/to/parent"
 set -e
 umask 077
 export PATH=/usr/bin:/bin
 unset ZIPOPT UNZIP UNZIPOPT
-manifest=academic_profile_files.txt
-archive=academic_assets.zip.txt
-helper=academic_profile.txt
+manifest=zenfire_profile_files.txt
+archive=zenfire_assets.zip.txt
+helper=zenfire_profile.txt
 fail() { printf '%s\n' "$*" >&2; exit 1; }
 
 # Reject a link anywhere between the profile and a managed source file.
@@ -35,7 +35,11 @@ cd -P -- "$(dirname -- "$0")"
 source_dir=$PWD
 check_file "$manifest"
 check_file "$helper"
-for required in default.custom.yaml squirrel.custom.yaml academic_terms.dict.yaml daily_words.dict.yaml personal_terms.dict.yaml word_shortcuts.txt academic_preferences.txt; do
+for required in default.custom.yaml squirrel.custom.yaml zenfire_pinyin.schema.yaml zenfire_pinyin.custom.yaml \
+    zenfire_pinyin.dict.yaml zenfire_pinyin_fuzzy.yaml \
+    dicts/academic_dicts/subjects.yaml dicts/rebuild_academic.rb \
+    dicts/cn_dicts/daily_words.dict.yaml dicts/cn_dicts/personal_terms.dict.yaml \
+    word_shortcuts.txt zenfire_preferences.txt; do
   grep -Fxq -- "$required" "$manifest" || fail "Missing from the file list: $required"
 done
 
@@ -47,10 +51,10 @@ while IFS= read -r name || [[ -n "$name" ]]; do
   [[ "$name" =~ $safe_name && "/$name" != */.* && "$name" != *//* && "$name" != *.userdb* ]] ||
     fail "Invalid profile path: $name"
   case "$name" in
-    lua/*.lua|cn_dicts/*.dict.yaml|en_dicts/*.dict.yaml|en_dicts/*.txt|opencc/*.json|opencc/*.txt|opencc/*.ocd2|LICENSE|rime.lua|native_typing/*.swift|native_typing/*.patch|native_typing/*.txt|native_typing/*.command|native_typing/Squirrel.local)
+    wanxiang-lts-zh-hans.gram|lua/*.lua|dicts/rebuild_academic.rb|dicts/rebuild_frost_chars.rb|dicts/academic_dicts/*.dict.yaml|dicts/academic_dicts/subjects.yaml|dicts/academic_dicts/Sources.txt|dicts/cn_dicts/*.dict.yaml|dicts/cn_dicts/personal_mixed.txt|dicts/en_dicts/*.dict.yaml|dicts/en_dicts/*.txt|opencc/*.json|opencc/*.txt|opencc/*.ocd2|LICENSE|rime.lua|native_typing/*.swift|native_typing/*.patch|native_typing/*.txt|native_typing/*.command|native_typing/Squirrel.local)
       assets+=("$name") ;;
     */*) fail "Unrecognized resource directory: $name" ;;
-    *.schema.yaml|*.dict.yaml|*.custom.yaml|default.yaml|squirrel.yaml|academic_fuzzy.yaml|symbols_*.yaml|custom_phrase.txt|word_shortcuts.txt|academic_preferences.txt|Squirrel-Recovery.txt)
+    *.schema.yaml|*.dict.yaml|*.custom.yaml|default.yaml|squirrel.yaml|zenfire_pinyin_fuzzy.yaml|symbols_*.yaml|custom_phrase.txt|word_shortcuts.txt|zenfire_preferences.txt|Squirrel-Recovery.txt)
       native+=("$name") ;;
     *) fail "Unrecognized profile file: $name" ;;
   esac
@@ -62,14 +66,15 @@ trap cleanup EXIT
 trap 'exit 1' HUP INT TERM
 
 if [[ "$mode" == prepare ]]; then
-  if [[ ! -e academic_preferences.txt && ! -L academic_preferences.txt ]]; then
-    [[ ! -e academic_preferences.tsv && ! -L academic_preferences.tsv ]] ||
-      fail "Open the academic profile once to migrate the old preferences before preparing."
-    (set -C; : > academic_preferences.txt)
+  if [[ ! -e zenfire_preferences.txt && ! -L zenfire_preferences.txt ]]; then
+    [[ ! -e academic_preferences.txt && ! -L academic_preferences.txt &&
+       ! -e academic_preferences.tsv && ! -L academic_preferences.tsv ]] ||
+      fail "Open Zenfire Pinyin once to migrate the old preferences before preparing."
+    (set -C; : > zenfire_preferences.txt)
   fi
   for name in "${native[@]}" "${assets[@]}"; do check_file "$name"; done
   [[ ! -d "$archive" && ! -L "$archive" ]] || fail "Invalid archive destination."
-  work=$(mktemp -d "$source_dir/.academic-prepare.XXXXXXXX")
+  work=$(mktemp -d "$source_dir/.zenfire-prepare.XXXXXXXX")
   # The extension lets the native sync copy this ordinary ZIP byte for byte.
   zip -qX "$work/assets.zip" "$manifest" "${assets[@]}"
   unzip -tqq "$work/assets.zip"
@@ -86,18 +91,42 @@ cmp -s "$manifest" "$work/$manifest" || fail "The file list and resource archive
 for name in "${assets[@]}"; do
   mkdir -p -- "$(dirname -- "$work/$name")"
   unzip -p "$archive" "$name" > "$work/$name"
+  case "$name" in
+    native_typing/*.command|native_typing/Squirrel.local) chmod u+x "$work/$name" ;;
+  esac
 done
 for name in "$helper" "$archive" "${native[@]}"; do cp -- "$name" "$work/$name"; done
 # Native Sync exports this separately from the managed configuration files.
 # Restore into the NEW profile, never a running input method's directory.
-if [[ -e academic_pinyin.userdb.txt || -L academic_pinyin.userdb.txt ]]; then
-  check_file academic_pinyin.userdb.txt
+snapshot_name=''
+if [[ -e zenfire_pinyin.userdb.txt || -L zenfire_pinyin.userdb.txt ]]; then
+  snapshot_name=zenfire_pinyin.userdb.txt
+elif [[ -e academic_pinyin.userdb.txt || -L academic_pinyin.userdb.txt ]]; then
+  snapshot_name=academic_pinyin.userdb.txt
+fi
+if [[ -n "$snapshot_name" ]]; then
+  check_file "$snapshot_name"
+  # Rime uses the embedded name as its destination. Validate it before import.
+  snapshot="$work/.restore.userdb.txt"
+  awk -F '\t' -v expected="${snapshot_name%.userdb.txt}" 'BEGIN { OFS = "\t" }
+    { sub(/\r$/, "") }
+    $1 == "#@/db_name" {
+      name = $2
+      sub(/[.]userdb([.][[:alnum:]_-]+)?$/, "", name)
+      if (NF != 2 || name != expected) exit 1
+      $2 = "zenfire_pinyin"; found++
+    }
+    { print }
+    END { if (found != 1) exit 1 }' "$snapshot_name" > "$snapshot" ||
+    fail "Missing or incorrect database name in $snapshot_name."
   manager='/Library/Input Methods/Squirrel.app/Contents/MacOS/rime_dict_manager'
   if [[ ! -x "$manager" ]]; then
     manager="$HOME/Library/Input Methods/Squirrel.app/Contents/MacOS/rime_dict_manager"
   fi
   [[ -x "$manager" ]] || fail "Install Squirrel before restoring its learned vocabulary."
-  (cd -- "$work" && "$manager" --restore "$source_dir/academic_pinyin.userdb.txt") >&2
+  (cd -- "$work" && "$manager" --restore "$snapshot") >&2
+  [[ -d "$work/zenfire_pinyin.userdb" ]] || fail "The learned snapshot has the wrong database name."
+  rm -f -- "$snapshot"
 fi
 printf '%s\n' "$work"
 work=''

@@ -1,0 +1,308 @@
+# 力学扩展（可选；不改变现有力学模块）
+# Sources and licenses: Sources.txt in this folder.
+---
+name: mechanics_extra
+version: "1.1"
+sort: by_weight
+use_preset_vocabulary: false
+...
+鞍点	an dian	100
+半主动控制	ban zhu dong kong zhi	160
+本构积分	ben gou ji fen	160
+壁面函数	bi mian han shu	160
+壁面建模	bi mian jian mo	160
+壁面解析	bi mian jie xi	160
+壁面解析湍流	bi mian jie xi tuan liu	160
+变幅疲劳	bian fu pi lao	160
+变形梯度	bian xing ti du	160
+表面张力驱动流	biao mian zhang li qu dong liu	160
+表面张力系数	biao mian zhang li xi shu	100
+不可压缩流	bu ke ya suo liu	100
+材料非线性	cai liao fei xian xing	160
+材料客观性	cai liao ke guan xing	160
+侧向力	ce xiang li	100
+颤振分析	chan zhen fen xi	160
+超弹性本构	chao tan xing ben gou	160
+超弹性模型	chao tan xing mo xing	160
+尺度效应	chi du xiao ying	160
+驰振	chi zhen	160
+冲击响应谱	chong ji xiang ying pu	160
+大变形分析	da bian xing fen xi	160
+大变形力学	da bian xing li xue	160
+大位移	da wei yi	160
+大涡模拟	da wo mo ni	160
+大应变理论	da ying bian li lun	160
+大转动	da zhuan dong	160
+弹塑性本构	dan su xing ben gou	160
+单体耦合算法	dan ti ou he suan fa	160
+等几何分析	deng ji he fen xi	160
+等加速度	deng jia su du	100
+等向硬化	deng xiang ying hua	160
+等效应力幅	deng xiao ying li fu	160
+动力缩聚	dong li suo ju	160
+动力系数	dong li xi shu	100
+动态接触角	dong tai jie chu jiao	160
+动网格	dong wang ge	160
+动压力	dong ya li	100
+断裂能	duan lie neng	160
+多孔板	duo kong ban	100
+多孔介质力学	duo kong jie zhi li xue	160
+多相流动	duo xiang liu dong	160
+多相流耦合	duo xiang liu ou he	160
+二维流	er wei liu	100
+法向接触力	fa xiang jie chu li	160
+返回映射算法	fan hui ying she suan fa	160
+非比例阻尼	fei bi li zu ni	160
+非定常气动力	fei ding chang qi dong li	160
+非关联流动法则	fei guan lian liu dong fa ze	160
+非局部损伤	fei ju bu sun shang	160
+非平稳激励	fei ping wen ji li	160
+非完整系	fei wan zheng xi	100
+非线性连续介质力学	fei xian xing lian xu jie zhi li xue	160
+非线性模态分析	fei xian xing mo tai fen xi	160
+非线性能量阱	fei xian xing neng liang jing	160
+分布力	fen bu li	100
+分层失效	fen ceng shi xiao	160
+分离涡模拟	fen li wo mo ni	160
+分区耦合算法	fen qu ou he suan fa	160
+复模态	fu mo tai	160
+刚度比例阻尼	gang du bi li zu ni	160
+刚架	gang jia	100
+钢筋混凝土梁	gang jin hun ning tu liang	100
+高分辨率格式	gao fen bian lv ge shi	160
+高阶重构	gao jie zhong gou	160
+各向同性硬化	ge xiang tong xing ying hua	160
+各向异性弹性	ge xiang yi xing tan xing	160
+格子玻尔兹曼方法	ge zi bo er zi man fang fa	160
+更新拉格朗日法	geng xin la ge lang ri fa	160
+共点力	gong dian li	100
+功率谱密度	gong lv pu mi du	160
+共旋坐标系	gong xuan zuo biao xi	160
+共振条件	gong zhen tiao jian	100
+固结理论	gu jie li lun	160
+关联流动法则	guan lian liu dong fa ze	160
+惯量主轴	guan liang zhu zhou	100
+光滑粒子流体动力学	guang hua li zi liu ti dong li xue	160
+广义位移	guang yi wei yi	100
+横观各向同性	heng guan ge xiang tong xing	160
+环量守恒	huan liang shou heng	160
+混合边界条件	hun he bian jie tiao jian	100
+混合有限元	hun he you xian yuan	160
+激波边界层相互作用	ji bo bian jie ceng xiang hu zuo yong	160
+激波捕捉	ji bo bu zhuo	160
+激波拟合	ji bo ni he	160
+几何非线性	ji he fei xian xing	160
+棘轮效应	ji lun xiao ying	160
+集中质量矩阵	ji zhong zhi liang ju zhen	160
+间断伽辽金法	jian duan ga liao jin fa	160
+间断伽辽金方法	jian duan ga liao jin fang fa	160
+剪力	jian li	100
+剪切锁死	jian qie suo si	160
+接触罚函数	jie chu fa han shu	160
+接触非线性	jie chu fei xian xing	160
+接触刚度	jie chu gang du	160
+接触力	jie chu li	100
+接触线动力学	jie chu xian dong li xue	160
+界面捕捉	jie mian bu zhuo	160
+界面断裂	jie mian duan lie	160
+界面追踪	jie mian zhui zong	160
+浸入边界法	jin ru bian jie fa	160
+静定结构	jing ding jie gou	100
+静定梁	jing ding liang	100
+晶体塑性	jing ti su xing	160
+径向加速度	jing xiang jia su du	100
+径向位移	jing xiang wei yi	100
+静压力	jing ya li	100
+抗扭强度	kang niu qiang du	100
+客观性原理	ke guan xing yuan li	160
+客观应力率	ke guan ying li lv	160
+柯西应力	ke xi ying li	160
+可压缩流	ke ya suo liu	100
+可压缩湍流	ke ya suo tuan liu	160
+可压缩性	ke ya suo xing	100
+空化流动	kong hua liu dong	160
+空化模型	kong hua mo xing	160
+孔弹性	kong tan xing	160
+孔隙压力	kong xi ya li	160
+扩展有限元	kuo zhan you xian yuan	160
+拉格朗日描述	la ge lang ri miao shu	160
+累积损伤	lei ji sun shang	160
+雷诺应力模型	lei nuo ying li mo xing	160
+雷诺应力输运	lei nuo ying li shu yun	160
+力法	li fa	100
+黎曼求解器	li man qiu jie qi	160
+力偶矩	li ou ju	100
+离散元方法	li san yuan fang fa	160
+力系	li xi	100
+联合硬化	lian he ying hua	160
+连续梁	lian xu liang	100
+连续损伤力学	lian xu sun shang li xue	160
+连续体	lian xu ti	100
+梁单元	liang dan yuan	100
+裂纹闭合效应	lie wen bi he xiao ying	160
+裂纹尖端场	lie wen jian duan chang	160
+裂纹尖端张开位移	lie wen jian duan zhang kai wei yi	160
+裂纹扩展速率	lie wen kuo zhan su lv	160
+流场	liu chang	100
+流固耦合	liu gu ou he	160
+流体体积法	liu ti ti ji fa	160
+流致振动	liu zhi zhen dong	160
+洛德参数	luo de can shu	160
+马赫角	ma he jiao	100
+马赫锥	ma he zhui	100
+毛细波	mao xi bo	160
+摩擦接触	mo ca jie chu	160
+模态参数识别	mo tai can shu shi bie	160
+模态叠加	mo tai die jia	160
+模态截断	mo tai jie duan	160
+内聚力模型	nei ju li mo xing	160
+内聚区模型	nei ju qu mo xing	160
+内压力	nei ya li	100
+能量释放率	neng liang shi fang lv	160
+逆压梯度	ni ya ti du	160
+黏聚区模型	nian ju qu mo xing	160
+黏塑性模型	nian su xing mo xing	160
+黏弹性本构	nian tan xing ben gou	160
+黏弹性模型	nian tan xing mo xing	160
+黏性力	nian xing li	100
+黏性流	nian xing liu	100
+黏性系数	nian xing xi shu	100
+黏性液体	nian xing ye ti	100
+黏滞力	nian zhi li	100
+黏着滑移	nian zhuo hua yi	160
+欧拉描述	ou la miao shu	160
+膨胀波	peng zhang bo	100
+偏应力	pian ying li	160
+频响函数	pin xiang han shu	160
+破裂强度	po lie qiang du	100
+谱元法	pu yuan fa	160
+谱元方法	pu yuan fang fa	160
+齐次边界条件	qi ci bian jie tiao jian	100
+气动声学	qi dong sheng xue	160
+气动弹性颤振	qi dong tan xing chan zhen	160
+气泡动力学	qi pao dong li xue	160
+强耦合算法	qiang ou he suan fa	160
+切线力	qie xian li	100
+切向接触力	qie xiang jie chu li	160
+球应力	qiu ying li	160
+屈服面	qu fu mian	160
+屈服面演化	qu fu mian yan hua	160
+全加速度	quan jia su du	100
+热弹塑性	re dan su xing	160
+热机械疲劳	re ji xie pi lao	160
+热流固耦合	re liu gu ou he	160
+任意拉格朗日欧拉法	ren yi la ge lang ri ou la fa	160
+柔度	rou du	100
+柔度系数	rou du xi shu	100
+蠕变疲劳交互作用	ru bian pi lao jiao hu zuo yong	160
+瑞利阻尼	rui li zu ni	160
+弱耦合算法	ruo ou he suan fa	160
+三铰拱	san jiao gong	100
+三维流	san wei liu	100
+升阻比	sheng zu bi	100
+时间步长控制	shi jian bu chang kong zhi	160
+实验模态分析	shi yan mo tai fen xi	160
+数值耗散	shu zhi hao san	160
+数值色散	shu zhi se san	160
+双曲率	shuang qu lv	100
+水锤	shui chui	100
+水平集法	shui ping ji fa	160
+水平集方法	shui ping ji fang fa	160
+松弛时间	song chi shi jian	100
+速度场	su du chang	100
+速度梯度	su du ti du	160
+塑性耗散	su xing hao san	160
+塑性流动法则	su xing liu dong fa ze	160
+随动硬化	sui dong ying hua	160
+随机载荷	sui ji zai he	160
+随机振动分析	sui ji zhen dong fen xi	160
+损伤演化	sun shang yan hua	160
+锁定区间	suo ding qu jian	160
+弹簧力	tan huang li	100
+弹性势函数	tan xing shi han shu	160
+特征边界条件	te zheng bian jie tiao jian	160
+梯度损伤	ti du sun shang	160
+体积分数法	ti ji fen shu fa	160
+体积锁死	ti ji suo si	160
+体密度	ti mi du	100
+调谐质量阻尼器	tiao xie zhi liang zu ni qi	160
+通量分裂	tong liang fen lie	160
+通量限制器	tong liang xian zhi qi	160
+湍流闭合	tuan liu bi he	160
+湍流动能耗散率	tuan liu dong neng hao san lv	160
+湍流普朗特数	tuan liu pu lang te shu	160
+推力系数	tui li xi shu	100
+外伸梁	wai shen liang	100
+网格收敛性	wang ge shou lian xing	160
+微极连续体	wei ji lian xu ti	160
+位形	wei xing	100
+位形空间	wei xing kong jian	100
+位移算子	wei yi suan zi	100
+稳定化有限元	wen ding hua you xian yuan	160
+涡激振动	wo ji zhen dong	160
+涡量方程	wo liang fang cheng	160
+涡黏性模型	wo nian xing mo xing	160
+涡致振动	wo zhi zhen dong	160
+无反射边界条件	wu fan she bian jie tiao jian	160
+无网格法	wu wang ge fa	160
+无网格方法	wu wang ge fang fa	160
+物质点法	wu zhi dian fa	160
+线加速度	xian jia su du	100
+线位移	xian wei yi	100
+相场断裂	xiang chang duan lie	160
+相场断裂模型	xiang chang duan lie mo xing	160
+相场方法	xiang chang fang fa	160
+相对位移	xiang dui wei yi	100
+响应谱分析	xiang ying pu fen xi	160
+小变形理论	xiao bian xing li lun	160
+小时玻璃控制	xiao shi bo li kong zhi	160
+小应变假设	xiao ying bian jia she	160
+虚位移	xu wei yi	100
+悬臂板	xuan bi ban	100
+旋度张量	xuan du zhang liang	160
+漩涡星云	xuan wo xing yun	100
+选择性缩减积分	xuan ze xing suo jian ji fen	160
+循环塑性	xun huan su xing	160
+亚格子尺度模型	ya ge zi chi du mo xing	160
+亚格子应力	ya ge zi ying li	160
+压力波	ya li bo	100
+压力梯度	ya li ti du	100
+压密	ya mi	100
+液滴聚并	ye di ju bing	160
+液滴破碎	ye di po sui	160
+一维流	yi wei liu	100
+一致切线刚度	yi zhi qie xian gang du	160
+一致切线模量	yi zhi qie xian mo liang	160
+一致质量矩阵	yi zhi zhi liang ju zhen	160
+应变度量	ying bian du liang	160
+应变率效应	ying bian lv xiao ying	160
+应变梯度理论	ying bian ti du li lun	160
+应变梯度塑性	ying bian ti du su xing	160
+硬化法则	ying hua fa ze	160
+应力腐蚀开裂	ying li fu shi kai lie	160
+应力三轴度	ying li san zhou du	160
+有限变形	you xian bian xing	160
+有限变形理论	you xian bian xing li lun	160
+有限差分法	you xian cha fen fa	100
+有限体积法	you xian ti ji fa	100
+有限体积离散	you xian ti ji li san	160
+雨流计数	yu liu ji shu	160
+约束运动	yue shu yun dong	100
+运动硬化	yun dong ying hua	160
+运行模态分析	yun xing mo tai fen xi	160
+增广拉格朗日法	zeng guang la ge lang ri fa	160
+振动控制	zhen dong kong zhi	160
+正交各向异性	zheng jiao ge xiang yi xing	160
+直接数值模拟	zhi jie shu zhi mo ni	160
+质量比例阻尼	zhi liang bi li zu ni	160
+质量矩阵	zhi liang ju zhen	100
+主动隔振	zhu dong ge zhen	160
+转捩预测	zhuan lie yu ce	160
+自激振荡	zi ji zhen dang	100
+子结构法	zi jie gou fa	160
+自由液面	zi you ye mian	160
+总拉格朗日法	zong la ge lang ri fa	160
+组合梁	zu he liang	100
+阻尼矩阵	zu ni ju zhen	100
+作用点	zuo yong dian	100
+作用线	zuo yong xian	100

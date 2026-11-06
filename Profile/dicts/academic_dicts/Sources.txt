@@ -1,0 +1,226 @@
+Academic dictionaries: sources and licenses
+
+These dictionaries contain selected subject terminology, common textbook and
+Nobel-level scientist names, and mixed Chinese/Latin terms. Cross-disciplinary
+entries are assigned to one primary subject. Required source attribution is
+kept here; dictionary bodies contain only entries sorted by pinyin/spelling.
+The enabled subjects are defined in subjects.yaml.
+
+Selection and pronunciation
+
+Prefer mainland terminology; traditional source spellings were converted with
+ICU and selected regional variants normalized or excluded. General fragments
+and entries already available in the ordinary Chinese base were excluded from
+new selections. Scientist names use customary short forms, with distinct
+people sharing a surname distinguished where needed.
+
+Word readings reference Rime Ice and the pinned Wanxiang dictionary. Compound
+readings were checked with pypinyin 0.55.0 and reviewed for polyphonic characters.
+Mandarin fuzzy spelling is applied by the existing profile; Latin portions of
+mixed terms remain exact. Source frequency values were not substituted for
+existing Zenfire weights. Curated additions generally use 160 and glossary
+additions 100; historical entries retain their existing weights. 简并 uses
+12000 to appear below the stronger everyday homophones 兼并 and 煎饼.
+
+Authored selections use the topic/terminology references below. Their
+explanatory definitions, teaching prose and software code were not copied.
+The vocabulary is curated and does not claim exhaustive subject coverage.
+
+Vocabulary sources
+
+國家教育研究院（2026），學術名詞。
+政府資料開放授權條款第 1 版 / Government Data Open License 1.0:
+https://data.gov.tw/license
+Datasets include physics, mathematics, mechanics, life sciences, chemistry,
+computer science, mechanical/chemical engineering, geology and earth science;
+cross-strait and school glossaries supply mainland variants where available.
+https://opendata.naer.edu.tw/學術名詞/國家教育研究院-物理學學術名詞.csv
+https://data.gov.tw/dataset/15274
+https://data.gov.tw/dataset/15320
+https://data.gov.tw/dataset/15445
+https://data.gov.tw/dataset/15443
+https://opendata.naer.edu.tw/學術名詞/國家教育研究院-力學學術名詞.csv
+https://data.gov.tw/dataset/15449
+https://opendata.naer.edu.tw/學術名詞/國家教育研究院-生命科學學術名詞.csv
+https://opendata.naer.edu.tw/學術名詞/國家教育研究院-生命科學名詞-高中(含)以下生命科學學術名詞.csv
+https://data.gov.tw/dataset/15255
+https://opendata.naer.edu.tw/學術名詞/國家教育研究院-地球科學學術名詞.csv
+https://data.gov.tw/dataset/15406
+https://opendata.naer.edu.tw/學術名詞/國家教育研究院-電子計算機學術名詞.csv
+https://opendata.naer.edu.tw/學術名詞/國家教育研究院-化學名詞-化學術語學術名詞.csv
+https://opendata.naer.edu.tw/學術名詞/國家教育研究院-化學名詞-兩岸化學名詞.csv
+https://opendata.naer.edu.tw/學術名詞/國家教育研究院-化學名詞-兩岸中小學教科書學術名詞.csv
+https://opendata.naer.edu.tw/學術名詞/國家教育研究院-機械工程學術名詞.csv
+https://opendata.naer.edu.tw/學術名詞/國家教育研究院-化學工程學術名詞.csv
+https://opendata.naer.edu.tw/學術名詞/國家教育研究院-資訊名詞-兩岸中小學教科書學術名詞.csv
+https://data.gov.tw/dataset/14845
+https://data.gov.tw/dataset/15159
+https://data.gov.tw/dataset/15447
+https://opendata.naer.edu.tw/學術名詞/國家教育研究院-地質學學術名詞.csv
+
+Rime Ice, iDvel and contributors; see the root LICENSE and source notices:
+https://github.com/iDvel/rime-ice
+https://github.com/iDvel/rime-ice/blob/main/cn_dicts/base.dict.yaml
+Wanxiang Pinyin, amzxyz and contributors, CC BY 4.0. Selected vocabulary and
+word-level readings adapted by stripping tones, reviewing readings and using
+Zenfire weights; no language-model training is implied by this vocabulary use.
+https://github.com/amzxyz/rime-wanxiang-data/blob/533962986f5fbbcb03f61be314f3d7268fa983b8/dicts/jichu.dict.yaml
+https://creativecommons.org/licenses/by/4.0/
+Google for Developers, machine-learning glossary, CC BY 4.0; selected Chinese
+terms with explicit pinyin:
+https://developers.google.com/machine-learning/glossary?hl=zh-cn
+Mintimate and contributors, selected scientist-name source:
+https://github.com/Mintimate/oh-my-rime/blob/cb4f7dda2fb74332cda0a7712ffc89ea5ded856f/dicts/rime_mint.famous.dict.yaml
+Scientist eligibility/name references: Nobel Prize data, Wikidata and CAS.
+https://www.nobelprize.org/prizes/
+Spoken-frequency weights adapted from SUBTLEX-CH, Cai & Brysbaert (2010), CC BY:
+https://doi.org/10.1371/journal.pone.0010729
+Pronunciation cross-check, python-pinyin by mozillazg and contributors:
+https://github.com/mozillazg/python-pinyin
+THUOCL, 韩世依、张钰晖、马云山等, Tsinghua University (2016);
+selected IT terms, MIT License:
+https://github.com/thunlp/THUOCL/blob/master/data/THUOCL_IT.txt
+
+MIT License
+
+Copyright (c) 2018 THUNLP
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+Topic and terminology references
+
+术语核对：清华大学出版社《量子信息简明教程》与公开量子计算课程。
+https://www.tup.tsinghua.edu.cn/upload/books/yz/100085-01.pdf
+https://www.juestc.uestc.edu.cn/article/doi/10.12178/1001-0548.2022187
+https://quantum.cloud.ibm.com/learning/courses/fundamentals-of-quantum-algorithms
+
+Mixed terms: Rime Ice vocabulary with Zenfire additions.
+https://djyszw.ustc.edu.cn/info/1015/3206.htm
+
+NCBI, Molecular Biology of the Cell glossary:
+https://www.ncbi.nlm.nih.gov/books/NBK21052/
+
+NCBI, Genomes glossary:
+https://www.ncbi.nlm.nih.gov/books/NBK21126/
+
+NCBI, Human Genome Editing glossary:
+https://www.ncbi.nlm.nih.gov/books/NBK447273/
+
+NHGRI, Methylation:
+https://www.genome.gov/genetics-glossary/Methylation
+
+Kubernetes glossary:
+https://kubernetes.io/zh-cn/docs/reference/glossary/
+
+IUPAC Gold Book, chromatography:
+https://goldbook.iupac.org/terms/view/C01075
+
+COMSOL, CFD and turbulence terminology:
+https://cn.comsol.com/cfd-module
+https://cn.comsol.com/support/learning-center/article/basics-of-modeling-turbulent-flow-in-comsol-multiphysics-75241
+
+Siemens, milling terminology:
+https://cache.industry.siemens.com/dl/files/340/109752340/att_939018/v1/840Dsl_milling_op_man_1217_zh-CHS.pdf
+
+Research measurement, uncertainty and reproducibility — NIST:
+https://www.nist.gov/pml/nist-technical-note-1297/nist-tn-1297-appendix-law-propagation-uncertainty
+https://www.nist.gov/pml/nist-technical-note-1297/nist-tn-1297-appendix-d1-terminology
+https://www.itl.nist.gov/div898/handbook/mpc/section5/mpc56.htm
+
+Functional analysis and spectral theory — MIT course materials:
+https://math.mit.edu/~rbm/18-102-S18/Lectures.html
+
+Open quantum systems and trajectories — QuTiP documentation:
+https://qutip.readthedocs.io/en/stable/guide/dynamics/dynamics-monte.html
+
+Many-body localization and eigenstate thermalization — Tsinghua Physics:
+https://www.phys.tsinghua.edu.cn/info/1055/4059.htm
+
+Non-Markovian quantum steering — Chinese Academy of Sciences:
+https://www.cas.cn/syky/202305/t20230519_4888211.shtml
+
+Non-Hermitian skin effects — Tsinghua Institute for Advanced Study:
+https://www.ias.tsinghua.edu.cn/info/1050/1922.htm
+
+Tensor networks and time-evolving block decimation — Acta Physica Sinica:
+https://www.cpsjournals.cn/article/doi/10.7498/aps.66.120301
+
+Quantum multiparameter estimation — Chinese Journal of Quantum Electronics:
+https://www.researching.cn/ArticlePdf/m00033/2025/42/4/464.pdf
+
+Automatic differentiation, precision and distributed computing — PyTorch:
+https://docs.pytorch.org/docs/stable/autograd.html
+https://docs.pytorch.org/docs/stable/notes/amp_examples.html
+https://docs.pytorch.org/docs/stable/generated/torch.nn.parallel.DistributedDataParallel.html
+
+Single-cell analysis, differential expression and enrichment — Scanpy:
+https://scanpy.readthedocs.io/en/stable/index.html
+https://scanpy.readthedocs.io/en/latest/tutorials/basics/clustering.html
+https://scanpy.readthedocs.io/en/stable/generated/scanpy.queries.enrich.html
+
+Single-cell RNA-seq analysis — University of Wisconsin course materials:
+https://www.biostat.wisc.edu/bmi776/lectures/scRNA-seq-analysis.pdf
+
+University of Electronic Science and Technology of China, quantum mechanics,
+physical quantities and operators:
+https://study.uestc.edu.cn/wlxt/ncourse/QMSW/web/quantum/xtjiangjie/2.htm
+
+Ministry of Education dictionary, readings of 對稱:
+https://dict.revised.moe.edu.tw/dictView.jsp?ID=48207&la=1&powerMode=0
+
+EMBL-EBI, multi-omics training:
+https://www.ebi.ac.uk/training/events/introduction-multi-omics-data-integration-and-visualisation-2026/
+
+IUPAC Gold Book:
+https://goldbook.iupac.org/
+
+NIST, additive manufacturing and digital twins:
+https://www.nist.gov/additive-manufacturing/what-additive-manufacturing
+https://www.nist.gov/digital-twins/definitions-and-state-art
+
+USGS and NPS, geoscience terminology:
+https://apps.usgs.gov/thesaurus/thesaurus-full.php?thcode=2
+https://www.nps.gov/subjects/geology/gri-glossary-of-geologic-terms.htm
+
+Pronunciation checks:
+https://www.zdic.net/hans/征辟
+https://www.keyence.co.jp/global/special/other/course/chinese_course/05/
+
+Ministry of Education, history curriculum (topic coverage); historical-method
+and institution-name combinations are authored:
+https://www.pep.com.cn/xw/zt/rjwy/gzkb2020/202205/P020220517518171679768.pdf
+
+OpenStax, University Physics Volume 3, textbook terminology/name reference:
+https://openstax.org/books/university-physics-volume-3/pages/index
+
+Public glossary retrieval fingerprints (SHA-256)
+
+biology.csv: d8d00e504e1e5feeeb5cad1464c1a1806963689dc43b398594d9e5bdce1556f0
+biology_school.csv: a32405596ffd273a44a4c2f70ea80d7806bd307ea86abb7cd05129c24bd2e89c
+chemical_engineering.csv: 1082c629f1f830ef512a60887ec6829dcde0e539c455701c18941df64f56df77
+chemistry.csv: f5e769d062140c598a8b8c6e05610c2825aaba43447f6511cb6b8c1ae56d3465
+chemistry_cross.csv: 4f4495a2ae748fe152557861f44edb3c80989d676abb2f70011f5d707d3fcba4
+chemistry_school.csv: 3eeef18d4071ec9688ca6db0891521ae6a12b915ac12b6bbb8de8b39d43ff4aa
+computer.csv: ed9a713cdbdbd67915796125a13c49875cf225b8f88c5a38ac7d58e2ca9a8360
+computer_school.csv: 25f0919ddbb645befb4146ba26bbe9ed663a0d4edbfd6a923876d88099ab02d3
+earth_science.csv: 8bcc1067f173c956dbd9cb984e7a15df11d6c1f8d5c7142ece9ef1221d97818d
+engineering.csv: c5e04a7c9d1d9dd618e89f9184f98def7986814cdbfee5b5edee3a862b90fb00
+geology.csv: 46ec9b2b4540e4999a14a62a7e27fbadad4f9b65f4e8ae08b8076c26a0485dc2
+mechanics.csv: 67a144265e311d94b73b0b363f10725855d246aeb248a66890e311cc394a5c2c
+wanxiang.dict.yaml: 1e03f4c3aa634f9320d50bd660833d2d3a855793fcface30b1509d75409c52bc

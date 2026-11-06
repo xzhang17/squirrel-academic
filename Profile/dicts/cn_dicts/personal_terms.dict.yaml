@@ -1,0 +1,168 @@
+# Personal vocabulary for ordinary Chinese typing with full or abbreviated pinyin.
+# Vocabulary from the installed Ice lists, with targeted alternate readings.
+# Add a term, its space-separated syllables, and an optional weight, separated by tabs.
+---
+name: personal_terms
+version: "0.4"
+sort: by_weight
+use_preset_vocabulary: false
+...
+安检口	an jian kou	100
+按捺	an nai	100
+百万分之一	bai wan fen zhi yi	100
+半导体材料	ban dao ti cai liao	100
+本地备份	ben di bei fen	100
+变分法	bian fen fa	100
+变分原理	bian fen yuan li	100
+便于查找	bian yu cha zhao	100
+表格文件	biao ge wen jian	100
+冰咖啡	bing ka fei	100
+薄荷糖	bo he tang	100
+玻色子	bo se zi	100
+不得不说	bu de bu shuo	100
+不确定度	bu que ding du	100
+不如说	bu ru shuo	100
+步行距离	bu xing ju li	100
+操作界面	cao zuo jie mian	100
+插线板	cha xian ban	100
+成千上百	cheng qian shang bai	100
+充电接口	chong dian jie kou	100
+充电线	chong dian xian	100
+出厂设置	chu chang she zhi	100
+处理器	chu li qi	100
+出站口	chu zhan kou	100
+磁化率	ci hua lv	100
+从那之后	cong na zhi hou	100
+从始至终	cong shi zhi zhong	100
+大多数情况	da duo shu qing kuang	100
+待办事项	dai ban shi xiang	100
+低血糖	di xue tang	100
+电磁波谱	dian ci bo pu	100
+电子伏特	dian zi fu te	100
+电子结构	dian zi jie gou	100
+定期更新	ding qi geng xin	100
+对称破缺	dui chen po que	100
+耳机线	er ji xian	100
+二维材料	er wei cai liao	100
+发票抬头	fa piao tai tou	100
+费米子	fei mi zi	100
+附件大小	fu jian da xiao	100
+高铁站	gao tie zhan	100
+高血压	gao xue ya	100
+个把小时	ge ba xiao shi	100
+隔一天	ge yi tian	100
+给予	gei yu	100
+共享单车	gong xiang dan che	100
+共享屏幕	gong xiang ping mu	100
+购物清单	gou wu qing dan	100
+光学性质	guang xue xing zhi	100
+核对信息	he dui xin xi	100
+换句话讲	huan ju hua jiang	100
+恢复默认	hui fu mo ren	100
+会议安排	hui yi an pai	100
+会议日程	hui yi ri cheng	100
+会议时间	hui yi shi jian	100
+即使如此	ji shi ru ci	100
+计算物理	ji suan wu li	100
+驾轻就熟	jia qing jiu shu	100
+角动量守恒	jiao dong liang shou heng	100
+晶格常数	jing ge chang shu	100
+决不会	jue bu hui	100
+决不能	jue bu neng	100
+空调遥控器	kong tiao yao kong qi	100
+快递单	kuai di dan	100
+快递单号	kuai di dan hao	100
+快递柜	kuai di gui	100
+快速傅里叶变换	kuai su fu li ye bian huan	100
+理论计算	li lun ji suan	100
+力学模型	li xue mo xing	100
+两三周	liang san zhou	100
+量子比特	liang zi bi te	100
+量子测量	liang zi ce liang	100
+量子场论	liang zi chang lun	100
+量子叠加	liang zi die jia	100
+量子反常霍尔效应	liang zi fan chang huo er xiao ying	100
+量子霍尔效应	liang zi huo er xiao ying	100
+量子纠缠	liang zi jiu chan	100
+量子隧穿	liang zi sui chuan	100
+量子信息	liang zi xin xi	100
+量子涨落	liang zi zhang luo	100
+临时通知	lin shi tong zhi	100
+浏览记录	liu lan ji lu	100
+浏览器设置	liu lan qi she zhi	100
+论文初稿	lun wen chu gao	100
+马尔可夫链	ma er ke fu lian	100
+埋怨	mai yuan	100
+蒙特卡洛	meng te ka luo	100
+密度泛函理论	mi du fan han li lun	100
+面包片	mian bao pian	100
+面包屑	mian bao xie	100
+默认选项	mo ren xuan xiang	100
+某种程度上	mou zhong cheng du shang	100
+某种意义上	mou zhong yi yi shang	100
+目标文件夹	mu biao wen jian jia	100
+木讷	mu na	100
+能带结构	neng dai jie gou	100
+凝聚态物理	ning ju tai wu li	100
+柠檬水	ning meng shui	100
+牛奶盒	niu nai he	100
+偏振态	pian zhen tai	100
+票务系统	piao wu xi tong	100
+取件码	qu jian ma	100
+全角字符	quan jiao zi fu	100
+全拼输入	quan pin shu ru	100
+确认框	que ren kuang	100
+任务清单	ren wu qing dan	100
+扫描件	sao miao jian	100
+深思熟虑	shen si shu lv	100
+剩余电量	sheng yu dian liang	100
+时间安排	shi jian an pai	100
+食物过敏	shi wu guo min	100
+实验测量	shi yan ce liang	100
+实验记录	shi yan ji lu	100
+实验误差	shi yan wu cha	100
+收敛速度	shou lian su du	100
+手头紧	shou tou jin	100
+熟能生巧	shu neng sheng qiao	100
+输入方式	shu ru fang shi	100
+数学物理方法	shu xue wu li fang fa	100
+搜索框	sou suo kuang	100
+特殊函数	te shu han shu	100
+体检报告	ti jian bao gao	100
+提前通知	ti qian tong zhi	100
+统计力学	tong ji li xue	100
+拓扑绝缘体	tuo pu jue yuan ti	100
+外接显示器	wai jie xian shi qi	100
+网上预约	wang shang yu yue	100
+微扰展开	wei rao zhan kai	100
+文件后缀	wen jian hou zhui	100
+温馨提醒	wen xin ti xing	100
+文字输入	wen zi shu ru	100
+五金店	wu jin dian	100
+西红柿炒鸡蛋	xi hong shi chao ji dan	100
+洗衣液	xi yi ye	100
+相关函数	xiang guan han shu	100
+项目进展	xiang mu jin zhan	100
+小型会议	xiao xing hui yi	100
+修理店	xiu li dian	100
+虚与委蛇	xu yu wei she	100
+血细胞	xue xi bao	100
+血小板	xue xiao ban	100
+学校邮箱	xue xiao you xiang	100
+异常值	yi chang zhi	100
+一次性纸杯	yi ci xing zhi bei	100
+一模一样	yi mo yi yang	100
+一小撮	yi xiao cuo	100
+一针见血	yi zhen jian xie	100
+隐私设置	yin si she zhi	100
+有模有样	you mo you yang	100
+有限元方法	you xian yuan fang fa	100
+预计到达	yu ji dao da	100
+预约挂号	yu yue gua hao	100
+预约时间	yu yue shi jian	100
+在线会议	zai xian hui yi	100
+正式版本	zheng shi ban ben	100
+只读模式	zhi du mo shi	100
+专注力	zhuan zhu li	100
+装模作样	zhuang mo zuo yang	100
+总体来说	zong ti lai shuo	100

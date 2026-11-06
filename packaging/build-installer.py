@@ -11,7 +11,7 @@ import subprocess
 from tempfile import TemporaryDirectory
 
 PACKAGE_ID = "com.github.xzhang17.squirrel-academic"
-VERSION = "1.2.0"
+VERSION = "1.3.0"
 NIGHTLY_PKG_SHA256 = "7eb907e3aafb62741e4871ec63c7ba3cf25669fff9777d792a5a9f0b1aded984"
 HERE = Path(__file__).resolve().parent
 REPO = HERE.parent
@@ -19,10 +19,10 @@ REPO = HERE.parent
 
 def copy_public_setup(setup):
     source = REPO / "Profile"
-    manifest = (source / "academic_profile_files.txt").read_text().splitlines()
-    private = {"academic_preferences.txt", "custom_phrase.txt"}
+    manifest = (source / "zenfire_profile_files.txt").read_text().splitlines()
+    private = {"zenfire_preferences.txt", "custom_phrase.txt"}
     files = [line for line in manifest if line and not line.startswith("#") and line not in private]
-    files += ["academic_profile.txt", "academic_profile_files.txt"]
+    files += ["zenfire_profile.txt", "zenfire_profile_files.txt"]
     for name in files:
         path = Path(name)
         if path.is_absolute() or ".." in path.parts or (source / path).is_symlink():
@@ -30,7 +30,7 @@ def copy_public_setup(setup):
         dest = setup / "Profile" / path
         dest.parent.mkdir(parents=True, exist_ok=True)
         shutil.copy2(source / path, dest)
-    for name in ["Install.command", "Prepare-profile.command"]:
+    for name in ["Install.command", "Prepare-profile.command", "Model.sha256", "README.md"]:
         shutil.copy2(REPO / name, setup / name)
     indicator = setup / "Mode-Indicator"
     indicator.mkdir()
@@ -77,6 +77,14 @@ def stage_custom_app(nightly, work, payload):
 
 def build(nightly, output):
     os.umask(0o022)
+    model = REPO / "Profile/wanxiang-lts-zh-hans.gram"
+    expected = (REPO / "Model.sha256").read_text().split()[0]
+    digest = hashlib.sha256()
+    with model.open("rb") as stream:
+        for chunk in iter(lambda: stream.read(1024 * 1024), b""):
+            digest.update(chunk)
+    if digest.hexdigest() != expected:
+        raise ValueError("The Wanxiang model differs from Model.sha256.")
     with TemporaryDirectory(dir=output.parent, prefix=".squirrel-package-") as folder:
         work = Path(folder)
         payload = work / "payload"

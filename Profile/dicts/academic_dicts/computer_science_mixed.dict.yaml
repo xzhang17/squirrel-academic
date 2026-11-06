@@ -1,0 +1,157 @@
+# 计算机科学
+# Sources and licenses: Sources.txt in this folder.
+---
+name: computer_science_mixed
+version: "1.3"
+sort: by_weight
+use_preset_vocabulary: false
+...
+ABAC策略	abac ce lve	160
+AES加密	aes jia mi	100
+AMP训练	amp xun lian	160
+AOT编译	aot bian yi	160
+API接口	api jie kou	100
+API网关	api wang guan	160
+API限流	api xian liu	160
+ASCII码	ascii ma	100
+AST遍历	ast bian li	160
+AST节点	ast jie dian	160
+AVL树	avl shu	100
+B加树	b jia shu	160
+B树	b shu	160
+Bellman-Ford算法	bellman ford suan fa	100
+BERT模型	bert mo xing	100
+BFS遍历	bfs bian li	100
+BLAS库	blas ku	160
+BPE分词	bpe fen ci	160
+C语言	c yu yan	100
+CAS操作	cas cao zuo	160
+CD流水线	cd liu shui xian	160
+CI流水线	ci liu shui xian	160
+CNN模型	cnn mo xing	100
+COO格式	coo ge shi	160
+CPU缓存	cpu huan cun	100
+CPU亲和性	cpu qin he xing	160
+CPU向量化	cpu xiang liang hua	160
+CRDT数据结构	crdt shu ju jie gou	160
+CSC格式	csc ge shi	160
+CSR格式	csr ge shi	160
+CSRF防护	csrf fang hu	160
+CSS选择器	css xuan ze qi	100
+CUDA编程	cuda bian cheng	100
+CUDA流	cuda liu	160
+CUDA内核	cuda nei he	160
+CUDA图	cuda tu	160
+DDoS攻击	ddos gong ji	100
+DDP训练	ddp xun lian	160
+DFS遍历	dfs bian li	100
+Dijkstra算法	dijkstra suan fa	100
+DNS缓存	dns huan cun	160
+DNS劫持	dns jie chi	100
+DNS解析	dns jie xi	100
+DNS污染	dns wu ran	100
+Docker镜像	docker jing xiang	160
+Docker容器	docker rong qi	160
+DoS攻击	dos gong ji	100
+FFT算法	fft suan fa	160
+FSDP训练	fsdp xun lian	160
+GC日志	gc ri zhi	160
+GC停顿	gc ting dun	160
+Git变基	git bian ji	160
+Git分支	git fen zhi	160
+Git钩子	git gou zi	160
+Git合并	git he bing	160
+Git提交	git ti jiao	160
+Go程	go cheng	100
+Go语言	go yu yan	100
+公网IP	gong wang ip	100
+GPU计算	gpu ji suan	100
+GPU加速	gpu jia su	160
+GPU推理	gpu tui li	160
+GPU显存	gpu xian cun	160
+GPU训练	gpu xun lian	160
+GraphQL查询	graphql cha xun	160
+gRPC接口	grpc jie kou	160
+Helm部署	helm bu shu	160
+HTML元素	html yuan su	100
+HTTP缓存	http huan cun	160
+HTTP请求	http qing qiu	100
+HTTP响应	http xiang ying	160
+HTTPS连接	https lian jie	100
+HTTPS证书	https zheng shu	160
+IOMMU映射	iommu ying she	160
+IP地址	ip di zhi	100
+IR优化	ir you hua	160
+JAX自动微分	jax zi dong wei fen	160
+JIT编译	jit bian yi	160
+JSON解析	json jie xi	100
+Julia语言	julia yu yan	160
+JWT令牌	jwt ling pai	160
+KMP算法	kmp suan fa	100
+Kubernetes调度	kubernetes diao du	160
+Kubernetes集群	kubernetes ji qun	160
+KV缓存	kv huan cun	100
+LAPACK库	lapack ku	160
+LFU缓存	lfu huan cun	160
+LLVM编译器	llvm bian yi qi	160
+LLVM后端	llvm hou duan	160
+LoRA微调	lora wei tiao	100
+LRU缓存	lru huan cun	160
+LSM树	lsm shu	160
+LSTM网络	lstm wang luo	100
+MAC地址	mac di zhi	100
+MoE路由	moe lu you	160
+MoE专家	moe zhuan jia	160
+MPI通信	mpi tong xin	160
+MVCC机制	mvcc ji zhi	160
+NoSQL数据库	nosql shu ju ku	160
+NUMA架构	numa jia gou	160
+NumPy数组	numpy shu zu	160
+OAuth授权	oauth shou quan	160
+OIDC认证	oidc ren zheng	160
+ONNX导出	onnx dao chu	160
+OpenAPI规范	openapi gui fan	160
+OpenMP并行	openmp bing xing	160
+Paxos协议	paxos xie yi	160
+PEFT微调	peft wei tiao	160
+Python语言	python yu yan	160
+PyTorch张量	pytorch zhang liang	160
+QLoRA微调	qlora wei tiao	160
+QUIC协议	quic xie yi	160
+R语言	r yu yan	100
+Raft日志	raft ri zhi	160
+Raft选举	raft xuan ju	160
+RAG检索	rag jian suo	100
+RAG评估	rag ping gu	160
+RBAC权限	rbac quan xian	160
+REST接口	rest jie kou	100
+RNN模型	rnn mo xing	100
+RoPE编码	rope bian ma	160
+RPC超时	rpc chao shi	160
+RSA加密	rsa jia mi	100
+Saga事务	saga shi wu	160
+SIMD向量化	simd xiang liang hua	160
+SIMD指令	simd zhi ling	100
+SPMD并行	spmd bing xing	160
+SQL查询	sql cha xun	100
+SQL优化	sql you hua	160
+SQL执行计划	sql zhi xing ji hua	160
+SQL注入	sql zhu ru	100
+SSA形式	ssa xing shi	160
+SSE推送	sse tui song	160
+SSH连接	ssh lian jie	100
+TCP连接	tcp lian jie	100
+TLB失效	tlb shi xiao	160
+TLS握手	tls wo shou	100
+Transformer编码器	transformer bian ma qi	160
+Transformer解码器	transformer jie ma qi	160
+Transformer模型	transformer mo xing	100
+Trie树	trie shu	100
+TTL过期	ttl guo qi	160
+UDP数据报	udp shu ju bao	100
+WAL日志	wal ri zhi	160
+Web开发	web kai fa	100
+WebSocket连接	websocket lian jie	160
+XML解析	xml jie xi	100
+XSS攻击	xss gong ji	160
+YAML配置	yaml pei zhi	160

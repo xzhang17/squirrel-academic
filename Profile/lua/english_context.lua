@@ -1,6 +1,6 @@
 -- Reorder actual candidates only. The regular filter has already applied
 -- exact private phrases and the six shared exceptions. Personal pins run last.
-local preferences = require("academic_preferences")
+local preferences = require("zenfire_preferences")
 local learning_limit = require("learning_limit")
 local M = {}
 local index, sessions = nil, 0
@@ -10,7 +10,7 @@ function M.init(env)
   sessions = sessions + 1
   if index then return end
   index = {english = {}, rare = {}, common = {}, links = {}, syllables = {}}
-  local file = io.open(rime_api.get_user_data_dir() .. "/en_dicts/english_evidence.txt", "r")
+  local file = io.open(rime_api.get_user_data_dir() .. "/dicts/en_dicts/english_evidence.txt", "r")
   if not file then return end
   for line in file:lines() do
     local kind, key, value = line:match("^([ERCBS])\t([^\t]+)\t?(.*)$")

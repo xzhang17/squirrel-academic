@@ -1,0 +1,68 @@
+# 物理学
+# Sources and licenses: Sources.txt in this folder.
+---
+name: physics_mixed
+version: "1.1"
+sort: by_weight
+use_preset_vocabulary: false
+...
+Bell基	bell ji	100
+Bell态	bell tai	100
+Bernstein-Vazirani算法	bernstein vazirani suan fa	100
+Berry曲率	berry qu lv	160
+Chern数	chern shu	160
+Choi矩阵	choi ju zhen	100
+CNOT门	cnot men	100
+CPTP映射	cptp ying she	100
+Deutsch-Jozsa算法	deutsch jozsa suan fa	100
+Deutsch算法	deutsch suan fa	100
+DFT计算	dft ji suan	100
+DMRG算法	dmrg suan fa	160
+ETH假说	eth jia shuo	160
+Fisher信息	fisher xin xi	160
+Floquet系统	floquet xi tong	160
+Fredkin门	fredkin men	100
+GHZ态	ghz tai	100
+Grover搜索算法	grover sou suo suan fa	100
+Grover算法	grover suan fa	100
+Hadamard门	hadamard men	100
+Heisenberg模型	heisenberg mo xing	160
+HHL算法	hhl suan fa	100
+Hubbard模型	hubbard mo xing	160
+Ising模型	ising mo xing	160
+Kraus表示	kraus biao shi	100
+Kraus算符	kraus suan fu	100
+Kraus算子	kraus suan zi	160
+量子Fisher信息	liang zi fisher xin xi	160
+Lindblad方程	lindblad fang cheng	100
+Lindblad算子	lindblad suan zi	160
+Liouville空间	liouville kong jian	160
+MBL相	mbl xiang	160
+MPO算子	mpo suan zi	160
+MPS态	mps tai	160
+N型半导体	n xing ban dao ti	100
+OTOC关联函数	otoc guan lian han shu	160
+P型半导体	p xing ban dao ti	100
+Pauli门	pauli men	100
+PEPS态	peps tai	160
+PN结	pn jie	100
+POVM测量	povm ce liang	100
+PT对称	pt dui cheng	160
+QAOA算法	qaoa suan fa	100
+Renyi熵	renyi shang	160
+Schmidt分解	schmidt fen jie	100
+Schmidt系数	schmidt xi shu	100
+Schmidt秩	schmidt zhi	100
+Shor算法	shor suan fa	100
+Simon算法	simon suan fa	100
+SYK模型	syk mo xing	160
+TDVP方法	tdvp fang fa	160
+TEBD算法	tebd suan fa	160
+Toffoli门	toffoli men	100
+von Neumann熵	von neumann shang	160
+VQE算法	vqe suan fa	100
+W态	w tai	100
+X光	x guang	100
+X光片	x guang pian	100
+X射线	x she xian	100
+X射线衍射	x she xian yan she	100

@@ -1,0 +1,54 @@
+# 力学扩展（可选；不改变现有力学模块）
+# 中英混合术语，拉丁字母保持准确拼写。
+# Sources and licenses: Sources.txt in this folder.
+---
+name: mechanics_extra_mixed
+version: "1.1"
+sort: by_weight
+use_preset_vocabulary: false
+...
+ALE方法	ale fang fa	100
+ALE描述	ale miao shu	160
+Cauchy应力	cauchy ying li	100
+CFD模拟	cfd mo ni	100
+DEM颗粒	dem ke li	160
+DEM模拟	dem mo ni	100
+DES模拟	des mo ni	160
+DIC测量	dic ce liang	100
+DIC应变	dic ying bian	160
+DMD分解	dmd fen jie	160
+DNS模拟	dns mo ni	100
+Drucker-Prager准则	drucker prager zhun ze	160
+Euler方程	euler fang cheng	100
+FDM离散	fdm li san	160
+FEM分析	fem fen xi	100
+FEM求解	fem qiu jie	160
+FEM网格	fem wang ge	160
+FSI耦合	fsi ou he	160
+FVM离散	fvm li san	100
+Green应变	green ying bian	100
+Johnson-Cook模型	johnson cook mo xing	160
+Kelvin-Voigt模型	kelvin voigt mo xing	100
+LES模拟	les mo ni	100
+Mach数	mach shu	100
+Mooney-Rivlin模型	mooney rivlin mo xing	100
+MPM求解	mpm qiu jie	160
+Navier-Stokes方程	navier stokes fang cheng	100
+Neo-Hookean模型	neo hookean mo xing	100
+Newmark积分	newmark ji fen	160
+Nusselt数	nusselt shu	100
+Ogden模型	ogden mo xing	160
+PIV测量	piv ce liang	160
+POD降阶	pod jiang jie	160
+POD模态	pod mo tai	160
+Prandtl数	prandtl shu	100
+Prony级数	prony ji shu	160
+RANS模型	rans mo xing	100
+Rayleigh阻尼	rayleigh zu ni	160
+Reynolds数	reynolds shu	100
+Runge-Kutta积分	runge kutta ji fen	160
+SPH方法	sph fang fa	100
+SPH粒子	sph li zi	160
+URANS模拟	urans mo ni	160
+VOF界面	vof jie mian	160
+XFEM裂纹	xfem lie wen	160

@@ -5,9 +5,10 @@ patch:
   "punctuator/digit_separator_action": keep
   "engine/translators/+":
     - table_translator@personal_mixed
+    - lua_translator@*english_order*separated
   personal_mixed:
     dictionary: ""
-    user_dict: en_dicts/personal_mixed
+    user_dict: dicts/cn_dicts/personal_mixed
     db_class: stabledb
     enable_completion: false
     enable_sentence: false
