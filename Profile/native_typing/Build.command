@@ -57,6 +57,9 @@ with tempfile.TemporaryDirectory(prefix='squirrel-local-build-', dir='/private/t
     tests = common + [str(work/'sources'/name) for name in ['TextInsertion.swift', 'IMKTypingClient.swift']]
     subprocess.run(tests + [str(work/'tests/SpacingTests.swift'), '-o', str(work/'spacing-tests')], check=True)
     subprocess.run([str(work/'spacing-tests')], check=True)
+    subprocess.run(common + [str(work/'sources/InputModeReporter.swift'), str(work/'tests/InputModeTests.swift'),
+        '-o', str(work/'mode-tests')], check=True)
+    subprocess.run([str(work/'mode-tests')], check=True)
     command = common + ['-O', '-whole-module-optimization', '-swift-version', '5',
         '-enable-bare-slash-regex', '-module-name', 'Squirrel', '-I', str(work/'headers'),
         '-Xcc', '-I'+str(sdk/'System/Library/Frameworks/Tk.framework/Headers'),

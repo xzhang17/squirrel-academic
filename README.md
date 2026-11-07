@@ -2,7 +2,7 @@
 
 面向日常中文与科研写作的 macOS 鼠须管定制版。采用 Zenfire 拼音方案、雾凇词库、精选白霜字频及万象句子模型，保留模糊拼音、稳定的个人学习排序和 MacGreen 候选窗。
 
-**[下载安装包 v1.3.0](https://github.com/xzhang17/squirrel-academic/releases/download/v1.3.0/Squirrel-Academic-v1.3.0-macOS-arm64.pkg)** · [发布说明与校验值](https://github.com/xzhang17/squirrel-academic/releases/tag/v1.3.0)
+**[下载最新版 macOS 安装包](https://github.com/xzhang17/squirrel-academic/releases/latest)** · [安装包校验值](https://github.com/xzhang17/squirrel-academic/releases/latest/download/SHA256SUMS)
 
 支持 **Apple Silicon（M 系列）、macOS 13 及以上**。安装包包含定制鼠须管 nightly `d220b92`、全部词典、脚本、万象模型及中英文菜单栏指示器，无需另装稳定版或逐个下载组件。Intel Mac 暂无安装包。
 
@@ -10,7 +10,7 @@
 
 ## 核心功能
 
-- **菜单栏中英文状态标示自动切换。** 在鼠须管内切换中文／英文输入模式时，macOS 菜单栏的标示会同步更新：中文显示鼠须管徽标，英文显示描边 `A`，随时可见当前输入模式。左键或右键点击标示均可打开鼠须管菜单。
+- **菜单栏中英文状态标示自动切换。** 从 v1.3.1 起，macOS 菜单栏按当前正在输入的文本框显示状态。中文显示鼠须管徽标，英文显示描边 `A`。在多个窗口间切换后，标示仍跟随当前输入模式。左键或右键点击标示均可打开鼠须管菜单。
 - **日常与学术词汇兼顾。** 保留雾凇中文基础词库，采用经过本方案测试的白霜字频调整；学科词库可独立开关。科学家使用常见教材简称。
 - **模糊拼音与定向读音兼容。** 支持 `z/zh`、`c/ch`、`s/sh`、`an/ang`、`en/eng`、`in/ing`、`on/ong`，以及 `geiyu → 给予` 等词级别兼容读音。
 - **中英混合词直接输入。** `duolaameng` 或模糊拼音 `duolaamen` 可候选“哆啦A梦”；`deutschsuanfa` 可候选“Deutsch算法”。中文部分支持模糊拼音，Latin 部分保持精确拼写；普通中文优先。
@@ -24,7 +24,7 @@
 
 ## 安装与升级
 
-1. 下载上方 `.pkg`，双击后按 macOS 安装向导继续。安装目标是当前登录的桌面账户。
+1. 打开上方最新发布页，下载其中的 `.pkg`，双击后按 macOS 安装向导继续。安装目标是当前登录的桌面账户。
 2. 在输入菜单选择 **Squirrel – Simplified**，按 Shift 切到中文。方案显示名为 **学术拼音**；内部标识保留 `zenfire_pinyin`，避免再次更名影响学习数据。
 3. 如果首次安装后输入法尚未出现，注销并重新登录，再到“系统设置 → 键盘 → 文本输入 → 编辑”添加 Squirrel – Simplified。
 

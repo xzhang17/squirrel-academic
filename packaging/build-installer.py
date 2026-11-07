@@ -11,7 +11,7 @@ import subprocess
 from tempfile import TemporaryDirectory
 
 PACKAGE_ID = "com.github.xzhang17.squirrel-academic"
-VERSION = "1.3.0"
+VERSION = "1.3.1"
 NIGHTLY_PKG_SHA256 = "7eb907e3aafb62741e4871ec63c7ba3cf25669fff9777d792a5a9f0b1aded984"
 HERE = Path(__file__).resolve().parent
 REPO = HERE.parent
@@ -73,6 +73,7 @@ def stage_custom_app(nightly, work, payload):
     subprocess.run(["/usr/bin/codesign", "--force", "--sign", "-", "--options", "runtime",
                     "--entitlements", assets / "entitlements.txt", app], check=True)
     subprocess.run(["/usr/bin/codesign", "--verify", "--deep", "--strict", app], check=True)
+    return executable
 
 
 def build(nightly, output):
@@ -88,7 +89,7 @@ def build(nightly, output):
     with TemporaryDirectory(dir=output.parent, prefix=".squirrel-package-") as folder:
         work = Path(folder)
         payload = work / "payload"
-        stage_custom_app(nightly, work, payload)
+        staged_executable = stage_custom_app(nightly, work, payload)
         setup = payload / "Library/Application Support/Squirrel Academic/Setup"
         setup.mkdir(parents=True)
         copy_public_setup(setup)
@@ -116,6 +117,8 @@ def build(nightly, output):
         subprocess.run(["/usr/sbin/pkgutil", "--expand-full", product, checked], check=True)
         installed = checked / "SquirrelAcademic-component.pkg/Payload/Library/Input Methods/Squirrel.app"
         subprocess.run(["/usr/bin/codesign", "--verify", "--deep", "--strict", installed], check=True)
+        if (installed / "Contents/MacOS/Squirrel").read_bytes() != staged_executable.read_bytes():
+            raise ValueError("Packaged Squirrel executable differs from the verified native build.")
         os.replace(product, output)
 
 

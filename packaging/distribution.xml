@@ -8,5 +8,5 @@
   <volume-check><allowed-os-versions><os-version min="13.0"/></allowed-os-versions></volume-check>
   <choices-outline><line choice="setup"/></choices-outline>
   <choice id="setup" visible="false"><pkg-ref id="com.github.xzhang17.squirrel-academic"/></choice>
-  <pkg-ref id="com.github.xzhang17.squirrel-academic" version="1.3.0">SquirrelAcademic-component.pkg</pkg-ref>
+  <pkg-ref id="com.github.xzhang17.squirrel-academic" version="1.3.1">SquirrelAcademic-component.pkg</pkg-ref>
 </installer-gui-script>

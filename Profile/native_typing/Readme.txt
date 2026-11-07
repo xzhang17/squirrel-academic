@@ -4,6 +4,10 @@ The installed app retains the same nightly revision, Rime engine, plugins,
 resources and the 中 / 英 menu indicator interface. No release was downloaded.
 Automatic release checking/downloading is disabled for this local build.
 
+The menu indicator reads the current mode from the focused InputMethodKit
+controller. Older windows can retain their own Rime sessions and receive
+deactivation late. Only the focused controller supplies the menu-bar reply.
+
 Controls in squirrel.custom.yaml:
   typing/smart_space: Chinese/English spacing
   typing/smart_space_digit: Chinese/number spacing

@@ -2,6 +2,6 @@
   "revision": "d220b92",
   "bundle_version": "1.1.2",
   "original_sha256": "552a208e8c819591a627fe5e2726890e1e04c71e072395037aa7531388384a82",
-  "modified_sha256": "74b4f93a7148ba81e80fca55d3881c7f06deada1cf7347af1da1dcc45f5f5c90",
+  "modified_sha256": "f219a2cdc74df4826f451a768a3fbeec02f7d4ed3ff913fc7dc8829c90a9a689",
   "librime_sha256": "8de2bcbaa30a838d42f42987e9fb1345260f36c97aa7a20b6749970f46dcf6b8"
 }
